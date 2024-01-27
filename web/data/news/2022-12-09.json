@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Mike D'Onofrio",
+            "title": "Boy in Box identified as Philadelphia police hope to revive cold case  Axios",
+            "description": "Boy in Box identified as Philadelphia police hope to revive cold caseAxiosPhiladelphia Police Reveal Name of the Boy in the BoxNBC10 PhiladelphiaPhiladelphia police reveal identity of child found dead inside a box 65 year",
+            "url": "/2022-12-09-philadelphia-boy-in-box-identified-joseph-augustus-zarelli",
+            "urlToImage": "https://images.axios.com/02hqCEM0-LiNFuWRzVGhRNyo1kg=/0x247:4341x2689/1366x768/2022/12/08/1670529931910.jpg",
+            "publishedAt": "2022-12-09T03:21:03Z",
+            "content": "Authorities hope that a new discovery in one of Philadelphias oldest unsolved homicides could bring new leads to close the case.Driving the news Philadelphia police identified a 4yearold victim [+2261 chars]",
+            "summary": "Jason Smith said Thursday that the boy  whose headstone had read \"America's Unknown Child\"  likely died from blunt force trauma, the Inquirer reports.Between the lines: Investigators were able to use Zarelli's DNA to identify and track down his relatives. Philadelphia Police Commissioner Danielle Outlaw after she revealed Joseph Zarelli's identity.",
+            "html_summary": "<ul><li>Jason Smith said Thursday that the boy — whose headstone had read \"America's Unknown Child\" — likely died from blunt force trauma, the Inquirer reports.Between the lines: Investigators were able to use Zarelli's DNA to identify and track down his relatives.</li></ul>",
+            "website_url": "https://www.axios.com/local/philadelphia/2022/12/09/philadelphia-boy-in-box-identified-joseph-augustus-zarelli"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Jennifer A. Kingson",
+            "title": "The rise of upscale portable lavatories",
+            "description": "Portable toilets with bluetooth stereo systems, hot and cold running water, LED lighting, hand sanitizer, air conditioning and plush rolls of paper are starting to pop up across the country, to the surprise (and relief) of outdoor bathroomseekers.Why it matt",
+            "url": "/2022-12-09-portable-lavatories-toilets-luxury-bathroom-porta-potty",
+            "urlToImage": "https://images.axios.com/ByjQh0BN9Uv2MwaXsBFPBZ6r4Xo=/1366x768/smart/2022/12/08/1670520050590.jpg",
+            "publishedAt": "2022-12-09T10:30:12Z",
+            "content": "Portable toilets with bluetooth stereo systems, hot and cold running water, LED lighting, hand sanitizer, air conditioning and plush rolls of paper are starting to pop up across the country, to the s [+3524 chars]",
+            "summary": "The futuristic-looking Portal is an outdoor toilet that is meant to provide a pleasant  and sustainable  experience.",
+            "html_summary": "<ul><li>The futuristic-looking Portal is an outdoor toilet that is meant to provide a pleasant — and sustainable — experience.</li></ul>",
+            "website_url": "https://www.axios.com/2022/12/09/portable-lavatories-toilets-luxury-bathroom-porta-potty"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Akros Technologies, an AIpowered asset management platform, raises funding from Z Holdings",
+            "description": "Artificial intelligence is taking over almost every industry. The investment and finance industry is no exception. In Deloittes 2019 report, the firm reveals that AI is transforming the financial ecosystem to reduce costs and make operations more efficient b",
+            "url": "/2022-12-09-akros-technologies-an-ai-powered-asset-management-platform-raises-funding-from-z-holdings",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1158607726.jpg?resize=1200,800",
+            "publishedAt": "2022-12-09T00:00:32Z",
+            "content": "Artificial intelligence is taking over almost every industry. The investment and finance industry is no exception. In Deloittes 2019 report, the firm reveals that AI is transforming the financial ec [+3978 chars]",
+            "summary": "However, asset management is still in the nascent stage of digitization, according to the chief strategy officer and co-founder of Akros Technologies, Jin Chung.Akros Technologies wants to disrupt the current asset management industry via its AI-driven asset management software platform that mines market data for stocks. Before co-founding Akros, Gim had more than nine years of experience in the asset management industry; Chung did research work for Bayesian deep learning in autonomous driving cars at Oxford Robotics Institute.In March, Akros raised $3.75 million in funding from PeopleFund, a South Korean peer-to-peer lending platform. Akros just raised $2.3 million from Z Venture Capital, the corporate venture capital wholly owned by Z Holdings, which also owns the Japanese messaging app Line and internet portal Yahoo Japan.Akros intends to strengthen strategic ties with Z Holdings via strategic investment, the startup said. In Deloittes 2019 report, the firm reveals that AI is transforming the financial ecosystem to reduce costs and make operations more efficient by providing automated insights and alternative data, analysis and risk management.Technology such as AI has digitized the finance sector, ranging from payments and remittances to lending. The investment and finance industry is no exception. Image Credits: Akros TechnologiesMoon previously worked for Qraft Technologies as head of AI research and CSO and had experience listing four ETFs on NYSE. Artificial intelligence is taking over almost every industry.",
+            "html_summary": "<ul><li>However, asset management is still in the nascent stage of digitization, according to the chief strategy officer and co-founder of Akros Technologies, Jin Chung.Akros Technologies wants to disrupt the current asset management industry via its AI-driven asset management software platform that mines market data for stocks.</li><li>Before co-founding Akros, Gim had more than nine years of experience in the asset management industry; Chung did research work for Bayesian deep learning in autonomous driving cars at Oxford Robotics Institute.In March, Akros raised $3.75 million in funding from PeopleFund, a South Korean peer-to-peer lending platform.</li><li>Akros just raised $2.3 million from Z Venture Capital, the corporate venture capital wholly owned by Z Holdings, which also owns the Japanese messaging app Line and internet portal Yahoo Japan.Akros intends to strengthen strategic ties with Z Holdings via strategic investment, the startup said.</li><li>In Deloitte’s 2019 report, the firm reveals that AI is transforming the financial ecosystem to reduce costs and make operations more efficient by providing automated insights and alternative data, analysis and risk management.Technology such as AI has digitized the finance sector, ranging from payments and remittances to lending.</li><li>The investment and finance industry is no exception.</li><li>Image Credits: Akros TechnologiesMoon previously worked for Qraft Technologies as head of AI research and CSO and had experience listing four ETFs on NYSE.</li></ul>",
+            "website_url": "https://techcrunch.com/2022/12/08/akros-technologies-an-ai-powered-asset-management-platform-raises-funding-from-z-holdings/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "AP",
+            "title": "US keeps eye on Chinas space activities for potential risks",
+            "description": "The head of American military operations in space says the U.S. is closely monitoring Chinese activities that pose a potential risk to its assets in space. Commander of U.S. Space Command Army Gen. James Dickinson on Friday also cheered the",
+            "url": "/2022-12-09-1322546793812727852152bb4d65e08a",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/4/29/429729bb-d392-557d-b22b-098948a945be/6392c1556b07c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-12-09T04:38:37Z",
+            "content": "BEIJING (AP) The U.S. is closely monitoring Chinese activities that potentially threaten American assets in space as debris rapidly accumulates in low Earth orbit, the head of United States military  [+3532 chars]",
+            "summary": "Commander of U.S. Space Command Army Gen. James Dickinson also cheered the overwhelming passage in the United Nations of a resolution that countries not conduct direct-ascent antisatellite tests that create vast fields of space debris, which endanger satellites and space stations. BEIJING (AP)  The U.S. is closely monitoring Chinese activities that potentially threaten American assets in space as debris rapidly accumulates in low Earth orbit, the head of United States military operations in space said Friday. Space Command is now tracking more than 48,000 in near Earth orbit, including satellites, telescopes, space stations and pieces of debris of all sizes, up from 25,000 just three years ago, Dickinson said. Beijing believes that space is a very important piece to not only their economic or the global economic environment, but also the military environment, so we continue to watch that very closely as they continue to increase capabilities, Dickinson said. Proceeding with little outside help, China last month launched the last of three modules for its own space station, which briefly hosted six Chinese astronauts in space during a turnover of the three-person crew. Its program has advanced steadily since.The Chinese space program drew rare international criticism after it conducted an unannounced test in 2007 in which it used a missile to blow up a defunct Chinese satellite, creating debris that continues to pose a hazard. We cant continue to contribute to the debris that we find in the space domain, Dickinson said in a telephone news conference with reporters in Asia.",
+            "html_summary": "<ul><li>Commander of U.S. Space Command Army Gen. James Dickinson also cheered the overwhelming passage in the United Nations of a resolution that countries not conduct direct-ascent antisatellite tests that create vast fields of space debris, which endanger satellites and space stations.</li><li>BEIJING (AP) — The U.S. is closely monitoring Chinese activities that potentially threaten American assets in space as debris rapidly accumulates in low Earth orbit, the head of United States military operations in space said Friday.</li><li>Space Command is now tracking more than 48,000 in near Earth orbit, including satellites, telescopes, space stations and pieces of debris of all sizes, up from 25,000 just three years ago, Dickinson said.</li><li>Beijing believes that “space is a very important piece to not only their economic or the global economic environment, but also the military environment, so we continue to watch that very closely as they continue to increase capabilities,” Dickinson said.</li><li>Proceeding with little outside help, China last month launched the last of three modules for its own space station, which briefly hosted six Chinese astronauts in space during a turnover of the three-person crew.</li><li>Its program has advanced steadily since.The Chinese space program drew rare international criticism after it conducted an unannounced test in 2007 in which it used a missile to blow up a defunct Chinese satellite, creating debris that continues to pose a hazard.</li></ul>",
+            "website_url": "https://apnews.com/1322546793812727852152bb4d65e08a"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MARI YAMGUCHI - Associated Press",
+            "title": "Japan to jointly develop new fighter jet with UK, Italy",
+            "description": "Japan has announced it will jointly develop its nextgeneration fighter jet with the U.K. and Italy. Tokyo is looking to expand defense cooperation beyond its traditional ally, the United States. The Mitsubishi FX fighter jet, which Japan plans to deploy",
+            "url": "/2022-12-09-219e0adadd5f14b115766141cd0c5f6f",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/2b/82b66efa-dcfc-59b5-9520-90df70c544b7/6392b9cd2d66e.image.jpg?crop=1864%2C979%2C0%2C66&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-12-09T04:17:56Z",
+            "content": "By MARI YAMGUCHI  Associated PressTOKYO (AP) Japan announced Friday that it will jointly develop its nextgeneration fighter jet with the U.K. and Italy as Tokyo looks to expand defense cooperatio [+5027 chars]",
+            "summary": "Prime Minister Rishi Sunak said in a statement that the joint fighter development reflects the need to stay at the cutting edge of advancements in defense technologies to outpace those who seek to do us harm. The security of the Euro-Atlantic region and the Indo-Pacific are indivisible, he said. Fridays fighter jet announcement came four days after Prime Minister Fumio Kishida announced spending targets aimed at building up Japans military capability, including a huge boost in defense spending over the next five years. The Defense Ministry said the new aircraft will be a multi-role stealth fighter superior to the F-35 and the Eurofighter, with advanced censors and networking. The new warplane is expected to replace 94 F-2s in Japan, 144 Eurofighters in the U.K. and 94 Eurofighters in Italy, Japanese officials said.Further details, including production targets, development cost and aircraft design, are still being discussed, officials said. TOKYO (AP)  Japan announced Friday that it will jointly develop its next-generation fighter jet with the U.K. and Italy as Tokyo looks to expand defense cooperation beyond its traditional ally, the United States. To meet the five-year spending total of 43 trillion yen ($316 billion), the government will need an extra 4 trillion yen ($30 billion) in defense spending annually. Under the fighter jet agreement, Japans Mitsubishi Heavy Industries will partner with British defense contractor BAE Systems PLC.",
+            "html_summary": "<ul><li>Prime Minister Rishi Sunak said in a statement that the joint fighter development reflects the need to stay at the cutting edge of advancements in defense technologies to outpace “those who seek to do us harm.” The security of the Euro-Atlantic region and the Indo-Pacific are “indivisible,” he said.</li><li>Friday’s fighter jet announcement came four days after Prime Minister Fumio Kishida announced spending targets aimed at building up Japan’s military capability, including a huge boost in defense spending over the next five years.</li><li>The Defense Ministry said the new aircraft will be a multi-role stealth fighter superior to the F-35 and the Eurofighter, with advanced censors and networking.</li><li>The new warplane is expected to replace 94 F-2s in Japan, 144 Eurofighters in the U.K. and 94 Eurofighters in Italy, Japanese officials said.Further details, including production targets, development cost and aircraft design, are still being discussed, officials said.</li><li>TOKYO (AP) — Japan announced Friday that it will jointly develop its next-generation fighter jet with the U.K. and Italy as Tokyo looks to expand defense cooperation beyond its traditional ally, the United States.</li><li>To meet the five-year spending total of 43 trillion yen ($316 billion), the government will need an extra 4 trillion yen ($30 billion) in defense spending annually.</li></ul>",
+            "website_url": "https://apnews.com/219e0adadd5f14b115766141cd0c5f6f"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Boy in Box identified as Philadelphia police hope to revive cold case  Axios. The rise of upscale portable lavatories. Akros Technologies, an AIpowered asset management platform, raises funding from Z Holdings. US keeps eye on Chinas space activities for potential risks. Japan to jointly develop new fighter jet with UK, Italy"
+}

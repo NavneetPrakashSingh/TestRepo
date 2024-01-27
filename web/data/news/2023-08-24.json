@@ -1,0 +1,39 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Koreas internet giant Naver unveils generative AI services | TechCrunch",
+            "description": "South Korean internet search company Naver on Thursday rolled out its own generative artificial intelligence tool, HyperCLOVA X. The companys large Korean internet search giant Naver rolled out its own generative AI tool HyperCLOVA X that offers CLOVA X, a C",
+            "url": "/2023-08-24-koreas-internet-giant-naver-unveils-generative-ai-services",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Nako-Sung-Naver-Cloud-Head-of-Technology-Hyperscale-AI.jpg?resize=1200,800",
+            "publishedAt": "2023-08-24T08:59:51Z",
+            "content": "South Korean internet search company Naver on Thursday rolled out its own generative artificial intelligence tool, HyperCLOVA X. The companys large language model (LLM) offers services such as a Cha [+2244 chars]",
+            "summary": "South Korean internet search company Naver on Thursday rolled out its own generative artificial intelligence tool HyperCLOVA X. The company s large language model LLM offers services such as a ChatGPT like AI chatbot CLOVA X and a generative AI based search engine Cue equivalent to Microsoft Bing. Naver Cloud is also developing CLova X s multimodal language models that will be capable of analyzing and generating not only text but images videos and audio. The Korean internet giant will open its second data center GAK Sejong with servers in South Korea for its Generative AI services in November.",
+            "html_summary": "<ul><li>South Korean internet search company Naver on Thursday rolled out its own generative artificial intelligence tool HyperCLOVA X</li><li> The company s large language model LLM offers services such as a ChatGPT like AI chatbot CLOVA X and a generative AI based search engine Cue equivalent to Microsoft Bing</li><li> Naver Cloud is also developing CLova X s multimodal language models that will be capable of analyzing and generating not only text but images videos and audio</li><li> The Korean internet giant will open its second data center GAK Sejong with servers in South Korea for its Generative AI services in November</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/24/koreas-internet-giant-naver-unveils-generative-ai-services/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Capps",
+            "title": "Making AI trustworthy Can we overcome blackbox hallucinations? | TechCrunch",
+            "description": "We all learned the importance of showing our work in elementary school, and we can certainly demand that same rigor from AI.",
+            "url": "/2023-08-24-making-ai-trustworthy-can-we-overcome-black-box-hallucinations",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-671264674.jpg?resize=1200,900",
+            "publishedAt": "2023-08-24T09:30:30Z",
+            "content": "Like most engineers, as a kid I could answer elementary school math problems by just filling in the answers.But when I didnt show my work, my teachers would dock points; the right answer wasnt wort [+2776 chars]",
+            "summary": "The major AI players that fill today s headlines and feed stock market frenzies operate their platforms on black box models. A query goes in one side and an answer spits out the other side but we have no idea what data or reasoning the AI used to provide that answer. While neural networks are incredibly powerful and here to stay there is another under the radar AI framework gaining prominence instance based learning IBL. IBL is AI that users can trust audit and explain IBL traces every single decision back to the training data used to reach that conclusion.",
+            "html_summary": "<ul><li>The major AI players that fill today s headlines and feed stock market frenzies operate their platforms on black box models</li><li> A query goes in one side and an answer spits out the other side but we have no idea what data or reasoning the AI used to provide that answer</li><li> While neural networks are incredibly powerful and here to stay there is another under the radar AI framework gaining prominence instance based learning IBL</li><li> IBL is AI that users can trust audit and explain IBL traces every single decision back to the training data used to reach that conclusion</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/24/making-ai-trustworthy-can-we-overcome-black-box-hallucinations/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Koreas internet giant Naver unveils generative AI services | TechCrunch. Making AI trustworthy Can we overcome blackbox hallucinations? | TechCrunch"
+}

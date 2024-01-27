@@ -1,0 +1,103 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Timothy B. Lee",
+            "title": "The dumb reason Twitter wont allow retweeting tweets linking to Substack",
+            "description": "Some actions on this tweet have been disabled by Twitter.",
+            "url": "/2023-04-07-the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-twitter-logo-760x380.jpg",
+            "publishedAt": "2023-04-07T14:49:55Z",
+            "content": "33 with Twitter users on Friday began noticing that they could not retweet or reply to tweets containing links to the Substack.com domain. This behavior seems to have started less than 48 hours aft [+2695 chars]",
+            "summary": "This behavior seems to have started less than 48 hours after the popular newsletter platform announced a new product called Notes that will compete directly with Twitter.For example, this tweet references my newsletter, understandingai.substack.com. A few days later, Twitter started blocking links to Mastodon and other competing social media platforms.As I write this, tweets linking to Mastodon accounts seem to be working again.Substack has yet to respond to an email seeking comment. If I try to reply to the same tweet, I get an error message saying, \"Something went wrong, but don't fretlet's give it another shot.\" I have no trouble liking, retweeting, or replying to it.In the last 24 hours, Twitter also appears to have started blocking tweet-embedding in Substack posts.  Timothy B. Lee - Apr 7, 2023 2:49 pm UTC Twitter users on Friday began noticing that they could not retweet or reply to tweets containing links to the Substack.com domain. When I try to retweet it, it gives me an error message saying, \"Some actions on this tweet have been disabled by Twitter.\" But while Recommendations lets writers promote publications, Notes will give them the ability to recommend almost anythingincluding posts, quotes, comments, images, and links.",
+            "html_summary": "<ul><li>This behavior seems to have started less than 48 hours after the popular newsletter platform announced a new product called Notes that will compete directly with Twitter.For example, this tweet references my newsletter, understandingai.substack.com.</li><li>A few days later, Twitter started blocking links to Mastodon and other competing social media platforms.As I write this, tweets linking to Mastodon accounts seem to be working again.Substack has yet to respond to an email seeking comment.</li><li>If I try to reply to the same tweet, I get an error message saying, \"Something went wrong, but don't fret—let's give it another shot.\"</li><li>I have no trouble liking, retweeting, or replying to it.In the last 24 hours, Twitter also appears to have started blocking tweet-embedding in Substack posts.</li><li> Timothy B. Lee - Apr 7, 2023 2:49 pm UTC Twitter users on Friday began noticing that they could not retweet or reply to tweets containing links to the Substack.com domain.</li><li>When I try to retweet it, it gives me an error message saying, \"Some actions on this tweet have been disabled by Twitter.\"</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Jim VandeHei",
+            "title": "Finish Line Be an AI realist",
+            "description": "Youve heard the binary, changetheworld debate over generative AI Itll either destroy us  or transform us into a happier, more hypercreative and productive species.Why it matters After spending a month talking confidentially to a dozen or so ex",
+            "url": "/2023-04-07-finish-line-be-an-ai-realist",
+            "urlToImage": "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png",
+            "publishedAt": "2023-04-07T01:20:00Z",
+            "content": "Youve heard the binary, changetheworld debate over generative AI Itll either destroy us or transform us into a happier, more hypercreative and productive species.Why it matters After [+3189 chars]",
+            "summary": "Illustration: Sarah Grillo/AxiosYou've heard the binary, change-the-world debate over generative AI: It'll either destroy us  or transform us into a happier, more hyper-creative and productive species.Here's the blunt reality:So be a realist: This technology is coming at a velocity almost no one outside AI companies fully realizes. We're talking months  not years  before impact. First to get hit: Basically any job that involves writing or coding; creativity; information synthesis; or sifting through large sets of data or info (lawyers, researchers, etc. ).So take the time to understand the technology through a realist's lens:The bottom line: We're on the doorstep of a new age  don't be a bystander.",
+            "html_summary": "<ul><li>Illustration: Sarah Grillo/AxiosYou've heard the binary, change-the-world debate over generative AI: It'll either destroy us — or transform us into a happier, more hyper-creative and productive species.Here's the blunt reality:So be a realist: This technology is coming at a velocity almost no one outside AI companies fully realizes.</li><li>We're talking months — not years — before impact.💡 First to get hit: Basically any job that involves writing or coding; creativity; information synthesis; or sifting through large sets of data or info (lawyers, researchers, etc.</li></ul>",
+            "website_url": "https://www.axios.com/2023/04/07/finish-line-be-an-ai-realist"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Ina Fried",
+            "title": "Sal Khan explains why GPT4 is ready to be a tutor",
+            "description": "For all the highprofile examples of ChatGPT getting facts and even basic math wrong, Khan Academy founder Sal Khan says the latest version of the generative AI engine makes a pretty good tutor.This technology is very powerful, Khan told Axios in a ",
+            "url": "/2023-04-07-sal-khan-chatgpt-gpt4-tutor",
+            "urlToImage": "https://images.axios.com/JLST996kwn4ueE68ffIDzJkB95I=/1366x768/smart/2023/04/06/1680815057210.jpg",
+            "publishedAt": "2023-04-07T09:45:00Z",
+            "content": "For all the highprofile examples of ChatGPT getting facts and even basic math wrong, Khan Academy founder Sal Khan says the latest version of the generative AI engine makes a pretty good tutor.<ul [+3019 chars]",
+            "summary": "\"I'd be surprised if anyone has worked harder on this than we have,\" Khan said.Yes, but: Khan acknowledges that Khanmigo, like the students it is helping tutor, still has a lot to learn. The big picture: ChatGPT and its brethren have been highly controversial  especially in education, where some schools are banning the use of the technology. Go deeper: Khan gives a 20-minute overview of how the AI tutor works in this YouTube video. Photo illustration: Ada Amer/Axios.",
+            "html_summary": "<ul><li>\"I'd be surprised if anyone has worked harder on this than we have,\" Khan said.Yes, but: Khan acknowledges that Khanmigo, like the students it is helping tutor, still has a lot to learn.</li><li>The big picture: ChatGPT and its brethren have been highly controversial — especially in education, where some schools are banning the use of the technology.</li><li>Go deeper: Khan gives a 20-minute overview of how the AI tutor works in this YouTube video.</li></ul>",
+            "website_url": "https://www.axios.com/2023/04/07/sal-khan-chatgpt-gpt4-tutor"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By FATIMA HUSSEIN - Associated Press",
+            "title": "IRS pledges more audits of wealthy, better customer service",
+            "description": "The IRS is outlining how it plans to use an infusion of $80 billion for improved operations. The agency is pledging to invest in new technology, hire more customer service representatives and expand its ability to audit highwealth taxpayers. The",
+            "url": "/2023-04-07-irs-taxes-audits-customer-service-wealthy-taxpayers-c845bfbfb32aaf24ae52f464b537e6cb",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/b/ff/bff7495b-55fd-5f40-9c95-286aeae3ee02/642ff2a6a61f1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-04-07T07:34:00Z",
+            "content": "By FATIMA HUSSEIN  Associated PressWASHINGTON (AP) The IRS released details Thursday on how it plans to use an infusion of $80 billion for improved operations, pledging to invest in new technology [+4447 chars]",
+            "summary": "WASHINGTON (AP)  The IRS released details Thursday on how it plans to use an infusion of $80 billion for improved operations, pledging to invest in new technology, hire more customer service representatives and expand its ability to audit high-wealth taxpayers. We will use data and analytics to improve our understanding of the tax filings of high-wealth individuals.Treasury and IRS officials have in recent months promoted the impact of the new spending on internal processes. No hiring boost is foreseen for the criminal investigation unit, which represents 3% of the agencys workforce and employed roughly 2,077 special agents as of the 2022 budget year, according to the IRS annual report. But I can see the processing time of written submissions is not back to pre-pandemic sufficiency.Additional money for the IRS has been politically controversial since 2013, when the agency during the Obama administration was found to have scrutinized political groups that applied for tax-exempt status. At least 50,000 IRS employees are expected to retire over the next five years.The strategic plan does not include final numbers on long-term hiring. Those are the agents who may be armed.There are no plans to increase that division, Werfel said during a call with reporters. The phone line is amazingly improved, that part of the IRS is working amazingly better, he said.",
+            "html_summary": "<ul><li>WASHINGTON (AP) — The IRS released details Thursday on how it plans to use an infusion of $80 billion for improved operations, pledging to invest in new technology, hire more customer service representatives and expand its ability to audit high-wealth taxpayers.</li><li>“We will use data and analytics to improve our understanding of the tax filings of high-wealth individuals.”Treasury and IRS officials have in recent months promoted the impact of the new spending on internal processes.</li><li>No hiring boost is foreseen for the criminal investigation unit, which represents 3% of the agency’s workforce and employed roughly 2,077 special agents as of the 2022 budget year, according to the IRS’ annual report.</li><li>“But I can see the processing time of written submissions is not back to pre-pandemic sufficiency.”Additional money for the IRS has been politically controversial since 2013, when the agency during the Obama administration was found to have scrutinized political groups that applied for tax-exempt status.</li><li>At least 50,000 IRS employees are expected to retire over the next five years.The strategic plan does not include final numbers on long-term hiring.</li><li>Those are the agents who may be armed.There are “no plans to increase” that division, Werfel said during a call with reporters.</li></ul>",
+            "website_url": "https://apnews.com/article/irs-taxes-audits-customer-service-wealthy-taxpayers-c845bfbfb32aaf24ae52f464b537e6cb"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Rocket Report Starship gets a tentative launch date; China tests ocean landing",
+            "description": "Also, India gets closer to a human spaceflight.",
+            "url": "/2023-04-07-rocket-report-starship-gets-a-tentative-launch-date-china-tests-ocean-landing",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Starship-OFT-760x380.jpg",
+            "publishedAt": "2023-04-07T11:15:15Z",
+            "content": "Enlarge/ Starship is seen stacked on top of the Super Heavy rocket on April 5, 2023.3 with Welcome to Edition 5.32 of the Rocket Report! We have plenty to discuss this week, including the surpris [+7053 chars]",
+            "summary": "The launch means Space Pioneerfull name Beijing Tianbing Technology Co., Ltdbecomes the first private company to reach orbit with its first launch.Aiming for medium-lift next ... Nevertheless, the 10-minute test signals the serious intent of the Chinese government to start reusing first stages.A soft landing ... During the test, the rocket prototype flew at an altitude of more than 1,000 meters before descending in a smooth hovering fashion and decelerating under reverse thrust. Astra is still planning to conduct a first launch of its Rocket 4 vehicle before the end of the year, Space News reports. Through the bankruptcy process, the company could shed some of its debt and possibly emerge as a leaner business serving a segment of the market seeking dedicated launch on a responsive vehicle. The Tianlong-2 rocket lifted off from a transport erector launcher at the Jiuquan Satellite Launch Center, sending a small remote sensing experiment satellite into orbit, Space News reports. This kind of rocket recovery technology at sea could be widely applied to future rocket models, including the Jielong-3 and Jielong-3 heavy-lift launchers.Astra says Rocket 4 is on track. If all goes well, the Nova Scotia spaceport will host an orbital launch attempt by Skyrora in early 2024, although that is predicated on the Edinburgh launch company being ready to go.",
+            "html_summary": "<ul><li>The launch means Space Pioneer—full name Beijing Tianbing Technology Co., Ltd—becomes the first private company to reach orbit with its first launch.Aiming for medium-lift next ...</li><li>Nevertheless, the 10-minute test signals the serious intent of the Chinese government to start reusing first stages.A soft landing ... During the test, the rocket prototype flew at an altitude of more than 1,000 meters before descending in a smooth hovering fashion and decelerating under reverse thrust.</li><li>Astra is still planning to conduct a first launch of its Rocket 4 vehicle before the end of the year, Space News reports.</li><li>Through the bankruptcy process, the company could shed some of its debt and possibly emerge as a leaner business serving a segment of the market seeking dedicated launch on a responsive vehicle.</li><li>The Tianlong-2 rocket lifted off from a transport erector launcher at the Jiuquan Satellite Launch Center, sending a small remote sensing experiment satellite into orbit, Space News reports.</li><li>This kind of rocket recovery technology at sea could be widely applied to future rocket models, including the Jielong-3 and Jielong-3 heavy-lift launchers.Astra says Rocket 4 is on track.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/04/rocket-report-starship-gets-a-tentative-launch-date-china-tests-ocean-landing/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Samsung cuts memory chip production as it hits worst quarterly profit since 2009",
+            "description": "Samsung cuts memory chip production in a significant move to counter oversupply as it forecasts the worst profit since 2009.",
+            "url": "/2023-04-07-samsung-cuts-memory-chip-production-as-it-hits-worst-quarterly-profit-since-2009",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900",
+            "publishedAt": "2023-04-07T05:04:58Z",
+            "content": "Samsung Electronics plans to cut back memory chip production as its operating profit in the first quarter of 2023 is expected to plummet about 96% from the previous year. This will be the lowest prof [+2082 chars]",
+            "summary": "At the same time, its peers, such as Micron Technology, Kioxia and SK Hynix have cut their memory chip production to counter oversupply.Samsung held the largest global market share of 40.7% and 31.4 % in DRAM memory chips and NAND flash memory, respectively, in the third quarter of 2022. Samsung Electronics plans to cut back memory chip production as its operating profit in the first quarter of 2023 is expected to plummet about 96% from the previous year. While the company will release its results later this month, data compiled by Bloomberg suggests that analysts were expecting the company to post 1.4 trillion won quarterly profit for Q1. Samsung claims to optimize line operations to secure enough memory chip volume for future demand.",
+            "html_summary": "<ul><li>At the same time, its peers, such as Micron Technology, Kioxia and SK Hynix have cut their memory chip production to counter oversupply.Samsung held the largest global market share of 40.7% and 31.4 % in DRAM memory chips and NAND flash memory, respectively, in the third quarter of 2022.</li><li>Samsung Electronics plans to cut back memory chip production as its operating profit in the first quarter of 2023 is expected to plummet about 96% from the previous year.</li><li>While the company will release its results later this month, data compiled by Bloomberg suggests that analysts were expecting the company to post 1.4 trillion won quarterly profit for Q1.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/06/samsung-cuts-memory-chip-production-as-it-hits-worst-quarterly-profit-since-2009/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. The dumb reason Twitter wont allow retweeting tweets linking to Substack. Finish Line Be an AI realist. Sal Khan explains why GPT4 is ready to be a tutor. IRS pledges more audits of wealthy, better customer service. Rocket Report Starship gets a tentative launch date; China tests ocean landing. Samsung cuts memory chip production as it hits worst quarterly profit since 2009"
+}

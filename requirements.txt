@@ -1,0 +1,15 @@
+Django>=3.0,<4.0
+beautifulsoup4
+lxml
+nltk
+numpy
+gunicorn==20.0.4
+django-heroku==0.3.1
+requests==2.28.1
+google-auth-oauthlib==0.4.1
+google-auth-httplib2==0.0.3
+google-api-python-client==1.8.0
+tweepy==4.10.1
+#transformers==4.31.0
+#sentencepiece==0.1.99
+#torch

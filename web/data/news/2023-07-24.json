@@ -1,0 +1,135 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "SpaceX teases another application for Starship",
+            "description": "SpaceX could itself become a large commercial LEO destination.",
+            "url": "/2023-07-24-could-spacex-turn-starship-into-a-space-station",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/starshipleo-760x380.jpg",
+            "publishedAt": "2023-07-24T21:41:35Z",
+            "content": "Enlarge/ Artists illustration of a Starship vehicle in lowEarth orbit.18 with Youve probably heard about SpaceXs plans to use its giant new Starship vehicle to land people on the Moon and Mar [+4607 chars]",
+            "summary": "SpaceX plans to use its giant new Starship vehicle to land people on the Moon and Mars send numerous Starlink satellites or large telescopes into space or perhaps even serve as a high speed point to point terrestrial transport for equipment or people. The effort could result in repurposing Starship into a commercial space station something NASA has a keen interest in because there are no plans for a government owned research lab in low Earth orbit after the International Space Station is decommissioned. The space agency announced last month a new round of agreements with seven commercial companies including SpaceX.",
+            "html_summary": "<ul><li>SpaceX plans to use its giant new Starship vehicle to land people on the Moon and Mars send numerous Starlink satellites or large telescopes into space or perhaps even serve as a high speed point to point terrestrial transport for equipment or people</li><li> The effort could result in repurposing Starship into a commercial space station something NASA has a keen interest in because there are no plans for a government owned research lab in low Earth orbit after the International Space Station is decommissioned</li><li> The space agency announced last month a new round of agreements with seven commercial companies including SpaceX</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/07/could-spacex-turn-starship-into-a-space-station/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Jury orders Google to pay $339M for patentinfringing Chromecast",
+            "description": "Google plans on appealing.",
+            "url": "/2023-07-24-jury-orders-google-to-pay-339m-for-patent-infringing-chromecast",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/28-760x380.jpg",
+            "publishedAt": "2023-07-24T21:02:58Z",
+            "content": "Enlarge/ Google Chromecast with Google TV. 19 with Google Chromecast infringed upon three patents of Touchstream Technologies, Inc. and should pay $338.7 million in damages, a Western District of [+5355 chars]",
+            "summary": "Google Chromecast infringed upon three patents of Touchstream Technologies Inc and should pay million in damages a Western District of Texas jury decided on Friday. The ruling comes after Touchstream filed a complaint in June claiming that it met with Google in December and was told that the tech giant wasn t interested in partnering with it in February Google then released Chromecast in The complaint points to the first Chromecast and the second and third generations Chromecast Ultra and Chromecast with Google TV as well as other Chromecast integrated products as infringements of Touch stream patents. Google denied infringing on Touchstream s patents and has claimed the patents are invalid based on the principle of obviousness which argues that inventions that are apparent to the public due to previous inventions can t be patented.",
+            "html_summary": "<ul><li>Google Chromecast infringed upon three patents of Touchstream Technologies Inc and should pay million in damages a Western District of Texas jury decided on Friday</li><li> The ruling comes after Touchstream filed a complaint in June claiming that it met with Google in December and was told that the tech giant wasn t interested in partnering with it in February Google then released Chromecast in The complaint points to the first Chromecast and the second and third generations Chromecast Ultra and Chromecast with Google TV as well as other Chromecast integrated products as infringements of Touch stream patents</li><li> Google denied infringing on Touchstream s patents and has claimed the patents are invalid based on the principle of obviousness which argues that inventions that are apparent to the public due to previous inventions can t be patented</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/07/jury-orders-google-to-pay-339m-for-patent-infringing-chromecast/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "The IBM mainframe How it runs and why it survives",
+            "description": "In this deepdive explainer, we look at a bigbusiness mainstay.",
+            "url": "/2023-07-24-the-ibm-mainframe-how-it-runs-and-why-it-survives",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/new_IBM_z16-760x380.webp",
+            "publishedAt": "2023-07-24T11:00:36Z",
+            "content": "Enlarge/ A Z16 Mainframe.1 with Mainframe computers are often seen as ancient machinespractically dinosaurs. But mainframes, which are purposebuilt to process enormous amounts of data, are still [+3888 chars]",
+            "summary": "Mainframes are purpose built to process enormous amounts of data. They re used almost exclusively by the largest companies in the world. Most of those mainframes come from IBM. In this explainer we ll look at the IBM mainframe computer what it is how it works and why it s still going strong after over years Mainframes descended directly from the technology of the first computers in the s. They evolved to handle massive data workloads like bulk data processing and high volume financial transactions. Mainframes are designed from the ground up to provide both redundancy and high throughput.",
+            "html_summary": "<ul><li>Mainframes are purpose built to process enormous amounts of data</li><li> They re used almost exclusively by the largest companies in the world</li><li> Most of those mainframes come from IBM</li><li> In this explainer we ll look at the IBM mainframe computer what it is how it works and why it s still going strong after over years Mainframes descended directly from the technology of the first computers in the s</li><li> They evolved to handle massive data workloads like bulk data processing and high volume financial transactions</li><li> Mainframes are designed from the ground up to provide both redundancy and high throughput</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Supply Change Capital is latest womenled VC to raise substantial debut fund | TechCrunch",
+            "description": "Supply Change Capital invests at the earliest stages in deep tech food, agriculture and ingredient, supply chain technology and enterprise software.",
+            "url": "/2023-07-24-supply-change-capital-vc-fund-foodtech",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/Supply-Change-Capital-co-founders.jpg?resize=1200,676",
+            "publishedAt": "2023-07-24T12:56:21Z",
+            "content": "Supply Change Capital closed on $40 million in capital commitments for its first fund, targeting investments in the global food industry valued at $10 trillion.The female and Latinaowned firm is s [+3848 chars]",
+            "summary": "Supply Change Capital closed on million in capital commitments for its first fund targeting investments in the global food industry valued at trillion. The female and Latina owned firm is spearheaded by co founders and managing partners Noramay Cadena and Shayna Harris. The pair are backed by a list of heavy hitting limited partners including INC the venture capital arm of General Mills MassMutual through its First Fund Initiative and the Office of the Illinois Treasurer through the Illinois Growth and Innovation Fund. Eighty percent of the firm s portfolio is comprised of Latinx Black or female founders and CEOs.",
+            "html_summary": "<ul><li>Supply Change Capital closed on million in capital commitments for its first fund targeting investments in the global food industry valued at trillion</li><li> The female and Latina owned firm is spearheaded by co founders and managing partners Noramay Cadena and Shayna Harris</li><li> The pair are backed by a list of heavy hitting limited partners including INC the venture capital arm of General Mills MassMutual through its First Fund Initiative and the Office of the Illinois Treasurer through the Illinois Growth and Innovation Fund</li><li> Eighty percent of the firm s portfolio is comprised of Latinx Black or female founders and CEOs</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/24/supply-change-capital-vc-fund-foodtech/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Sam Altman launches eyeballscanning Worldcoin to drastically increase economic opportunity | TechCrunch",
+            "description": "Worldcoin, Sam Altmans eyeballscanning crypto startup, has started the global rollout of its services, three years after it began its work.",
+            "url": "/2023-07-24-worldcoin-launch-sam-altman",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-26-at-3.37.15-PM.png?w=1192",
+            "publishedAt": "2023-07-24T07:37:51Z",
+            "content": "Worldcoin, Sam Altmans audacious eyeballscanning crypto startup, has started the global rollout of its services to help build a reliable solution for distinguishing humans from AI online, enable  [+2026 chars]",
+            "summary": "Worldcoin Sam Altman s audacious eyeball scanning crypto startup has started the global rollout of its services to help build a reliable solution for distinguishing humans from AI online. The startup which has raised about million altogether and counts Andreessen Horowitz Khosla Ventures and Reid Hoffman among its backers said it s rolling out its identity technology as well as the token internationally. As TechCrunch has previously noted Worldcoin is perhaps one of the most audacious efforts to bribe the world to embrace their currency. Between May and July more than million individuals verified their World IDs at an Orb across more than different countries the startup said.",
+            "html_summary": "<ul><li>Worldcoin Sam Altman s audacious eyeball scanning crypto startup has started the global rollout of its services to help build a reliable solution for distinguishing humans from AI online</li><li> The startup which has raised about million altogether and counts Andreessen Horowitz Khosla Ventures and Reid Hoffman among its backers said it s rolling out its identity technology as well as the token internationally</li><li> As TechCrunch has previously noted Worldcoin is perhaps one of the most audacious efforts to bribe the world to embrace their currency</li><li> Between May and July more than million individuals verified their World IDs at an Orb across more than different countries the startup said</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "Hackers exploit Citrix zeroday to target US critical infrastructure | TechCrunch",
+            "description": "Thousands of organizations could be at risk from a Citrix zeroday that hackers have already abused to target U.S. critical infrastructure.",
+            "url": "/2023-07-24-citrix-zero-day-critical-infrastructure",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-548311037.jpg?resize=1200,900",
+            "publishedAt": "2023-07-24T14:10:44Z",
+            "content": "Thousands of companies could be at risk from an actively exploited Citrix zeroday that hackers have already abused to target at least one critical infrastructure organization in the United States. [+3090 chars]",
+            "summary": "Thousands of companies could be at risk from an actively exploited Citrix zero day that hackers have already abused to target at least one critical infrastructure organization in the United States. The Shadowserver Foundation a nonprofit organization that works to make the internet more secure said it has found more than Citrix servers worldwide at risk of compromise unless patches are applied. The largest number of unpatched servers are based in the U S followed by Germany the U K and Australia according to their analysis. It s not yet known who is behind the exploitation of this vulnerability but Citrix vulnerabilities have been known to be exploited by both financially motivated cybercriminals and state sponsored threat actors including groups linked to China.",
+            "html_summary": "<ul><li>Thousands of companies could be at risk from an actively exploited Citrix zero day that hackers have already abused to target at least one critical infrastructure organization in the United States</li><li> The Shadowserver Foundation a nonprofit organization that works to make the internet more secure said it has found more than Citrix servers worldwide at risk of compromise unless patches are applied</li><li> The largest number of unpatched servers are based in the U S followed by Germany the U K and Australia according to their analysis</li><li> It s not yet known who is behind the exploitation of this vulnerability but Citrix vulnerabilities have been known to be exploited by both financially motivated cybercriminals and state sponsored threat actors including groups linked to China</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/24/citrix-zero-day-critical-infrastructure/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Crypto wallet ZenGo launches pro subscription with additional security features | TechCrunch",
+            "description": "Cryptocurrency mobile wallet ZenGo has introduced a handful of new features combined with a new premium subscription called ZenGo Pro that costs $20 per month.",
+            "url": "/2023-07-24-crypto-wallet-zengo-launches-pro-subscription-with-additional-security-features",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/ZenGo.jpg?resize=1200,675",
+            "publishedAt": "2023-07-24T08:31:09Z",
+            "content": "Cryptocurrency mobile wallet ZenGo has introduced a handful of new features combined with a new premium subscription called ZenGo Pro that costs $20 per month. This new, optional subscription brings  [+4709 chars]",
+            "summary": "Zengo has introduced a handful of new features combined with a new premium subscription called Zengo Pro that costs per month. This new optional subscription brings additional security features for users who have a lot of crypto assets or who are really concerned about security. In general basic accounts remain free and the app has also been redesigned as a reminder Z Engo is a self custodial wallet that uses multi party computation Unlike Metamask a Zengi wallet can t be recovered using a seed phrase This is important if you want to avoid phishing attempts.",
+            "html_summary": "<ul><li>Zengo has introduced a handful of new features combined with a new premium subscription called Zengo Pro that costs per month</li><li> This new optional subscription brings additional security features for users who have a lot of crypto assets or who are really concerned about security</li><li> In general basic accounts remain free and the app has also been redesigned as a reminder Z Engo is a self custodial wallet that uses multi party computation Unlike Metamask a Zengi wallet can t be recovered using a seed phrase This is important if you want to avoid phishing attempts</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/24/crypto-wallet-zengo-launches-pro-subscription-with-additional-security-features/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Andrew Cunningham",
+            "title": "Five cool features and one weird thing youll find in macOS 14 Sonoma",
+            "description": "Forget the headliners; lets talk about some less obvious stuff.",
+            "url": "/2023-07-24-five-cool-features-and-one-weird-thing-youll-find-in-macos-14-sonoma",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sonoma-preview-760x380.jpeg",
+            "publishedAt": "2023-07-24T18:58:03Z",
+            "content": "4 with Apple released its first public beta for macOS Sonoma (among other operating systems) this month, and per usual, headlining features like desktop widgets have gotten a lot of coverage. Well [+2844 chars]",
+            "summary": "Apple released its first public beta for macOS Sonoma among other operating systems this month. Screen sharing in Sonoma revamps the app itself as well as how the underlying technology works. The app remains at its most capable when connecting to other Macs and it has gotten several upgrades a few of which only work with two Sonoma Macs connected to each other. Sonoma to Sonoma connections get a new High Performance connection mode note that High Performance mode and all related features only work on Apple Silicon Macs not Intel machines.",
+            "html_summary": "<ul><li>Apple released its first public beta for macOS Sonoma among other operating systems this month</li><li> Screen sharing in Sonoma revamps the app itself as well as how the underlying technology works</li><li> The app remains at its most capable when connecting to other Macs and it has gotten several upgrades a few of which only work with two Sonoma Macs connected to each other</li><li> Sonoma to Sonoma connections get a new High Performance connection mode note that High Performance mode and all related features only work on Apple Silicon Macs not Intel machines</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/07/five-cool-features-and-one-weird-thing-youll-find-in-macos-14-sonoma/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. SpaceX teases another application for Starship. Jury orders Google to pay $339M for patentinfringing Chromecast. The IBM mainframe How it runs and why it survives. Supply Change Capital is latest womenled VC to raise substantial debut fund | TechCrunch. Sam Altman launches eyeballscanning Worldcoin to drastically increase economic opportunity | TechCrunch. Hackers exploit Citrix zeroday to target US critical infrastructure | TechCrunch. Crypto wallet ZenGo launches pro subscription with additional security features | TechCrunch. Five cool features and one weird thing youll find in macOS 14 Sonoma"
+}

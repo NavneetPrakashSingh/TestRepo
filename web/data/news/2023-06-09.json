@@ -1,0 +1,103 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Another huge US medical data breach confirmed after Fortra masshack",
+            "description": "More than a hundred organizations are affected by a massransomware attack targeting Fortras file transfer software.",
+            "url": "/2023-06-09-intellihartx-data-breach-fortra-ransomware",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-124205799.jpg?resize=1200,800",
+            "publishedAt": "2023-06-09T11:00:54Z",
+            "content": "Hackers stole another half a million peoples personal and health information during a ransomware attack on a technology vendor earlier this year.Intellihartx, a Tennesseebased company that handle [+1485 chars]",
+            "summary": "The breach also compromised patient medical billing and insurance information, as well as diagnoses and medication.Intellihartx is the latest company to come forward as a victim of the mass ransomware attack targeting Fortras GoAnywhere file-transfer software, which organizations use for sharing large data sets across the internet.",
+            "html_summary": "<ul><li>The breach also compromised patient medical billing and insurance information, as well as diagnoses and medication.Intellihartx is the latest company to come forward as a victim of the mass ransomware attack targeting Fortra’s GoAnywhere file-transfer software, which organizations use for sharing large data sets across the internet.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/06/09/intellihartx-data-breach-fortra-ransomware/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "Barracuda urges customers to remove and replace vulnerable hardware exploited by hackers",
+            "description": "Barracuda Networks has told customers they must replace Email Security Gateway (ESG) appliances targeted by hackers to exfiltrate data",
+            "url": "/2023-06-09-barracuda-rip-out-replace-hardware-exploited-by-hackers",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/04/enterprise-security.png?resize=1200,675",
+            "publishedAt": "2023-06-09T11:46:15Z",
+            "content": "Barracuda Networks has told customers they must replace vulnerable email gateway appliances following the disclosure of a critical security flaw.The technology company, which provides security, net [+2475 chars]",
+            "summary": "Another update was deployed on May 21.This week, however, Barracuda added an action notice to its advisory, urging all affected customers to replace ESG appliances impacted by the vulnerability, regardless of firmware version or patch level. ESG products are essentially firewalls for email, and are used for filtering inbound and outbound emails for potentially malicious content.Barracuda said it first discovered the vulnerability on May 19 and deployed a patch to all ESG appliances worldwide the following day. Barracudas remediation recommendation at this time is full replacement of the impacted ESG.TechCrunch asked Barracuda why customers need to replace patched appliances but did not immediately receive a response. According to Barracuda, affected customers have already been notified through breached ESGs user interface.If you have not replaced your appliance after receiving notice contact support now, Barracuda said.",
+            "html_summary": "<ul><li>Another update was deployed on May 21.This week, however, Barracuda added an “action notice” to its advisory, urging all affected customers to replace ESG appliances impacted by the vulnerability, regardless of firmware version or patch level.</li><li>ESG products are essentially firewalls for email, and are used for filtering inbound and outbound emails for potentially malicious content.Barracuda said it first discovered the vulnerability on May 19 and deployed a patch “to all ESG appliances worldwide” the following day.</li><li>“Barracuda’s remediation recommendation at this time is full replacement of the impacted ESG.”TechCrunch asked Barracuda why customers need to replace patched appliances but did not immediately receive a response.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/06/09/barracuda-rip-out-replace-hardware-exploited-by-hackers/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Shell Recharge security lapse exposed EV drivers data",
+            "description": "The internal database contained millions of logs, including details about customers who used the EV charging network.",
+            "url": "/2023-06-09-shell-recharge-security-lapse-exposed-drivers-data",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1237697579.jpg?resize=1200,801",
+            "publishedAt": "2023-06-09T07:31:46Z",
+            "content": "Oil giant Shell said it is investigating after a security researcher found an exposed internal database spilling the personal information of drivers who use the companys electric vehicle charging st [+2172 chars]",
+            "summary": "Greenlots provided electric vehicle (EV) charging services and technology for customers operating vehicle fleets.The internal database, hosted on Amazons cloud, contained millions of logs, said Sen, including details about customers who used the EV charging network. The database had no password, allowing anyone on the internet to access its data from their web browser.The data, seen by TechCrunch, contained names, email addresses, and phone numbers of fleet customers who use the EV charging network. Some of the data included vehicle identification numbers, or VINs.Sen said the database also contained the locations of Shells EV charging stations, including private residential charging points. A short time after TechCrunch contacted Shell, the database became inaccessible.Shell spokesperson Anna Arata told TechCrunch in a statement: Shell has taken steps to contain and identify an exposure of Shell Recharge Solutions data. We are investigating the incident, continue to monitor our IT systems, and will take any necessary future actions accordingly.Sen has previously found exposed data belonging to Amazon, Hotai Motor, PeopleGrove and JusTalk. Earlier this year, Sen discovered a database containing sensitive U.S. military emails belonging to U.S. Special Operations Command.Sensitive US military emails spill online The database included the names of fleet operators, which identified organizations  such as police departments  with vehicles that recharge on the network.",
+            "html_summary": "<ul><li>Greenlots provided electric vehicle (EV) charging services and technology for customers operating vehicle fleets.The internal database, hosted on Amazon’s cloud, contained millions of logs, said Sen, including details about customers who used the EV charging network.</li><li>The database had no password, allowing anyone on the internet to access its data from their web browser.The data, seen by TechCrunch, contained names, email addresses, and phone numbers of fleet customers who use the EV charging network.</li><li>Some of the data included vehicle identification numbers, or VINs.Sen said the database also contained the locations of Shell’s EV charging stations, including private residential charging points.</li><li>A short time after TechCrunch contacted Shell, the database became inaccessible.Shell spokesperson Anna Arata told TechCrunch in a statement: “Shell has taken steps to contain and identify an exposure of Shell Recharge Solutions data.</li><li>We are investigating the incident, continue to monitor our IT systems, and will take any necessary future actions accordingly.”Sen has previously found exposed data belonging to Amazon, Hotai Motor, PeopleGrove and JusTalk.</li><li>Earlier this year, Sen discovered a database containing sensitive U.S. military emails belonging to U.S. Special Operations Command.Sensitive US military emails spill online</li></ul>",
+            "website_url": "https://techcrunch.com/2023/06/09/shell-recharge-security-lapse-exposed-drivers-data/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Nocnoc opens door to quicker setup of crossborder ecommerce in Latin America",
+            "description": "Online merchants upload their product catalog to nocnocs platform and can instantly sell on some of Latin Americas top marketplaces.",
+            "url": "/2023-06-09-nocnoc-cross-border-e-commerce-latin-america",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/nocnoc-banner.png?resize=1200,675",
+            "publishedAt": "2023-06-09T13:02:03Z",
+            "content": "Nocnoc, which facilitates crossborder ecommerce between Latin American merchants and global sellers, raised $14 million in Series A funding.PayPal Ventures led the round and was joined by Mouro C [+3147 chars]",
+            "summary": "The company also handles communication with consumers, delivery logistics, cancellations and returns.When it comes to payments, nocnoc typically pays sellers every 15 days, in their local currency, even if the product has not yet made it to the buyer. The market is valued at $382 billion and expected to grow annually at a rate of 25% through 2025, according to Americas Market Intelligence.Cross border e-commerce is growing faster than local commerce in the last five years, Bajarlia said. This gives the company $22 million in total venture-backed funding to date.Ilan Bajarlia, Joaquin Colella and Diego Szilagyi started nocnoc in 2018 to enable businesses to sell in Latin America through 16 marketplaces with a potential reach of nearly 500 million consumers, CEO Bajarlia told TechCrunch. Weve improved our technology to understand whats the best-selling product in Latin America, understanding supply and demand, understanding the elasticity of each product and what new categories we can introduce. Nocnoc manages the product listings across all of those marketplaces and creates marketing campaigns for the products. In the past 12 months, gross merchandise volume grew 3x amid the company adding seven new marketplaces, expanding in Mexico, Colombia and Chile. All of that has made nocnoc [become] the largest cross-border store in Latin America, Bajarlia said.The new funding will go toward helping its business and its customers grow and expand into Latin America.",
+            "html_summary": "<ul><li>The company also handles communication with consumers, delivery logistics, cancellations and returns.When it comes to payments, nocnoc typically pays sellers every 15 days, in their local currency, even if the product has not yet made it to the buyer.</li><li>The market is valued at $382 billion and expected to grow annually at a rate of 25% through 2025, according to Americas Market Intelligence.“Cross border e-commerce is growing faster than local commerce in the last five years,” Bajarlia said.</li><li>This gives the company $22 million in total venture-backed funding to date.Ilan Bajarlia, Joaquin Colella and Diego Szilagyi started nocnoc in 2018 to enable businesses to sell in Latin America through 16 marketplaces with a potential reach of nearly 500 million consumers, CEO Bajarlia told TechCrunch.</li><li>“We’ve improved our technology to understand what’s the best-selling product in Latin America, understanding supply and demand, understanding the elasticity of each product and what new categories we can introduce.</li><li>Nocnoc manages the product listings across all of those marketplaces and creates marketing campaigns for the products.</li><li>In the past 12 months, gross merchandise volume grew 3x amid the company adding seven new marketplaces, expanding in Mexico, Colombia and Chile.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/06/09/nocnoc-cross-border-e-commerce-latin-america/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Annie Njanja",
+            "title": "Meta to appeal court ruling declaring content moderatos as its employees",
+            "description": "Last Friday a Kenya court ruled that Meta was the primary and principal employer of the moderators, and that Sama was merely an agent",
+            "url": "/2023-06-09-meta-to-appeal-court-ruling-declaring-content-moderatos-as-its-employees",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?resize=1200,675",
+            "publishedAt": "2023-06-09T09:41:34Z",
+            "content": "Meta is set to appeal Kenyas court decision declaring it as the primary employer of the moderators that review content on its platforms in subSaharan Africa.Meta has filed a notice of appeal again [+3845 chars]",
+            "summary": "Meta is set to appeal Kenyas court decision declaring it as the primary employer of the moderators that review content on its platforms in sub-Saharan Africa.Meta has filed a notice of appeal against the ruling made last week on orders issued in March. This comes after 184 moderators sued it, and its content review partner in sub-Saharan Africa, Sama, for alleged unlawful termination of contracts.",
+            "html_summary": "<ul><li>Meta is set to appeal Kenya’s court decision declaring it as the primary employer of the moderators that review content on its platforms in sub-Saharan Africa.Meta has filed a notice of appeal against the ruling made last week on orders issued in March.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/06/09/meta-to-appeal-court-ruling-declaring-content-moderatos-as-its-employees/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Peakview, a U.S. LP once backed by a Chinese firm, diversifies its own investor base",
+            "description": "In the aftermath of Sequoia Capitals big reveal earlier this week that its China and Indiabased affiliates are spinning off into independent entities, we reached out yesterday to someone who we thought might have an opinion on the development. Erik Lassila",
+            "url": "/2023-06-09-china_funds_venture_peakview",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-08-at-5.16.02-PM.png?resize=1200,962",
+            "publishedAt": "2023-06-09T04:09:23Z",
+            "content": "In the aftermath of Sequoia Capitals big reveal earlier this week that its China and Indiabased affiliates are spinning off into independent entities, we reached out yesterday to someone who we th [+7690 chars]",
+            "summary": "So if you look at both of our fund three and the fourth fund that we just raised, the majority of the capital is from U.S. investors, with a little bit of it coming from Hong Kong investors, a little coming from backers in Europe.What about the Middle East? Do you, or would you, also invest in a sleeve of venture capital stakes on the secondary market, meaning from another institution that is looking for some liquidity? And the limited partnership agreements for these funds are always written to provide the VCs some flexibility to invest more slowly when market conditions make that a smarter approach. Is there a threshold in terms of fund size?We invest in more mature VCs typically who have a strong market presence and a strong experienced team and hopefully generational institutional knowledge. So I think these existing funds will just take much longer to invest than people might have suspected when they were formed, and were okay with that. Meanwhile, I wanted to get Peakview started right away and have a source of capital, and it was a good partnership and those funds have done very well.You sometimes make direct investments into companies. I dont think that in the firms that we invest in, theres not going to be a lot of pressure to reduce fund sizes.Could you perhaps be less diplomatic?[Laughs.]",
+            "html_summary": "<ul><li>So if you look at both of our fund three and the fourth fund that we just raised, the majority of the capital is from U.S. investors, with a little bit of it coming from Hong Kong investors, a little coming from backers in Europe.What about the Middle East?</li><li>Do you, or would you, also invest in a sleeve of venture capital stakes on the secondary market, meaning from another institution that is looking for some liquidity?</li><li>And the limited partnership agreements for these funds are always written to provide the VCs some flexibility to invest more slowly when market conditions make that a smarter approach.</li><li>Is there a threshold in terms of fund size?We invest in more mature VCs typically who have a strong market presence and a strong experienced team and hopefully generational institutional knowledge.</li><li>So I think these existing funds will just take much longer to invest than people might have suspected when they were formed, and we’re okay with that.</li><li>Meanwhile, I wanted to get Peakview started right away and have a source of capital, and it was a good partnership and those funds have done very well.You sometimes make direct investments into companies.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/06/08/china_funds_venture_peakview/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Another huge US medical data breach confirmed after Fortra masshack. Barracuda urges customers to remove and replace vulnerable hardware exploited by hackers. Shell Recharge security lapse exposed EV drivers data. Nocnoc opens door to quicker setup of crossborder ecommerce in Latin America. Meta to appeal court ruling declaring content moderatos as its employees. Peakview, a U.S. LP once backed by a Chinese firm, diversifies its own investor base"
+}

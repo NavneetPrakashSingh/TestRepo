@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 39,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Microsoft AI suggests food bank as a cannot miss tourist spot in Canada",
+            "description": "AIpenned Microsoft Travel article recommends food bank as if it were a famous restaurant.",
+            "url": "/2023-08-17-microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/unnamed-760x380.jpg",
+            "publishedAt": "2023-08-17T20:14:17Z",
+            "content": "Enlarge/ A photo of the Ottawa Food Bank warehouse.7 with Late last week, MSN.coms Microsoft Travel section posted an AIgenerated article about the cannot miss attractions of Ottawa that incl [+3499 chars]",
+            "summary": "Microsoft posted an AI generated article about the attractions of Ottawa that includes the Ottawa Food Bank a real charitable organization that feeds struggling families. The article is credited to Microsoft Travel and it is likely the product of a large language model LLM a type of AI model trained on a vast scrape of text found on the Internet. Microsoft has been experimenting with integrating AI generated content into its online publications and services such as adding AI generated stories to Bing Search and including AI generated App review summaries on the Microsoft Store. Microsoft Travel appears to be another production use of generative AI technology.",
+            "html_summary": "<ul><li>Microsoft posted an AI generated article about the attractions of Ottawa that includes the Ottawa Food Bank a real charitable organization that feeds struggling families</li><li> The article is credited to Microsoft Travel and it is likely the product of a large language model LLM a type of AI model trained on a vast scrape of text found on the Internet</li><li> Microsoft has been experimenting with integrating AI generated content into its online publications and services such as adding AI generated stories to Bing Search and including AI generated App review summaries on the Microsoft Store</li><li> Microsoft Travel appears to be another production use of generative AI technology</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "Agility Robotics Damion Shelton and Melonee Wise will discuss the future of warehouse automation at TC Disrupt 2023",
+            "description": "Agility Robotics is on a steady march toward commercialization, thanks to the continued growth of robotics in warehouse fulfillment and logistics and the...",
+            "url": "/2023-08-17-agility-robotics-will-discuss-and-demo-digit-at-tc-disrupt-2023",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LzJ8sOF4fiXF0ZaBx.wcfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/8b5945ca691348f59446bacf97a35df3",
+            "publishedAt": "2023-08-17T15:00:26Z",
+            "content": "Agility Robotics is on a steady march toward commercialization, thanks to the continued growth of robotics in warehouse fulfillment and logistics and the expanding feature set of its bipedal robot. W [+2954 chars]",
+            "summary": "Agility Robotics is on a steady march toward commercialization thanks to the continued growth of robotics in warehouse fulfillment and logistics. The company has put that money to good use One by hiring Wise Fetch co founder and CEO acquired by Zebra in and two by upgrading Digit. Digit sports two significant modifications over its ancestor a head with LED animated eyes to help people understand where it is headed and its intentions and a pair of end effectors which are simple hands that improve its ability to use warehouse tools like bins.",
+            "html_summary": "<ul><li>Agility Robotics is on a steady march toward commercialization thanks to the continued growth of robotics in warehouse fulfillment and logistics</li><li> The company has put that money to good use One by hiring Wise Fetch co founder and CEO acquired by Zebra in and two by upgrading Digit</li><li> Digit sports two significant modifications over its ancestor a head with LED animated eyes to help people understand where it is headed and its intentions and a pair of end effectors which are simple hands that improve its ability to use warehouse tools like bins</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/17/agility-robotics-will-discuss-and-demo-digit-at-tc-disrupt-2023/"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena, CNN",
+            "title": "Ford reveals 800 horsepower Mustang with $300,000 price tag",
+            "description": "Ford has just unveiled the 800horsepower Ford Mustang GTD which will be available in late 2024 or early 2025 at a starting price around $300,000. Theres...",
+            "url": "/2023-08-17-ford-mustang-supercar?cid=external-feeds_iluminar_yahoo",
+            "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/2e104841c6f56db6f2d5e13238adf600",
+            "publishedAt": "2023-08-18T00:31:28Z",
+            "content": "Ford has just unveiled the 800horsepower Ford Mustang GTD which will be available in late 2024 or early 2025 at a starting price around $300,000.Theres much more in this Mustang, according to Ford [+3182 chars]",
+            "summary": "Ford has just unveiled the horsepower Ford Mustang GTD which will be available in late or early at a starting price around $60,000. The car is modeled on the Mustang GT racing car that s set to be driven in international competition next year. Unlike other Mustangs this one has no back seats and no trunk the idea being to use every ounce of weight and each cubic inch of space as much as possible for performance. The back seats were done away with simply to save weight The space where a trunk would have been is used to house a special cooler for the gear box and machinery for the adjustable suspension system.",
+            "html_summary": "<ul><li>Ford has just unveiled the horsepower Ford Mustang GTD which will be available in late or early at a starting price around $60,000</li><li> The car is modeled on the Mustang GT racing car that s set to be driven in international competition next year</li><li> Unlike other Mustangs this one has no back seats and no trunk the idea being to use every ounce of weight and each cubic inch of space as much as possible for performance</li><li> The back seats were done away with simply to save weight The space where a trunk would have been is used to house a special cooler for the gear box and machinery for the adjustable suspension system</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/17/business/ford-mustang-supercar?cid=external-feeds_iluminar_yahoo"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Intels modernization strategy could face setback with end of $5.4B Tower deal",
+            "description": "In 2021, Intel CEO Pat Gelsinger announced a comprehensive modernization strategy he dubbed IDM (integrated device manufacturing) 2.0.  In a 2022 article, we...",
+            "url": "/2023-08-17-intels-modernization-strategy-could-face-setback-with-end-of-5-4b-tower-deal",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I83YpXanm3PbBAFT4qC1CQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/5d644c9aebf9ae051c2ce658f800e799",
+            "publishedAt": "2023-08-17T16:27:26Z",
+            "content": "In 2021, Intel CEO Pat Gelsinger announced a comprehensive modernization strategy he dubbed IDM (integrated device manufacturing) 2.0. As part of that vision, the company announced a $20 billion inve [+3251 chars]",
+            "summary": "In Intel CEO Pat Gelsinger announced a comprehensive modernization strategy he dubbed IDM integrated device manufacturing. As part of that vision the company announced a billion investment to build two new Fabs chip manufacturing facilities in Arizona along with plans to increase capacity in other parts of the U S and Europe. In February Intel announced plans to acquire Tower Semiconductor an Israeli chip manufacturer for billion in February. That deal was killed yesterday when Intel announced it was walking away due to regulatory issues getting the deal approved particularly in China.",
+            "html_summary": "<ul><li>In Intel CEO Pat Gelsinger announced a comprehensive modernization strategy he dubbed IDM integrated device manufacturing</li><li> As part of that vision the company announced a billion investment to build two new Fabs chip manufacturing facilities in Arizona along with plans to increase capacity in other parts of the U S and Europe</li><li> In February Intel announced plans to acquire Tower Semiconductor an Israeli chip manufacturer for billion in February</li><li> That deal was killed yesterday when Intel announced it was walking away due to regulatory issues getting the deal approved particularly in China</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/17/intels-modernization-strategy-could-face-setback-with-end-of-5-4b-tower-deal/"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena, CNN",
+            "title": "This Vietnamese automaker is worth more than Ford and GM. But it hasnt sold many cars",
+            "description": "Vietnamese electric vehicle company Vinfast is already more valuable than Ford and GM, based on its stock price, despite just entering the US market. But you...",
+            "url": "/2023-08-17-vinfast-company-profile?cid=external-feeds_iluminar_yahoo",
+            "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/874251cce1c4e033fefe49cdd7c65a2b",
+            "publishedAt": "2023-08-17T16:50:06Z",
+            "content": "Vietnamese electric vehicle company Vinfast is already more valuable than Ford (F) and GM (GM), based on its stock price, despite just entering the US market. But you may not have even heard of it. H [+4135 chars]",
+            "summary": "Vietnamese electric vehicle company Vinfast is already more valuable than Ford F and GM GM based on its stock price despite just entering the US market. VinFast is currently only selling its VF electric SUV in California through company owned showrooms. The larger VinFast VF is expected to be available later this year with the smaller VF and VF SUVs coming some time next year as the company begins offering its products in more US markets. The company claims to account for of Vietnam s gross domestic product.",
+            "html_summary": "<ul><li>Vietnamese electric vehicle company Vinfast is already more valuable than Ford F and GM GM based on its stock price despite just entering the US market</li><li> VinFast is currently only selling its VF electric SUV in California through company owned showrooms</li><li> The larger VinFast VF is expected to be available later this year with the smaller VF and VF SUVs coming some time next year as the company begins offering its products in more US markets</li><li> The company claims to account for of Vietnam s gross domestic product</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/17/business/vinfast-company-profile?cid=external-feeds_iluminar_yahoo"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "Lamborghini hops on the EV trend, revealing its new allelectric Italian bull",
+            "description": "The Lamborghini Lanzador is only a concept car for now, but the Italian supercar maker says it offers a preview of the brands very first fully electric model which will go into production in 2028.",
+            "url": "/2023-08-17-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817115111-01-lamborghini-electric-car-concept-reveal.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-18T18:03:25Z",
+            "content": "The Lamborghini Lanzador is only a concept car for now, but the Italian supercar maker says it offers a preview of the brands very first fully electric model which will go into production in 2028.  [+3730 chars]",
+            "summary": "The Lamborghini Lanzador is only a concept car for now but the Italian supercar maker says it offers a preview of the brand s very first fully electric model which will go into production in. The concept vehicle will be developed into only the fourth model line for the tightly focused performance brand joining its two traditional sports car models and an SUV. The new electric model will provide the link between Lamborghinis s radical sports cars and its more practical SUV like the Urus SUV and the Hurac n Stererrato. The company has not promised to entirely phase out internal combustion engines by any specific year though.",
+            "html_summary": "<ul><li>The Lamborghini Lanzador is only a concept car for now but the Italian supercar maker says it offers a preview of the brand s very first fully electric model which will go into production in</li><li> The concept vehicle will be developed into only the fourth model line for the tightly focused performance brand joining its two traditional sports car models and an SUV</li><li> The new electric model will provide the link between Lamborghinis s radical sports cars and its more practical SUV like the Urus SUV and the Hurac n Stererrato</li><li> The company has not promised to entirely phase out internal combustion engines by any specific year though</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/18/business/lamborghini-electric-car-reveal/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicole Goodkind",
+            "title": "How Chinas economic turmoil could hurt your portfolio",
+            "description": "Chinas economy is in trouble. Thats bad news for US stocks, and potentially for your portfolio.",
+            "url": "/2023-08-17-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816124931-china-apple-store-040523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T11:56:13Z",
+            "content": "A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign upright here. You can listen to an audio version of the newsletter by clicking the s [+5680 chars]",
+            "summary": "The grand total of all the private wealth in the world fell 2.4% to $454.4 trillion last year, according to the annual Credit Suisse and UBS global wealth report. Why it matters: For most of the last two decades, Chinas economic growth has been a major driver of the global economy, said Alex Etra, a strategist at data analytics firm Exante. Funds are already retreating: US private equity and venture capital investments in the country hit an eight-year low last year and continue to fall, according to data from PitchBook. Separately, a Congressional committee announced earlier this month that it is investigating BlackRock, the worlds largest asset manager, and MSCI, one of the biggest providers of index funds, to determine whether they are investing in Chinese companies blacklisted by the US government for security and human rights issues. Large hedge funds like Michael Burrys Scion Asset Management, Moore Capital Management, Coatue, D1 Capital and Tiger Global also cut their exposure to Chinese companies in the second quarter of 2023, according to recent Securities and Exchange Commission filings. And some of that has to do with direct exposure of US companies sales in China and with China being a major consumer of commodities. Even companies that arent selling directly to China are impacted by what happens, he said. Its part of Aldis long term plan to expand across the US  it previously announced would open 120 new stores with a goal of 2,400 stores by the end of 2024.",
+            "html_summary": "<ul><li>The grand total of all the private wealth in the world fell 2.4% to $454.4 trillion last year, according to the annual Credit Suisse and UBS global wealth report.</li><li>Why it matters: “For most of the last two decades, China’s economic growth has been a major driver of the global economy,” said Alex Etra, a strategist at data analytics firm Exante.</li><li>Funds are already retreating: US private equity and venture capital investments in the country hit an eight-year low last year and continue to fall, according to data from PitchBook.</li><li>Separately, a Congressional committee announced earlier this month that it is investigating BlackRock, the world’s largest asset manager, and MSCI, one of the biggest providers of index funds, to determine whether they are investing in Chinese companies blacklisted by the US government for security and human rights issues.</li><li>Large hedge funds like Michael Burry’s Scion Asset Management, Moore Capital Management, Coatue, D1 Capital and Tiger Global also cut their exposure to Chinese companies in the second quarter of 2023, according to recent Securities and Exchange Commission filings.</li><li>And some of that has to do with direct exposure of US companies’ sales in China and with China being a major consumer of commodities.” Even companies that aren’t selling directly to China are impacted by what happens, he said.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/17/investing/premarket-stocks-trading/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh",
+            "title": "Intel calls off $5.4 billion chip deal after failing to get regulatory approval",
+            "description": "Intel has pulled out of a major acquisition of an Israeli chipmaker after failing to obtain the required regulatory approval.",
+            "url": "/2023-08-17-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817112844-intel-chip-china-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T05:01:58Z",
+            "content": "Intel has pulled out of a major acquisition of an Israeli chipmaker after failing to obtain the required regulatory approval.The US tech giant said in a Wednesday statement it would scrap its plann [+2584 chars]",
+            "summary": "Intel has pulled out of a major acquisition of an Israeli chipmaker after failing to obtain the required regulatory approval. The US tech giant said in a Wednesday statement it would scrap its planned billion purchase of Tower Semiconductor TSEM. The deal had been expected to close within months Now months after it was first announced the deal has yet to be signed off by China s competition regulator the Financial Times reported Wednesday citing two unidentified sources Neither Intel nor the Chinese regulator immediately responded to requests for comment from CNN.",
+            "html_summary": "<ul><li>Intel has pulled out of a major acquisition of an Israeli chipmaker after failing to obtain the required regulatory approval</li><li> The US tech giant said in a Wednesday statement it would scrap its planned billion purchase of Tower Semiconductor TSEM</li><li> The deal had been expected to close within months Now months after it was first announced the deal has yet to be signed off by China s competition regulator the Financial Times reported Wednesday citing two unidentified sources Neither Intel nor the Chinese regulator immediately responded to requests for comment from CNN</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/17/business/intel-tower-semiconductor-deal-china-block-intl-hnk/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oren Liebermann, Natasha Bertrand",
+            "title": "US commits to approving F16s for Ukraine as soon as training is complete",
+            "description": "The US has committed to approving the transfer of F16 fighter jets for Ukraine as soon as training is complete, according to a US official.",
+            "url": "/2023-08-17-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817191932-01-us-f-16-fighter-file-2021.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-18T00:57:13Z",
+            "content": "The US has committed to approving the transfer of F16 fighter jets for Ukraine as soon as training is complete, according to a US official.The plan is to make sure Ukraine has the fighter jet it h [+2275 chars]",
+            "summary": "The US has committed to approving the transfer of F fighter jets for Ukraine as soon as training is complete according to a US official. The plan is to make sure Ukraine has the fighter jet it has long sought the moment its pilots complete training on the F Denmark and the Netherlands have taken the lead in preparing a program to train Ukrainian pilots on the American jet. The US is still working with other countries to see who may provide F s to the Ukrainian Air Force. Ukraine said Wednesday that it didn t expect to receive F s until sometime next year.",
+            "html_summary": "<ul><li>The US has committed to approving the transfer of F fighter jets for Ukraine as soon as training is complete according to a US official</li><li> The plan is to make sure Ukraine has the fighter jet it has long sought the moment its pilots complete training on the F Denmark and the Netherlands have taken the lead in preparing a program to train Ukrainian pilots on the American jet</li><li> The US is still working with other countries to see who may provide F s to the Ukrainian Air Force</li><li> Ukraine said Wednesday that it didn t expect to receive F s until sometime next year</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/17/politics/us-f-16-fighter-jets-ukraine/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "Ford reveals 800 horsepower Mustang with $300,000 price tag",
+            "description": "Ford has just unveiled the 800horsepower Ford Mustang GTD which will be available in late 2024 or early 2025 at a starting price around $300,000. Theres much more in this Mustang, according to Ford, besides its powerful engine to account for its Lamborghini",
+            "url": "/2023-08-17-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817132430-01-new-ford-mustang.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-18T00:31:28Z",
+            "content": "Ford has just unveiled the 800horsepower Ford Mustang GTD which will be available in late 2024 or early 2025 at a starting price around $300,000.Theres much more in this Mustang, according to Ford [+3031 chars]",
+            "summary": "Ford has just unveiled the horsepower Ford Mustang GTD which will be available in late or early at a starting price around $60,000. The car is modeled on the Mustang GT racing car that s set to be driven in international competition next year. Unlike other Mustangs this one has no back seats and no trunk the idea being to use every ounce of weight and each cubic inch of space as much as possible for performance. The back seats were done away with simply to save weight The space where a trunk would have been is used to house a special cooler for the gear box and machinery for the adjustable suspension system.",
+            "html_summary": "<ul><li>Ford has just unveiled the horsepower Ford Mustang GTD which will be available in late or early at a starting price around $60,000</li><li> The car is modeled on the Mustang GT racing car that s set to be driven in international competition next year</li><li> Unlike other Mustangs this one has no back seats and no trunk the idea being to use every ounce of weight and each cubic inch of space as much as possible for performance</li><li> The back seats were done away with simply to save weight The space where a trunk would have been is used to house a special cooler for the gear box and machinery for the adjustable suspension system</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/17/business/ford-mustang-supercar/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kaitlan Collins, Paula Reid",
+            "title": "Rudy Giuliani made desperate appeal to Trump to pay his legal bills in MaraLago meeting",
+            "description": "With his attorney in tow, Rudy Giuliani traveled to MaraLago in recent months on a mission to make a personal and desperate appeal to former President Donald Trump to pay his legal bills. By going in person, a source familiar with the matter told CNN, Giuli",
+            "url": "/2023-08-17-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814234556-rudy-giuliani-051923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T01:16:15Z",
+            "content": "With his attorney in tow, Rudy Giuliani traveled to MaraLago in recent months on a mission to make a personal and desperate appeal to former President Donald Trump to pay his legal bills. By going  [+3834 chars]",
+            "summary": "Rudy Giuliani traveled to Mar a Lago in recent months on a mission to make a personal and desperate appeal to former President Donald Trump to pay his legal bills. By going in person a source familiar with the matter told CNN Giuliani and his lawyer Robert Costello believed they could explain face to face why Trump needed to assist his former attorney. But the former president who is notoriously strict about dipping into his own coffers didn't seem very interested. Trump verbally agreed to help with some of Giuliani s legal bills without committing to any specific amount or timeline.",
+            "html_summary": "<ul><li>Rudy Giuliani traveled to Mar a Lago in recent months on a mission to make a personal and desperate appeal to former President Donald Trump to pay his legal bills</li><li> By going in person a source familiar with the matter told CNN Giuliani and his lawyer Robert Costello believed they could explain face to face why Trump needed to assist his former attorney</li><li> But the former president who is notoriously strict about dipping into his own coffers didn't seem very interested</li><li> Trump verbally agreed to help with some of Giuliani s legal bills without committing to any specific amount or timeline</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/16/politics/giuliani-trump-legal-bills/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "This Vietnamese automaker is worth more than Ford and GM. But it hasnt sold many cars",
+            "description": "Vietnamese electric vehicle company Vinfast is already more valuable than Ford and GM, based on its stock price, despite just entering the US market. But you may not have even heard of it. Heres what its all about, and whats been happening with it.",
+            "url": "/2023-08-17-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817110328-vinfast-electric-car-model-hanoi-0707.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T16:50:06Z",
+            "content": "Vietnamese electric vehicle company Vinfast is already more valuable than Ford(F) and GM(GM), based on its stock price, despite just entering the US market. But you may not have even heard of it. [+3866 chars]",
+            "summary": "Vietnamese electric vehicle company Vinfast is already more valuable than Ford F and GM GM based on its stock price despite just entering the US market. VinFast is currently only selling its VF electric SUV in California through company owned showrooms. The larger VinFast VF is expected to be available later this year with the smaller VF and VF SUVs coming some time next year as the company begins offering its products in more US markets. The company claims to account for of Vietnam s gross domestic product.",
+            "html_summary": "<ul><li>Vietnamese electric vehicle company Vinfast is already more valuable than Ford F and GM GM based on its stock price despite just entering the US market</li><li> VinFast is currently only selling its VF electric SUV in California through company owned showrooms</li><li> The larger VinFast VF is expected to be available later this year with the smaller VF and VF SUVs coming some time next year as the company begins offering its products in more US markets</li><li> The company claims to account for of Vietnam s gross domestic product</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/17/business/vinfast-company-profile/index.html"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Microsoft AI suggests food bank as a cannot miss tourist spot in Canada. Agility Robotics Damion Shelton and Melonee Wise will discuss the future of warehouse automation at TC Disrupt 2023. Ford reveals 800 horsepower Mustang with $300,000 price tag. Intels modernization strategy could face setback with end of $5.4B Tower deal. This Vietnamese automaker is worth more than Ford and GM. But it hasnt sold many cars. Lamborghini hops on the EV trend, revealing its new allelectric Italian bull. How Chinas economic turmoil could hurt your portfolio. Intel calls off $5.4 billion chip deal after failing to get regulatory approval. US commits to approving F16s for Ukraine as soon as training is complete. Ford reveals 800 horsepower Mustang with $300,000 price tag. Rudy Giuliani made desperate appeal to Trump to pay his legal bills in MaraLago meeting. This Vietnamese automaker is worth more than Ford and GM. But it hasnt sold many cars"
+}

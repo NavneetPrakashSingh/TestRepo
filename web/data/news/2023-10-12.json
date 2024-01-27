@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Rocket Report European rockets finally fly; Artemis II core stage issues | Makemetechie.com Summary",
+            "description": "This week, Intelsat signaled confidence in Relativity Spaces Terran R rocket.",
+            "url": "/2023-10-12-rocket-report-european-rockets-finally-fly-artemis-ii-rocket-issues",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/vv23-760x380.jpeg",
+            "publishedAt": "2023-10-13T11:00:51Z",
+            "content": "Enlarge/ A Vega rocket rides a column of exhaust from its solidfueled first stage, kicking off a mission to deliver 12 small satellites into orbit.4 with Welcome to Edition 6.15 of the Rocket Re [+6603 chars]",
+            "summary": "A Spanish launch company, named PLD Space, claimed success on Saturday after its suborbital Miura 1 rocket lifted off and achieved an altitude of 46 kilometers (29 miles) before plummeting into the Atlantic Ocean, Ars reports. The VSS Unity rocket plane landed on the runway at Spaceport America in New Mexico for refurbishment ahead of Virgin Galactic's next commercial suborbital mission.Astrobotic breathes new life into Masten's rocket program. Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.A Spanish rocket startup launched its first test flight. This was the company's fourth suborbital spaceflight with paying customers aboard, maintaining a monthly flight rate since Virgin Galactic's air-launched rocket plane started commercial service in late June. A small vertical-takeoff, vertical-landing rocket originally built by Masten Space Systems has resumed flights under the management of Astrobotic, which purchased the assets of bankrupt Masten last year, Space News reports. The liquid-fueled rocket was to reach an altitude of 80 kilometers, and PLD Space intended to recover the rocket and payload from the sea. Production of the basic version of Vega is being discontinued in favor of the larger Vega C, which remains grounded until late 2024 to allow for a redesign of its second-stage nozzle.An international mission ... During this week's mission, the Vega rocket placed 12 small satellites into orbit.",
+            "html_summary": "<ul><li>A Spanish launch company, named PLD Space, claimed success on Saturday after its suborbital Miura 1 rocket lifted off and achieved an altitude of 46 kilometers (29 miles) before plummeting into the Atlantic Ocean, Ars reports..</li><li>The VSS Unity rocket plane landed on the runway at Spaceport America in New Mexico for refurbishment ahead of Virgin Galactic's next commercial suborbital mission.Astrobotic breathes new life into Masten's rocket program..</li><li>Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.A Spanish rocket startup launched its first test flight..</li><li>This was the company's fourth suborbital spaceflight with paying customers aboard, maintaining a monthly flight rate since Virgin Galactic's air-launched rocket plane started commercial service in late June..</li><li>A small vertical-takeoff, vertical-landing rocket originally built by Masten Space Systems has resumed flights under the management of Astrobotic, which purchased the assets of bankrupt Masten last year, Space News reports..</li><li>The liquid-fueled rocket was to reach an altitude of 80 kilometers, and PLD Space intended to recover the rocket and payload from the sea..</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/10/rocket-report-european-rockets-finally-fly-artemis-ii-rocket-issues/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Chuong Nguyen",
+            "title": "Dealmaster Amazon Prime Day is over but these tech deals are still active | Makemetechie.com Summary",
+            "description": "These leftovers are still worth checking out.",
+            "url": "/2023-10-12-dealmaster-amazon-prime-day-is-over-but-these-tech-deals-are-still-active",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/d25e1d3d-7e68-46f5-98ab-dabeb93c098c_1.4417493938756f7e331de1842ea77dce-760x380.jpeg",
+            "publishedAt": "2023-10-13T16:36:31Z",
+            "content": "7 with Amazons Prime Day may be over this year, but not all the deals are gone. Whether youre looking for Sonys latest WF1000XM5 headphones to Apples AirPods Pro with a USBC charging case, Ai [+12787 chars]",
+            "summary": "Amazon s Prime Day may be over this year but not all the deals are gone. There s plenty to choose from if you missed Amazon s shopping event earlier this week. Whether you re looking for Sony s latest WF XM headphones to Apple s AirPods Pro with a USB C charging case AirTags to Peblebee trackers or home gear like Dyson Vitamix and Theragun there s plenty of deals. Ars Technica may earn compensation for sales from links on this post through affiliate programs.",
+            "html_summary": "<ul><li>Amazon s Prime Day may be over this year but not all the deals are gone.</li><li> There s plenty to choose from if you missed Amazon s shopping event earlier this week.</li><li> Whether you re looking for Sony s latest WF XM headphones to Apple s AirPods Pro with a USB C charging case AirTags to Peblebee trackers or home gear like Dyson Vitamix and Theragun there s plenty of deals.</li><li> Ars Technica may earn compensation for sales from links on this post through affiliate programs.</li></ul>",
+            "website_url": "https://arstechnica.com/shopping/2023/10/dealmaster-amazon-prime-day-is-over-but-these-tech-deals-are-still-active/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Google will shield AI users from copyright challenges, within limits | Makemetechie.com Summary",
+            "description": "New policy covers training data and AI outputbut no mention of Bard.",
+            "url": "/2023-10-12-google-will-shield-ai-users-from-copyright-challenges-within-limits",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/google_colors_gavel_2-760x380.jpg",
+            "publishedAt": "2023-10-13T19:12:53Z",
+            "content": "3 with On Thursday, Google announced that it plans to defend users of its generative AI systems on Google Cloud and Workspace platforms against intellectual property violation claims, reports Reute [+2321 chars]",
+            "summary": "Google will indemnify users of its generative AI systems on Google Cloud and Workspace platforms against intellectual property violation claims. The move follows similar commitments by Microsoft and Adobe but Google claims its approach is more comprehensive covering both the use of copyrighted works for training AI and the output generated by the systems. The new policy will cover software like its Vertex AI development platform and Duet AI system which are used for generating text and images in Google Workspace and Cloud programs. But Google s offer of indemnity comes with an important limitation It will not apply if users intentionally create or use generated output to infringe the rights of others according to Google.",
+            "html_summary": "<ul><li>Google will indemnify users of its generative AI systems on Google Cloud and Workspace platforms against intellectual property violation claims.</li><li> The move follows similar commitments by Microsoft and Adobe but Google claims its approach is more comprehensive covering both the use of copyrighted works for training AI and the output generated by the systems.</li><li> The new policy will cover software like its Vertex AI development platform and Duet AI system which are used for generating text and images in Google Workspace and Cloud programs.</li><li> But Google s offer of indemnity comes with an important limitation It will not apply if users intentionally create or use generated output to infringe the rights of others according to Google.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/10/google-will-shield-ai-users-from-copyright-challenges-within-limits/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MATTHEW DALY and MARC LEVY - Associated Press",
+            "title": "Biden awards $7 billion for clean hydrogen hubs across the country to help replace fossil fuels | Makemetechie.com Summary",
+            "description": "The Biden administration has selected cleanenergy projects from Pennsylvania to California for a $7 billion program to kickstart development and production of hydrogen fuel, a key component of President Joe Bidens agenda to slow climate change. Biden wants ",
+            "url": "/2023-10-12-hydrogen-hubs-energy-biden-climate-pennsylvania-west-virginia-d609a455a6dd018fca5af785f245c6fd",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/e6/ee6ff1f7-ffd5-5bd4-8f46-c852b50737ba/65291b16aadc1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-10-13T09:31:00Z",
+            "content": "By MATTHEW DALY and MARC LEVY  Associated PressWASHINGTON (AP) Cleanenergy projects in seven states from Pennsylvania to California have been selected by the Biden administration for a $7 billion [+6862 chars]",
+            "summary": "The White House has selected the Philadelphia area and West Virginia for two regional hubs to produce and deliver hydrogen fuel, an important part of the Biden administrations clean energy plan, according to a person familiar with the plan. The intent is to accelerate the availability and use of the colorless, odorless gas that already powers some vehicles and trains.Among those selected were the Appalachian Regional Clean Hydrogen Hub, based in West Virginia, and the Philadelphia-based Mid-Atlantic Clean Hydrogen Hub. The hub plans to use renewable energy, natural gas and nuclear energy.The Pacific Northwest hub, based in eastern Washington, will extend to Oregon and Montana and will use hydropower and other renewable resources to produce clean hydrogen. West Virginia will be on the leading edge of building out the new hydrogen market.'The Appalachian hub will extend to Ohio and includes a $1.6 billion facility under construction in northern Pennsylvania that is working to produce near-zero emissions hydrogen from natural gas. Gavin Newsom said Friday.The Gulf Coast Hydrogen Hub will be centered in Houston, long the energy capital of the U.S., and plans large-scale hydrogen production from both natural gas and renewables. Big fossil fuel companies, renewable energy developers and researchers in university and government labs are involved, too.Environmental groups are skeptical, arguing that while hydrogen is a clean-burning source of power, it takes a great deal of energy to produce. Pennsylvania has projects in two separate hubs.The infrastructure law Biden signed in 2021 included billions of dollars to develop so-called clean hydrogen, a technology that industry and clean-energy advocates have long pushed as a way to reduce planet-warming greenhouse gas emissions produced by fossil fuels.",
+            "html_summary": "<ul><li>The White House has selected the Philadelphia area and West Virginia for two regional hubs to produce and deliver hydrogen fuel, an important part of the Biden administration’s clean energy plan, according to a person familiar with the plan..</li><li>The intent is to accelerate the availability and use of the colorless, odorless gas that already powers some vehicles and trains.Among those selected were the Appalachian Regional Clean Hydrogen Hub, based in West Virginia, and the Philadelphia-based Mid-Atlantic Clean Hydrogen Hub..</li><li>The hub plans to use renewable energy, natural gas and nuclear energy.The Pacific Northwest hub, based in eastern Washington, will extend to Oregon and Montana and will use hydropower and other renewable resources to produce clean hydrogen..</li><li>“West Virginia will be on the leading edge of building out the new hydrogen market.’'The Appalachian hub will extend to Ohio and includes a $1.6 billion facility under construction in northern Pennsylvania that is working to produce near-zero emissions hydrogen from natural gas..</li><li>Gavin Newsom said Friday.The Gulf Coast Hydrogen Hub will be centered in Houston, long the energy capital of the U.S., and plans large-scale hydrogen production from both natural gas and renewables..</li><li>Big fossil fuel companies, renewable energy developers and researchers in university and government labs are involved, too.Environmental groups are skeptical, arguing that while hydrogen is a clean-burning source of power, it takes a great deal of energy to produce..</li></ul>",
+            "website_url": "https://apnews.com/article/hydrogen-hubs-energy-biden-climate-pennsylvania-west-virginia-d609a455a6dd018fca5af785f245c6fd"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Rocket Report European rockets finally fly; Artemis II core stage issues | Makemetechie.com Summary. Dealmaster Amazon Prime Day is over but these tech deals are still active | Makemetechie.com Summary. Google will shield AI users from copyright challenges, within limits | Makemetechie.com Summary. Biden awards $7 billion for clean hydrogen hubs across the country to help replace fossil fuels | Makemetechie.com Summary"
+}

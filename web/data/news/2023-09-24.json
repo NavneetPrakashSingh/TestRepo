@@ -1,0 +1,167 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "The first foldable PC era is unfolding | Makemetechie.com Summary",
+            "description": "LGs 17inch foldable OLED arrives October 4 for 4.99 million won (~$3,726).",
+            "url": "/2023-09-24-the-first-foldable-pc-era-is-unfolding",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/laptop-760x380.jpg",
+            "publishedAt": "2023-09-25T18:51:00Z",
+            "content": "21 with  LG announced its first foldable laptop, the Gram Fold, today.  The laptop reportedly has two USBC ports, three speakers, WiFi 6E, and Bluetooth 5.1.   [+3118 chars]",
+            "summary": "LG became the latest OEM to announce a foldable screen laptop right after HP announced its first attempt the Spectre Foldable PC earlier this month. LG only announced the Gram Fold in South Korea thus far and LG didn t immediately respond when I asked if it has plans to release the machine in the US. LG said the gram Fold will release on October for million won about. LG Display announced today that it will start mass production of inch foldable OLED laptop panels as panel supplier LG Display first entered production of foldable inch laptop panels in 2012.",
+            "html_summary": "<ul><li>LG became the latest OEM to announce a foldable screen laptop right after HP announced its first attempt the Spectre Foldable PC earlier this month.</li><li> LG only announced the Gram Fold in South Korea thus far and LG didn t immediately respond when I asked if it has plans to release the machine in the US.</li><li> LG said the gram Fold will release on October for million won about.</li><li> LG Display announced today that it will start mass production of inch foldable OLED laptop panels as panel supplier LG Display first entered production of foldable inch laptop panels in 2012.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/09/the-first-foldable-pc-era-is-unfolding/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Newsom kills law to have human drivers ride in autonomous trucks... | Makemetechie.com Summary",
+            "description": "Californias Democratic governor has vetoed a bill that would have required human drivers to be on board selfdriving trucks. Union leaders and truck drivers had said the measure would save jobs. Gov. Gavin Newsom vetoed the legislation Friday night. It would",
+            "url": "/2023-09-24-california-self-driving-trucks-newsom-veto-b585941fa05fc2c6b3a1965bcec3ee73",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0a80a4d/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2Fe9%2Fd6c3c8a4669471d3d53f3d6bf62f%2Fdd69b634c61c46ce9e2d3a878713ace3",
+            "publishedAt": "2023-09-24T12:52:37Z",
+            "content": "SACRAMENTO, Calif. (AP) California Gov. Gavin Newsom has vetoed a bill to require human drivers on board selfdriving trucks, a measure that union leaders and truck drivers said would save hundreds o [+3053 chars]",
+            "summary": "Gavin Newsom on Friday, Sept. 22, 2023, has vetoed a bill to require human drivers on board self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs in the state. Union leaders and truck drivers had said the measure would save jobs. The legislation vetoed Friday, Sept. 22, 2023, night would have banned self-driving trucks weighing more than 10,000 pounds (4,536 kilograms), vehicles from UPS delivery vans to massive big rigs, from operating on public roads unless a human driver is on board. Gavin Newsom has vetoed a bill that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs. Newsom has vetoed a bill Friday, Sept. 22, 2023, that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs. Gavin Newsom has vetoed a bill Friday, Sept. 22, 2023, that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs. Gavin Newsom has vetoed a bill that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save jobs.",
+            "html_summary": "<ul><li>Gavin Newsom on Friday, Sept. 22, 2023, has vetoed a bill to require human drivers on board self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs in the state..</li><li>Union leaders and truck drivers had said the measure would save jobs..</li><li>The legislation vetoed Friday, Sept. 22, 2023, night would have banned self-driving trucks weighing more than 10,000 pounds (4,536 kilograms), vehicles from UPS delivery vans to massive big rigs, from operating on public roads unless a human driver is on board..</li><li>Gavin Newsom has vetoed a bill that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs..</li><li>Newsom has vetoed a bill Friday, Sept. 22, 2023, that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs..</li><li>Gavin Newsom has vetoed a bill Friday, Sept. 22, 2023, that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs..</li></ul>",
+            "website_url": "https://apnews.com/article/california-self-driving-trucks-newsom-veto-b585941fa05fc2c6b3a1965bcec3ee73"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Signals Meredith Whittaker AI is fundamentally a surveillance technology | Makemetechie.com Summary",
+            "description": "Why is it that so many companies that rely on monetizing the data of their users seem to be extremely hot on AI?  If you ask Signal president Meredith...",
+            "url": "/2023-09-24-signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RvqGip0bKqNcYUdoKM9MSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/373ffb46ffaf8f0f6e5f00960d06cebb",
+            "publishedAt": "2023-09-25T23:01:13Z",
+            "content": "Why is it that so many companies that rely on monetizing the data of their users seem to be extremely hot on AI? If you ask Signal president Meredith Whittaker (and I did), shell tell you its simpl [+3103 chars]",
+            "summary": "Signal president Meredith Whittaker spoke at TechCrunch Disrupt. She said AI is largely inseparable from the big data and targeting industry perpetuated by the likes of Google and Meta as well as less consumer focused but equally prominent enterprise and defense companies. She pointed out the data that underlies these systems is frequently organized and annotated a necessary step in the AI dataset assembly process by the very workers at whom it can be aimed. Not all AI and machine learning systems are equally exploitative though she added.",
+            "html_summary": "<ul><li>Signal president Meredith Whittaker spoke at TechCrunch Disrupt.</li><li> She said AI is largely inseparable from the big data and targeting industry perpetuated by the likes of Google and Meta as well as less consumer focused but equally prominent enterprise and defense companies.</li><li> She pointed out the data that underlies these systems is frequently organized and annotated a necessary step in the AI dataset assembly process by the very workers at whom it can be aimed.</li><li> Not all AI and machine learning systems are equally exploitative though she added.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Amazon to invest up to $4 billion in AI startup Anthropic | Makemetechie.com Summary",
+            "description": "Amazon has agreed to invest up to $4 billion in the AI startup Anthropic as the ecommerce group steps up rivalry against Microsoft, Meta, Google and Nvidia ...",
+            "url": "/2023-09-24-amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3b0p3CM_hla1m9lW70Zbuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/d554c9ae8b521e6447400504b0f0f3cb",
+            "publishedAt": "2023-09-25T07:10:49Z",
+            "content": "Amazon has agreed to invest up to $4 billion in the AI startup Anthropic as the ecommerce group steps up rivalry against Microsoft, Meta, Google and Nvidia in the fastgrowing sector that many techn [+3874 chars]",
+            "summary": "Amazon has agreed to invest up to billion in the AI startup Anthropic the two firms said. The e commerce group said it will initially invest billion for a minority stake in Anthropic. As part of the deal Amazon said it has an option to increase its investment to a total of billion. Anthropic which also counts Google as an investor plans to raise as much as billion over the next two years Anthropic plans to build a frontier model tentatively called Claude Next that is times more capable than today s most powerful AI according to a investor deck TechCrunch obtained earlier this year.",
+            "html_summary": "<ul><li>Amazon has agreed to invest up to billion in the AI startup Anthropic the two firms said.</li><li> The e commerce group said it will initially invest billion for a minority stake in Anthropic.</li><li> As part of the deal Amazon said it has an option to increase its investment to a total of billion.</li><li> Anthropic which also counts Google as an investor plans to raise as much as billion over the next two years Anthropic plans to build a frontier model tentatively called Claude Next that is times more capable than today s most powerful AI according to a investor deck TechCrunch obtained earlier this year.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Correcto grabs $7M to build out its Grammarly for Spanish | Makemetechie.com Summary",
+            "description": "The generative AI boom has put a spring in the step of Correcto, a Madridbased language writing tool startup focused on Spanish speakers thats today...",
+            "url": "/2023-09-24-correcto-seed",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lWHCh.QVbkWu39rbfB.4Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/c2197f971ddf812b763d2f501e489e24",
+            "publishedAt": "2023-09-25T05:00:38Z",
+            "content": "The generative AI boom has put a spring in the step of Correcto, a Madridbased language writing tool startup focused on Spanish speakers thats today announcing $7 million in seed funding. The round [+12781 chars]",
+            "summary": "The generative AI boom has put a spring in the step of Correcto, a Madrid-based language writing tool startup focused on Spanish speakers thats today announcing $7 million in seed funding. But our goal is to be the first unicorn that comes from writing particularly focused in Spanish.The startup points to the huge size of the addressable market, saying there more native Spanish speakers (500 million) than native English speakers (373 million). Large language models (LLMs) like OpenAIs ChatGPT and Anthropics Claude are now freely available (at least for casual) and able to generate all sorts of written texts on demand, including writing in Spanish. He even floats the possibility that the pair could end up working together in the future  if/when Clibrain delivers a more powerful LLM (with 40BN parameters, rather than the 7BN of its debut model).On the auto-editing side, he also name-checks rival writing assistant business LanguageTool. Correctos strategy is to go deep on language nuance and broad in the sense of offering a tool for Spanish speakers that offers multifaceted utility.Prior to todays $7 million seed the startup had taken in a pre-seed raise of $1M. So, along with a third (technical) co-founder, CTO Antonio Triguero Noriega, they set to work on an MVP.The early version of Correcto used rules-based natural language processing plus a proprietary data-base of Spanish phrases to power Grammarly-style auto-editing features, correcting for grammar and style in the target language. (Though they say they are also committed to keep offering a freemium version of the tool for individual users, which provides them with valuable feedback on the product.",
+            "html_summary": "<ul><li>The generative AI boom has put a spring in the step of Correcto, a Madrid-based language writing tool startup focused on Spanish speakers that’s today announcing $7 million in seed funding..</li><li>But our goal is to be the first unicorn that comes from writing particularly focused in Spanish.”The startup points to the huge size of the addressable market, saying there more native Spanish speakers (500 million) than native English speakers (373 million)..</li><li>Large language models (LLMs) like OpenAI’s ChatGPT and Anthropic’s Claude are now freely available (at least for casual) and able to generate all sorts of written texts on demand, including writing in Spanish..</li><li>He even floats the possibility that the pair could end up working together in the future — if/when Clibrain delivers a more powerful LLM (with 40BN parameters, rather than the 7BN of its debut model).On the auto-editing side, he also name-checks rival writing assistant business LanguageTool..</li><li>Correcto’s strategy is to go deep on language nuance and broad in the sense of offering a tool for Spanish speakers that offers multifaceted utility.Prior to today’s $7 million seed the startup had taken in a pre-seed raise of $1M..</li><li>So, along with a third (technical) co-founder, CTO Antonio Triguero Noriega, they set to work on an MVP.The early version of Correcto used rules-based natural language processing plus a proprietary data-base of Spanish phrases to power Grammarly-style auto-editing features, correcting for grammar and style in the target language..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/24/correcto-seed/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By ANDREW DALTON - AP Entertainment Writer",
+            "title": "Writers union reaches tentative deal with Hollywood studios to end historic strike | Makemetechie.com Summary",
+            "description": "Screenwriters union leaders and Hollywood studios have reached a tentative agreement to end a historic strike after nearly five months. That is raising hopes that a crippling shutdown of movie and television filming is near an end. Actors remain on",
+            "url": "/2023-09-24-writers-strike-deal-hollywood-wga-3336824c06795931845c889f1e08b3ff",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/2/18/218d6a10-33ef-5e51-bbb0-d012b2219462/6511867321c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-09-25T14:08:00Z",
+            "content": "LOS ANGELES (AP) Screenwriters union leaders and Hollywood studios have reached a tentative agreement to end a historic strike after nearly five months, raising hopes that a crippling shutdown of fil [+5886 chars]",
+            "summary": "Union leaders and Hollywood studios reached a tentative agreement Sunday to end a historic screenwriters strike after nearly five months  though no deal is yet in the works for striking actors. Gavin Newsom congratulated the two sides on the deal and expressed hopes that the industry could return to normal soon.The writers strike immediately sent late-night talk shows and Saturday Night Live on hiatus. They encouraged writers to join the actors on their picket lines in solidarity.The three-year contract agreement emerged after five marathon days of renewed talks by the WGA and negotiators from the Alliance of Motion Picture and Television Producers, which represents studios, streaming services and production companies in the negotiations. Discovery, Paramount, Disney and Netflix all rose about 2% or less on Monday.The agreement came just five days before the strike would have become the longest in the guilds history and the longest Hollywood strike more than 70 years. Network shows including NBCs The Tonight Show Starring Jimmy Fallon and ABCs Jimmy Kimmel Live! could return to the air within days.Details of the agreement have not yet been made public or even shared with the writers themselves because the contract language is being finalized. A tentative deal was reached, Sunday, Sept. 24, 2023, to end Hollywoods writers strike after nearly five months. But I think people are pretty used to being ready to go on short notice.Union leaders told writers not to return to work yet, but picketing will be suspended.",
+            "html_summary": "<ul><li>Union leaders and Hollywood studios reached a tentative agreement Sunday to end a historic screenwriters strike after nearly five months — though no deal is yet in the works for striking actors..</li><li>Gavin Newsom congratulated the two sides on the deal and expressed hopes that the industry could return to normal soon.The writers strike immediately sent late-night talk shows and “Saturday Night Live” on hiatus..</li><li>They encouraged writers to join the actors on their picket lines in solidarity.The three-year contract agreement emerged after five marathon days of renewed talks by the WGA and negotiators from the Alliance of Motion Picture and Television Producers, which represents studios, streaming services and production companies in the negotiations..</li><li>Discovery, Paramount, Disney and Netflix all rose about 2% or less on Monday.The agreement came just five days before the strike would have become the longest in the guild’s history and the longest Hollywood strike more than 70 years..</li><li>Network shows including NBC’s “The Tonight Show Starring Jimmy Fallon” and ABC’s “Jimmy Kimmel Live!” could return to the air within days.Details of the agreement have not yet been made public or even shared with the writers themselves because the contract language is being finalized..</li><li>A tentative deal was reached, Sunday, Sept. 24, 2023, to end Hollywood’s writers strike after nearly five months..</li></ul>",
+            "website_url": "https://apnews.com/article/writers-strike-deal-hollywood-wga-3336824c06795931845c889f1e08b3ff"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "California governor vetoes bill to ban driverless AV trucks | TechCrunch | Makemetechie.com Summary",
+            "description": "California Gov. Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a selfdriving truck operated on",
+            "url": "/2023-09-24-california-governor-vetoes-bill-to-ban-driverless-av-trucks",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1168450645.jpg?w=1024",
+            "publishedAt": "2023-09-25T00:17:42Z",
+            "content": "California Gov. Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a selfdriving truck operated on public roads in the state.The win for the  [+3120 chars]",
+            "summary": "California Gov Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a self driving truck operated on public roads in the state. The bill would have effectively banned driverless autonomous heavy duty trucks from operating in the way they were designed. The win for the autonomous trucking industry comes after the California Senate passed the bill in mid September. Despite being a battleground for robotaxi companies like Waymo and Cruise to develop and commercialize their technology California has some of the strictest autonomous vehicle regulation in the nation.",
+            "html_summary": "<ul><li>California Gov Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a self driving truck operated on public roads in the state.</li><li> The bill would have effectively banned driverless autonomous heavy duty trucks from operating in the way they were designed.</li><li> The win for the autonomous trucking industry comes after the California Senate passed the bill in mid September.</li><li> Despite being a battleground for robotaxi companies like Waymo and Cruise to develop and commercialize their technology California has some of the strictest autonomous vehicle regulation in the nation.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/24/california-governor-vetoes-bill-to-ban-driverless-av-trucks/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "OpenAI gives ChatGPT a voice for verbal conversations | TechCrunch | Makemetechie.com Summary",
+            "description": "ChatGPT is evolving into more than a textbased search engine, with OpenAI announcing that its adding new voice and image smarts to the mix.",
+            "url": "/2023-09-24-openai-chatgpt-voice",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
+            "publishedAt": "2023-09-25T13:55:11Z",
+            "content": "ChatGPT is evolving into much more than a textbased search engine, with OpenAI announcing today that its adding new voice and imagebased smarts to the mix.The wildly popular generative AI assist [+3185 chars]",
+            "summary": "ChatGPT has been one of the biggest technology success stories of recent times allowing anyone to generate essays poems and summaries from simple text based prompts. Today marks a notable evolution for the generative AI movement with OpenAI meshing the familiar world of voice based assistants with its powerful large language models LLMs. The announcement comes on the same day Amazon committed to invest up to billion in OpenAI rival Anthropic a move that constitutes part of a bigger generativeAI battle between the tech giants of the world.",
+            "html_summary": "<ul><li>ChatGPT has been one of the biggest technology success stories of recent times allowing anyone to generate essays poems and summaries from simple text based prompts.</li><li> Today marks a notable evolution for the generative AI movement with OpenAI meshing the familiar world of voice based assistants with its powerful large language models LLMs.</li><li> The announcement comes on the same day Amazon committed to invest up to billion in OpenAI rival Anthropic a move that constitutes part of a bigger generativeAI battle between the tech giants of the world.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Tinder snobs can now pay $499 per month to be matched with the mostsought after profiles | TechCrunch | Makemetechie.com Summary",
+            "description": "Tinder has rolled out its promised highend membership, a pricey $499 per month subscription dubbed Tinder Select, which includes unique perks like the",
+            "url": "/2023-09-24-tinder-snobs-can-now-pay-499-per-month-to-be-matched-with-the-most-sought-after-profiles",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/tinder-icon-ios.jpg?resize=1200,675",
+            "publishedAt": "2023-09-25T14:15:19Z",
+            "content": "Tinder has rolled out its promised highend membership, a pricey $499 per month subscription dubbed Tinder Select, which includes unique perks like the ability to be seen by more users, including T [+2897 chars]",
+            "summary": "Tinder has rolled out its promised high end membership a pricey per month subscription dubbed Tinder Select. Tinder Select includes unique perks like the ability to be seen by more users including Tinder s most sought after profiles. The new subscription can be stacked with a Plus Gold or Platinum subscription for access to more features. The news was first reported by Bloomberg and follows parent company Match Group s earlier confirmation that Tinder would expand its membership options to include a new high end product catering to Gen Z users sometime this fall.",
+            "html_summary": "<ul><li>Tinder has rolled out its promised high end membership a pricey per month subscription dubbed Tinder Select.</li><li> Tinder Select includes unique perks like the ability to be seen by more users including Tinder s most sought after profiles.</li><li> The new subscription can be stacked with a Plus Gold or Platinum subscription for access to more features.</li><li> The news was first reported by Bloomberg and follows parent company Match Group s earlier confirmation that Tinder would expand its membership options to include a new high end product catering to Gen Z users sometime this fall.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/25/tinder-snobs-can-now-pay-499-per-month-to-be-matched-with-the-most-sought-after-profiles/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "NASA spacecraft returns to Earth with pieces of an asteroid | Makemetechie.com Summary",
+            "description": "NASA spacecraft returns to Earth with pieces of an asteroidarstechnica.com",
+            "url": "/2023-09-24-nasa-spacecraft-returns-to-earth-with-pieces-of-an-asteroid",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/dante-src1-760x380.jpg",
+            "publishedAt": "2023-09-24T19:29:19Z",
+            "content": "Enlarge/ Dante Lauretta (right), OSIRISREx principal investigator, approaches the sample return capsule Sunday at the Utah Test and Training Range.3 with A small capsule carrying pristine specim [+13451 chars]",
+            "summary": "NASA s OSIRIS REx mission brought back the largest unspoiled sample of material ever returned to Earth from beyond the Moon probably on the order of about grams or roughly ounces. The spacecraft collected the samples from asteroid Bennu a loosely bound rocky world about the size of a small mountain during a touch and go landing in October. It s the third asteroid sampling mission in history and the first for the United States following two Japanese spacecraft that returned a smaller quantity of asteroid specimens to Earth in and.",
+            "html_summary": "<ul><li>NASA s OSIRIS REx mission brought back the largest unspoiled sample of material ever returned to Earth from beyond the Moon probably on the order of about grams or roughly ounces.</li><li> The spacecraft collected the samples from asteroid Bennu a loosely bound rocky world about the size of a small mountain during a touch and go landing in October.</li><li> It s the third asteroid sampling mission in history and the first for the United States following two Japanese spacecraft that returned a smaller quantity of asteroid specimens to Earth in and.</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/09/nasa-spacecraft-returns-to-earth-with-pieces-of-an-asteroid/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. The first foldable PC era is unfolding | Makemetechie.com Summary. Newsom kills law to have human drivers ride in autonomous trucks... | Makemetechie.com Summary. Signals Meredith Whittaker AI is fundamentally a surveillance technology | Makemetechie.com Summary. Amazon to invest up to $4 billion in AI startup Anthropic | Makemetechie.com Summary. Correcto grabs $7M to build out its Grammarly for Spanish | Makemetechie.com Summary. Writers union reaches tentative deal with Hollywood studios to end historic strike | Makemetechie.com Summary. California governor vetoes bill to ban driverless AV trucks | TechCrunch | Makemetechie.com Summary. OpenAI gives ChatGPT a voice for verbal conversations | TechCrunch | Makemetechie.com Summary. Tinder snobs can now pay $499 per month to be matched with the mostsought after profiles | TechCrunch | Makemetechie.com Summary. NASA spacecraft returns to Earth with pieces of an asteroid | Makemetechie.com Summary"
+}

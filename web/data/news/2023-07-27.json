@@ -1,0 +1,183 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Ultrafast niobium batteries boast 6min charge for Lotus Elisebased EV",
+            "description": "Nyobolts battery tech is meant for consumer applications, as well as EVs.",
+            "url": "/2023-07-27-ultra-fast-niobium-batteries-boast-6-min-charge-for-lotus-elise-based-ev",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Nyobolt-EV-at-2023-GFOS-1-760x380.jpg",
+            "publishedAt": "2023-07-27T16:38:20Z",
+            "content": "Enlarge/ The Lotus Elise is an archetypal lightweight sports car. Now, it has inspired a showcase for new battery technology, courtesy of Nyobolt.59 with Polestar provided a flight from Washingto [+3461 chars]",
+            "summary": "Nyobolt EV is a stretched Lotus Exige chassis with new bodywork designed by Julian Thompson who styled the original Elise in Delightful. The concept showcases a new battery technology that promises more rapid DC charging than any electric vehicle currently on sale. Nyobolt is commercializing research originally conducted at the University of Cambridge using niobium tungsten oxides for battery anodes. It still takes longer to recharge a battery than refill a gas tank and EV charging locations don t shout their presence with foot ad displays along highways.",
+            "html_summary": "<ul><li>Nyobolt EV is a stretched Lotus Exige chassis with new bodywork designed by Julian Thompson who styled the original Elise in Delightful</li><li> The concept showcases a new battery technology that promises more rapid DC charging than any electric vehicle currently on sale</li><li> Nyobolt is commercializing research originally conducted at the University of Cambridge using niobium tungsten oxides for battery anodes</li><li> It still takes longer to recharge a battery than refill a gas tank and EV charging locations don t shout their presence with foot ad displays along highways</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/07/ultra-fast-niobium-batteries-boast-6-min-charge-for-lotus-elise-based-ev/"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Natasha Bertrand",
+            "title": "US intel report details increasing importance of Chinese technology to Russias war in Ukraine",
+            "description": "China is providing technology and equipment to Russia that is increasingly important to Moscows war in Ukraine, according to a newly released report compiled by the Office of the Director of National Intelligence.",
+            "url": "/2023-07-27-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230727122350-china-russian-flags-052423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-27T17:34:59Z",
+            "content": "China is providing technology and equipment to Russia that is increasingly important to Moscows war in Ukraine, according to a newly released report compiled by the Office of the Director of National [+3758 chars]",
+            "summary": "China is providing technology and equipment to Russia that is increasingly important to Moscow s war in Ukraine according to a newly released report compiled by the Office of the Director of National Intelligence. The report titled Support Provided by the People s Republic of China to Russia is unclassified and largely cites open source data and western press reporting to support its claims. It includes the US intelligence community assessment that China has become an increasingly important buttress for Russia in its war effort The report says that as of March China had shipped more than million in drones and drone parts to Russia citing a third party analysis of Russian customs data.",
+            "html_summary": "<ul><li>China is providing technology and equipment to Russia that is increasingly important to Moscow s war in Ukraine according to a newly released report compiled by the Office of the Director of National Intelligence</li><li> The report titled Support Provided by the People s Republic of China to Russia is unclassified and largely cites open source data and western press reporting to support its claims</li><li> It includes the US intelligence community assessment that China has become an increasingly important buttress for Russia in its war effort The report says that as of March China had shipped more than million in drones and drone parts to Russia citing a third party analysis of Russian customs data</li></ul>",
+            "website_url": "https://www.cnn.com/2023/07/27/politics/us-intelligence-report-russia-china-ukraine/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy, Deborah Brunswick, Hazel Tang",
+            "title": "AC is hard on the planet. This building has a sustainable solution",
+            "description": "In midJuly at the construction site at 1 Java Street in Brooklyn, New York, the outside temperatures can reach sweltering highs in the 90s. But 500feet underground, its 55 degrees all year round.",
+            "url": "/2023-07-27-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230724171217-lendlease-geothermal-03.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-27T11:21:23Z",
+            "content": "In midJuly at the construction site at 1 Java Street in Brooklyn, New York, the outside temperatures can reach sweltering highs in the 90s. But 500feet underground, its 55 degrees all year round.  [+4750 chars]",
+            "summary": "Geothermal technology is essentially a more eco friendly version of an HVAC system allowing the building spaces and water to be cooled and heated more efficiently without traditional window AC units and natural gas. Java Street is set to be the largest multifamily residential building with geothermal heating and cooling system in New York State and potentially the country when it s completed in late according to developer Lendlease Geothermal plumbing works by sending water from a building deep into the ground below it to take advantage of the earth s naturally stable internal temperature on hot days the underground temperature will reduce the temperature of warm water from the building to help with cooling.",
+            "html_summary": "<ul><li>Geothermal technology is essentially a more eco friendly version of an HVAC system allowing the building spaces and water to be cooled and heated more efficiently without traditional window AC units and natural gas</li><li> Java Street is set to be the largest multifamily residential building with geothermal heating and cooling system in New York State and potentially the country when it s completed in late according to developer Lendlease Geothermal plumbing works by sending water from a building deep into the ground below it to take advantage of the earth s naturally stable internal temperature on hot days the underground temperature will reduce the temperature of warm water from the building to help with cooling</li></ul>",
+            "website_url": "https://www.cnn.com/2023/07/27/tech/geothermal-building-nyc-extreme-heat-mission-ahead/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He",
+            "title": "Volkswagen invests $700 million in Chinese EV maker Xpeng to boost sluggish sales",
+            "description": "Volkswagen has bought nearly 5% of Chinese electric vehicle maker Xpeng for $700 million and agreed a strategic partnership to develop two new models as it attempts to reverse a decline in sales in the worlds biggest car market.",
+            "url": "/2023-07-27-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230727042747-volkswagen-china.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-27T11:47:43Z",
+            "content": "Volkswagen has bought nearly 5% of Chinese electric vehicle maker Xpeng for $700 million and agreed a strategic partnership to develop two new models as it attempts to reverse a decline in sales in t [+3991 chars]",
+            "summary": "Volkswagen has bought nearly of Chinese electric vehicle maker Xpeng for million and agreed a strategic partnership to develop two new models. China is the single largest market for Volkswagen accounting for about of its global sales and half of its profits. The company faces sluggish sales and fierce competition from local rivals such as BYD and Tesla global market leader in fully electric vehicles Volkswagen Group is stepping up the pace of its transformation in China where the group aims to remain amongst the top three in the market.",
+            "html_summary": "<ul><li>Volkswagen has bought nearly of Chinese electric vehicle maker Xpeng for million and agreed a strategic partnership to develop two new models</li><li> China is the single largest market for Volkswagen accounting for about of its global sales and half of its profits</li><li> The company faces sluggish sales and fierce competition from local rivals such as BYD and Tesla global market leader in fully electric vehicles Volkswagen Group is stepping up the pace of its transformation in China where the group aims to remain amongst the top three in the market</li></ul>",
+            "website_url": "https://www.cnn.com/2023/07/27/cars/china-volkswagen-xpeng-investment-intl-hnk/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "Electric cars arent just for the wealthy anymore",
+            "description": "Thanks to a combination of new models, more production and new tax laws, electric vehicles are no longer just for the wealthy.",
+            "url": "/2023-07-27-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230707142203-hyundai-ioniq-6-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-27T17:46:17Z",
+            "content": "Thanks to a combination of new models, more production and new tax laws, electric vehicles are no longer just for the wealthy.While the average sale price of a new vehicle gasoline or electric hove [+5701 chars]",
+            "summary": "While the average sale price of a new vehicle  gasoline or electric  hovers around $48,000, automakers like General Motors, Ford, Hyundai, Kia and Volkswagen have all introduced a variety of electric vehicles that come in significantly below that figure. Due to a quirk in Americas tax laws, if the vehicle is being leased, rather than purchased, the full $7,500 tax credit can be used for most new electric vehicles. That low price, with the tax credit, can translate to a monthly lease in the $400 range or less if you trade in a vehicle or make a down payment, a capitalized cost reduction or cap cost reduction, in leasing lingo, according to Edmunds.coms lease calculator. Because its been purchased by a company, any car you lease is a commercial vehicle and gets the benefit of more lax tax rules for commercial vehicle purchases, explained Mark Luxcombe, principal analyst with the tax and accounting firm Wolters Kluwer.  Thanks to a combination of new models, more production and new tax laws, electric vehicles are no longer just for the wealthy. Thats not because electric vehicles are selling poorly, said Brian Moody, executive editor at Autotrader, but because carmakers are introducing more new models while production of vehicles of all sorts is increasing. Plus, there are ways for car shoppers to take advantage of tax credits on electric vehicles without having to worry about arcane rules around battery sourcing and limits on the buyers personal income.",
+            "html_summary": "<ul><li>While the average sale price of a new vehicle – gasoline or electric – hovers around $48,000, automakers like General Motors, Ford, Hyundai, Kia and Volkswagen have all introduced a variety of electric vehicles that come in significantly below that figure.</li><li>Due to a quirk in America’s tax laws, if the vehicle is being leased, rather than purchased, the full $7,500 tax credit can be used for most new electric vehicles.</li><li>That low price, with the tax credit, can translate to a monthly lease in the $400 range or less if you trade in a vehicle or make a down payment, a “capitalized cost reduction” or “cap cost reduction,” in leasing lingo, according to Edmunds.com’s lease calculator.</li><li>Because it’s been purchased by a company, any car you lease is a “commercial vehicle” and gets the benefit of more lax tax rules for commercial vehicle purchases, explained Mark Luxcombe, principal analyst with the tax and accounting firm Wolters Kluwer.</li><li> Thanks to a combination of new models, more production and new tax laws, electric vehicles are no longer just for the wealthy.</li><li>That’s not because electric vehicles are selling poorly, said Brian Moody, executive editor at Autotrader, but because carmakers are introducing more new models while production of vehicles of all sorts is increasing.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/07/27/business/affordable-electric-vehicles/index.html"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "GlossGenius raises $28M to expand its bookings and payments platform for beauty businesses",
+            "description": "GlossGenius, a platform designed to handle bookings and payments for salons and spas, today announced that it raised $28 million in a Series C funding round led by L Catterton with participation from Bessemer Venture Partners and Imaginary Ventures. The round",
+            "url": "/2023-07-27-glossgenius-raises-28m-to-expand-its-bookings-and-payments-platform-for-beauty-businesses",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/salon-india-image-getty.jpg?w=1200",
+            "publishedAt": "2023-07-27T12:00:49Z",
+            "content": "GlossGenius, a platform designed to handle bookings and payments for salons and spas, today announced that it raised $28 million in a Series C funding round led by L Catterton with participation from [+5006 chars]",
+            "summary": "GlossGenius a platform designed to handle bookings and payments for salons and spas today announced that it raised million in a Series C funding round led by L Catterton with participation from Bessemer Venture Partners and Imaginary Ventures. Founder and CEO Danielle Cohen Shohet says that it ll be put toward developing additional products to support business owners in the beauty and wellness sectors. GlossGenius has become a critical gateway for success and social mobility for business owners that have traditionally been underserved by technology.",
+            "html_summary": "<ul><li>GlossGenius a platform designed to handle bookings and payments for salons and spas today announced that it raised million in a Series C funding round led by L Catterton with participation from Bessemer Venture Partners and Imaginary Ventures</li><li> Founder and CEO Danielle Cohen Shohet says that it ll be put toward developing additional products to support business owners in the beauty and wellness sectors</li><li> GlossGenius has become a critical gateway for success and social mobility for business owners that have traditionally been underserved by technology</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/27/glossgenius-raises-28m-to-expand-its-bookings-and-payments-platform-for-beauty-businesses/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By CHRIS MEGERIAN, DREW COSTLEY and MATTHEW DALY - Associated Press",
+            "title": "Biden looks to provide relief from extreme heat as record high temperatures persist across the US",
+            "description": "President Joe Biden plans to announce new steps to address the extremely high temperatures threatening millions of people as heat waves spread across the United States. The White House says officials are trying to increase worker protections, improve weather ",
+            "url": "/2023-07-27-biden-extreme-heat-climate-change-osha-d24be7fe0c7bb79bede655db10fe2e00",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/22/c2227f37-5200-5f53-a895-d1d2f6cd92d1/64c246b09bb38.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-07-27T14:52:50Z",
+            "content": "By CHRIS MEGERIAN, DREW COSTLEY and MATTHEW DALY  Associated PressWASHINGTON (AP) With heat waves spreading across the United States, President Joe Biden on Thursday plans to unveil new steps to p [+7875 chars]",
+            "summary": "With heat waves spreading across the United States and nearly 40% of the population facing heat advisories, President Joe Biden announced new steps Thursday to protect workers, improve weather forecasts and make drinking water more accessible. The mayors of Phoenix and San Antonio, two cities that have suffered from the heat waves, participated in the White House event virtually.Phoenix is known for heat, said Mayor Kate Gallego. 1 weather-related killer in the United States.Even those places that are used to extreme heat have never seen it as hot as it is now for as long as its been,' Biden said. The proposed rule by the Occupational Safety and Health Administration would require employers to provide adequate water and rest breaks to outdoor workers, as well as medical services and training to address signs and symptoms of heat-related illness. At least 13 deaths in Texas have been blamed on the extreme heat. High temperatures have already scorched the Southwest this month, and more heat is expected in the Midwest and the Northeast in the coming days. Among those it is highlighting:The Labor Department is developing a standard for how workplaces deal with heat.",
+            "html_summary": "<ul><li>With heat waves spreading across the United States and nearly 40% of the population facing heat advisories, President Joe Biden announced new steps Thursday to protect workers, improve weather forecasts and make drinking water more accessible.</li><li>The mayors of Phoenix and San Antonio, two cities that have suffered from the heat waves, participated in the White House event virtually.“Phoenix is known for heat,” said Mayor Kate Gallego.</li><li>1 weather-related killer in the United States.“Even those places that are used to extreme heat have never seen it as hot as it is now for as long as it’s been,’' Biden said.</li><li>The proposed rule by the Occupational Safety and Health Administration would require employers to provide adequate water and rest breaks to outdoor workers, as well as medical services and training to address signs and symptoms of heat-related illness.</li><li>At least 13 deaths in Texas have been blamed on the extreme heat.</li><li>High temperatures have already scorched the Southwest this month, and more heat is expected in the Midwest and the Northeast in the coming days.</li></ul>",
+            "website_url": "https://apnews.com/article/biden-extreme-heat-climate-change-osha-d24be7fe0c7bb79bede655db10fe2e00"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Wormhole digs out of its hole with new security measures to move on from $320M hack | TechCrunch",
+            "description": "Many projects would simply give up if theyd been hacked and had hundreds of millions stolen from their ecosystem partners, but Wormhole isnt one of them.",
+            "url": "/2023-07-27-wormhole-new-security-320m-hack",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674",
+            "publishedAt": "2023-07-27T15:30:34Z",
+            "content": "Many projects and companies would simply give up if theyd been hacked and had hundreds of millions stolen from their ecosystem partners, but it appears Wormhole isnt one of them.Last year, an attac [+2593 chars]",
+            "summary": "An attacker exploited a vulnerability in the Wormhole liquidity bridge between the Ethereum and Solana blockchains and stole about wrapped ether worth about million today. Since the hack the company has stepped up its security launched two million bug bounty programs and had a handful of third party firms do a number of audits to resolve critical issues. The company has paid out several bounties and by the end of the year it plans to add three core contributing teams that will be building in various capacities Dan Reecer head of operations at Wormhole Foundation said.",
+            "html_summary": "<ul><li>An attacker exploited a vulnerability in the Wormhole liquidity bridge between the Ethereum and Solana blockchains and stole about wrapped ether worth about million today</li><li> Since the hack the company has stepped up its security launched two million bug bounty programs and had a handful of third party firms do a number of audits to resolve critical issues</li><li> The company has paid out several bounties and by the end of the year it plans to add three core contributing teams that will be building in various capacities Dan Reecer head of operations at Wormhole Foundation said</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/27/wormhole-new-security-320m-hack/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Are you going to let Sam Altmans crypto project scan your eyeballs or not? | TechCrunch",
+            "description": "Are you going to let Sam Altmans crypto project scan your eyeballs or not? | TechCrunchtechcrunch.com",
+            "url": "/2023-07-27-are-you-going-to-let-sam-altmans-crypto-project-scan-your-eyeballs-or-not",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/The-Worldcoin-Orb-with-World-ID-card.png?resize=1200,675",
+            "publishedAt": "2023-07-27T19:01:11Z",
+            "content": "Welcome back to Chain Reaction.To get a roundup of TechCrunchs biggest and most important crypto stories delivered to your inbox every Thursday at 12 p.m. PT, subscribe here.Earlier this week, Op [+6956 chars]",
+            "summary": "OpenAI CEO Sam Altman s eyeball scanning crypto startup Tools for Humanity started the global rollout of its Worldcoin product. The company wants to help build a reliable solution for distinguishing humans from AI online enable global democratic processes and drastically increase economic opportunity. During its trial phase more than million people signed up and scanned their eyes for the startup s biometric database. For this week s episode Jacquelyn interviewed Deana Burke and Natasha Hoskins the co founders of Boys Club. We broke down the nitty gritty details of the U S District Court of the Southern District of New York federal court ruling for Ripple and what it means for the company XRP token and crypto ecosystem.",
+            "html_summary": "<ul><li>OpenAI CEO Sam Altman s eyeball scanning crypto startup Tools for Humanity started the global rollout of its Worldcoin product</li><li> The company wants to help build a reliable solution for distinguishing humans from AI online enable global democratic processes and drastically increase economic opportunity</li><li> During its trial phase more than million people signed up and scanned their eyes for the startup s biometric database</li><li> For this week s episode Jacquelyn interviewed Deana Burke and Natasha Hoskins the co founders of Boys Club</li><li> We broke down the nitty gritty details of the U S District Court of the Southern District of New York federal court ruling for Ripple and what it means for the company XRP token and crypto ecosystem</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/27/are-you-going-to-let-sam-altmans-crypto-project-scan-your-eyeballs-or-not/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Pet telehealth company Airvet closes on $18.2M to embark on enterprise focus | TechCrunch",
+            "description": "The company has built up a base of employer clients, eager to offer employersponsored benefits to employees with pets.",
+            "url": "/2023-07-27-pet-telehealth-airvet-18-2m-enterprise",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/Chat_Airvet.png?resize=1200,676",
+            "publishedAt": "2023-07-27T16:00:50Z",
+            "content": "Pet ownership exploded during the global pandemic, and veterinarians are still struggling to keep up with demand.In fact, a Mars Veterinary Health report from 2022 highlighted a need for more than  [+4005 chars]",
+            "summary": "Pet ownership exploded during the global pandemic and veterinarians are still struggling to keep up with demand. Pet telehealth company Airvet is out to help them buoyed by million in new Series B funding. The company has since built up a base of employer clients including Adobe Ceridian and Rexford Industrial eager to offer an employer sponsored benefit for employees with pets. The funding will support the continued expansion of Airvet s partnership with enterprise and employer clients on product development and to build out the company s sales and marketing teams.",
+            "html_summary": "<ul><li>Pet ownership exploded during the global pandemic and veterinarians are still struggling to keep up with demand</li><li> Pet telehealth company Airvet is out to help them buoyed by million in new Series B funding</li><li> The company has since built up a base of employer clients including Adobe Ceridian and Rexford Industrial eager to offer an employer sponsored benefit for employees with pets</li><li> The funding will support the continued expansion of Airvet s partnership with enterprise and employer clients on product development and to build out the company s sales and marketing teams</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/27/pet-telehealth-airvet-18-2m-enterprise/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jeff Diamond",
+            "title": "Clinical pathways are the currency of health tech | TechCrunch",
+            "description": "With the ability to access, create and analyze new datasets, personalized, evidencebased pathways are driving more healthcare decisions.",
+            "url": "/2023-07-27-clinical-pathways-are-the-currency-of-health-tech",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-535639625.jpg?resize=1200,735",
+            "publishedAt": "2023-07-27T16:30:29Z",
+            "content": "As healthcare becomes more entrenched in the digital revolution, the need for an approved set of protocols for care delivery clinical pathways is becoming increasingly critical.Clinical pathways, a [+4235 chars]",
+            "summary": "Clinical pathways as defined by the Children s Hospital of Philadelphia are the standardization of care that translates guidelines and or evidence into localized infrastructure and processes. These processes have significant financial implications as they can decrease payer insurance denials. Pathways provide a currency for patients providers payers and technology companies to prove a return on investment ROI both clinically and financially. The Centers for Medicare Medicaid Services CMS under advisement from several healthcare companies is now implementing an approved format for hospital charges as single machine readable files MRFs which will be leveraged to standardize all charge information.",
+            "html_summary": "<ul><li>Clinical pathways as defined by the Children s Hospital of Philadelphia are the standardization of care that translates guidelines and or evidence into localized infrastructure and processes</li><li> These processes have significant financial implications as they can decrease payer insurance denials</li><li> Pathways provide a currency for patients providers payers and technology companies to prove a return on investment ROI both clinically and financially</li><li> The Centers for Medicare Medicaid Services CMS under advisement from several healthcare companies is now implementing an approved format for hospital charges as single machine readable files MRFs which will be leveraged to standardize all charge information</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/27/clinical-pathways-are-the-currency-of-health-tech/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Ultrafast niobium batteries boast 6min charge for Lotus Elisebased EV. US intel report details increasing importance of Chinese technology to Russias war in Ukraine. AC is hard on the planet. This building has a sustainable solution. Volkswagen invests $700 million in Chinese EV maker Xpeng to boost sluggish sales. Electric cars arent just for the wealthy anymore. GlossGenius raises $28M to expand its bookings and payments platform for beauty businesses. Biden looks to provide relief from extreme heat as record high temperatures persist across the US. Wormhole digs out of its hole with new security measures to move on from $320M hack | TechCrunch. Are you going to let Sam Altmans crypto project scan your eyeballs or not? | TechCrunch. Pet telehealth company Airvet closes on $18.2M to embark on enterprise focus | TechCrunch. Clinical pathways are the currency of health tech | TechCrunch"
+}

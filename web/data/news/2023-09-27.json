@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Spotify tests using AI to automatically clone and translate podcast voices | Makemetechie.com Summary",
+            "description": "Feature hopes to remove language barriers, but will speakers know if translations are faulty?",
+            "url": "/2023-09-27-spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_2-760x380.jpg",
+            "publishedAt": "2023-09-27T15:28:33Z",
+            "content": "4 with On Monday, Spotify rolled out a limited pilot program that uses AI to automatically translate podcasts into various languages, using voice synthesis technology from OpenAI to preserve the or [+4114 chars]",
+            "summary": "Spotify rolled out a limited pilot program that uses AI to automatically translate podcasts into various languages using voice synthesis technology from OpenAI. The feature is currently being used with only select podcasters such as Dax Shepard Monica Padman Lex Fridman Bill Simmons and Steven Bartlett. The translated episodes will be available worldwide to both Premium and Free users. Users can access the translations via Spotify s Now Playing View for supported episodes or a dedicated Voice Translations Hub that will continue to add more translated content.",
+            "html_summary": "<ul><li>Spotify rolled out a limited pilot program that uses AI to automatically translate podcasts into various languages using voice synthesis technology from OpenAI.</li><li> The feature is currently being used with only select podcasters such as Dax Shepard Monica Padman Lex Fridman Bill Simmons and Steven Bartlett.</li><li> The translated episodes will be available worldwide to both Premium and Free users.</li><li> Users can access the translations via Spotify s Now Playing View for supported episodes or a dedicated Voice Translations Hub that will continue to add more translated content.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "The threerow Kia EV9 SUV will cost $54,900, on sale later this year | Makemetechie.com Summary",
+            "description": "Production of the big EV will move to West Point, Georgia, in 2024.",
+            "url": "/2023-09-27-kia-reveals-electric-three-row-pricing-ev9-starts-at-54900",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/KIA_EV9-001_3600x2400-760x380.jpg",
+            "publishedAt": "2023-09-28T15:15:19Z",
+            "content": "Enlarge/ This is a prototype of the new Kia EV9 electric SUV, which goes on sale in the last quarter of 2023.34 with Kia has announced pricing for its next electric vehicle as it gets closer to r [+1400 chars]",
+            "summary": "The Kia EV is a three row SUV that uses the company s E GMP architecture. When the EV arrives in showrooms the range will start at plus destination charge. Initially US market EV s will be built in South Korea and thus would only qualify for the federal clean vehicle tax credit if leased. But in Kia will begin building the EV at its plant in West Point Georgia Currently this factory builds the Kia Sorento K and Telluride Once domestic production begins the EV should qualify for a tax credit ",
+            "html_summary": "<ul><li>The Kia EV is a three row SUV that uses the company s E GMP architecture.</li><li> When the EV arrives in showrooms the range will start at plus destination charge.</li><li> Initially US market EV s will be built in South Korea and thus would only qualify for the federal clean vehicle tax credit if leased.</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/09/kia-reveals-electric-three-row-pricing-ev9-starts-at-54900/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Scientists just opened the lid to NASAs asteroid sample canister | Makemetechie.com Summary",
+            "description": "There is some black dustlike material thats visible. Were hoping thats from Bennu.",
+            "url": "/2023-09-27-scientists-get-first-glimpse-of-samples-returned-from-asteroid",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/53216584499_3d53a00f6a_4k-760x380.jpg",
+            "publishedAt": "2023-09-27T00:23:57Z",
+            "content": "Enlarge/ The lid is open on the OSIRISREx sample return canister, revealing a tantalizing ring of dust outside the main sample collection chamber.20 with Dante Lauretta has waited nearly 20 year [+5291 chars]",
+            "summary": "Dante Lauretta a planetary scientist at the University of Arizona has waited nearly years to get his hands on pristine specimens from an asteroid which he says is a key to unlocking answers to mysteries about the origin of life on Earth. On Tuesday he got his first look at dust grains returned by NASA s OSIRIS REx mission. The dust grains visible immediately after scientists opened the lid to the canister are from asteroid Bennu where the OSIRis REx spacecraft captured rocks during a touch and go landing in the Solar System.",
+            "html_summary": "<ul><li>Dante Lauretta a planetary scientist at the University of Arizona has waited nearly years to get his hands on pristine specimens from an asteroid which he says is a key to unlocking answers to mysteries about the origin of life on Earth.</li><li> On Tuesday he got his first look at dust grains returned by NASA s OSIRIS REx mission.</li><li> The dust grains visible immediately after scientists opened the lid to the canister are from asteroid Bennu where the OSIRis REx spacecraft captured rocks during a touch and go landing in the Solar System.</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/09/scientists-get-first-glimpse-of-samples-returned-from-asteroid/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Snap cuts 170 jobs after closing AR Enterprise service division | Makemetechie.com Summary",
+            "description": "Snap is closing down a division of its company designed to offer its AR expertise to enterprise customers. The initiative, called AR Enterprise Service,",
+            "url": "/2023-09-27-snap-shutters-its-enterprise-services-division-after-less-than-a-year",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/ares.jpeg?resize=1200,670",
+            "publishedAt": "2023-09-28T15:20:03Z",
+            "content": "Snap is closing down a division of its company designed to offer its AR expertise to enterprise customers. The initiative, called AR Enterprise Service, or ARES, was announced in March of this year,  [+3301 chars]",
+            "summary": "Snap is closing down a division of its company designed to offer its AR expertise to enterprise customers. The initiative called AR Enterprise Service or ARES was announced in March of this year and included a Shopping Suite for brands that allowed them to access AR try on features. The closure was first reported by Bloomberg based on an internal memo sent from Snap CEO Evan Spiegel which Snap confirmed. In the memo the exec pointed to the emergence of AI tools that impacted Snap s competitive advantage as well as the need to invest more heavily into web tools rather than mobile technology.",
+            "html_summary": "<ul><li>Snap is closing down a division of its company designed to offer its AR expertise to enterprise customers.</li><li> The initiative called AR Enterprise Service or ARES was announced in March of this year and included a Shopping Suite for brands that allowed them to access AR try on features.</li><li> The closure was first reported by Bloomberg based on an internal memo sent from Snap CEO Evan Spiegel which Snap confirmed.</li><li> In the memo the exec pointed to the emergence of AI tools that impacted Snap s competitive advantage as well as the need to invest more heavily into web tools rather than mobile technology.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ADAM BEAM",
+            "title": "New California law raises minimum wage for fast food workers to $20 per hour | Makemetechie.com Summary",
+            "description": "California Gov. Gavin Newsom has signed a law raising the minimum wage for fast food workers to $20 per hour. The raise takes effect April 1. It applies to fast food restaurants that have at least 60 locations nationwide. It does not apply to restaurants that",
+            "url": "/2023-09-27-california-minimum-wage-increase-fast-food-newsom-69c26b7f07f2647149c37677446cea30",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0891f4c/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2F66%2F724da8ca557655f488159f8730f3%2Fc7ceb3db1cd84b0ca6c8e06b31b07799",
+            "publishedAt": "2023-09-28T21:50:55Z",
+            "content": "SACRAMENTO, Calif. (AP) A new law in California will raise the minimum wage for fast food workers to $20 per hour next year, an acknowledgment from the states Democratic leaders that most of the ofte [+5160 chars]",
+            "summary": "A new law in California will raise the minimum wage for fast food workers to per hour next year. Democratic Gov Gavin Newsom signed the law Thursday amid a throng of cheering workers and labor leaders at an event in Los Angeles. In exchange for higher pay labor unions have dropped their attempt to make fast food corporations liable for the misdeeds of their independent franchise operators in California. The industry meanwhile has agreed to pull a referendum related to worker wages off the ballot. Now the focus will shift to another group of low wage California workers waiting for their own minimum wage increase.",
+            "html_summary": "<ul><li>A new law in California will raise the minimum wage for fast food workers to per hour next year.</li><li> Democratic Gov Gavin Newsom signed the law Thursday amid a throng of cheering workers and labor leaders at an event in Los Angeles.</li><li> In exchange for higher pay labor unions have dropped their attempt to make fast food corporations liable for the misdeeds of their independent franchise operators in California.</li><li> The industry meanwhile has agreed to pull a referendum related to worker wages off the ballot.</li><li> Now the focus will shift to another group of low wage California workers waiting for their own minimum wage increase.</li></ul>",
+            "website_url": "https://apnews.com/article/california-minimum-wage-increase-fast-food-newsom-69c26b7f07f2647149c37677446cea30"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "PlayStation scifi epic Horizon Forbidden West makes its way to PC | Makemetechie.com Summary",
+            "description": "Postapocalyptic heroine Aloy will return to Steam and the Epic Game Store soon.",
+            "url": "/2023-09-27-playstation-sci-fi-epic-horizon-forbidden-west-makes-its-way-to-pc",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ss_1b5e97e2925a19eef90ef856e9fa0de2c4eede85.1920x1080-760x380.jpg",
+            "publishedAt": "2023-09-27T19:31:02Z",
+            "content": "34 with  The release will include the Californiabased expansion that was recently launched.  The game was praised for its strong cast of characters.  Much of th [+2925 chars]",
+            "summary": "Horizon Forbidden West Complete Edition will be released on PC in early October. The PC release will include both the base game and the recently released Burning Shores DLC. The complete edition will also launch on PlayStation but a bit earlier on October of this year The PC port will be handled by Nixxes which previously did a mostly bang up job porting Sony studio Insomniac Games Spider Man and Spider Man Miles Morales to PC. The game will be available on the Epic Games Store and Steam with product pages already launched on both.",
+            "html_summary": "<ul><li>Horizon Forbidden West Complete Edition will be released on PC in early October.</li><li> The PC release will include both the base game and the recently released Burning Shores DLC.</li><li> The complete edition will also launch on PlayStation but a bit earlier on October of this year The PC port will be handled by Nixxes which previously did a mostly bang up job porting Sony studio Insomniac Games Spider Man and Spider Man Miles Morales to PC.</li><li> The game will be available on the Epic Games Store and Steam with product pages already launched on both.</li></ul>",
+            "website_url": "https://arstechnica.com/gaming/2023/09/playstation-sci-fi-epic-horizon-forbidden-west-makes-its-way-to-pc/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carrie Andrews",
+            "title": "Fintech actually has a value system Heres how we can reclaim it | Makemetechie.com Summary",
+            "description": "One of the big lessons of the social finance backlash is that empowerment without education can do more harm than good.",
+            "url": "/2023-09-27-fintech-actually-has-a-value-system-heres-how-we-can-reclaim-it",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-76186554.jpg?resize=1200,788",
+            "publishedAt": "2023-09-27T13:00:45Z",
+            "content": "The technologies underlying fintech point to a world of empowerment and access, transparency and efficiency. And yet the past few years tell a story in which fintechs most prominent players have bee [+6269 chars]",
+            "summary": "These include fintech-driven services that enrich workers standard of living in concrete ways, with services that empower them and take some of the stress out of the day-to-day grind.Such services might include user-friendly HR systems that offer better access to everything from time cards to intra-company promotions. I think the answer is yes.Looking back, one of the frustrating things about fintechs recent blowups (crypto, meme trades and FTX among them) is that so many have involved applications and business models that have shown (and still show) so much potential to make a positive difference. Not surprisingly, many innovative fintechs  maybe better seen as hybrid fintech/edtechs  are building better financial literacy and education models and technologies. Austin-based Zogo, for example, is a technology company that works with financial institutions to promote financial education and well-being through short-form content. But at this moment in our economic and social history, we cant afford to have fintech held back by those who would subvert the very values its technologies are meant to elevate. But to some workers, especially those in hospitality, retail, manufacturing, and skilled and unskilled trades, on-demand pay is a boon.All of these products and services are a far cry from meme stocks and digital bank runs. Employers can lessen the burden by providing fully functioning and well-priced bank accounts, debit cards and earned-wage access and early pay.Earned-wage access is, essentially, on-demand payment for hours worked.",
+            "html_summary": "<ul><li>These include fintech-driven services that enrich workers’ standard of living in concrete ways, with services that empower them and take some of the stress out of the day-to-day grind.Such services might include user-friendly HR systems that offer better access to everything from “time cards” to intra-company promotions..</li><li>I think the answer is yes.Looking back, one of the frustrating things about fintech’s recent blowups (crypto, meme trades and FTX among them) is that so many have involved applications and business models that have shown (and still show) so much potential to make a positive difference..</li><li>Not surprisingly, many innovative fintechs — maybe better seen as hybrid fintech/edtechs — are building better financial literacy and education models and technologies..</li><li>Austin-based Zogo, for example, is a technology company that works with financial institutions to promote financial education and well-being through short-form content..</li><li>But at this moment in our economic and social history, we can’t afford to have fintech held back by those who would subvert the very values its technologies are meant to elevate..</li><li>But to some workers, especially those in hospitality, retail, manufacturing, and skilled and unskilled trades, on-demand pay is a boon.All of these products and services are a far cry from meme stocks and digital bank runs..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/27/fintech-actually-has-a-value-system-heres-how-we-can-reclaim-it/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Powerful new EV charger starts field tests in Arizona this weekend | Makemetechie.com Summary",
+            "description": "From Thursday until Sunday, charges will cost just one dollar.",
+            "url": "/2023-09-27-powerful-new-ev-charger-starts-field-tests-in-arizona-this-weekend",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Nxu-One-Charging-System-760x380.jpeg",
+            "publishedAt": "2023-09-27T19:21:04Z",
+            "content": "Enlarge/ This cube is Nxus new charging system, designed to handle up to 4.5 MW of bidirectional power. You can test it out in Mesa, Arizona, between September 28 and October 1, 2023.10 with Ele [+2949 chars]",
+            "summary": "Electric vehicles have matured over the past decade to the point where with few exceptions they re now a superior alternative to internal combustion engines. The problem is that recharging an EV battery takes longer than refilling a fuel tank with liquid fuel. Even the fastest fast charging EV still needs minutes to get from to percent state of charge with to minutes being more common for most EVs on sale today. Those long charge times are one of the driving forces behind the interest in hydrogen fuel cell EVs despite the terrible efficiency losses involved in making and using that fuel.",
+            "html_summary": "<ul><li>Electric vehicles have matured over the past decade to the point where with few exceptions they re now a superior alternative to internal combustion engines.</li><li> The problem is that recharging an EV battery takes longer than refilling a fuel tank with liquid fuel.</li><li> Even the fastest fast charging EV still needs minutes to get from to percent state of charge with to minutes being more common for most EVs on sale today.</li><li> Those long charge times are one of the driving forces behind the interest in hydrogen fuel cell EVs despite the terrible efficiency losses involved in making and using that fuel.</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/09/powerful-new-ev-charger-starts-field-tests-in-arizona-this-weekend/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "We try out the first legal level 3 automated driving system in the US | Makemetechie.com Summary",
+            "description": "This is the first driver assist to allow you to take your eyes off the road.",
+            "url": "/2023-09-27-mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/23C0332_026-760x380.jpg",
+            "publishedAt": "2023-09-27T12:00:49Z",
+            "content": "Enlarge/ The front panel of a Drive Pilotequipped EQS conceals its lidar and other sensors.12 with LOS ANGELESMercedesBenz has never shied away from new technology. Historically, the carmaker h [+2570 chars]",
+            "summary": "Drive Pilot will be available on the Mercedes Benz S Class and EQS sedans on some of the most congested highways in Los Angeles. It s the first level automated driving system approved for use in the US but initially it will only be available and active in California and Nevada. Drive Pilot allows for hands free highway driving similar to other systems such as Super Cruise from GM BlueCruise from Ford or Highway Assistant from BMW. Certain conditions must be satisfied before you can activate Drive Pilot an important concept in autonomous driving known as the operational design domain.",
+            "html_summary": "<ul><li>Drive Pilot will be available on the Mercedes Benz S Class and EQS sedans on some of the most congested highways in Los Angeles.</li><li> It s the first level automated driving system approved for use in the US but initially it will only be available and active in California and Nevada.</li><li> Drive Pilot allows for hands free highway driving similar to other systems such as Super Cruise from GM BlueCruise from Ford or Highway Assistant from BMW.</li><li> Certain conditions must be satisfied before you can activate Drive Pilot an important concept in autonomous driving known as the operational design domain.</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By LISA MASCARO and STEPHEN GROVES - Associated Press",
+            "title": "House Speaker McCarthy is back to square one as the Senate pushes ahead to avert a federal shutdown | Makemetechie.com Summary",
+            "description": "The Senate is marching ahead with a bipartisan approach to prevent a government shutdown. But on the House side, Speaker Kevin McCarthy is back to square one. The Republican leader laid out his strategy Wednesday behind closed doors. He asked",
+            "url": "/2023-09-27-government-shutdown-mccarthy-biden-trump-18ef8a03363d31742c5b4c5ecb23506f",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/3/90/390b92b2-b974-5eac-9930-28124d49cd05/65155707e36b2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-09-28T03:36:00Z",
+            "content": "By LISA MASCARO and STEPHEN GROVES  Associated PressWASHINGTON (AP) As the Senate marches ahead with a bipartisan approach to prevent a government shutdown, House Speaker Kevin McCarthy is back to [+7315 chars]",
+            "summary": "He told reporters, I dont understand where somebody would want to stand with President Biden on keeping an open border and not keep government open.The holdouts are determined to force the House to debate and pass all 12 individual funding bills for all the various government agencies. Why the House Republicans would want to defund Border Patrol is beyond me, Biden wrote.With the Senate expected to spend the rest of this week working to pass its bill over the objections of Sen. Rand Paul, R-Ky., and others on the right flank. President Joe Biden in California at a meeting of the Presidents Council of Advisors on Science and Technology said Wednesday he didnt think a federal shutdown was inevitable.I dont think anything is inevitable when it comes to politics, he said. He rejected outright the Senates bipartisan bill, which would fund the government to Nov. 17, adding $6 billion for Ukraine and $6 billion for U.S. disaster relief while talks continue. The federal government is heading toward a shutdown at months end that will disrupt many services, squeeze workers and roil politics. Scott Applewhite)But later at a fundraiser in San Francisco, Biden said of McCarthy: I think that the speaker is making a choice between his speakership and American interests.As the Senate pushes ahead in bipartisan fashion, McCarthy is demanding that Biden meet to discuss border security measures. Facing holdouts in his own ranks, McCarthy is trying to cajole his hard-right members who have refused to vote for any temporary spending bill  even with the border provisions.",
+            "html_summary": "<ul><li>He told reporters, “I don’t understand where somebody would want to stand with President Biden on keeping an open border and not keep government open.”The holdouts are determined to force the House to debate and pass all 12 individual funding bills for all the various government agencies..</li><li>Why the House Republicans would want to defund Border Patrol is beyond me,” Biden wrote.With the Senate expected to spend the rest of this week working to pass its bill over the objections of Sen. Rand Paul, R-Ky., and others on the right flank..</li><li>President Joe Biden in California at a meeting of the President’s Council of Advisors on Science and Technology said Wednesday he didn’t think a federal shutdown was inevitable.“I don’t think anything is inevitable when it comes to politics,” he said..</li><li>He rejected outright the Senate’s bipartisan bill, which would fund the government to Nov. 17, adding $6 billion for Ukraine and $6 billion for U.S. disaster relief while talks continue..</li><li>The federal government is heading toward a shutdown at month’s end that will disrupt many services, squeeze workers and roil politics..</li><li>Scott Applewhite)But later at a fundraiser in San Francisco, Biden said of McCarthy: “I think that the speaker is making a choice between his speakership and American interests.”As the Senate pushes ahead in bipartisan fashion, McCarthy is demanding that Biden meet to discuss border security measures..</li></ul>",
+            "website_url": "https://apnews.com/article/government-shutdown-mccarthy-biden-trump-18ef8a03363d31742c5b4c5ecb23506f"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "Our new Ladapo scale rates misinformation merchants | Makemetechie.com Summary",
+            "description": "A convenient rating system to evaluate the threat posed by misinformation sources.",
+            "url": "/2023-09-27-our-new-ladapo-scale-rates-misinformation-merchants",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ladapo-scale-misinformation-760x380.jpg",
+            "publishedAt": "2023-09-28T13:46:29Z",
+            "content": "1 with The world has been flooded with misinformation. Falsehoods and conspiracy theories bubble up on everything from the weather to vaccines to the shape of the Earth. Purveyors of this garbage m [+4614 chars]",
+            "summary": "The world has been flooded with misinformation Falsehoods and conspiracy theories bubble up on everything from the weather to vaccines to the shape of the Earth Purveyors of this garbage may be motivated by attention money or simply the appeal of sticking it to the educated elite. We need a way to target the worst sources of misinformation. A way to identify the people who are both the most wrong and the most dangerous. We ll then apply the Ladapo scale to a couple of real world examples of misinformation merchants.",
+            "html_summary": "<ul><li>The world has been flooded with misinformation Falsehoods and conspiracy theories bubble up on everything from the weather to vaccines to the shape of the Earth Purveyors of this garbage may be motivated by attention money or simply the appeal of sticking it to the educated elite.</li><li> We need a way to target the worst sources of misinformation.</li><li> A way to identify the people who are both the most wrong and the most dangerous.</li><li> We ll then apply the Ladapo scale to a couple of real world examples of misinformation merchants.</li></ul>",
+            "website_url": "https://arstechnica.com/staff/2023/09/our-new-ladapo-scale-rates-misinformation-merchants/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Warner Music CEO Robert Kyncl says AI to impact the music industry within the next year | TechCrunch | Makemetechie.com Summary",
+            "description": "Warner Music CEO Robert Kyncl believes AI will be significantly impacting the music industry within the next year. Speaking at the Code Conference this",
+            "url": "/2023-09-27-warner-music-ceo-robert-kyncl-says-ai-to-impact-the-music-industry-within-the-next-year",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/1703197251.jpg?resize=1200,800",
+            "publishedAt": "2023-09-27T16:53:22Z",
+            "content": "Warner Music CEO Robert Kyncl believes AI will be significantly impacting the music industry within the next year. Speaking at the Code Conference this week, the industry exec said the industry shoul [+3703 chars]",
+            "summary": "Warner Music CEO Robert Kyncl believes AI will be significantly impacting the music industry within the next year. Warner Music is focused on working collaboratively with the largest platforms like YouTube TikTok and Spotify to help it define the rules of the road as these technologies are developed. The law will need to evolve to address AI music Name image likeness and voice should have the same protections as copyright and the same simple protections as copyrighted but it will take time he said I believe it will get there but it'll take time And in the meantime we ll work with the distribution platforms collaboratively to run ahead of that ",
+            "html_summary": "<ul><li>Warner Music CEO Robert Kyncl believes AI will be significantly impacting the music industry within the next year.</li><li> Warner Music is focused on working collaboratively with the largest platforms like YouTube TikTok and Spotify to help it define the rules of the road as these technologies are developed.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/27/warner-music-ceo-robert-kyncl-says-ai-to-impact-the-music-industry-within-the-next-year/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Spotify tests using AI to automatically clone and translate podcast voices | Makemetechie.com Summary. The threerow Kia EV9 SUV will cost $54,900, on sale later this year | Makemetechie.com Summary. Scientists just opened the lid to NASAs asteroid sample canister | Makemetechie.com Summary. Snap cuts 170 jobs after closing AR Enterprise service division | Makemetechie.com Summary. New California law raises minimum wage for fast food workers to $20 per hour | Makemetechie.com Summary. PlayStation scifi epic Horizon Forbidden West makes its way to PC | Makemetechie.com Summary. Fintech actually has a value system Heres how we can reclaim it | Makemetechie.com Summary. Powerful new EV charger starts field tests in Arizona this weekend | Makemetechie.com Summary. We try out the first legal level 3 automated driving system in the US | Makemetechie.com Summary. House Speaker McCarthy is back to square one as the Senate pushes ahead to avert a federal shutdown | Makemetechie.com Summary. Our new Ladapo scale rates misinformation merchants | Makemetechie.com Summary. Warner Music CEO Robert Kyncl says AI to impact the music industry within the next year | TechCrunch | Makemetechie.com Summary"
+}

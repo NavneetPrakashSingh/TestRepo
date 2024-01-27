@@ -1,0 +1,39 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Biden issues sweeping executive order that touches AI risk, deepfakes, privacy | Makemetechie.com Summary",
+            "description": "Order details US admins approach to AI safety, media authenticity, job loss, and more.",
+            "url": "/2023-10-29-https-arstechnica-com-information-technology-2023-10-biden-ai-executive-order-requires-safety-testing-for-ai-that-poses-serious-risk-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/whitehouse-neural-sky-760x380.jpg",
+            "publishedAt": "2023-10-30T16:43:55Z",
+            "content": "9 with On Monday, President Joe Biden issued an executive order on AI that outlines the federal governments first comprehensive regulations on generative AI systems. The order includes testing man [+3321 chars]",
+            "summary": "President Joe Biden issued an executive order on AI that outlines the federal government s first comprehensive regulations on generative AI systems. The order includes testing mandates for advanced AI models to ensure they can t be used for creating weapons suggestions for watermarking AI generated media and provisions addressing privacy and job displacement. The White House had not yet released the full text of the executive order but from the Fact Sheet authored by the administration and through reporting on drafts of the order we can relay a picture of its content.",
+            "html_summary": "<ul><li>President Joe Biden issued an executive order on AI that outlines the federal government s first comprehensive regulations on generative AI systems.</li><li> The order includes testing mandates for advanced AI models to ensure they can t be used for creating weapons suggestions for watermarking AI generated media and provisions addressing privacy and job displacement.</li><li> The White House had not yet released the full text of the executive order but from the Fact Sheet authored by the administration and through reporting on drafts of the order we can relay a picture of its content.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/10/biden-ai-executive-order-requires-safety-testing-for-ai-that-poses-serious-risk/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By JOSH BOAK and MATT O'BRIEN - Associated Press",
+            "title": "Biden wants to move fast on AI safeguards and signs an executive order to address his concerns | Makemetechie.com Summary",
+            "description": "President Joe Biden has signed a sweeping executive order to guide the development of artificial intelligence. Mondays order requires industry to develop safety and security standards, introduces new consumer protections and gives federal agencies an extensi",
+            "url": "/2023-10-29-https-apnews-com-article-biden-ai-artificial-intelligence-executive-order-cb86162000d894f238f28ac029005059",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/9/67/967ad39d-b3ef-5d0f-bd01-a811d4f8f629/653f8de9a9e06.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-10-30T22:20:57Z",
+            "content": "By JOSH BOAK and MATT OBRIEN  Associated PressWASHINGTON (AP) President Joe Biden on Monday signed an ambitious executive order on artificial intelligence that seeks to balance the needs of cutti [+7394 chars]",
+            "summary": "The order will require industry to develop safety and security standards, introduce new consumer protections and give federal agencies an extensive to-do list to oversee the rapidly progressing technology. Biden on Monday, Oct. 30, will sign a sweeping executive order to guide the development of artificial intelligence. Thats issuing guidance and standards to shape private sector behavior and leading by example in the federal governments own use of AI. The order builds on voluntary commitments already made by technology companies. The extensive order touches on matters of privacy, civil rights, consumer protections, scientific research and worker rights.FILE - The OpenAI logo is seen on a mobile phone in front of a computer screen which displays output from ChatGPT, Tuesday, March 21, 2023, in Boston. (AP Photo/Michael Dwyer, File)White House chief of staff Jeff Zients recalled Biden giving his staff a directive when formulating the order to move with urgency.We cant move at a normal government pace, Zients said the Democratic president told him. The president also pressed tech executives and civil society advocates about the technologys capabilities at multiple gatherings.He was as impressed and alarmed as anyone, deputy White House chief of staff Bruce Reed said in an interview. If he hadnt already been concerned about what could go wrong with AI before that movie, he saw plenty more to worry about, said Reed, who watched the film with the president.Governments around the world have raced to establish protections, some of them tougher than Bidens directives.",
+            "html_summary": "<ul><li>The order will require industry to develop safety and security standards, introduce new consumer protections and give federal agencies an extensive to-do list to oversee the rapidly progressing technology..</li><li>Biden on Monday, Oct. 30, will sign a sweeping executive order to guide the development of artificial intelligence..</li><li>“That’s issuing guidance and standards to shape private sector behavior and leading by example in the federal government’s own use of AI.” The order builds on voluntary commitments already made by technology companies..</li><li>The extensive order touches on matters of privacy, civil rights, consumer protections, scientific research and worker rights.FILE - The OpenAI logo is seen on a mobile phone in front of a computer screen which displays output from ChatGPT, Tuesday, March 21, 2023, in Boston..</li><li>(AP Photo/Michael Dwyer, File)White House chief of staff Jeff Zients recalled Biden giving his staff a directive when formulating the order to move with urgency.“We can’t move at a normal government pace,” Zients said the Democratic president told him..</li><li>The president also pressed tech executives and civil society advocates about the technology’s capabilities at multiple gatherings.“He was as impressed and alarmed as anyone,” deputy White House chief of staff Bruce Reed said in an interview..</li></ul>",
+            "website_url": "https://apnews.com/article/biden-ai-artificial-intelligence-executive-order-cb86162000d894f238f28ac029005059"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Biden issues sweeping executive order that touches AI risk, deepfakes, privacy | Makemetechie.com Summary. Biden wants to move fast on AI safeguards and signs an executive order to address his concerns | Makemetechie.com Summary"
+}

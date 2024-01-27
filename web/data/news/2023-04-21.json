@@ -1,0 +1,119 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "John Gruber",
+            "title": "Humane Previews AIPowered Wearable at TED",
+            "description": "The screenless device is controlled using a combination of gestures and voice recognition.",
+            "url": "/2023-04-21-humane-ai-powered-wearable",
+            "urlToImage": "https://images.axios.com/wYuJ-MCUWxTfTirw273XdAY15eY=/0x510:3972x2744/1366x768/2023/04/21/1682041816509.jpg",
+            "publishedAt": "2023-04-21T02:28:57Z",
+            "content": "ExApple employee Imran Chaudhri gave TED attendees on Thursday an early glimpse of the AIpowered wearable that his startup, Humane, has been developing.Why it matters The screenless device, whic [+963 chars]",
+            "summary": "Humane co-founder Imran Chaudhri appearing on screen wearing a prototype wearable computer in his jacket pocket.",
+            "html_summary": "<ul><li>Humane co-founder Imran Chaudhri appearing on screen wearing a prototype wearable computer in his jacket pocket.</li></ul>",
+            "website_url": "https://www.axios.com/2023/04/21/humane-ai-powered-wearable"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Betterdata uses synthetic data to keep real data safe",
+            "description": "Betterdata, a Singaporebased startup that uses programmable synthetic data to keep real data secure, announced today it has raised $1.55 million.  The seed ...",
+            "url": "/2023-04-21-betterdata",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xtE2xtBJW9NnXG8oTeoseA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/c2e8211de578be49be5aaeccc7bf0acb",
+            "publishedAt": "2023-04-21T03:45:20Z",
+            "content": "Betterdata, a Singaporebased startup that uses programmable synthetic data to keep real data secure, announced today it has raised $1.55 million. The seed round, which it says was oversubscribed, wa [+3024 chars]",
+            "summary": "Through its powerful platform, Betterdata generates synthetic data that mimics real-world data without compromising quality and privacy, helping businesses meet global compliance and privacy laws at scale.BetterData taps the blockchain to help create better synthetic data Betterdata, a Singapore-based startup that uses programmable synthetic data to keep real data secure, announced today it has raised $1.55 million.",
+            "html_summary": "<ul><li>Through its powerful platform, Betterdata generates synthetic data that mimics real-world data without compromising quality and privacy, helping businesses meet global compliance and privacy laws at scale.”BetterData taps the blockchain to help create better synthetic data</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/20/betterdata/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "As the UK readies its first nationwide Emergency Alerts test this Sunday, heres everything you need to know",
+            "description": "After officially unveiling itseEmergency Alerts system last month, the U.K. government is preparing to launch the first nationwide this Sunday (23 April). The system is designed to notify the public of impending danger to life in a specific area. At 3pm, all ",
+            "url": "/2023-04-21-uk-emergency-alerts-test-sunday-23-april-3pm",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Screenshot-2023-04-19-at-10.52.02-e1681898063101.png?resize=1200,675",
+            "publishedAt": "2023-04-21T15:49:27Z",
+            "content": "After officially unveiling itseEmergency Alerts system last month, the U.K. government is preparing to launch the first nationwide this Sunday (23 April). The system is designed to notify the public  [+6792 chars]",
+            "summary": "Some users around the U.K. received cell broadcast-based test alerts in 2021, constituting part of an early pilot in preparation for the broader rollout and nationwide test this weekend.The government reckons that its Emergency Alerts system will cover some 90% of all mobile phones in a given area. For this, the government said it would evaluate options for improved national public alert systems for use in major emergencies.The focus, ultimately, was to develop a capability to issue alerts to mobile devices in defined areas where an emergency is unfolding. proximity to a cell tower) without requiring access to any mobile phone numbers.Moreover, cell broadcasts circumvent concerns around traffic load, as cell broadcasts operate on a different channel to voice and SMS.And that is essentially why the U.K. has elected for a cell broadcast-based system. On Android, in settings you can navigate to Safety and Emergency, scroll to Wireless Emergency Alerts and toggle the Allow Alerts slider.Android emergency alerts. The message will say:This is a test of Emergency Alerts, a new UK government service that will warn you if theres a life-threatening emergency nearby. You do not need to take any action.Similar alerting systems have been used in other countries for some time, including the Netherlands with NL-Alert; the U.S. which has deployed Wireless Emergency Alerts (WEA) for more than a decade; and Canada, which launched its Alert Ready system in 2015. during an emergency) can impact the speed at which messages are delivered, while privacy issues around SMSs reliance on access to individuals mobile phone numbers can be a concern.",
+            "html_summary": "<ul><li>Some users around the U.K. received cell broadcast-based test alerts in 2021, constituting part of an early pilot in preparation for the broader rollout and nationwide test this weekend.The government reckons that its Emergency Alerts system will cover some 90% of all mobile phones in a given area.</li><li>For this, the government said it would “evaluate options for improved national public alert systems for use in major emergencies.”The focus, ultimately, was to develop a capability to issue alerts to mobile devices in defined areas where an emergency is unfolding.</li><li>proximity to a cell tower) without requiring access to any mobile phone numbers.Moreover, cell broadcasts circumvent concerns around traffic load, as cell broadcasts operate on a different channel to voice and SMS.And that is essentially why the U.K. has elected for a cell broadcast-based system.</li><li>On Android, in settings you can navigate to Safety and Emergency, scroll to Wireless Emergency Alerts and toggle the Allow Alerts slider.Android emergency alerts.</li><li>The message will say:This is a test of Emergency Alerts, a new UK government service that will warn you if there’s a life-threatening emergency nearby.</li><li>You do not need to take any action.Similar alerting systems have been used in other countries for some time, including the Netherlands with NL-Alert; the U.S. which has deployed Wireless Emergency Alerts (WEA) for more than a decade; and Canada, which launched its Alert Ready system in 2015.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/21/uk-emergency-alerts-test-sunday-23-april-3pm/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Rocket Report Starship RUDs on the way to space; Rocket Lab to reuse engine",
+            "description": "Obviously were closely following that.",
+            "url": "/2023-04-21-rocket-report-starship-ruds-on-the-way-to-space-rocket-lab-to-reuse-engine",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/FuK9icGaYAE13GS-760x380.jpeg",
+            "publishedAt": "2023-04-21T10:30:00Z",
+            "content": "Enlarge/ Super Heavy ascends on a pillar of flame.0 with Welcome to Edition 5.34 of the Rocket Report! Wow, what a half year it has been for launch. In the last six months, we have seen the two m [+4705 chars]",
+            "summary": "The rocket, which is fueled by kerosene and liquid oxygen, can lift up to 1.9 metric tons to low-Earth orbit.Gearing up for something bigger ... South Korea plans to conduct four more launches of this rocket, including the upcoming one, through 2027 to improve the rockets technical reliability. Rocket Lab said Wednesday it plans to refly a Rutherford rocket engine for the first time in the third quarter of this year. Tehiru projects that it will be capable of reusing its rocket up to 50 times.That's an ambitious project ... Pangea will supply Tehiru with the companys 67,000-lb ARCOS aerospike engines that will power the rockets first stage. The California-based launch company said Wednesday it has successfully completed a month-long, full-scale test series to verify the root cause of the January 9 failure of its LauncherOne rocket. What does seem clear to me is that developing a small, reusable rocket with an electric landing mechanism and aerospike first stage engines is extremely difficult. The company has stated that it is working on an innovative electric landing mechanism that will be used to recover the rocket following a launch. Rocket Lab has recovered hardware and first stages from six Electron missions to date, with the latest stage recovered last month.",
+            "html_summary": "<ul><li>The rocket, which is fueled by kerosene and liquid oxygen, can lift up to 1.9 metric tons to low-Earth orbit.Gearing up for something bigger ... South Korea plans to conduct four more launches of this rocket, including the upcoming one, through 2027 to improve the rocket’s technical reliability.</li><li>Rocket Lab said Wednesday it plans to refly a Rutherford rocket engine for the first time in the third quarter of this year.</li><li>Tehiru projects that it will be capable of reusing its rocket up to 50 times.That's an ambitious project ... Pangea will supply Tehiru with the company’s 67,000-lb ARCOS aerospike engines that will power the rocket’s first stage.</li><li>The California-based launch company said Wednesday it has successfully completed a month-long, full-scale test series to verify the root cause of the January 9 failure of its LauncherOne rocket.</li><li>What does seem clear to me is that developing a small, reusable rocket with an electric landing mechanism and aerospike first stage engines is extremely difficult.</li><li>The company has stated that it is working on an “innovative electric landing mechanism” that will be used to recover the rocket following a launch.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/04/rocket-report-starship-ruds-on-the-way-to-space-rocket-lab-to-reuse-engine/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Photonics is proving to be a tough nut to crack",
+            "description": "Photonic chips  and the startups creating them  have a long way to go before reaching the mainstream.",
+            "url": "/2023-04-21-light-powered-ai-chips-future",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1299608320.jpg?resize=1200,900",
+            "publishedAt": "2023-04-21T13:01:14Z",
+            "content": "The growing compute power necessary to train sophisticated AI models such as OpenAIs ChatGPT might eventually run up against a wall with mainstream chip technologies.In a 2019 analysis, OpenAI fou [+1325 chars]",
+            "summary": "Photonic chips could in theory lead to higher training performance because light produces less heat than electricity, can travel faster and is far less susceptible to changes in temperature and electromagnetic fields.Lightmatter, LightOn, Luminous Computing, Intel and NTT are among the companies developing photonic technologies. CNBC, speaking to analysts and technologists, estimates the current cost of training a ChatGPT-like model from scratch to be over $4 million.One solution to the AI training dilemma thats been proposed is photonic chips, which use light to send signals rather than the electricity that conventional processors use. Microsoft is reportedly facing an internal shortage of the server hardware needed to run its AI, and the scarcity is driving prices up.",
+            "html_summary": "<ul><li>Photonic chips could in theory lead to higher training performance because light produces less heat than electricity, can travel faster and is far less susceptible to changes in temperature and electromagnetic fields.Lightmatter, LightOn, Luminous Computing, Intel and NTT are among the companies developing photonic technologies.</li><li>CNBC, speaking to analysts and technologists, estimates the current cost of training a ChatGPT-like model from scratch to be over $4 million.One solution to the AI training dilemma that’s been proposed is photonic chips, which use light to send signals rather than the electricity that conventional processors use.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/21/light-powered-ai-chips-future/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Xaviar X Jernigan, the voice of Spotifys DJ, explains what its like to become an AI",
+            "description": "Xavier X Jernigan is the voice model for Spotifys AI DJ. Jernigan shares with TechCrunch what the process was like and potential future plans for the feature.",
+            "url": "/2023-04-21-xaviar-x-jernigan-spotify-dj-ai",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-18-at-3.51.14-PM.png?w=914",
+            "publishedAt": "2023-04-21T15:32:34Z",
+            "content": "In March, Spotify launched its first AIpowered feature with the debut of its AI DJ  a smart audio guide with a convincingly realistic voice. That AI persona was actually based on a real person, as  [+5902 chars]",
+            "summary": "Still, having his voice memorialized as an AI is a unique experience.Spotify chose Jernigan to be the first voice model because his voice and personality resonated with a lot of our listeners already, Jernigan told TechCrunch. The companys tech was responsible for building AI-based realistic voices, including the one used for Val Kilmers voice in Top Gun: Maverick.Prior to the acquisition, Spotify spent a few years researching AI-powered technology and worked on the DJ feature in some iteration, Jernigan noted. Its gonna be me but its not me, and its text and voice, but itll sound like me, and its AI?For me, it was a new experience working with AI in this way. In March, Spotify launched its first AI-powered feature with the debut of its AI DJ  a smart audio guide with a convincingly realistic voice. As of February, the DJ feature is still in beta testing.We got a whole bunch of really cool new features coming out across the board, Jernigan said. I was just blown away, he added.Spotify launches DJ, a new feature offering personalized music with AI-powered commentarySpotify says its AI DJ was built using both Sonantic and OpenAI technologies.Sonantic is an AI startup that Spotify acquired last year. He fed the AI certain words that only he uses to make it feel as authentic as possible.We use words that I say I dont say tunes for songs.",
+            "html_summary": "<ul><li>Still, having his voice memorialized as an AI is a unique experience.Spotify chose Jernigan to be the first voice model because his “voice and personality resonated with a lot of our listeners already,” Jernigan told TechCrunch.</li><li>The company’s tech was responsible for building AI-based realistic voices, including the one used for Val Kilmer’s voice in “Top Gun: Maverick.”Prior to the acquisition, Spotify spent a few years researching AI-powered technology and worked on the DJ feature “in some iteration,” Jernigan noted.</li><li>It’s gonna be me but it’s not me, and it’s text and voice, but it’ll sound like me, and it’s AI?”“For me, it was a new experience working with AI in this way.</li><li>In March, Spotify launched its first AI-powered feature with the debut of its AI DJ — a smart audio guide with a convincingly realistic voice.</li><li>As of February, the DJ feature is still in beta testing.“We got a whole bunch of really cool new features coming out across the board,” Jernigan said.</li><li>I was just blown away,” he added.Spotify launches ‘DJ,’ a new feature offering personalized music with AI-powered commentarySpotify says its AI DJ was built using both Sonantic and OpenAI technologies.Sonantic is an AI startup that Spotify acquired last year.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/21/xaviar-x-jernigan-spotify-dj-ai/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Founders Pledge launches VC arm, Pledge Ventures, to create new flywheel in philanthropy",
+            "description": "Founders Pledge is a Londonbased charitable initiative, where entrepreneurs enter a legally binding commitment to donate a portion of their personal proceeds on liquidity to charity when they exit. Launched all the way back in 2015 the initiative was designe",
+            "url": "/2023-04-21-founders-pledge-launches-vc-arm-pledge-ventures-to-create-new-flywheel-in-philanthropy",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+            "publishedAt": "2023-04-21T08:00:35Z",
+            "content": "Founders Pledge is a Londonbased charitable initiative, where entrepreneurs enter a legally binding commitment to donate a portion of their personal proceeds on liquidity to charity when they exit.  [+3904 chars]",
+            "summary": "In other words, creating a fly-wheel effect.The first close stands at $38 million and they plan to close further rounds.The fund will aim to drive returns for investors while, at the same time, supporting the nonprofit mission of Founders Pledge. So were gonna invest in very, very hot rounds where the returns accrue to charity.In a statement, Pledge Ventures Managing Director (pictured above, middle) Ben Gammon, said: The enthusiasm for the concept has been overwhelming. We can participate in these very hot, very oversubscribed rounds that are inaccessible to everyone else, because of the alignment that the fund has with the key decision maker of the company. We invest in every Founders Pledge signatory thats raising 20 million or more in a Series B or later with a top-tier VC participating. Investing in them gives us a share of their upside and ensures the long term success of Founders Pledge. Heres how it will operate: It will donate 85% of carried interest and up to 50% of management fees to the charity. Im very excited to anchor this fund.",
+            "html_summary": "<ul><li>In other words, creating a fly-wheel effect.The first close stands at $38 million and they plan to close further rounds.The fund will aim to drive returns for investors while, at the same time, supporting the nonprofit mission of Founders Pledge.</li><li>So we’re gonna invest in very, very hot rounds where the returns accrue to charity.In a statement, Pledge Ventures Managing Director (pictured above, middle) Ben Gammon, said: “The enthusiasm for the concept has been overwhelming.</li><li>We can participate in these very hot, very oversubscribed rounds that are inaccessible to everyone else, because of the alignment that the fund has with the key decision maker of the company.</li><li>We invest in every Founders Pledge signatory that’s raising 20 million or more in a Series B or later with a top-tier VC participating.</li><li>Investing in them gives us a share of their upside and ensures the long term success of Founders Pledge.</li><li>Here’s how it will operate: It will donate 85% of carried interest and up to 50% of management fees to the charity.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/21/founders-pledge-launches-vc-arm-pledge-ventures-to-create-new-flywheel-in-philanthropy/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Humane Previews AIPowered Wearable at TED. Betterdata uses synthetic data to keep real data safe. As the UK readies its first nationwide Emergency Alerts test this Sunday, heres everything you need to know. Rocket Report Starship RUDs on the way to space; Rocket Lab to reuse engine. Photonics is proving to be a tough nut to crack. Xaviar X Jernigan, the voice of Spotifys DJ, explains what its like to become an AI. Founders Pledge launches VC arm, Pledge Ventures, to create new flywheel in philanthropy"
+}

@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Redwire Space prints human knee cartilage in space for the first time | TechCrunch",
+            "description": "Redwire Space successfully bioprinted a full human knee meniscus aboard the International Space Station for the first time.",
+            "url": "/2023-09-07-redwire-space-prints-human-knee-cartilage-in-space-for-the-first-time",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/5-Meniscus_Credit-Redwire.png?resize=1200,675",
+            "publishedAt": "2023-09-07T11:31:04Z",
+            "content": "Redwire Space has successfully bioprinted a human knee meniscus aboard the International Space Station, a landmark development that could help people recovering from meniscus injuries here on Earth. [+2098 chars]",
+            "summary": "The meniscus cartilage was printed on Redwire s BioFabrication Facility BFF on the ISS. The printing is a major step forward toward the development of a repeatable microgravity manufacturing process for reliable bioprinting at scale. Redwire Space has made major strides into biotechnology in recent months. The company announced it would open a square foot research park focused on biotech and microgravity in Indiana earlier this summer. On a SpaceX Commercial Resupply mission to the ISS scheduled for November Redwire will launch payloads focused on pharmaceutical drug development in microgravity and an experiment to biopprint cardiac tissue.",
+            "html_summary": "<ul><li>The meniscus cartilage was printed on Redwire s BioFabrication Facility BFF on the ISS</li><li> The printing is a major step forward toward the development of a repeatable microgravity manufacturing process for reliable bioprinting at scale</li><li> Redwire Space has made major strides into biotechnology in recent months</li><li> The company announced it would open a square foot research park focused on biotech and microgravity in Indiana earlier this summer</li><li> On a SpaceX Commercial Resupply mission to the ISS scheduled for November Redwire will launch payloads focused on pharmaceutical drug development in microgravity and an experiment to biopprint cardiac tissue</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/07/redwire-space-prints-human-knee-cartilage-in-space-for-the-first-time/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tage Kene-okafor",
+            "title": "Base Ecosystem Fund,Hashed Emergent invest $1.9M in Nestcoin to scale its Onboard product | TechCrunch",
+            "description": "Nestcoin has raised capital to focus its efforts on building Onboard to reduce the limitations of traditional finance in frontier markets.",
+            "url": "/2023-09-07-base-ecosystem-fund-hashed-emergent-invest-1-9m-in-nestcoin-to-scale-its-onboard-product",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/E27F58FC-37D9-48F2-B6BA-E1608D1AB0EE.jpeg?w=1024",
+            "publishedAt": "2023-09-07T08:19:50Z",
+            "content": "Nestcoin, a development company housing modern finance project Onboard, has secured $1.9 million in a strategic funding round. Hashed Emergent, a Web2.5 fund for builders from emerging markets, led t [+6181 chars]",
+            "summary": "A virtual card product that allows users to spend stablecoins across 160+ countries is also in the works.Two years ago, investors pushed money into blockchain technologies at a stunning rate, carried away by bullish optimism and frenzy buying of NFTs, DeFi, and web3 projects. Adaverse and Base Ecosystem Fund, two new investors, also participated.Its been almost a year since the implosion of the cryptocurrency exchange FTX caused Nestcoin, which raised $6.45 million in early 2022, to lose millions in assets (cash and stablecoins). On the other hand, Onboard claims to safeguard users assets with secure key management and multifactor authentication.Similarly, Onboard, which isnt disclosing its transaction volumes yet, provides a P2P marketplace for merchants to earn profits by trading digital assets. We are excited to work together to bring the next million builders and billion users onchain together, Jesse Pollak, creator of Base, said of the investment. The company had planned to create, invest in, and operate web3 products for customers in frontier markets across decentralized finance (DeFi), media, digital art, and gaming.These unexpected events have required Nestcoin to reevaluate its objectives, CEO Yele Bademosi told TechCrunch. Coinbases goal with Base is to make onchain the next online and onboard over 1 billion users into the crypto economy. Onboard is integrated into the Base ecosystem of decentralized apps (dApps). The firm claims that Onboard would help Africans unable to access financial services and possibilities to grow their wealth owing to location constraints or a lack of faith in the continents financial systems.In a nutshell, Onboard is a noncustodial wallet.",
+            "html_summary": "<ul><li>A virtual card product that allows users to spend stablecoins across 160+ countries is also in the works.Two years ago, investors pushed money into blockchain technologies at a stunning rate, carried away by bullish optimism and frenzy buying of NFTs, DeFi, and web3 projects.</li><li>Adaverse and Base Ecosystem Fund, two new investors, also participated.It’s been almost a year since the implosion of the cryptocurrency exchange FTX caused Nestcoin, which raised $6.45 million in early 2022, to lose millions in assets (cash and stablecoins).</li><li>On the other hand, Onboard claims to safeguard users’ assets with “secure key management and multifactor authentication.”Similarly, Onboard, which isn’t disclosing its transaction volumes yet, provides a P2P marketplace for merchants to earn profits by trading digital assets.</li><li>We are excited to work together to bring the next million builders and billion users onchain together,” Jesse Pollak, creator of Base, said of the investment.</li><li>The company had planned to create, invest in, and operate web3 products for customers in frontier markets across decentralized finance (DeFi), media, digital art, and gaming.These unexpected events have required Nestcoin to reevaluate its objectives, CEO Yele Bademosi told TechCrunch.</li><li>Coinbase’s goal with Base is to “make onchain the next online and onboard over 1 billion users into the crypto economy.” Onboard is integrated into the Base ecosystem of decentralized apps (dApps).</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/07/base-ecosystem-fund-hashed-emergent-invest-1-9m-in-nestcoin-to-scale-its-onboard-product/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "U.K. rejoins Europes Horizon R&D program after prolonged Brexit stalemate | TechCrunch",
+            "description": "The U.K. is set to rejoin the EUs preeminent science R&D funding program, after a threeyear hiatus resulting from a Brexit fallout.",
+            "url": "/2023-09-07-u-k-rejoins-horizon-rd-program-after-3-year-brexit-stalemate",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1073823296-e1694076650636.jpg?resize=1200,676",
+            "publishedAt": "2023-09-07T10:20:06Z",
+            "content": "The United Kingdom (U.K.) is set to rejoin the European Unions (EU) preeminent science R&amp;D funding program, after a prolonged hiatus resulting from Brexit.The joint statement, issued by the Eu [+4286 chars]",
+            "summary": "The United Kingdom U K is set to rejoin the European Union s EU preeminent science R D funding program after a prolonged hiatus resulting from Brexit. The joint statement issued by the European Commission EC and the U K hailed the news as a landmark moment for scientific collaboration. The U K exited the EU bloc in January it had agreed associate membership status to remain in the Horizon program. The following year separate trade disagreements related to the UK and EU s Northern Ireland Protocol which constituted part of the Brexit withdrawal agreement meant that the EU effectively blocked U K participation in Horizon.",
+            "html_summary": "<ul><li>The United Kingdom U K is set to rejoin the European Union s EU preeminent science R D funding program after a prolonged hiatus resulting from Brexit</li><li> The joint statement issued by the European Commission EC and the U K hailed the news as a landmark moment for scientific collaboration</li><li> The U K exited the EU bloc in January it had agreed associate membership status to remain in the Horizon program</li><li> The following year separate trade disagreements related to the UK and EU s Northern Ireland Protocol which constituted part of the Brexit withdrawal agreement meant that the EU effectively blocked U K participation in Horizon</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/07/u-k-rejoins-horizon-rd-program-after-3-year-brexit-stalemate/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Redwire Space prints human knee cartilage in space for the first time | TechCrunch. Base Ecosystem Fund,Hashed Emergent invest $1.9M in Nestcoin to scale its Onboard product | TechCrunch. U.K. rejoins Europes Horizon R&D program after prolonged Brexit stalemate | TechCrunch"
+}

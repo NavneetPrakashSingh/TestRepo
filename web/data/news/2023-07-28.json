@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Volkswagens Xpeng deal sets example for EV alliance between the West and China | TechCrunch",
+            "description": "The major news from Chinas auto industry this week is Volkswagens $700 million investment in the countrys electric vehicle startup, Xpeng. This partnership has the potential to set a precedent for Western automakers seeking to leverage Chinese firms for th",
+            "url": "/2023-07-28-volkswagens-xpeng-deal-sets-example-for-ev-alliance-between-the-west-and-china",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/20220822_GZ_小鹏G9_KIWI0017.jpg?resize=1200,800",
+            "publishedAt": "2023-07-28T02:03:21Z",
+            "content": "The major news from Chinas auto industry this week is Volkswagens $700 million investment in the countrys electric vehicle startup, Xpeng. This partnership has the potential to set a precedent for [+2603 chars]",
+            "summary": "Volkswagen takes stake in Chinese EV startup XPeng as part of Chinese EV deal. Partnership has the potential to set a precedent for Western automakers seeking to leverage Chinese EV expertise while their Chinese counterparts can benefit from their foreign allies global distribution. The agreement involves the production of two new battery powered models under the Volkswagen brand utilizing some of XPeng s key technologies. This type of cooperation is expected to lay the foundation for Chinese carmakers overseas expansion and in XPeng's case could open up more opportunities for future collaboration with the Volkswagen Group.",
+            "html_summary": "<ul><li>Volkswagen takes stake in Chinese EV startup XPeng as part of Chinese EV deal</li><li> Partnership has the potential to set a precedent for Western automakers seeking to leverage Chinese EV expertise while their Chinese counterparts can benefit from their foreign allies global distribution</li><li> The agreement involves the production of two new battery powered models under the Volkswagen brand utilizing some of XPeng s key technologies</li><li> This type of cooperation is expected to lay the foundation for Chinese carmakers overseas expansion and in XPeng's case could open up more opportunities for future collaboration with the Volkswagen Group</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/27/volkswagens-xpeng-deal-sets-example-for-ev-alliance-between-the-west-and-china/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Andy McLoughlin of Uncork Capital on the firms new funds, succession, and why next year could be a bloodbath for many startups (sorry, startups)",
+            "description": "Companies that probably should have been fundraising this year are going to try to go out in 2024 or 2025, but theres going to be more businesses raising than there is cash to go around.",
+            "url": "/2023-07-28-andy-mcloughlin-of-uncork-capital-on-the-firms-new-funds-succession-and-why-next-year-could-be-a-bloodbath-for-many-startups-sorry-startups",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/12/in-conversation-with-thomas-korte-angelpad-andy-mcloughlin-uncork-capital-and-timo-rein-pipedrive0072.jpg?resize=1200,800",
+            "publishedAt": "2023-07-28T03:59:42Z",
+            "content": "A few weeks ago, Uncork Capital shared the news that it recently closed on $400 million in capital commitments across two new funds $200 million for a seedstage vehicle and another $200 million for [+7914 chars]",
+            "summary": "How do you gain the confidence to back someone like that, especially if that someone is a new founder?The way I think about very early-stage investing is youre kind of looking at three axes of risk: Theres market risk, people risk, and then technology risk. I do think that long-term, theres going to be a contraction at seed, and that a lot of seed firms are going to go away as fundraising is a lot more difficult. Companies that probably should have been fundraising this year are going to try to go out in 2024 or 2025 [to avoid a down round], but theres going to be more businesses raising than there is cash to go around. We need to see [distribution to paid-in capital] before we can recommit.A lot of operator VCs are probably going to get pressure from their companies and their board members to be focused on their [own] businesses.I think Series A firms will continue to move down. If its something that maybe all of a sudden isnt in vogue anymore, its a lot harder.A lot of deals get done and arent announced, but it seems like Uncork has been quiet aside for some deals announced earlier this year. Have you been investing more quietly, or have you become more cautious in this market?There was certainly a period where everybody was in price discovery mode, but I kind of feel that was kind of maybe last March until last September. Im generally okay with taking risk on one of those, and when were looking at a team thats really just getting started, thats the technology risk.",
+            "html_summary": "<ul><li>How do you gain the confidence to back someone like that, especially if that someone is a new founder?The way I think about very early-stage investing is you’re kind of looking at three axes of risk: There’s market risk, people risk, and then technology risk.</li><li>I do think that long-term, there’s going to be a contraction at seed, and that a lot of seed firms are going to go away as fundraising is a lot more difficult.</li><li>Companies that probably should have been fundraising this year are going to try to go out in 2024 or 2025 [to avoid a down round], but there’s going to be more businesses raising than there is cash to go around.</li><li>We need to see [distribution to paid-in capital] before we can recommit.”A lot of operator VCs are probably going to get pressure from their companies and their board members to be focused on their [own] businesses.I think Series A firms will continue to move down.</li><li>If it’s something that maybe all of a sudden isn’t in vogue anymore, it’s a lot harder.A lot of deals get done and aren’t announced, but it seems like Uncork has been quiet aside for some deals announced earlier this year.</li><li>Have you been investing more quietly, or have you become more cautious in this market?There was certainly a period where everybody was in price discovery mode, but I kind of feel that was kind of maybe last March until last September.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/27/andy-mcloughlin-of-uncork-capital-on-the-firms-new-funds-succession-and-why-next-year-could-be-a-bloodbath-for-many-startups-sorry-startups/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Andrew Cunningham",
+            "title": "AMD Ryzen 7945X3D could be a fast, superefficient choice for your new gaming laptop",
+            "description": "The chip is only launching in a single laptop from Asus, at least for now.",
+            "url": "/2023-07-28-amd-extends-game-boosting-3d-v-cache-to-laptop-cpus-for-the-first-time",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/x3d-laptop-760x380.jpg",
+            "publishedAt": "2023-07-28T01:00:12Z",
+            "content": "0 with  The Ryzen 9 7945X3D is essentially a desktop Ryzen 9 7950X3D repackaged for laptops.  A visualization of what 3D VCache is, for those unfamiliar 64MB of cache, laye [+4003 chars]",
+            "summary": " AMD is announcing the first D V Cache processor for laptops the Ryzen HX D. The HX is essentially a version of the desktop Ryzen X repackaged for use in laptops instead of high end desktops. AMD says you should expect it to be about percent faster in games than the HX on average. The processor will only launch in a single laptop the Asus ROG Strix Scar which launches in August. The configuration AMD tested with includes GB of DDR RAM and a mobile Nvidia GeForce RTX which will make this one of the fastest gaming laptops you can buy.",
+            "html_summary": "<ul><li> AMD is announcing the first D V Cache processor for laptops the Ryzen HX D</li><li> The HX is essentially a version of the desktop Ryzen X repackaged for use in laptops instead of high end desktops</li><li> AMD says you should expect it to be about percent faster in games than the HX on average</li><li> The processor will only launch in a single laptop the Asus ROG Strix Scar which launches in August</li><li> The configuration AMD tested with includes GB of DDR RAM and a mobile Nvidia GeForce RTX which will make this one of the fastest gaming laptops you can buy</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/07/amd-extends-game-boosting-3d-v-cache-to-laptop-cpus-for-the-first-time/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Volkswagens Xpeng deal sets example for EV alliance between the West and China | TechCrunch. Andy McLoughlin of Uncork Capital on the firms new funds, succession, and why next year could be a bloodbath for many startups (sorry, startups). AMD Ryzen 7945X3D could be a fast, superefficient choice for your new gaming laptop"
+}

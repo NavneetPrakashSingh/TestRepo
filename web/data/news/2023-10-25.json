@@ -1,0 +1,135 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "California suspends Cruise robotaxis after car dragged pedestrian 20 feet | Makemetechie.com Summary",
+            "description": "Horrifying hitandrun triggers California suspension of Cruise robotaxis.",
+            "url": "/2023-10-25-https-arstechnica-com-tech-policy-2023-10-california-suspends-cruises-robotaxis-after-pedestrian-was-critically-injured-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1590511704-760x380.jpg",
+            "publishedAt": "2023-10-25T14:34:16Z",
+            "content": "58 with Less than three months after the California Public Utilities Commission approved robotaxiservice Cruises plan to provide aroundtheclock driverless rides to passengers in San Francisco,  [+4113 chars]",
+            "summary": "The California Department of Motor Vehicles DMV has shut down Cruise s driverless operations in the state. The suspension followed two notable accidents involving Cruise s robotaxis. In August one person was injured after a Cruise vehicle crashed into a fire truck. And earlier this month a pedestrian using a crosswalk was found in critical condition after a driver of another vehicle struck the pedestrian and threw her into the path of an oncoming Cruise robotaxi. This hit and run incident is still being investigated. Cruise promised that its teams have immediately begun working on potential enhancements to the AV s response to rare circumstances.",
+            "html_summary": "<ul><li>The California Department of Motor Vehicles DMV has shut down Cruise s driverless operations in the state.</li><li> The suspension followed two notable accidents involving Cruise s robotaxis.</li><li> In August one person was injured after a Cruise vehicle crashed into a fire truck.</li><li> And earlier this month a pedestrian using a crosswalk was found in critical condition after a driver of another vehicle struck the pedestrian and threw her into the path of an oncoming Cruise robotaxi.</li><li> This hit and run incident is still being investigated.</li><li> Cruise promised that its teams have immediately begun working on potential enhancements to the AV s response to rare circumstances.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/california-suspends-cruises-robotaxis-after-pedestrian-was-critically-injured/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Karoli Hindriks",
+            "title": "Antiimmigration policy is killing European tech | Makemetechie.com Summary",
+            "description": "Governments need to create environments where founders and their teams can imagine building lasting and successful businesses.",
+            "url": "/2023-10-25-https-techcrunch-com-2023-10-17-anti-immigration-policy-is-killing-european-tech-",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-474416023.jpg?resize=1200,800",
+            "publishedAt": "2023-10-25T11:26:44Z",
+            "content": "Increases in immigration to Europe since the pandemic have given politicians ample material for election campaigns. Despite illegal immigration making up just a fraction of net migration to Europe, r [+6495 chars]",
+            "summary": "The tech industry thrives on talent; further limiting our access to it is a disservice.Governments need to create environments where founders and their teams can imagine building lasting and successful businesses. Initiatives like the Startup Visa program, Estonias e-Residency, and the Digital Nomad Visa (now adopted by multiple European states) have collectively cultivated a tech landscape attracting global investment and expertise. Earlier this year, neobank Monzo moved its operations to San Francisco, followed by British chip giant Arm, which moved its primary listings to New York in another blow to London.Estonia serves as a prime example of how embracing international talent can drive an entire sector. Tech relies on international talent and cutting off our talent supply is a self-inflicted wound. Last year, the tech sector was responsible for 8% of GBP in Estonia and 10% of all the employment taxes.Estonias sustained growth isnt by chance; it stems from intentional policies promoting innovation and immigration. The U.K. is witnessing a growing trend of founders starting out in the U.K. and then establishing their businesses elsewhere in Europe, where ecosystems in countries like France and Germany have matured considerably over the past few years. Additionally, the U.K. barred international students from moving with their families, further threatening the talent pipeline for British startups.Anyone who has worked in a European startup will tell you its very unlikely youll be on a team with everyone from the same country.",
+            "html_summary": "<ul><li>The tech industry thrives on talent; further limiting our access to it is a disservice.Governments need to create environments where founders and their teams can imagine building lasting and successful businesses..</li><li>Initiatives like the Startup Visa program, Estonia’s e-Residency, and the Digital Nomad Visa (now adopted by multiple European states) have collectively cultivated a tech landscape attracting global investment and expertise..</li><li>Earlier this year, neobank Monzo moved its operations to San Francisco, followed by British chip giant Arm, which moved its primary listings to New York in another blow to London.Estonia serves as a prime example of how embracing international talent can drive an entire sector..</li><li>Tech relies on international talent and cutting off our talent supply is a self-inflicted wound..</li><li>Last year, the tech sector was responsible for 8% of GBP in Estonia and 10% of all the employment taxes.Estonia’s sustained growth isn’t by chance; it stems from intentional policies promoting innovation and immigration..</li><li>The U.K. is witnessing a growing trend of founders starting out in the U.K. and then establishing their businesses elsewhere in Europe, where ecosystems in countries like France and Germany have matured considerably over the past few years..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/17/anti-immigration-policy-is-killing-european-tech/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "How to make almost any computer a modernday PLATO terminal | Makemetechie.com Summary",
+            "description": "A dive into the past, whether youre using a vintage or new computer.",
+            "url": "/2023-10-25-https-arstechnica-com-gadgets-2023-10-how-to-make-almost-any-computer-a-modern-day-plato-terminal-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/plato-terminal-emulation-760x380.jpg",
+            "publishedAt": "2023-10-25T11:30:09Z",
+            "content": "1 with In our previous deep dive into the groundbreaking world of PLATO, we pointed out the technological advances the system heralded in graphical displays, sound, and user interface; the trailbla [+4208 chars]",
+            "summary": "IRATA ONLINE and Cyber both operate a server running an emulated PLATO environment with many of the same software components but the specific mix of lessons and applications. Both instances are descendants of the original In Control Data Corporation CDC CEO Lawrence Perlman sold thePLATO trademark and some of its courseware to the Roach Organization which eventually renamed itself PLatO Learning and is today called Edmentum. Because the CYBIS image that both services started with is directly descended from the original PLATAO they can trace their family tree back to the original via CYB IS. IRATA OnLINE has an explicit retrocomputing focus and we ll look a little later in this article at how it specifically caters to period vintage computers.",
+            "html_summary": "<ul><li>IRATA ONLINE and Cyber both operate a server running an emulated PLATO environment with many of the same software components but the specific mix of lessons and applications.</li><li> Both instances are descendants of the original In Control Data Corporation CDC CEO Lawrence Perlman sold thePLATO trademark and some of its courseware to the Roach Organization which eventually renamed itself PLatO Learning and is today called Edmentum.</li><li> Because the CYBIS image that both services started with is directly descended from the original PLATAO they can trace their family tree back to the original via CYB IS.</li><li> IRATA OnLINE has an explicit retrocomputing focus and we ll look a little later in this article at how it specifically caters to period vintage computers.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/10/how-to-make-almost-any-computer-a-modern-day-plato-terminal/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ap news",
+            "title": "Grandpa GOOGLE? Tech giant begins antitrust defense by poking fun at status... | Makemetechie.com Summary",
+            "description": "Google is beginning its defense against a federal lawsuit accusing it of illegally thwarting competition for its ubiquitous search engine. Thursdays testimony came from a top executive who talked about the precarious nature of the companys success. Prabhaka",
+            "url": "/2023-10-25-https-apnews-com-article-google-antitrust-trial-search-engine-defense-21c59367d8db87ba16a0c0628f7b6fbc",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2023-10-26T18:00:03Z",
+            "content": "Grandpa Google? Tech giant begins antitrust defense by poking fun at its status among youthWASHINGTON (AP)  A top Google executive testified Thursday that the companys success is precarious and sai [+3637 chars]",
+            "summary": "Prabhakar Raghavan Google s senior vice president for knowledge and information products testified for the tech giant as it defends itself in the biggest antitrust trial in the last years. The government has accused the company of illegally thwarting competitors from making inroads against its ubiquitous search engine. The antitrust case is the biggest since the Justice Department went after Microsoft and its dominance of internet browsers years ago. The trial began last month and Google is expected to present its case over the next month. U S District Judge Amit Mehta is not expected to rule until early next year.",
+            "html_summary": "<ul><li>Prabhakar Raghavan Google s senior vice president for knowledge and information products testified for the tech giant as it defends itself in the biggest antitrust trial in the last years.</li><li> The government has accused the company of illegally thwarting competitors from making inroads against its ubiquitous search engine.</li><li> The antitrust case is the biggest since the Justice Department went after Microsoft and its dominance of internet browsers years ago.</li><li> The trial began last month and Google is expected to present its case over the next month.</li><li> U S District Judge Amit Mehta is not expected to rule until early next year.</li></ul>",
+            "website_url": "https://apnews.com/article/google-antitrust-trial-search-engine-defense-21c59367d8db87ba16a0c0628f7b6fbc"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "University of Chicago researchers seek to poison AI art generators with Nightshade | Makemetechie.com Summary",
+            "description": "Altered images could destroy AI model training efforts that scrape art without consent.",
+            "url": "/2023-10-25-https-arstechnica-com-information-technology-2023-10-university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/robot_poison_hero-760x380.jpg",
+            "publishedAt": "2023-10-25T21:21:23Z",
+            "content": "20 with On Friday, a team of researchers at the University of Chicago released a research paper outlining Nightshade, a data poisoning technique aimed at disrupting the training process for AI mo [+3970 chars]",
+            "summary": "Nightshade is a data poisoning technique aimed at disrupting the training process for AI models. The goal is to help visual artists and publishers protect their work from being used to train generative AI image synthesis models such as Midjourney DALL E and Stable Diffusion. The open source poison pill tool as the University of Chicago s press department calls it alters images in ways invisible to the human eye that can corrupt an AI model s training process. It tricks AI models into misidentifying objects within the images. In tests researchers used the tool to alter images of dogs in a way that led anAI model to generate a cat when prompted to produce a dog.",
+            "html_summary": "<ul><li>Nightshade is a data poisoning technique aimed at disrupting the training process for AI models.</li><li> The goal is to help visual artists and publishers protect their work from being used to train generative AI image synthesis models such as Midjourney DALL E and Stable Diffusion.</li><li> The open source poison pill tool as the University of Chicago s press department calls it alters images in ways invisible to the human eye that can corrupt an AI model s training process.</li><li> It tricks AI models into misidentifying objects within the images.</li><li> In tests researchers used the tool to alter images of dogs in a way that led anAI model to generate a cat when prompted to produce a dog.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Tech companies seek 1218 month extension for India dataprotection law compliance | Makemetechie.com Summary",
+            "description": "The Asia Internet Coalition, a powerful industry group that represents Apple, Google, Meta, Microsoft and many other tech companies, has requested Indias IT Ministry for an extended deadline to comply with certain provisions of a newly approved data protecti",
+            "url": "/2023-10-25-https-techcrunch-com-2023-10-25-tech-companies-seek-12-18-month-extension-for-india-data-protection-law-compliance-",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1681877521.jpg?resize=1200,800",
+            "publishedAt": "2023-10-26T05:46:39Z",
+            "content": "The Asia Internet Coalition, a powerful industry group that represents Apple, Google, Meta, Microsoft and many other tech companies, has requested Indias IT Ministry for an extended deadline to comp [+2554 chars]",
+            "summary": "The Asia Internet Coalition a powerful industry group that represents Apple Google Meta Microsoft and many other tech companies has requested India s IT Ministry for an extended deadline to comply with certain provisions of a newly approved data protection regulation. India s Digital Personal Data Protection Act ranks among the world s most stringent regulations on technology firms curbing international data transfers and levying fines for violations. For many tech giants including Meta and Google India represents their largest user base India s digital economy should grow to approximately trillion by according to projections by Google Temasek and Bain.",
+            "html_summary": "<ul><li>The Asia Internet Coalition a powerful industry group that represents Apple Google Meta Microsoft and many other tech companies has requested India s IT Ministry for an extended deadline to comply with certain provisions of a newly approved data protection regulation.</li><li> India s Digital Personal Data Protection Act ranks among the world s most stringent regulations on technology firms curbing international data transfers and levying fines for violations.</li><li> For many tech giants including Meta and Google India represents their largest user base India s digital economy should grow to approximately trillion by according to projections by Google Temasek and Bain.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/25/tech-companies-seek-12-18-month-extension-for-india-data-protection-law-compliance/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ron Amadeo",
+            "title": "Google Fiber is getting outrageously fast 20Gbps service | Makemetechie.com Summary",
+            "description": "For now this is early access, but most customers will get upgraded eventually.",
+            "url": "/2023-10-25-https-arstechnica-com-gadgets-2023-10-google-fiber-is-getting-outrageously-fast-20gbps-service-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/IMG_2534-760x380.jpg",
+            "publishedAt": "2023-10-26T17:56:54Z",
+            "content": "Enlarge/ Google Fiber Labs brings quick internet to early adopters. 9 with Google Fiber is still operating in a handful of cities, and now the bandwidthrich are getting richer Fiber plans to up [+2027 chars]",
+            "summary": "Google Fiber plans to upgrade some users to outrageously fast Gbps service by the end of the year. The service is made possible by new networking gear Nokia s G PON passive optical network technology which lets Internet service providers push more bandwidth over existing fiber lines. There s no word yet on the price or which utopian Google Fiber cities will get access to the GMbps service. Google has already run trials in Kansas City Missouri and says it will eventually roll out in most if not all of our markets.",
+            "html_summary": "<ul><li>Google Fiber plans to upgrade some users to outrageously fast Gbps service by the end of the year.</li><li> The service is made possible by new networking gear Nokia s G PON passive optical network technology which lets Internet service providers push more bandwidth over existing fiber lines.</li><li> There s no word yet on the price or which utopian Google Fiber cities will get access to the GMbps service.</li><li> Google has already run trials in Kansas City Missouri and says it will eventually roll out in most if not all of our markets.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/10/google-fiber-is-getting-outrageously-fast-20gbps-service/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "CEO of rocketmaker ULA makes a sales pitchfor the whole company | Makemetechie.com Summary",
+            "description": "CEO of rocketmaker ULA makes a sales pitchfor the whole companyarstechnica.com",
+            "url": "/2023-10-25-https-arstechnica-com-space-2023-10-ceo-of-rocket-maker-ula-makes-a-sales-pitch-for-the-whole-company-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1241447750-760x380.jpg",
+            "publishedAt": "2023-10-26T17:17:40Z",
+            "content": "Enlarge/ Tory Bruno, ULAs chief executive, inside the companys rocket factory in Decatur, Alabama. 5 with It sure sounds like United Launch Alliance is up for sale. Tory Bruno, the rocket build [+5777 chars]",
+            "summary": "One example of this is when ULA's board, comprised of Boeing and Lockheed Martin executives, initially only approved funding for the Vulcan rocket in three-month increments.While SpaceX dominates the commercial launch market, ULA remains the US military's preferred launch provider. ULA's owners started a multibillion-dollar program to develop the Vulcan rocket in 2014, billing it as a replacement for the company's legacy Atlas and Delta rockets.ULA has also made tentative steps to test technologies needed to reuse the Vulcan rocket's main engines, made by Blue Origin. Officials say this $2 billion investment will double ULA's launch capacity, allowing it to launch as many as 25 Vulcan rockets per year.Sources have said ULA and its corporate owners have already talked with prospective buyers. Let's not forget that Lockheed Martin developed the Atlas V rocket, the more successful of ULA's two legacy launch vehicle families in terms of price and launch cadence.Amazon is another possibility. The military is now in another multi-year launch procurement, and ULA and SpaceX again appear to have the advantage.United Launch Alliance has also been buoyed by Amazon's purchase of 47 launches for the Kuiper broadband constellation. Since then, ULA has been a profitable enterprise for both aerospace giants, thanks to a steady diet of lucrative sole-source military launch contracts and an approximately $1 billion annual subsidy from the US Department of Defense to maintain \"launch readiness. Importantly, the Vulcan rocket will also end ULA's reliance on Russian-built engines that fly on the Atlas V, meaning the US military will stop launching satellites using technology from an adversary.Ars first reported the possibility of a ULA sale in March.",
+            "html_summary": "<ul><li>One example of this is when ULA's board, comprised of Boeing and Lockheed Martin executives, initially only approved funding for the Vulcan rocket in three-month increments.While SpaceX dominates the commercial launch market, ULA remains the US military's preferred launch provider..</li><li>ULA's owners started a multibillion-dollar program to develop the Vulcan rocket in 2014, billing it as a replacement for the company's legacy Atlas and Delta rockets.ULA has also made tentative steps to test technologies needed to reuse the Vulcan rocket's main engines, made by Blue Origin..</li><li>Officials say this $2 billion investment will double ULA's launch capacity, allowing it to launch as many as 25 Vulcan rockets per year.Sources have said ULA and its corporate owners have already talked with prospective buyers..</li><li>Let's not forget that Lockheed Martin developed the Atlas V rocket, the more successful of ULA's two legacy launch vehicle families in terms of price and launch cadence.Amazon is another possibility..</li><li>The military is now in another multi-year launch procurement, and ULA and SpaceX again appear to have the advantage.United Launch Alliance has also been buoyed by Amazon's purchase of 47 launches for the Kuiper broadband constellation..</li><li>Since then, ULA has been a profitable enterprise for both aerospace giants, thanks to a steady diet of lucrative sole-source military launch contracts and an approximately $1 billion annual subsidy from the US Department of Defense to maintain \"launch readiness..</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/10/ceo-of-rocket-maker-ula-makes-a-sales-pitch-for-the-whole-company/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. California suspends Cruise robotaxis after car dragged pedestrian 20 feet | Makemetechie.com Summary. Antiimmigration policy is killing European tech | Makemetechie.com Summary. How to make almost any computer a modernday PLATO terminal | Makemetechie.com Summary. Grandpa GOOGLE? Tech giant begins antitrust defense by poking fun at status... | Makemetechie.com Summary. University of Chicago researchers seek to poison AI art generators with Nightshade | Makemetechie.com Summary. Tech companies seek 1218 month extension for India dataprotection law compliance | Makemetechie.com Summary. Google Fiber is getting outrageously fast 20Gbps service | Makemetechie.com Summary. CEO of rocketmaker ULA makes a sales pitchfor the whole company | Makemetechie.com Summary"
+}

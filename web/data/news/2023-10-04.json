@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "Setting up home automation is rough. Google, shockingly, has good ideas for it | Makemetechie.com Summary",
+            "description": "We can all use help finding connections between gear.",
+            "url": "/2023-10-04-setting-up-home-automation-is-rough-google-shockingly-has-good-ideas-for-it",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-466700725-760x380.jpg",
+            "publishedAt": "2023-10-04T20:01:04Z",
+            "content": "Enlarge/ Claus Scholz is offered tea and moral encouragement by his robots, MM7 and MM8, also known as Psychotrons, in 1950 Vienna. This could be us, but many home automation platforms are only pla [+7204 chars]",
+            "summary": "But there have to be many ways to make connecting your smart home gear far easier.You can make home automation easier on yourself in the short term by buying into a customized total-home system, the kind installed by contractors and controlled with wall-mounted tablets. \"Help me script\" is a code automation tool that turns natural languagelike, \"When I arrive home and the garage door closes, turn on the downstairs lights\"into Google Home scripts. But betting on one company to always be there for you is not something we generally recommend.This is why the idea of Googleor any companyoffering help with the deeper and more difficult parts of a smart home setup is so intriguing to me. )Earlier this week, Google announced another way that AI could help even seasoned smart home enthusiasts get more control. Even smart home systems with robust scripting abilities mostly let users develop great ideas for connecting two or more devices. Hooking them up to Google Home, Alexa, Apple's Home, or Home Assistant varies by device and system but should be achievable. In Google's example, you could have certain lights in your home blink three times and have speakers play a chimebut only if somebody is home.",
+            "html_summary": "<ul><li>But there have to be many ways to make connecting your smart home gear far easier.You can make home automation easier on yourself in the short term by buying into a customized total-home system, the kind installed by contractors and controlled with wall-mounted tablets..</li><li>\"Help me script\" is a code automation tool that turns natural language—like, \"When I arrive home and the garage door closes, turn on the downstairs lights\"—into Google Home scripts..</li><li>But betting on one company to always be there for you is not something we generally recommend.This is why the idea of Google—or any company—offering help with the deeper and more difficult parts of a smart home setup is so intriguing to me..</li><li>)Earlier this week, Google announced another way that AI could help even seasoned smart home enthusiasts get more control..</li><li>Even smart home systems with robust scripting abilities mostly let users develop great ideas for connecting two or more devices..</li><li>Hooking them up to Google Home, Alexa, Apple's Home, or Home Assistant varies by device and system but should be achievable..</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/10/setting-up-home-automation-is-rough-google-shockingly-has-good-ideas-for-it/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Vacuum suctionmounted wireless TV zip lines off faulty walls to safety | Makemetechie.com Summary",
+            "description": "Displace TV slowly (and loudly) lowers self down to foam feet before lying flat.",
+            "url": "/2023-10-04-zip-lining-wireless-tv-lands-on-self-deployed-foam-if-vacuum-suction-mount-fails",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/1-760x380.jpg",
+            "publishedAt": "2023-10-05T20:09:54Z",
+            "content": "93 with  The Displace TV has started cascading itself down its zip line.  The TVs landing on selfdeployed foam feet.  Starting to lie face down. < [+4001 chars]",
+            "summary": "Displace demoed new safety features for the TV made in response to concerns about the device s proprietary active loop vacuum technology. If the vacuum pumps are in danger of not maintaining a seal or there is an issue with the stability of the wall the TV automatically deploys four quick adhesives for stability. It then initiates a self lowering landing gear system to ease concerns about its vacuum suction mounting technique failing and sending pounds of OLED TV crashing to its doom. Displace CEO Balaji Krishnan claimed that almost no one will ever need the TV s safety deployment features.",
+            "html_summary": "<ul><li>Displace demoed new safety features for the TV made in response to concerns about the device s proprietary active loop vacuum technology.</li><li> If the vacuum pumps are in danger of not maintaining a seal or there is an issue with the stability of the wall the TV automatically deploys four quick adhesives for stability.</li><li> It then initiates a self lowering landing gear system to ease concerns about its vacuum suction mounting technique failing and sending pounds of OLED TV crashing to its doom.</li><li> Displace CEO Balaji Krishnan claimed that almost no one will ever need the TV s safety deployment features.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/10/zip-lining-wireless-tv-lands-on-self-deployed-foam-if-vacuum-suction-mount-fails/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By HANNA ARHIROVA - Associated Press",
+            "title": "Russian strike on cafe kills 51, Ukrainian officials say, as Zelenskyy seeks more Western support | Makemetechie.com Summary",
+            "description": "Ukrainian officials say at least 51 civilians were killed in a Russian rocket strike on a village store and cafe in the eastern part of the country in one of the deadliest attacks in recent months. Thursdays attack in the",
+            "url": "/2023-10-04-russia-ukraine-war-zelenskyy-travel-drone-attacks-f7c320ed2908b447f32bf32ede8caf2f",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/0b/c0bb6e32-51c5-59cc-8fcf-d1d9f4953f03/651e92b19fc46.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-10-05T22:15:35Z",
+            "content": "By HANNA ARHIROVA  Associated PressHROZA, Ukraine (AP) A Russian rocket blast turned a village cafe and store in eastern Ukraine into rubble Thursday, killing at least 51 civilians in one of the d [+7940 chars]",
+            "summary": "Roman Starovoit said Ukrainian drone attacks resulted in power cuts in several areas. Now we are talking with European leaders, in particular, about strengthening our air defense, strengthening our soldiers, giving our country protection from terror. He also said Ukrainian forces fired artillery at the border town of Rylsk, wounding a resident and damaging several houses.Associated Press writers Dasha Litvinova and Yuras Karmanau in Tallinn, Estonia, Emma Burrows in London and Seung Min Kim in Washington contributed. A Russian rocket struck a village cafe and store in eastern Ukraine on Thursday, killing at least 51 people. Body parts were strewn across a nearby childrens playground that was severely damaged by the strike. Its only 30 kilometers (19 miles) west of Kupiansk, a key focus of the Russian military effort. Cellphones were collected and put in a courtyard nearby, waiting to be claimed.",
+            "html_summary": "<ul><li>Roman Starovoit said Ukrainian drone attacks resulted in power cuts in several areas..</li><li>“Now we are talking with European leaders, in particular, about strengthening our air defense, strengthening our soldiers, giving our country protection from terror..</li><li>He also said Ukrainian forces fired artillery at the border town of Rylsk, wounding a resident and damaging several houses.Associated Press writers Dasha Litvinova and Yuras Karmanau in Tallinn, Estonia, Emma Burrows in London and Seung Min Kim in Washington contributed..</li><li>A Russian rocket struck a village cafe and store in eastern Ukraine on Thursday, killing at least 51 people..</li><li>Body parts were strewn across a nearby children’s playground that was severely damaged by the strike..</li><li>It’s only 30 kilometers (19 miles) west of Kupiansk, a key focus of the Russian military effort..</li></ul>",
+            "website_url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-travel-drone-attacks-f7c320ed2908b447f32bf32ede8caf2f"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DAVID KEYTON and MIKE CORDER - Associated Press",
+            "title": "3 scientists win Nobel Prize in chemistry for their work on tiny quantum dots | Makemetechie.com Summary",
+            "description": "The Nobel Prize in chemistry has been awarded to Moungi Bawendi, Louis Brus and Alexei Ekimov for their work on tiny quantum dots. The secretarygeneral of the Royal Swedish Academy of Sciences announced the award Wednesday in Stockholm. The Nobel",
+            "url": "/2023-10-04-nobel-prize-chemistry-stockholm-cabca0d16dc33427799886a1f012effe",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/2/ec/2ec54c29-494d-5c27-89bc-0667a24c2068/651d419a2e75a.image.jpg?crop=1778%2C933%2C0%2C115&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-10-04T10:02:00Z",
+            "content": "By DAVID KEYTON and MIKE CORDER  Associated PressSTOCKHOLM (AP) Three scientists won the Nobel Prize in chemistry for their work on tiny quantum dots.Moungi Bawendi, of MIT, Louis Brus, of Colum [+3004 chars]",
+            "summary": "Three U.S. scientists won the Nobel Prize in chemistry Wednesday for their work on quantum dots  particles just a few atoms in diameter that can release bright colored light and whose applications in everyday life include electronics and medical imaging. The practical applications of quantum dots, like creating the colors in flat-screen TVs, are something he was hoping for when he started the work decades ago, he said.Basic research is extremely hard to predict exactly how its going to work out, Brus said. The advance notice apparently came from a news release sent out early by mistake.Quantum dots are tiny inorganic particles that glow a range of colors from red to blue when exposed to light. But it wasnt until several decades later that scientists could manufacture quantum dots in a lab.In the 1980s, Ekimov, 78, and Brus, 80, honed the theory and developed early laboratory techniques for creating particles that emit varying colors by adjusting sizes. Bawendi said he was not thinking about the possible applications of his work when he started researching quantum dots. And thats what drives scientists and academic scientists to do what they do, he said.Brus, a professor emeritus at Columbia, said he didnt pick up the phone when the early morning call came from the Swedish academy to notify him. He finally saw the news online when he got up around 6 a.m.I certainly was not expecting this, Brus said.Brus said he was glad to see recognition for the area of chemistry he practices.",
+            "html_summary": "<ul><li>Three U.S. scientists won the Nobel Prize in chemistry Wednesday for their work on quantum dots — particles just a few atoms in diameter that can release bright colored light and whose applications in everyday life include electronics and medical imaging..</li><li>The practical applications of quantum dots, like creating the colors in flat-screen TVs, are something he was hoping for when he started the work decades ago, he said.“Basic research is extremely hard to predict exactly how it’s going to work out,” Brus said..</li><li>The advance notice apparently came from a news release sent out early by mistake.Quantum dots are tiny inorganic particles that glow a range of colors from red to blue when exposed to light..</li><li>But it wasn’t until several decades later that scientists could manufacture quantum dots in a lab.In the 1980s, Ekimov, 78, and Brus, 80, honed the theory and developed early laboratory techniques for creating particles that emit varying colors by adjusting sizes..</li><li>Bawendi said he was not thinking about the possible applications of his work when he started researching quantum dots..</li><li>And that’s what drives scientists and academic scientists to do what they do,” he said.Brus, a professor emeritus at Columbia, said he didn’t pick up the phone when the early morning call came from the Swedish academy to notify him..</li></ul>",
+            "website_url": "https://apnews.com/article/nobel-prize-chemistry-stockholm-cabca0d16dc33427799886a1f012effe"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Setting up home automation is rough. Google, shockingly, has good ideas for it | Makemetechie.com Summary. Vacuum suctionmounted wireless TV zip lines off faulty walls to safety | Makemetechie.com Summary. Russian strike on cafe kills 51, Ukrainian officials say, as Zelenskyy seeks more Western support | Makemetechie.com Summary. 3 scientists win Nobel Prize in chemistry for their work on tiny quantum dots | Makemetechie.com Summary"
+}

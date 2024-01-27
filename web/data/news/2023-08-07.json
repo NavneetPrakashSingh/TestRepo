@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "French startup Exotrail expands U.S. footprint with two new subsidiaries | TechCrunch",
+            "description": "French inspace mobility provider Exotrail is establishing two new U.S. subsidiaries as it seeks to grow its footpritn in American markets.",
+            "url": "/2023-08-07-french-startup-exotrail-expands-u-s-footprint-with-two-new-subsidiaries",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/exotrail-.png?resize=1200,675",
+            "publishedAt": "2023-08-07T14:12:43Z",
+            "content": "French inspace transportation company Exotrail is launching two U.S.based subsidiaries, one focused specifically on serving U.S. government and defense customers, the company said Monday.Tyler Br [+1890 chars]",
+            "summary": "French in space transportation company Exotrail is launching two U S based subsidiaries one focused specifically on serving U S government and defense customers the company said Monday. Tyler Browder co founder and former head of satellite software developer Kubos was installed to lead the new ExotRail U S Inc. Brian Holt was hired as the director of US government business development and partnerships. Holt had previously worked for the Department of Defense s Space Security and Defense Program and at SpaceWERX a technology focused organization within the U S Space Force.",
+            "html_summary": "<ul><li>French in space transportation company Exotrail is launching two U S based subsidiaries one focused specifically on serving U S government and defense customers the company said Monday</li><li> Tyler Browder co founder and former head of satellite software developer Kubos was installed to lead the new ExotRail U S Inc</li><li> Brian Holt was hired as the director of US government business development and partnerships</li><li> Holt had previously worked for the Department of Defense s Space Security and Defense Program and at SpaceWERX a technology focused organization within the U S Space Force</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/07/french-startup-exotrail-expands-u-s-footprint-with-two-new-subsidiaries/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "One Model lands $41M to bring data sciencepowered insights to HR | TechCrunch",
+            "description": "One Model, a company developing a data sciencedriven platform for HR, has raised $41 million in a funding round.",
+            "url": "/2023-08-07-one-model-lands-41m-to-bring-data-science-powered-insights-to-hr",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-498841198.jpg?resize=1200,800",
+            "publishedAt": "2023-08-07T11:01:19Z",
+            "content": "One Model, a platform that uses AI to help employers make decisions about recruiting, hiring, promotions, layoffs and general workplace planning, today announced that its raised $41 million in a fun [+4796 chars]",
+            "summary": "One Model a platform that uses AI to help employers make decisions about recruiting hiring promotions layoffs and general workplace planning today announced that it s raised million in a funding round led by Riverwood Capital. The capital will be used to boost several of the company s growth initiatives particularly in the areas of technology product development customer success and go to market. Further investment in One AI will provide more analysts and decision makers with actionable forecasts all from a powerful ethical and data governance posture One Model is what s known as a people analytics platform a platform designed to collect and apply organizational and talent data.",
+            "html_summary": "<ul><li>One Model a platform that uses AI to help employers make decisions about recruiting hiring promotions layoffs and general workplace planning today announced that it s raised million in a funding round led by Riverwood Capital</li><li> The capital will be used to boost several of the company s growth initiatives particularly in the areas of technology product development customer success and go to market</li><li> Further investment in One AI will provide more analysts and decision makers with actionable forecasts all from a powerful ethical and data governance posture One Model is what s known as a people analytics platform a platform designed to collect and apply organizational and talent data</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/07/one-model-lands-41m-to-bring-data-science-powered-insights-to-hr/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Array Labs is scanning the Earth from space to equip autonomous vehicles with 3D maps | TechCrunch",
+            "description": "Array Labs is planning on scanning the Earth in 3D, data that can be used for autonomous vehicle development, augmented reality and more.",
+            "url": "/2023-08-07-array-labs-is-scanning-the-earth-from-space-to-power-autonomous-vehicles-with-3d-maps",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Satellite-render.jpg?resize=1200,721",
+            "publishedAt": "2023-08-07T11:01:09Z",
+            "content": "Its an ofttold story the boom of space startups today can be traced to dramatically lowered cost in launch and satellite manufacturing over the past ten years. But Array Labs, a twoyearold startu [+3967 chars]",
+            "summary": " Array Labs plans to map Earth in D by flying clusters of radar satellites in low Earth orbit to image the same place at the same time. The company hopes to capture a full high resolution D digital record of the world. The data will be of such high resolution to be used by driverless vehicle fleets AR headsets insurance analytics and in national security applications. Array will launch its first test satellite on a SpaceX ride share mission next year the first in a series of test satellites designed to iteratively de risk different aspects of the company s technology.",
+            "html_summary": "<ul><li> Array Labs plans to map Earth in D by flying clusters of radar satellites in low Earth orbit to image the same place at the same time</li><li> The company hopes to capture a full high resolution D digital record of the world</li><li> The data will be of such high resolution to be used by driverless vehicle fleets AR headsets insurance analytics and in national security applications</li><li> Array will launch its first test satellite on a SpaceX ride share mission next year the first in a series of test satellites designed to iteratively de risk different aspects of the company s technology</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/07/array-labs-is-scanning-the-earth-from-space-to-power-autonomous-vehicles-with-3d-maps/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. French startup Exotrail expands U.S. footprint with two new subsidiaries | TechCrunch. One Model lands $41M to bring data sciencepowered insights to HR | TechCrunch. Array Labs is scanning the Earth from space to equip autonomous vehicles with 3D maps | TechCrunch"
+}

@@ -1,0 +1,103 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Rebecca Falconer",
+            "title": "U.S. border officials seize 900 pounds of fentanyl in first week of new trafficking crackdown",
+            "description": "The Department of Homeland Security announced Tuesday night its stepping up efforts to combat fentanyl trafficking across the Southern border with the launch of a major new, multiagency operation.Driving the news Operation Blue Lotus has already stopped",
+            "url": "/2023-03-22-us-fentanyl-trafficking-operation-blue-lotus-border-mayorkas",
+            "urlToImage": "https://images.axios.com/7-m5OssWPtZLj6Pb-c0T2CtN5s0=/0x55:5808x3322/1366x768/2023/03/22/1679463866432.jpg",
+            "publishedAt": "2023-03-22T06:01:22Z",
+            "content": "The Department of Homeland Security announced Tuesday night its stepping up efforts to combat fentanyl trafficking across the Southern border with the launch of a major new, multiagency operation. [+2059 chars]",
+            "summary": "Katie Hobbs (D) on Tuesday.Of note: \"Operation Blue Lotus\" has also prevented more than 700 pounds of methamphetamines and over 100 pounds of cocaine from entering the U.S., according to the DHS. A U.S. Customs and Border Protection agent weighs a package of fentanyl at the San Ysidro Port of Entry in San Ysidro, California, in 2019.",
+            "html_summary": "<ul><li>Katie Hobbs (D) on Tuesday.Of note: \"Operation Blue Lotus\" has also prevented more than 700 pounds of methamphetamines and over 100 pounds of cocaine from entering the U.S., according to the DHS.</li></ul>",
+            "website_url": "https://www.axios.com/2023/03/22/us-fentanyl-trafficking-operation-blue-lotus-border-mayorkas"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Alex Fitzpatrick",
+            "title": "The next hot fast food menu item? Electric car charging",
+            "description": "Several major fast food and convenience store chains have recently announced a big push into electric vehicle (EV) charging, a trend that could accelerate efforts to expand the countrys embryonic charging infrastructure.Why it matters Automakers are finally",
+            "url": "/2023-03-22-electric-vehicle-charging-subway-7-eleven",
+            "urlToImage": "https://images.axios.com/L5S0kfDTgvzi7RxvcF-Tw4C_JPY=/0x0:1920x1080/1366x768/2023/03/21/1679421716106.jpg",
+            "publishedAt": "2023-03-22T09:30:00Z",
+            "content": "Several major fast food and convenience store chains have recently announced a big push into electric vehicle (EV) charging, a trend that could accelerate efforts to expand the countrys embryonic ch [+2527 chars]",
+            "summary": "(Electrify America, one of the foremost charging-specific companies, has similar ambitions.",
+            "html_summary": "<ul><li>(Electrify America, one of the foremost charging-specific companies, has similar ambitions.</li></ul>",
+            "website_url": "https://www.axios.com/2023/03/22/electric-vehicle-charging-subway-7-eleven"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "Making faces How to train an AI on your face to create silly portraits",
+            "description": "Follow our stepbystep tutorial to paste your face onto anything your heart desires.",
+            "url": "/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/train-your-face-ai-760x380.jpg",
+            "publishedAt": "2023-03-22T11:30:45Z",
+            "content": "Enlarge/ Ever want to be a superhero? Well show you how.5 with By now, youve read a lot about generative AI technologies such as Midjourney and Stable Diffusion, which translate text input into [+3014 chars]",
+            "summary": "Previously, doing so was a painstaking process of finding or taking a picture with the right angle and expression and then using Photoshop to graft my face onto the original. It's exciting because it gives people like me, who peaked artistically with fingerpaints in kindergarten, the ability to create the images I imagine. If you're anything like me, you immediately wondered how you could use that technology to slap your face onto the Mona Lisa or Captain America. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an Nvidia GPU is preferred.Lastly, tech like Stable Diffusion is simultaneously exciting and terrifying. But it's terrifying because it can be used to create frighteningly realistic propaganda and deepfakes with the potential to ruin peoples lives.  Shaun Hutchinson - Mar 22, 2023 11:30 am UTC By now, you've read a lot about generative AI technologies such as Midjourney and Stable Diffusion, which translate text input into images in seconds. While I considered the results demented yet worthwhile, the process required a lot of time.",
+            "html_summary": "<ul><li>Previously, doing so was a painstaking process of finding or taking a picture with the right angle and expression and then using Photoshop to graft my face onto the original.</li><li>It's exciting because it gives people like me, who peaked artistically with fingerpaints in kindergarten, the ability to create the images I imagine.</li><li>If you're anything like me, you immediately wondered how you could use that technology to slap your face onto the Mona Lisa or Captain America.</li><li>Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an Nvidia GPU is preferred.Lastly, tech like Stable Diffusion is simultaneously exciting and terrifying.</li><li>But it's terrifying because it can be used to create frighteningly realistic propaganda and deepfakes with the potential to ruin people’s lives.</li><li> Shaun Hutchinson - Mar 22, 2023 11:30 am UTC By now, you've read a lot about generative AI technologies such as Midjourney and Stable Diffusion, which translate text input into images in seconds.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Amazons palmreading payment tech is coming to Panera Bread",
+            "description": "Amazon may be closing a number of its own hightech physical retail stores in recent days, but some of the technology it developed for those stores is finding a new home. The online retailer announced today that Panera will now become the first restaurant to ",
+            "url": "/2023-03-22-amazons-palm-reading-payments-tech-is-coming-to-panera-bread",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Wide-Cafe-Front.jpeg?resize=1200,593",
+            "publishedAt": "2023-03-22T11:00:30Z",
+            "content": "Amazon may be closing a number of its own hightech physical retail stores in recent days, but some of the technology it developed for those stores is finding a new home. The online retailer announce [+4916 chars]",
+            "summary": "By year-end, it expects to have 10 to 20 locations live with the technology.Leveraging computer vision technology, the Amazon One system creates a unique palm print for each customer, which Amazon then associates with a credit card the customer inserts in the sign-up kiosk upon initial setup. When the ordering is complete, the customer would scan their palm a second time to pay.Alongside this news, Amazon is also announcing two new features for Amazon One, including loyalty linking and online pre-enrollment. This system could then be used to introduce highly personalized offers and recommendations over time.The biometric payment system itself was introduced during the pandemic, taking advantage of the increased interest in contactless payments. The system has also been deployed at various stadiums and airports.Image Credits: Panera (Amazon One reader)Now, Panera will adopt the system in its stores to enable fast payments and other features. Of course, Amazon wasnt only storing palm images; it was also matching them to customer accounts and credit cards, building a database of customer info combined with biometrics. For the former, if the customer was already enrolled in Amazon One at another location, they could now just link their MyPanera account to their Amazon One ID either online or in the store to use the system at that location, too. With the combination of payment tech, loyalty and unique identifiers, Panera could more easily track unique customers and learn their preferences, habits and interests to better target them with offers and recommendations.",
+            "html_summary": "<ul><li>By year-end, it expects to have 10 to 20 locations live with the technology.Leveraging computer vision technology, the Amazon One system creates a unique palm print for each customer, which Amazon then associates with a credit card the customer inserts in the sign-up kiosk upon initial setup.</li><li>When the ordering is complete, the customer would scan their palm a second time to pay.Alongside this news, Amazon is also announcing two new features for Amazon One, including loyalty linking and online pre-enrollment.</li><li>This system could then be used to introduce highly personalized offers and recommendations over time.The biometric payment system itself was introduced during the pandemic, taking advantage of the increased interest in contactless payments.</li><li>The system has also been deployed at various stadiums and airports.Image Credits: Panera (Amazon One reader)Now, Panera will adopt the system in its stores to enable fast payments and other features.</li><li>Of course, Amazon wasn’t only storing palm images; it was also matching them to customer accounts and credit cards, building a database of customer info combined with biometrics.</li><li>For the former, if the customer was already enrolled in Amazon One at another location, they could now just link their MyPanera account to their Amazon One ID either online or in the store to use the system at that location, too.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/03/22/amazons-palm-reading-payments-tech-is-coming-to-panera-bread/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Huizhong Wu",
+            "title": "China and Russia explaining a long, complicated friendship",
+            "description": "TAIPEI, Taiwan (AP)  Chinese leader Xi Jinping just concluded a threeday visit with Russian President Vladimir Putin , a warm affair in which the two men praised each other and spoke of a profound friendship.",
+            "url": "/2023-03-22-china-russia-history-xi-putin-ties-6f1b1b69fc4f7be1e979ac29de9728f7",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6d45f08cbd6a4712bdacfd7462c198d1/3000.webp",
+            "publishedAt": "2023-03-22T11:05:12Z",
+            "content": "TAIPEI, Taiwan (AP) Chinese leader Xi Jinping just concluded a threeday visit with Russian President Vladimir Putin, a warm affair in which the two men praised each other and spoke of a profound fri [+5107 chars]",
+            "summary": "In 1959, the Soviet Union remained neutral during a border conflict between China and India, which led China to feel that it was not getting enough support from its ally.The relationship soured until the two countries broke off their alliance in 1961 in the Sino-Soviet Split. Many Chinese people, including elites, have not yet realized the historic reversal of Chinas comprehensive national strength compared to Russia, wrote Feng Yujun, a prominent Russia scholar at Shanghais Fudan University, in an article published last month that was shared widely. The two countries also had a formal military alliance, but Moscow decided against giving China the technology for nuclear arms. Russia supplies energy and China exports manufactured goods to Russia.And while some analysts and commentators have started saying that China is now the senior partner in the relationship, given the history, its not necessarily how thats viewed in China.Russias hold over China is not only historical, but also cultural. In the years since, the world has changed greatly, as have the fortunes of the two countries. The Peoples Republic of China was founded in 1949, following a brutal Japanese occupation during World War II and a bloody civil war between the Nationalist and Communist Parties. TAIPEI, Taiwan (AP)  Chinese leader Xi Jinping just concluded a three-day visit with Russian President Vladimir Putin, a warm affair in which the two men praised each other and spoke of a profound friendship.",
+            "html_summary": "<ul><li>In 1959, the Soviet Union remained neutral during a border conflict between China and India, which led China to feel that it was not getting enough support from its ally.The relationship soured until the two countries broke off their alliance in 1961 in the Sino-Soviet Split.</li><li>“Many Chinese people, including elites, have not yet realized the historic reversal of China’s comprehensive national strength compared to Russia,” wrote Feng Yujun, a prominent Russia scholar at Shanghai’s Fudan University, in an article published last month that was shared widely.</li><li>The two countries also had a formal military alliance, but Moscow decided against giving China the technology for nuclear arms.</li><li>Russia supplies energy and China exports manufactured goods to Russia.And while some analysts and commentators have started saying that China is now the senior partner in the relationship, given the history, it’s not necessarily how that’s viewed in China.Russia’s hold over China is not only historical, but also cultural.</li><li>In the years since, the world has changed greatly, as have the fortunes of the two countries.</li><li>The People’s Republic of China was founded in 1949, following a brutal Japanese occupation during World War II and a bloody civil war between the Nationalist and Communist Parties.</li></ul>",
+            "website_url": "https://apnews.com/article/china-russia-history-xi-putin-ties-6f1b1b69fc4f7be1e979ac29de9728f7"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Kakao Mobility picks up super app startup Splyt, once backed by SoftBank and Grab",
+            "description": "Kakao Mobility, a taxihailing subsidiary of Korean internet firm Kakao, acquires Splyt, the U.Kbased software app.",
+            "url": "/2023-03-22-kakao-mobility-picks-up-super-app-startup-splyt-once-backed-by-softbank-and-grab",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/02/taxi-ridesharing1.png?resize=1200,675",
+            "publishedAt": "2023-03-22T00:35:03Z",
+            "content": "Kakao Mobility, the ridehailing subsidiary of South Korean messaging and internet giant Kakao, has made its first acquisition as it looks to raise its international profile. It has acquired Splyt, a [+4637 chars]",
+            "summary": "Intense competition on a narrow range of services, however, made for very challenging unit economics, so a lot of these companies focused on folding in more services into those apps to improve loyalty and increase customer spend  and thus the so-called super app was born. )Its not yet clear how Kakao Mobility intends to use Splyts tech: using it as a lever to work with a wider network of international partners or using it to extend Kakao Mobilitys own app, Kakao T, which currently has around 32 million registered users. The complexity of integrating different services was a challenge in itself, however, and that was where Splyt stepped in, providing the tech behind the scenes to integrate services and reconcile payments between various parties.That in itself was enough to bring on SoftBank as an investor. Splyt wants to connect the worlds ride-hailing apps for easy international roamingFinancial terms of the deal are not being disclosed, but there are some signs that it may not have been a super outcome for this super app enabler. A report last year in Korea Economic Daily notes that Kakao Mobility  which, in addition to ride-hailing also offers parking space searches, navigation, bike rental and has worked on autonomous driving  was valued at $6.5 billion. Kakao Mobility will continue to scale our product and accelerate further global expansions through Splyt, which has unrivaled global competitiveness in the mobility service platform space. But after a flurry of activity over the last several years  including raising $33.5 million from SoftBank, Grab, AmEx and others, per PitchBook data  Splyt stopped providing updates about its business in July 2022.",
+            "html_summary": "<ul><li>Intense competition on a narrow range of services, however, made for very challenging unit economics, so a lot of these companies focused on folding in more services into those apps to improve loyalty and increase customer spend — and thus the so-called “super app” was born.</li><li>)It’s not yet clear how Kakao Mobility intends to use Splyt’s tech: using it as a lever to work with a wider network of international partners or using it to extend Kakao Mobility’s own app, Kakao T, which currently has around 32 million registered users.</li><li>The complexity of integrating different services was a challenge in itself, however, and that was where Splyt stepped in, providing the tech behind the scenes to integrate services and reconcile payments between various parties.That in itself was enough to bring on SoftBank as an investor.</li><li>Splyt wants to connect the world’s ride-hailing apps for easy international roamingFinancial terms of the deal are not being disclosed, but there are some signs that it may not have been a super outcome for this super app enabler.</li><li>A report last year in Korea Economic Daily notes that Kakao Mobility — which, in addition to ride-hailing also offers parking space searches, navigation, bike rental and has worked on autonomous driving — was valued at $6.5 billion.</li><li>“Kakao Mobility will continue to scale our product and accelerate further global expansions through Splyt, which has unrivaled global competitiveness in the mobility service platform space.”</li></ul>",
+            "website_url": "https://techcrunch.com/2023/03/21/kakao-mobility-picks-up-super-app-startup-splyt-once-backed-by-softbank-and-grab/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. U.S. border officials seize 900 pounds of fentanyl in first week of new trafficking crackdown. The next hot fast food menu item? Electric car charging. Making faces How to train an AI on your face to create silly portraits. Amazons palmreading payment tech is coming to Panera Bread. China and Russia explaining a long, complicated friendship. Kakao Mobility picks up super app startup Splyt, once backed by SoftBank and Grab"
+}

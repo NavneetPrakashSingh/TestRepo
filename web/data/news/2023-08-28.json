@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "DoorDash launches AIpowered voice ordering technology for restaurants | TechCrunch",
+            "description": "DoorDash is launching AIpowered voice ordering that will allow restaurants to increase their sales by answering all of their calls.",
+            "url": "/2023-08-28-doordash-launches-ai-powered-voice-ordering-technology-for-restaurants",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+            "publishedAt": "2023-08-28T14:11:16Z",
+            "content": "DoorDash is launching AIpowered voice ordering technology that will allow restaurants to increase their sales by answering all of the calls they receive, the company announced on Monday. The system  [+1799 chars]",
+            "summary": "DoorDash is launching AI powered voice ordering technology that will allow restaurants to increase their sales by answering all of the calls they receive. The system will also provide customers with curated recommendations to complement their meal. One in five customers prefer to order takeout via phone but up to of customer calls are left unanswered which results in potential revenue losses. DoorDash introduces a slew of new features including an Earn by Time option for delivery people and DoorDash Drive the company s white label solution that powers direct delivery from any business.",
+            "html_summary": "<ul><li>DoorDash is launching AI powered voice ordering technology that will allow restaurants to increase their sales by answering all of the calls they receive</li><li> The system will also provide customers with curated recommendations to complement their meal</li><li> One in five customers prefer to order takeout via phone but up to of customer calls are left unanswered which results in potential revenue losses</li><li> DoorDash introduces a slew of new features including an Earn by Time option for delivery people and DoorDash Drive the company s white label solution that powers direct delivery from any business</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/28/doordash-launches-ai-powered-voice-ordering-technology-for-restaurants/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Splinter group officially launches OpenTF fork of HashiCorp Terraform | TechCrunch",
+            "description": "A group that formed recently in reaction to HashiCorps open source license change, announced it was officially launching on Friday.",
+            "url": "/2023-08-28-splinter-group-officially-launches-opentf-fork-of-hashicorp-terraform",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-173063503.jpg?resize=1200,800",
+            "publishedAt": "2023-08-28T13:20:53Z",
+            "content": "Earlier this month HashiCorp announced that it was changing the open source license it uses for Terraform and its other developer tools. The change triggered an uproar in the open source community. O [+2810 chars]",
+            "summary": "Earlier this month HashiCorp announced it was changing the open source license it uses for Terraform and its other developer tools The change triggered an uproar in the open Source community. On Friday a splinter group announced it is developing an open source fork of Terraform. The group claims that since it published the manifesto companies projects and individuals have signed up to help with the new project. Kelsey Hightower long time open source advocate and Kubernetes evangelist wrote on X the platform previously known as Twitter that the formation of this group demonstrated the ability of the community to react to changes.",
+            "html_summary": "<ul><li>Earlier this month HashiCorp announced it was changing the open source license it uses for Terraform and its other developer tools The change triggered an uproar in the open Source community</li><li> On Friday a splinter group announced it is developing an open source fork of Terraform</li><li> The group claims that since it published the manifesto companies projects and individuals have signed up to help with the new project</li><li> Kelsey Hightower long time open source advocate and Kubernetes evangelist wrote on X the platform previously known as Twitter that the formation of this group demonstrated the ability of the community to react to changes</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/28/splinter-group-officially-launches-opentf-fork-of-hashicorp-terraform/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Devolut leverages ecommerce growth in Latin America to develop reverse logistics tool | TechCrunch",
+            "description": "Devolut leverages ecommerce growth in Latin America to develop reverse logistics tool | TechCrunchtechcrunch.com",
+            "url": "/2023-08-28-devolut-e-commerce-latin-america-returns",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Devolut-team.jpg?resize=1200,676",
+            "publishedAt": "2023-08-28T12:02:01Z",
+            "content": "With the explosion of ecommerce during the global pandemic, companies not only had to adopt Amazonlike shipping skills, but also how to coordinate and manage returns.In Latin America, the reverse [+4186 chars]",
+            "summary": "Devolut provides an end to end returns solution for e commerce sellers in Latin America. Devolut enables sellers a returns option that doesn t require boxes or labels through a network of what will be city points. The company is also using AI to promote exchanges instead of refunds so that merchants can retain more revenue. Today the company announced that it raised in pre seed funding Investors in the round include Seedstars International Ventures FJ Labs Far Out Ventures Pareto and Forum Ventures. It is also testing its tool with Sally Beauty s stores in Mexico.",
+            "html_summary": "<ul><li>Devolut provides an end to end returns solution for e commerce sellers in Latin America</li><li> Devolut enables sellers a returns option that doesn t require boxes or labels through a network of what will be city points</li><li> The company is also using AI to promote exchanges instead of refunds so that merchants can retain more revenue</li><li> Today the company announced that it raised in pre seed funding Investors in the round include Seedstars International Ventures FJ Labs Far Out Ventures Pareto and Forum Ventures</li><li> It is also testing its tool with Sally Beauty s stores in Mexico</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/28/devolut-e-commerce-latin-america-returns/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. DoorDash launches AIpowered voice ordering technology for restaurants | TechCrunch. Splinter group officially launches OpenTF fork of HashiCorp Terraform | TechCrunch. Devolut leverages ecommerce growth in Latin America to develop reverse logistics tool | TechCrunch"
+}

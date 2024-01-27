@@ -1,0 +1,103 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Ina Fried",
+            "title": "Amazon to cut 18,000 jobs",
+            "description": "Amazon notified employees on Wednesday it plans to cut 18,000 jobs amid slowdowns in consumer and corporate spending.Why it matters That figure is the largest layoff at any tech company in recent months  bigger (by number, not percent) than workforce reduct",
+            "url": "/2023-01-05-amazon-layoffs-18000-jobs",
+            "urlToImage": "https://images.axios.com/c7JX_Tjcn0CAoFrHav2OLm8ZVBg=/0x0:1920x1080/1366x768/2023/01/05/1672882299572.jpg",
+            "publishedAt": "2023-01-05T01:50:02Z",
+            "content": "Amazon notified employees on Wednesday it plans to cut 18,000 jobs amid slowdowns in consumer and corporate spending.Why it matters That figure is the largest layoff at any tech company in recent  [+1193 chars]",
+            "summary": "It isn't even the only one who announced layoffs on Wednesday.What they're saying: Amazon CEO Andy Jassy said the company planned to divulge the cuts later but sped up its announcement after \"one of our teammates leaked this information externally.\" The Wall Street Journal reported on the planned layoffs earlier on Wednesday, saying up to 17,000 jobs might be eliminated.Go deeper: What to expect when your tech firm is downsizing The big picture: Amazon is far from the only company cutting jobs.",
+            "html_summary": "<ul><li>It isn't even the only one who announced layoffs on Wednesday.What they're saying: Amazon CEO Andy Jassy said the company planned to divulge the cuts later but sped up its announcement after \"one of our teammates leaked this information externally.\"</li><li>The Wall Street Journal reported on the planned layoffs earlier on Wednesday, saying up to 17,000 jobs might be eliminated.Go deeper: What to expect when your tech firm is downsizing</li></ul>",
+            "website_url": "https://www.axios.com/2023/01/05/amazon-layoffs-18000-jobs"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "ZF and Beep to launch several thousand autonomous shuttles in the US",
+            "description": "ZF unveiled its ProAI supercomputer at CES, which will help power its nextgen autonomous shuttles to be deployed with Beep.",
+            "url": "/2023-01-05-zf-and-beep-to-launch-several-thousand-autonomous-shuttles-in-the-us",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/1_ZF_Shuttle.jpg?resize=1200,800",
+            "publishedAt": "2023-01-05T00:50:06Z",
+            "content": "Automotive supplier ZF is partnering with autonomous shuttle operator Beep to deliver several thousand shuttles to customers over the coming years, ZF said at CES in Las Vegas.Beep, which describ [+5943 chars]",
+            "summary": "ZF said it has more than 13 million units already ordered and expects further growth in the future, with volume supply scheduled to start in 2024.Rendering of interior of ZFs autonomous shuttle Image Credit: ZFZFs shuttle will be able to carry 22 passengers, with 15 seated, according to ZF. Those two platforms work together to enable ZFs virtual driver, the companys proprietary autonomous driving software stack.The rise of electric vehicles has resulted in increased communication within the vehicle; everything from opening and closing windows to automated driving features to infotainment to passenger comfort is controlled via computers. ZFs new shuttle, which will be built in partnership with AV software company Oxbotica, is designed for urban environments and mixed traffic, ZF said.ZFs previous shuttle model only drives in designated lanes. In North America, ZF has 3,000 workshop partners.As a technology leader, ZF sees itself not only as a shuttle supplier, but also as a partner for the entire lifecycle of its shuttles, said Gollewski. We offer not just the shuttle, but also services with its autonomous transport system, including fleet management, maintenance, repair and training. The shuttle will initially hit a max speed of 25 miles per hour, and in further development go up to 50 miles per hour, according to ZF. For example, Beep provides a shuttle service in Lake Nona, Fla., within a 17-square-mile development that connects residential, commercial, retail, recreational and medical services.",
+            "html_summary": "<ul><li>ZF said it has more than 13 million units already ordered and expects further growth in the future, with volume supply scheduled to start in 2024.Rendering of interior of ZF’s autonomous shuttle Image Credit: ZFZF’s shuttle will be able to carry 22 passengers, with 15 seated, according to ZF.</li><li>Those two platforms work together to enable ZF’s virtual driver, the company’s proprietary autonomous driving software stack.The rise of electric vehicles has resulted in increased communication within the vehicle; everything from opening and closing windows to automated driving features to infotainment to passenger comfort is controlled via computers.</li><li>ZF’s new shuttle, which will be built in partnership with AV software company Oxbotica, is designed for urban environments and mixed traffic, ZF said.ZF’s previous shuttle model only drives in designated lanes.</li><li>In North America, ZF has 3,000 workshop partners.“As a technology leader, ZF sees itself not only as a shuttle supplier, but also as a partner for the entire lifecycle of its shuttles,” said Gollewski.</li><li>“We offer not just the shuttle, but also services with its autonomous transport system, including fleet management, maintenance, repair and training.</li><li>The shuttle will initially hit a max speed of 25 miles per hour, and in further development go up to 50 miles per hour, according to ZF.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/01/04/zf-and-beep-to-launch-several-thousand-autonomous-shuttles-in-the-us/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Sony and Honda reveal Afeela, their joint EV brand, at CES",
+            "description": "At CES 2023, Sony and Honda revealed their first electric vehicle prototype, a fourdoor sedan, under the brand name Afeela.",
+            "url": "/2023-01-05-sony-and-honda-reveal-afeela-their-joint-ev-brand-at-ces",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/Honda-Sony-Afeela-CES2023-4.jpeg?resize=1200,676",
+            "publishedAt": "2023-01-05T02:24:03Z",
+            "content": "Nearly a year after Sony and Honda shared plans to jointly make and sell electric vehicles, the two companies revealed a prototype under the brand name Afeela.The fourdoor sedan was driven onstage [+2593 chars]",
+            "summary": "[gallery ids=\"2465052,2465053,2465055\"] We plan on exploring the possibility of how media can create a fun and exciting mobility interaction, said Yoshida.The prototype is also equipped with 45 cameras and sensors inside and outside the vehicle in order to ensure safety and security, said Yoshida. Kim Libreri, chief technology officer of Epic Games, said that the most natural way to visualize important data within the car is through intuitive interactive photo real augmentation, which is what Unreal Engine does best.In the future, the automobile will become a next generation destination for social connectivity. Initial shipments will be delivered to customers in North America in the spring of 2026.Sony and Honda have previously said the new EV will be initially manufactured at Hondas North America factory and will feature Level 3 automated driving capabilities under limited conditions. The in-cabin sensors will be monitor the drivers status in order to prevent accidents.Afeela will also feature best-in-class entertainment for customers, said Yoshida. Not only for the occupants, but also their network of friends and colleagues.",
+            "html_summary": "<ul><li>[gallery ids=\"2465052,2465053,2465055\"] “We plan on exploring the possibility of how media can create a fun and exciting mobility interaction,” said Yoshida.The prototype is also equipped with 45 cameras and sensors inside and outside the vehicle in order to ensure safety and security, said Yoshida.</li><li>Kim Libreri, chief technology officer of Epic Games, said that the most natural way to visualize important data within the car is through intuitive interactive photo real augmentation, which is what Unreal Engine does best.“In the future, the automobile will become a next generation destination for social connectivity.</li><li>Initial shipments will be delivered to customers in North America in the spring of 2026.Sony and Honda have previously said the new EV will be initially manufactured at Honda’s North America factory and will feature Level 3 automated driving capabilities under limited conditions.</li><li>The in-cabin sensors will be monitor the driver’s status in order to prevent accidents.Afeela will also feature best-in-class entertainment for customers, said Yoshida.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/01/04/sony-and-honda-reveal-afeela-their-joint-ev-brand-at-ces/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "BMW reimagines the headup display",
+            "description": "At CES, BMW today unveiled its new i Vision Dee concept car, an E Inkclad fourdoor sedan that can shift colors on demand. Why Dee, you surely ask? It stands for Digital Emotional Experience. Well leave it at that, but what matters here is that its BMWs",
+            "url": "/2023-01-05-bmw-reimagines-the-head-up-display",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/P90490967_highRes.jpg?resize=1200,675",
+            "publishedAt": "2023-01-05T04:15:05Z",
+            "content": "At CES, BMW today unveiled its new i Vision Dee concept car, an E Inkclad fourdoor sedan that can shift colors on demand. Why Dee, you surely ask? It stands for Digital Emotional Experience. Wel [+2365 chars]",
+            "summary": "Whoever excels at integrating the customers everyday digital worlds into the vehicle at all levels will succeed in mastering the future of car-building.Augmented reality finds a foothold in cars via safety featuresBMW wants you to lounge during your autonomous ride The car maker actually worked with E Ink to develop the technology that allows it to adapt these display films for curved surfaces. Earlier this week, VW showed off its light-up paint, so its probably only a matter of time before we see cars with these chameleon-like capabilities on the street.A BMW lives by its unparalleled digital performance. But BMW also says that some of this technology will make it into production in its Neue Klasse  its next generation platform  launching in 2025. At CES, BMW today unveiled its new i Vision Dee concept car, an E Ink-clad four-door sedan that can shift colors on demand. Theres no word yet on when this technology will come to a production model. BMW i Vision Dee is about perfect integration of virtual and physical experiences said Frank Weber, member of the Board of Management of BMW AG responsible for Development.",
+            "html_summary": "<ul><li>“Whoever excels at integrating the customer’s everyday digital worlds into the vehicle at all levels will succeed in mastering the future of car-building.”Augmented reality finds a foothold in cars via safety featuresBMW wants you to lounge during your autonomous ride</li><li>The car maker actually worked with E Ink to develop the technology that allows it to adapt these display films for curved surfaces.</li><li>Earlier this week, VW showed off its light-up paint, so it’s probably only a matter of time before we see cars with these chameleon-like capabilities on the street.“A BMW lives by its unparalleled digital performance.</li><li>But BMW also says that some of this technology will make it into production in its ‘Neue Klasse’ — its next generation platform — launching in 2025.</li><li>At CES, BMW today unveiled its new i Vision Dee concept car, an E Ink-clad four-door sedan that can shift colors on demand.</li><li>There’s no word yet on when this technology will come to a production model.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/01/04/bmw-reimagines-the-head-up-display/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Archelis exoskeleton is basically a chair you can wear",
+            "description": "Ive written a fair bit about exoskeletons on these pages. Theyre a fascinating subset of the robotics industry designed to improve mobility and assist with manual labor that can be taxing on the body. The FX Stick is a lower tech version, lackin",
+            "url": "/2023-01-05-archelis-exoskeleton-is-basically-a-chair-you-can-wear",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/Screenshot-2023-01-04-at-4.16.52-PM.jpg?resize=1200,692",
+            "publishedAt": "2023-01-05T00:19:18Z",
+            "content": "Ive written a fair bit about exoskeletons on these pages. Theyre a fascinating subset of the robotics industry designed to improve mobility and assist with manual labor that can be taxing on the body [+1146 chars]",
+            "summary": "The FX Stick is a lower tech version, lacking the sorts of battery powered systems that drive those products.If anything, it probably has more in common with some of the wearable chair you can find around the internet. Its more flexible, 15% lighter and designed to be put on (16 seconds) and taken off (nine seconds) significantly quicker.At ~$3,000, its pretty pricey. Theyre a fascinating subset of the robotics industry designed to improve mobility and assist with manual labor that can be taxing on the body. Ive written a fair bit about exoskeletons on these pages.",
+            "html_summary": "<ul><li>The FX Stick is a lower tech version, lacking the sorts of battery powered systems that drive those products.If anything, it probably has more in common with some of the “wearable chair” you can find around the internet.</li><li>It’s more flexible, 15% lighter and designed to be put on (16 seconds) and taken off (nine seconds) significantly quicker.At ~$3,000, it’s pretty pricey.</li><li>They’re a fascinating subset of the robotics industry designed to improve mobility and assist with manual labor that can be taxing on the body.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/01/04/archelis-exoskeleton-is-basically-a-chair-you-can-wear/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Ember brings Find My functionality to its selfheating travel mug",
+            "description": "Embers a bit of a weird one. The Southern California firm has two distinct though not wholly unrelated arms. Theres the smart mug side of the business that launched the startup and the more recent cold chain shipping wing, which leverages its te",
+            "url": "/2023-01-05-ember-brings-find-my-functionality-to-its-self-heating-travel-mug",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/CMC_4086.jpg?resize=1200,800",
+            "publishedAt": "2023-01-05T04:29:02Z",
+            "content": "Embers a bit of a weird one. The Southern California firm has two distinct though not wholly unrelated arms. Theres the smart mug side of the business that launched the startup and the more recent co [+1302 chars]",
+            "summary": "The new addition to the line adds Apples Find My to the equation.Image Credits: Brian HeaterWhile not exactly the most obvious addition on the face of it, travel mugs are certainly the sort of thing that gets left behind quite easily. No word on whether the standard mug will stay on the market at a reduced price. In spite of the additional functionality, the product will run the same as its predecessor  $199  when it launches later this year. The Southern California firm has two distinct  though not wholly unrelated arms. Today at CES, for instance, Ember is announcing the Travel Mug 2+. Embers a bit of a weird one.",
+            "html_summary": "<ul><li>The new addition to the line adds Apple’s Find My to the equation.Image Credits: Brian HeaterWhile not exactly the most obvious addition on the face of it, travel mugs are certainly the sort of thing that gets left behind quite easily.</li><li>No word on whether the standard mug will stay on the market at a reduced price.</li><li>In spite of the additional functionality, the product will run the same as its predecessor — $199 – when it launches later this year.</li><li>The Southern California firm has two distinct – though not wholly unrelated arms.</li><li>Today at CES, for instance, Ember is announcing the Travel Mug 2+.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/01/04/ember-brings-find-my-functionality-to-its-self-heating-travel-mug/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Amazon to cut 18,000 jobs. ZF and Beep to launch several thousand autonomous shuttles in the US. Sony and Honda reveal Afeela, their joint EV brand, at CES. BMW reimagines the headup display. Archelis exoskeleton is basically a chair you can wear. Ember brings Find My functionality to its selfheating travel mug"
+}

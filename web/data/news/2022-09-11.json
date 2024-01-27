@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Dear Mr. President Seriously, please stop with these science moonshots",
+            "description": "Science needs sustainable, boring growth, but we just get flashy illformed initiatives.",
+            "url": "/2022-09-11-dear-mr-president-seriously-please-stop-with-these-science-moonshots",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/presidential-moonshots-760x380.jpg",
+            "publishedAt": "2022-09-12T18:45:03Z",
+            "content": "44 with 41 posters participating, including story authorOn Monday, US President Joe Biden will announce more information on his plan to end cancer. The president will use the 60th anniversary of Pr [+2978 chars]",
+            "summary": "It might be hard to understand why the car editor at a technology website is whining about science funding, but before moving to Ars full time in June last year, I spent six years working in a policy office at the National Institutes of Health. The president will use the 60th anniversary of President Kennedy's legendary speech about putting a man on the Moon to name a director for a new agency to make this happen, adding yet one more acronym to the US biomedical research enterprise. President and Mr. Vice President: science doesn't need another moonshot, and it really doesn't need another vaguely thought-out initiative dropped on it during a State of the Union address. What it needs is much more importantand probably much more difficult politically, because those needs are much less flashy.  Jonathan M. Gitlin - Sep 12, 2022 6:45 pm UTC On Monday, US President Joe Biden will announce more information on his plan to end cancer. It's a job that gave me a front row seat into how science policy actually works in the United States. What science needs is stable, sustainable budget growth.",
+            "html_summary": "<ul><li>It might be hard to understand why the car editor at a technology website is whining about science funding, but before moving to Ars full time in June last year, I spent six years working in a policy office at the National Institutes of Health.</li><li>The president will use the 60th anniversary of President Kennedy's legendary speech about putting a man on the Moon to name a director for a new agency to make this happen, adding yet one more acronym to the US biomedical research enterprise.</li><li>President and Mr. Vice President: science doesn't need another moonshot, and it really doesn't need another vaguely thought-out initiative dropped on it during a State of the Union address.</li><li>What it needs is much more important—and probably much more difficult politically, because those needs are much less flashy.</li><li> Jonathan M. Gitlin - Sep 12, 2022 6:45 pm UTC On Monday, US President Joe Biden will announce more information on his plan to end cancer.</li><li>It's a job that gave me a front row seat into how science policy actually works in the United States.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2022/09/dear-mr-president-seriously-please-stop-with-these-science-moonshots/"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Scott Rosenberg",
+            "title": "AIgenerated images open multiple cans of worms",
+            "description": "Machinelearning programs that can produce sometimes jawdropping images from brief text prompts have advanced in a matter of months from a thats quite a trick stage to a genuine cultural disruption. Why it matters These new AI capabilities confront the w",
+            "url": "/2022-09-11-ai-images-ethics-dall-e-2-stable-diffusion",
+            "urlToImage": "https://images.axios.com/N-VADdMuwClzJ5h98vf0TIU4nVs=/0x0:1920x1080/1366x768/2022/09/11/1662934165603.jpg",
+            "publishedAt": "2022-09-12T09:55:51Z",
+            "content": "Machinelearning programs that can produce sometimes jawdropping images from brief text prompts have advanced in a matter of months from a thats quite a trick stage to a genuine cultural disrupti [+4957 chars]",
+            "summary": "Machine-learning programs that can produce sometimes jaw-dropping images from brief text prompts have advanced in a matter of months from a \"that's quite a trick\" stage to a genuine cultural disruption. What's next: These programs are likely to keep getting more efficient and less distinguishable from magic. Their collisions with our existing systems of intellectual property law are likely to be epic.",
+            "html_summary": "<ul><li>Machine-learning programs that can produce sometimes jaw-dropping images from brief text prompts have advanced in a matter of months from a \"that's quite a trick\" stage to a genuine cultural disruption.</li><li>What's next: These programs are likely to keep getting more efficient and less distinguishable from magic.</li></ul>",
+            "website_url": "https://www.axios.com/2022/09/12/ai-images-ethics-dall-e-2-stable-diffusion"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Ina Fried",
+            "title": "Report Losing tech race with China could cost U.S. trillions  Axios",
+            "description": "National security is only one reason for the U.S. to ramp up efforts to compete with China, a new study argues.",
+            "url": "/2022-09-11-china-tech-us-race-cost",
+            "urlToImage": "https://images.axios.com/TlK1TJBMHSbLZVd7rhsvBSLb26U=/0x436:1778x1436/1366x768/2022/09/11/1662933753219.png",
+            "publishedAt": "2022-09-12T13:30:40Z",
+            "content": "The United States could miss out on trillions of dollars in economic growth if it fails to confront the growing technology threat posed by China, according to a new report from the Eric Schmidtled S [+2104 chars]",
+            "summary": "What they're saying: \"Imagine a world where China controls the global digital infrastructure, has the dominant position in tech platforms, controls the production of critical tech, and is harnessing biotech and new energy to transform its society, economy, and military,\" the group said in a statement to Axios. \"Key takeaways: Yes, but: While the group's 186-page report highlights the risk of China assuming the technological lead, it also outlines what it sees as key steps for averting that fate.What's next: SCSP is holding a summit of government and tech leaders Friday in Washington, D.C. \"If we lose in these areas, it will be very hard to regain advantages.",
+            "html_summary": "<ul><li>What they're saying: \"Imagine a world where China controls the global digital infrastructure, has the dominant position in tech platforms, controls the production of critical tech, and is harnessing biotech and new energy to transform its society, economy, and military,\" the group said in a statement to Axios.</li><li>\"Key takeaways: Yes, but: While the group's 186-page report highlights the risk of China assuming the technological lead, it also outlines what it sees as key steps for averting that fate.What's next: SCSP is holding a summit of government and tech leaders Friday in Washington, D.C.</li></ul>",
+            "website_url": "https://www.axios.com/2022/09/12/china-tech-us-race-cost"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MARCY GORDON - AP Business Writer",
+            "title": "Twitter whistleblower bringing security warnings to Congress",
+            "description": "Peiter Mudge Zatko, the Twitter whistleblower who is warning of security flaws, privacy threats and lax controls at the social platform, will take his case to Congress on Tuesday. Senators who will hear Zatkos testimony are alarmed by his allegations",
+            "url": "/2022-09-11-a392b49036eedd17d6d48bf3e3c7be20",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
+            "publishedAt": "2022-09-12T18:58:11Z",
+            "content": "WASHINGTON (AP) Peiter Mudge Zatko, the Twitter whistleblower who is warning of security flaws, privacy threats and lax controls at the social platform, will take his case to Congress on Tuesday.Se [+7269 chars]",
+            "summary": "In 1998, he testified before a Senate panel along with fellow members of a hacker collective who warned about the security dangers of the then-emerging internet age.Zatko, a respected cybersecurity expert, was Twitters head of security until he was fired early this year. Among his most serious accusations is that Twitter violated the terms of a 2011 FTC settlement by falsely claiming that it had put stronger measures in place to protect the security and privacy of its users.The SEC is questioning Twitter about how it counts fake accounts on its platform. He has brought the stunning allegations to Congress and federal regulators, asserting that the influential social platform misled regulators about its cyber defenses and efforts to control millions of spam or fake accounts. In a statement, Twitter has called Zatkos description of events a false narrative.Also on Tuesday, Twitters shareholders are scheduled to vote on the companys pending buyout by Musk. That Twitter knowingly allowed the government of India to place its agents on the company payroll, where they had direct unsupervised access to highly sensitive data on users. Twitter called Zatkos complaint a false narrative that is riddled with inconsistencies and inaccuracies, and lacks important context.News of Zatkos complaint surfaced on Aug. 23, almost two months before the Twitter-Musk trial is scheduled to begin. The allegation that Twitter engaged in deception in its handling of automated spam bot accounts is at the core of Musks attempt to back out of the Twitter deal.At the same time, many of Zatkos claims are uncorroborated and appear to have little documentary support.",
+            "html_summary": "<ul><li>In 1998, he testified before a Senate panel along with fellow members of a hacker collective who warned about the security dangers of the then-emerging internet age.Zatko, a respected cybersecurity expert, was Twitter’s head of security until he was fired early this year.</li><li>Among his most serious accusations is that Twitter violated the terms of a 2011 FTC settlement by falsely claiming that it had put stronger measures in place to protect the security and privacy of its users.The SEC is questioning Twitter about how it counts fake accounts on its platform.</li><li>He has brought the stunning allegations to Congress and federal regulators, asserting that the influential social platform misled regulators about its cyber defenses and efforts to control millions of “spam” or fake accounts.</li><li>In a statement, Twitter has called Zatko’s description of events “a false narrative.”Also on Tuesday, Twitter’s shareholders are scheduled to vote on the company’s pending buyout by Musk.</li><li>—That Twitter knowingly allowed the government of India to place its agents on the company payroll, where they had “direct unsupervised access” to highly sensitive data on users.</li><li>Twitter called Zatko’s complaint “a false narrative” that is “riddled with inconsistencies and inaccuracies, and lacks important context.”News of Zatko’s complaint surfaced on Aug. 23, almost two months before the Twitter-Musk trial is scheduled to begin.</li></ul>",
+            "website_url": "https://apnews.com/a392b49036eedd17d6d48bf3e3c7be20"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "AP",
+            "title": "Jury selection starts in Nikola founder Miltons fraud trial",
+            "description": "Jury selection has begun in the fraud trial of Trevor Milton. The founder and former executive chairman of Nikola Corp is accused of lying about the electric truck startups vehicles. Milton was indicted last year on charges of securities fraud",
+            "url": "/2022-09-11-ae0e2b1f9547f80195aa1c4da8f83abf",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/custom/image/c72cf8ac-c550-11ea-86bd-3761faee86a6.jpg?resize=600%2C315",
+            "publishedAt": "2022-09-12T20:40:30Z",
+            "content": "NEW YORK (AP) Jury selection began Monday in the fraud trial of Trevor Milton, the founder and former executive chairman of Nikola Corp accused of lying about the electric truck startups vehicles. [+1419 chars]",
+            "summary": "Prosecutors said that in reality, the truck wasnt operational and had been rolled down a hill for the commercial.The companys promotional campaign won over many smaller investors. The stock now trades at under $5.50 per share.Milton, who lives in Oakley, Utah, was indicted last year on charges of securities fraud and wire fraud. Nikola shares reached a price of close to $66 in June of 2020, briefly giving the company a market valuation that exceeded some major, established automakers. It has begun delivering some vehicles to customers and says it has been ramping up toward a capacity of making thousands of trucks per year. Nikola didnt admit to any wrongdoing in making that agreement.The company continues to operate from a headquarters in Arizona. Jury selection began Monday at a federal court in New York.",
+            "html_summary": "<ul><li>Prosecutors said that in reality, the truck wasn’t operational and had been rolled down a hill for the commercial.The company’s promotional campaign won over many smaller investors.</li><li>The stock now trades at under $5.50 per share.Milton, who lives in Oakley, Utah, was indicted last year on charges of securities fraud and wire fraud.</li><li>Nikola shares reached a price of close to $66 in June of 2020, briefly giving the company a market valuation that exceeded some major, established automakers.</li><li>It has begun delivering some vehicles to customers and says it has been ramping up toward a capacity of making thousands of trucks per year.</li><li>Nikola didn’t admit to any wrongdoing in making that agreement.The company continues to operate from a headquarters in Arizona.</li></ul>",
+            "website_url": "https://apnews.com/ae0e2b1f9547f80195aa1c4da8f83abf"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "AP",
+            "title": "GMs Cruise robotaxi service to expand into Phoenix, Austin",
+            "description": "General Motors selfdriving car company has announced plans to expand a robotaxi service into new markets in Arizona and Texas before the end of this year. Cruise told invertors at a banking conference Monday that an autonomous ridehailing service that",
+            "url": "/2022-09-11-311c16d6640dedabb04ec0f2a5697ae4",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/custom/image/c72cf8ac-c550-11ea-86bd-3761faee86a6.jpg?resize=600%2C315",
+            "publishedAt": "2022-09-12T22:16:48Z",
+            "content": "SAN FRANCISCO (AP) General Motors selfdriving car company on Monday announced plans to expand a robotaxi service that recently launched in California into new markets in Arizona and Texas before th [+1884 chars]",
+            "summary": "Cruise CEO Kyle Vogt didnt provide additional details about the ride-hailing services in Phoenix and Austin.When its ride-hailing service enters Phoenix, Cruise will be competing with another robotaxi service run by Waymo, a Google spin-off, that already has been charging passengers there. The Cruise vehicle had to be towed away from the scene, according to the regulatory filing.",
+            "html_summary": "<ul><li>Cruise CEO Kyle Vogt didn’t provide additional details about the ride-hailing services in Phoenix and Austin.When its ride-hailing service enters Phoenix, Cruise will be competing with another robotaxi service run by Waymo, a Google spin-off, that already has been charging passengers there.</li></ul>",
+            "website_url": "https://apnews.com/311c16d6640dedabb04ec0f2a5697ae4"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By ELAINE KURTENBACH - AP Business Writer",
+            "title": "Asian shares rise on back of Wall Street rally",
+            "description": "Shares are higher in Asia after last weeks strong close on Wall Street, the first weekly gain in four weeks. Many markets were closed on Monday, while Tokyo and Sydney advanced. Oil prices declined. Investors are watching for U.S. inflation",
+            "url": "/2022-09-11-2120e418ce0901f480756f72c5de5aa8",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/4/6d/46dd5cc8-c82c-5815-8a60-77a5d07f656e/631eb25ecf5b1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-09-12T03:57:56Z",
+            "content": "By ELAINE KURTENBACH  AP Business WriterShares rose Monday in Asia after last weeks strong close on Wall Street snapped a threeweek losing streak.Many regional markets were closed for holidays, [+3386 chars]",
+            "summary": "Similar hopes earlier were dashed when chair Jerome Powell said in August that rates would stay high.Surveys show traders expect the Fed this month to raise rates for the fifth time this year and by 0.75 percentage points, three times its usual margin. Then, traders expect the U.S. central bank to hold rates steady through the first half of 2023.In energy markets, benchmark U.S. crude lost 7 cents to $87.71 per barrel in electronic trading on the New York Mercantile Exchange. BEIJING (AP)  Asian stocks followed Wall Street higher on Tuesday ahead of data traders hope will show surging U.S. inflation eased in August, reducing pressure for more interest rate hikes.Shanghai, Tokyo, Hong Kong and Sydney advanced. The report will likely show pricing pressure relief but will not change the Fed from maintaining an aggressive stance, Edward Moya of Oanda said in a report.The Shanghai Composite Index gained 0.4% to 23,274.57 and the Nikkei 225 in Tokyo added 0.2% to 28,589.11. The Hang Seng in Hong Kong rose 0.7% to 19,489.43.The Kospi in Seoul soared 2.6% to 2,445.99 and Sydneys S&P-ASX 200 rose 0.6% to 7,002.00.New Zealand declined while Southeast Asian markets gained.On Wall Street, the S&P 500 rose to 4,110.41. Brent crude, the price basis for international oil trading, shed 12 cents to $93.88 per barrel in London. It gained $1.16 the previous session to $94.The dollar eased to 142.45 yen from Mondays 142.73 yen.",
+            "html_summary": "<ul><li>Similar hopes earlier were dashed when chair Jerome Powell said in August that rates would stay high.Surveys show traders expect the Fed this month to raise rates for the fifth time this year and by 0.75 percentage points, three times its usual margin.</li><li>Then, traders expect the U.S. central bank to hold rates steady through the first half of 2023.In energy markets, benchmark U.S. crude lost 7 cents to $87.71 per barrel in electronic trading on the New York Mercantile Exchange.</li><li>BEIJING (AP) — Asian stocks followed Wall Street higher on Tuesday ahead of data traders hope will show surging U.S. inflation eased in August, reducing pressure for more interest rate hikes.Shanghai, Tokyo, Hong Kong and Sydney advanced.</li><li>The report “will likely show pricing pressure relief but will not change the Fed from maintaining an aggressive stance,” Edward Moya of Oanda said in a report.The Shanghai Composite Index gained 0.4% to 23,274.57 and the Nikkei 225 in Tokyo added 0.2% to 28,589.11.</li><li>The Hang Seng in Hong Kong rose 0.7% to 19,489.43.The Kospi in Seoul soared 2.6% to 2,445.99 and Sydney’s S&P-ASX 200 rose 0.6% to 7,002.00.New Zealand declined while Southeast Asian markets gained.On Wall Street, the S&P 500 rose to 4,110.41.</li><li>Brent crude, the price basis for international oil trading, shed 12 cents to $93.88 per barrel in London.</li></ul>",
+            "website_url": "https://apnews.com/2120e418ce0901f480756f72c5de5aa8"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By KEITH RIDLER - Associated Press",
+            "title": "Official Idaho computer chip plant makes US more resilient",
+            "description": "Energy Secretary Jennifer Granholm says a $15 billion investment in a new semiconductor plant by Boise, Idahobased chipmaker Micron in its hometown is a step in protecting the United States from the vulnerabilities of a globalized market made clear by",
+            "url": "/2022-09-11-0032971c9708f94a615f9500881f3c87",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/6/99/6995aabb-da51-5289-bac8-ab8778975e96/631faf7b3858b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-09-12T21:53:27Z",
+            "content": "By KEITH RIDLER  Associated PressBOISE, Idaho (AP) Chipmaker Microns planned $15 billion investment in a new factory in the companys hometown of Boise will help protect the United States from th [+4812 chars]",
+            "summary": "Research and development is centered in Boise.Sanjay Mehrotra, Microns president and chief executive officer, said the company is committed to investing in the Idaho community  with an emphasis on STEM (science, technology, engineering, and math) education in both K-12 and higher education. Micron officials late last year announced plans to build a 500-worker, memory design center in Georgia, partly to take advantage of that areas education system. If successful, he expects to hire several hundred workers for the Boise area.Wed love to be able to do the work for this new fab, and if we do, wed have to hire quite a bit of engineering staff, he said. The law sets aside $52 billion to bolster the semiconductor industry that, due to COVID-related supply chain constraints, has struggled to manufacture the chips.Besides the CHIPS law, Micron also benefits from property tax breaks in Idaho. We really needed this (semiconductor plant) in the U.S. and not overseas, said Republican state Sen. Scott Grow, who attended Mondays groundbreaking ceremony and has helped push through legislation beneficial to Micron. Construction is expected to start in 2023, with some cleanroom working space ready by 2025 and expanding in phases.Micron is among the nations largest chipmakers, with product development sites in five other states and eight countries. That sent tremors through Idahos business and political landscape.But earlier this year, lawmakers approved a record $300 million boost to education.",
+            "html_summary": "<ul><li>Research and development is centered in Boise.Sanjay Mehrotra, Micron’s president and chief executive officer, said the company is committed to investing in the Idaho community — with an emphasis on STEM (science, technology, engineering, and math) education in both K-12 and higher education.</li><li>Micron officials late last year announced plans to build a 500-worker, memory design center in Georgia, partly to take advantage of that area’s education system.</li><li>If successful, he expects to hire several hundred workers for the Boise area.“We’d love to be able to do the work for this new fab, and if we do, we’d have to hire quite a bit of engineering staff,” he said.</li><li>The law sets aside $52 billion to bolster the semiconductor industry that, due to COVID-related supply chain constraints, has struggled to manufacture the chips.Besides the CHIPS law, Micron also benefits from property tax breaks in Idaho.</li><li>“We really needed this (semiconductor plant) in the U.S. and not overseas,” said Republican state Sen. Scott Grow, who attended Monday’s groundbreaking ceremony and has helped push through legislation beneficial to Micron.</li><li>Construction is expected to start in 2023, with some cleanroom working space ready by 2025 and expanding in phases.Micron is among the nation’s largest chipmakers, with product development sites in five other states and eight countries.</li></ul>",
+            "website_url": "https://apnews.com/0032971c9708f94a615f9500881f3c87"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "AP",
+            "title": "GMs Cruise robotaxi service to expand into Phoenix, Austin",
+            "description": "General Motors selfdriving car company has announced plans to expand a robotaxi service into new markets in Arizona and Texas before the end of this year. Cruise told invertors at a banking conference Monday that an autonomous ridehailing service that",
+            "url": "/2022-09-11-311c16d6640dedabb04ec0f2a5697ae4",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?crop=375%2C375%2C30%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2022-09-12T22:16:48Z",
+            "content": "SAN FRANCISCO (AP) General Motors selfdriving car company on Monday announced plans to expand a robotaxi service that recently launched in California into new markets in Arizona and Texas before th [+3226 chars]",
+            "summary": "Cruise CEO Kyle Vogt didnt provide additional details about the ride-hailing services in Phoenix and Austin.When its ride-hailing service enters Phoenix, Cruise will be competing with another robotaxi service run by Waymo, a Google spin-off, that already has been charging passengers there. The Cruise vehicle had to be towed away from the scene, according to the regulatory filing.",
+            "html_summary": "<ul><li>Cruise CEO Kyle Vogt didn’t provide additional details about the ride-hailing services in Phoenix and Austin.When its ride-hailing service enters Phoenix, Cruise will be competing with another robotaxi service run by Waymo, a Google spin-off, that already has been charging passengers there.</li></ul>",
+            "website_url": "https://apnews.com/311c16d6640dedabb04ec0f2a5697ae4"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "AP",
+            "title": "Jury selection starts in Nikola founder Miltons fraud trial",
+            "description": "Jury selection has begun in the fraud trial of Trevor Milton. The founder and former executive chairman of Nikola Corp is accused of lying about the electric truck startups vehicles. Milton was indicted last year on charges of securities fraud",
+            "url": "/2022-09-11-ae0e2b1f9547f80195aa1c4da8f83abf",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?crop=375%2C375%2C30%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2022-09-12T20:40:30Z",
+            "content": "NEW YORK (AP) Jury selection began Monday in the fraud trial of Trevor Milton, the founder and former executive chairman of Nikola Corp accused of lying about the electric truck startups vehicles. [+2761 chars]",
+            "summary": "Prosecutors said that in reality, the truck wasnt operational and had been rolled down a hill for the commercial.The companys promotional campaign won over many smaller investors. The stock now trades at under $5.50 per share.Milton, who lives in Oakley, Utah, was indicted last year on charges of securities fraud and wire fraud. Nikola shares reached a price of close to $66 in June of 2020, briefly giving the company a market valuation that exceeded some major, established automakers. It has begun delivering some vehicles to customers and says it has been ramping up toward a capacity of making thousands of trucks per year. Nikola didnt admit to any wrongdoing in making that agreement.The company continues to operate from a headquarters in Arizona. Jury selection began Monday at a federal court in New York.",
+            "html_summary": "<ul><li>Prosecutors said that in reality, the truck wasn’t operational and had been rolled down a hill for the commercial.The company’s promotional campaign won over many smaller investors.</li><li>The stock now trades at under $5.50 per share.Milton, who lives in Oakley, Utah, was indicted last year on charges of securities fraud and wire fraud.</li><li>Nikola shares reached a price of close to $66 in June of 2020, briefly giving the company a market valuation that exceeded some major, established automakers.</li><li>It has begun delivering some vehicles to customers and says it has been ramping up toward a capacity of making thousands of trucks per year.</li><li>Nikola didn’t admit to any wrongdoing in making that agreement.The company continues to operate from a headquarters in Arizona.</li></ul>",
+            "website_url": "https://apnews.com/ae0e2b1f9547f80195aa1c4da8f83abf"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By JANET McCONNAUGHEY - Associated Press",
+            "title": "US takes aim at some Trump offshore safety rule rollbacks",
+            "description": "The U.S. Department of the Interior says it wants to reverse some Trump administration rollbacks of offshore safety rules dealing with devices to prevent blowouts like the BP catastrophe of 2010. That incident killed 11 people and fouled the Gulf",
+            "url": "/2022-09-11-10d7e9de7c1db4bffb6783f39f1b40fc",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?crop=375%2C375%2C30%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2022-09-12T21:25:44Z",
+            "content": "NEW ORLEANS (AP) The U.S. Department of the Interior said Monday that it wants to reverse some Trump administration rollbacks of offshore safety rules to prevent blowouts like the BP catastrophe that [+3915 chars]",
+            "summary": "As our nation transitions to a clean energy economy, we must commit to strengthening and modernizing offshore energy standards and oversight. The changes are a step in the right direction but not far enough, said Diane Hoskins of the ocean environmental nonprofit Oceana. The 2019 revisions to the Well Control Rule addressed technical problems and cleared up ambiguity, changing 68 of the original rules 342 provisions, said Erik Milito, president of the National Ocean Industries Association, which represents oil and gas companies. No operator can promise there wont be another disaster like BPs Deepwater Horizon blowout.",
+            "html_summary": "<ul><li>“As our nation transitions to a clean energy economy, we must commit to strengthening and modernizing offshore energy standards and oversight.” The changes are a step in the right direction but not far enough, said Diane Hoskins of the ocean environmental nonprofit Oceana.</li><li>“The 2019 revisions to the Well Control Rule addressed technical problems and cleared up ambiguity,” changing 68 of the original rule’s 342 provisions, said Erik Milito, president of the National Ocean Industries Association, which represents oil and gas companies.</li></ul>",
+            "website_url": "https://apnews.com/10d7e9de7c1db4bffb6783f39f1b40fc"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "H.j. Mccracken",
+            "title": "How an enormous project attempted to map the sky without computers",
+            "description": "The Carte du Ciel provided signposts for how future astronomical discoveries would be made.",
+            "url": "/2022-09-11-how-an-enormous-project-attempted-to-map-the-sky-without-computers",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-90732326-760x380.jpg",
+            "publishedAt": "2022-09-12T11:10:41Z",
+            "content": "Enlarge/ Photograph showing the emission nebula, Eta Carina (formerly Eta Argus) taken using the astrographic telescope at the Royal Observatory, Cape of Good Hope, South Africa. Located at the cente [+4668 chars]",
+            "summary": "Only a few very highly trained astronomers, like Caroline and William Herschel, could instantly spot a new star in a familiar galaxya signal of some distant cataclysmic event?Photography could change all that. It wasn't always easy to record what you could see in your telescope lensif you were lucky enough to have a telescope at all.Now imagine the emergence of a new technique that, for its time, offered some of the benefits of the technology that enabled the Gaia catalogs. Measurements could be precise, and they could be checked repeatedly.Daguerre received a pension and allowed Arago to open-source the details of his procedure, leading to an explosion of portrait studios in Paris and around the world. Daguerre, building on the work of Nicephore Niepce, discovered how to make permanent images on metal plates.For centuries, astronomers had struggled to record what they saw in the night sky with notes and hand-drawn sketches. Arago instantly realized the immense potential of this technique: Images taken in the depths of night could be analyzed comfortably and quantitatively in the light of day. Are there new classes of objects that are unknown to science?For centuries, astronomers have tried to answer these questions, and that work has been laborious and time-consuming. Peering through the distorted optics of early instruments, it was not always easy to draw what you could see.",
+            "html_summary": "<ul><li>Only a few very highly trained astronomers, like Caroline and William Herschel, could instantly spot a new star in a familiar galaxy—a signal of some distant cataclysmic event?Photography could change all that.</li><li>It wasn't always easy to record what you could see in your telescope lens—if you were lucky enough to have a telescope at all.Now imagine the emergence of a new technique that, for its time, offered some of the benefits of the technology that enabled the Gaia catalogs.</li><li>Measurements could be precise, and they could be checked repeatedly.Daguerre received a pension and allowed Arago to open-source the details of his procedure, leading to an explosion of portrait studios in Paris and around the world.</li><li>Daguerre, building on the work of Nicéphore Niépce, discovered how to make permanent images on metal plates.For centuries, astronomers had struggled to record what they saw in the night sky with notes and hand-drawn sketches.</li><li>Arago instantly realized the immense potential of this technique: Images taken in the depths of night could be analyzed comfortably and quantitatively in the light of day.</li><li>Are there new classes of objects that are unknown to science?For centuries, astronomers have tried to answer these questions, and that work has been laborious and time-consuming.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2022/09/how-an-enormous-project-attempted-to-map-the-sky-without-computers/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Dear Mr. President Seriously, please stop with these science moonshots. AIgenerated images open multiple cans of worms. Report Losing tech race with China could cost U.S. trillions  Axios. Twitter whistleblower bringing security warnings to Congress. Jury selection starts in Nikola founder Miltons fraud trial. GMs Cruise robotaxi service to expand into Phoenix, Austin. Asian shares rise on back of Wall Street rally. Official Idaho computer chip plant makes US more resilient. GMs Cruise robotaxi service to expand into Phoenix, Austin. Jury selection starts in Nikola founder Miltons fraud trial. US takes aim at some Trump offshore safety rule rollbacks. How an enormous project attempted to map the sky without computers"
+}

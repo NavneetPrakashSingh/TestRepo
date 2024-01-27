@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Jeff Bezos shows off new Moon lander design for NASA | Makemetechie.com Summary",
+            "description": "Were building our landers to enable global landing capability on the Moon, day or night.",
+            "url": "/2023-10-27-https-arstechnica-com-space-2023-10-jeff-bezos-shows-off-new-moon-lander-design-for-nasa-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/bluemoonmk1-760x380.jpeg",
+            "publishedAt": "2023-10-28T00:28:07Z",
+            "content": "Enlarge/ Jeff Bezos, Blue Origins founder, meets NASA Administrator Bill Nelson with a mockup of the Blue Moon Mark 1 lander behind them.7 with Blue Origin has unveiled a mockup of the Blue Mo [+3471 chars]",
+            "summary": "Blue Origin has unveiled a mock up of the Blue Moon lander it says will be ready to fly to the Moon within the next three years. Jeff Bezos the billionaire founder of Blue Origin recently showed off the low fidelity mock up to NASA officials at the company s engine production facility in Huntsville Alabama. The company is developing the Mark as a predecessor to the larger Mark lander which will ferry astronauts to and from the lunar surface under contract to NASA. NASA selected Blue Origin as its second human rated lunar lander contractor in May alongside SpaceX.",
+            "html_summary": "<ul><li>Blue Origin has unveiled a mock up of the Blue Moon lander it says will be ready to fly to the Moon within the next three years.</li><li> Jeff Bezos the billionaire founder of Blue Origin recently showed off the low fidelity mock up to NASA officials at the company s engine production facility in Huntsville Alabama.</li><li> The company is developing the Mark as a predecessor to the larger Mark lander which will ferry astronauts to and from the lunar surface under contract to NASA.</li><li> NASA selected Blue Origin as its second human rated lunar lander contractor in May alongside SpaceX.</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/10/jeff-bezos-shows-off-new-moon-lander-design-for-nasa/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Elizabeth Rayne",
+            "title": "This is how we could possibly build paved roads on the Moon | Makemetechie.com Summary",
+            "description": "Lasers melt a regolithlike material into pavers that could be used for lunar roads.",
+            "url": "/2023-10-27-https-arstechnica-com-science-2023-10-this-is-how-we-could-possibly-build-paved-roads-on-the-moon-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1497116264-760x380.jpg",
+            "publishedAt": "2023-10-27T23:38:32Z",
+            "content": "8 with The Moon is slated to be our next frontier. When Artemis 3 takes off (tentatively) near the end of 2025, it will be the first mission since the Apollo era to land humans on our satellite. By [+4195 chars]",
+            "summary": "Lunar regolith has been the bane of lunar spacecraft and astronauts for a reason. Any spacecraft that lands on or traverses the Moon is at risk from the dust it kicks up. Unweathered shards of rock and glass can easily scratch sensitive instruments and wear away at surfaces. The hardened molten regolith is tough enough to withstand the weight of rovers and other spacecraft with minimal dust kickup. The technology is envisioned to play a major role in the first phase survivability of lunar infrastructure and base development.",
+            "html_summary": "<ul><li>Lunar regolith has been the bane of lunar spacecraft and astronauts for a reason.</li><li> Any spacecraft that lands on or traverses the Moon is at risk from the dust it kicks up.</li><li> Unweathered shards of rock and glass can easily scratch sensitive instruments and wear away at surfaces.</li><li> The hardened molten regolith is tough enough to withstand the weight of rovers and other spacecraft with minimal dust kickup.</li><li> The technology is envisioned to play a major role in the first phase survivability of lunar infrastructure and base development.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/10/this-is-how-we-could-possibly-build-paved-roads-on-the-moon/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Apple Watch facing potential ban after losing Masimo patent case | Makemetechie.com Summary",
+            "description": "Apple plans to appeal the ruling, which is under presidential review.",
+            "url": "/2023-10-27-https-arstechnica-com-tech-policy-2023-10-apple-watch-facing-potential-ban-after-losing-masimo-patent-case-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/apple-watch-6s-202009-760x380.jpeg",
+            "publishedAt": "2023-10-27T18:23:49Z",
+            "content": "Enlarge/ The Apple Watch Series 6.27 with The Apple Watch violates patents owned by Californiabased Masimo, the US International Trade Commission (ITC) ruled on Thursday [PDF]. The federal agenc [+3461 chars]",
+            "summary": "The Apple Watch violates patents owned by California based Masimo the US International Trade Commission ITC ruled on Thursday PDF. The federal agency issued a limited exclusion order for the smartwatches meaning the Apple Watch is in jeopardy of an import ban. The exclusion period recommended on Thursday is supposed to go into effect after days during which time President Joe Biden can overturn the ruling. The debate is over Masimo s light based pulse oximetry The ITC s ruling doesn't specify which watches are affected.",
+            "html_summary": "<ul><li>The Apple Watch violates patents owned by California based Masimo the US International Trade Commission ITC ruled on Thursday PDF.</li><li> The federal agency issued a limited exclusion order for the smartwatches meaning the Apple Watch is in jeopardy of an import ban.</li><li> The exclusion period recommended on Thursday is supposed to go into effect after days during which time President Joe Biden can overturn the ruling.</li><li> The debate is over Masimo s light based pulse oximetry The ITC s ruling doesn't specify which watches are affected.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/apple-watch-facing-potential-ban-after-losing-masimo-patent-case/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "Microsoft profiles new threat group with unusual but effective practices | Makemetechie.com Summary",
+            "description": "Octo Tempest employs tactics that many of its targets arent prepared for.",
+            "url": "/2023-10-27-https-arstechnica-com-security-2023-10-microsoft-profiles-new-threat-group-with-unusual-but-effective-practices-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-hacker-760x380.jpg",
+            "publishedAt": "2023-10-27T23:20:36Z",
+            "content": "Enlarge/ This is not what a hacker looks like. Except on hacker cosplay night.1 with Microsoft has been tracking a threat group that stands out for its ability to cash in from data theft hacks th [+5401 chars]",
+            "summary": "Microsoft has been tracking a threat group that stands out for its ability to cash in from data theft hacks. Octo Tempest as Microsoft has named the group doesn t encrypt data after gaining illegal access to it instead the threat actor threatens to share the data publicly unless the victim pays a hefty ransom. To defeat targets defenses the group resorts to a host of techniques which besides social engineering include SIM swaps and live voice calls. These actors use personal information such as home addresses and family names along with physical threats to coerce victims into sharing credentials for corporate access.",
+            "html_summary": "<ul><li>Microsoft has been tracking a threat group that stands out for its ability to cash in from data theft hacks.</li><li> Octo Tempest as Microsoft has named the group doesn t encrypt data after gaining illegal access to it instead the threat actor threatens to share the data publicly unless the victim pays a hefty ransom.</li><li> To defeat targets defenses the group resorts to a host of techniques which besides social engineering include SIM swaps and live voice calls.</li><li> These actors use personal information such as home addresses and family names along with physical threats to coerce victims into sharing credentials for corporate access.</li></ul>",
+            "website_url": "https://arstechnica.com/security/2023/10/microsoft-profiles-new-threat-group-with-unusual-but-effective-practices/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Jeff Bezos shows off new Moon lander design for NASA | Makemetechie.com Summary. This is how we could possibly build paved roads on the Moon | Makemetechie.com Summary. Apple Watch facing potential ban after losing Masimo patent case | Makemetechie.com Summary. Microsoft profiles new threat group with unusual but effective practices | Makemetechie.com Summary"
+}

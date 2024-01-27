@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Eldercare robot ElliQ nabs another $25 million in funding | TechCrunch",
+            "description": "The Israeli firm announced a $36 million Series B in the early days of the pandemic, and now its adding another $25 million.",
+            "url": "/2023-08-29-eldercare-robot-elliq-nabs-another-25-million-in-funding",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/ElliQ8.png?resize=1200,801",
+            "publishedAt": "2023-08-29T11:01:08Z",
+            "content": "Intuition Robotics isnt hurting for funding these days. The Israeli firm announced a $36 million Series B in the early days of the pandemic, and now its adding another $25 million. The new raise, whi [+2230 chars]",
+            "summary": "Intuition Robotics announced a million Series B in the early days of the pandemic and now it s adding another million. Eldercare robotics have long been an area of interest for the company as its native Japan grapples with an aging population. Intuition s primary offering is ElliQ a desktop home robot designed to serve as a kind of robotic companion for elderly users. Current clients include the New York State Office for the Aging and the Area Agency on Aging of Broward County.",
+            "html_summary": "<ul><li>Intuition Robotics announced a million Series B in the early days of the pandemic and now it s adding another million</li><li> Eldercare robotics have long been an area of interest for the company as its native Japan grapples with an aging population</li><li> Intuition s primary offering is ElliQ a desktop home robot designed to serve as a kind of robotic companion for elderly users</li><li> Current clients include the New York State Office for the Aging and the Area Agency on Aging of Broward County</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/29/eldercare-robot-elliq-nabs-another-25-million-in-funding/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Luigi La Corte",
+            "title": "4 ways to show customers they can trust your generative AI enterprise tool | TechCrunch",
+            "description": "Here are ways your generative AI organization can build as an open book while building trust with potential customers.",
+            "url": "/2023-08-29-4-ways-to-show-customers-they-can-trust-your-generative-ai-enterprise-tool",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-498595153.jpg?resize=1200,795",
+            "publishedAt": "2023-08-29T10:30:33Z",
+            "content": "At the dawn of the cloud revolution, which saw enterprises move their data from on premise to the cloud, Amazon, Google and Microsoft succeeded at least in part because of their attention to security [+3018 chars]",
+            "summary": "There are currently no specific certifications around data security in generative AI. In the absence of official regulations you should be setting your own benchmarks for safety. Providers that take active steps to reduce the potential for LLM randomness and build the most trust will be outsized winners. While you may not be shaking hands with global heads of state like Sam Altman consider reaching out to local politicians and committee members to offer your expertise and collaboration. By demonstrating your willingness to create guardrails you re indicating you only want the best for those you intend to serve.",
+            "html_summary": "<ul><li>There are currently no specific certifications around data security in generative AI</li><li> In the absence of official regulations you should be setting your own benchmarks for safety</li><li> Providers that take active steps to reduce the potential for LLM randomness and build the most trust will be outsized winners</li><li> While you may not be shaking hands with global heads of state like Sam Altman consider reaching out to local politicians and committee members to offer your expertise and collaboration</li><li> By demonstrating your willingness to create guardrails you re indicating you only want the best for those you intend to serve</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/29/4-ways-to-show-customers-they-can-trust-your-generative-ai-enterprise-tool/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "MFast get backing from Wavemaker Partners to increase financial services access in Vietnam | TechCrunch",
+            "description": "The majority of Vietnams population live in rural areas and often lack access to financial services because banks and other institutions open most of The majority of Vietnams population live in rural areas and often lack access to financial services because",
+            "url": "/2023-08-29-mfast",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/DSC00193.jpg?resize=1200,675",
+            "publishedAt": "2023-08-29T02:00:30Z",
+            "content": "The majority of Vietnams population live in rural areas and often lack access to financial services because banks and other institutions open most of their physical locations in cities. MFast wants t [+4059 chars]",
+            "summary": "MFast is the leading financial services distribution network in Vietnam. The company announced today it has raised million in its Series A funding round led by Wavemaker Partners. The round also got participation from new investors Finnoventure Fund I managed by Krungsri Finnovate and Headline Asia alongside returning backers Do Ventures JAFCO Asia and Ascend Vietnam Ventures. MFast helps its customers get access to financial services including loans and insurance and high ticket items like home appliances from brands that don t usually open retail branches in rural areas.",
+            "html_summary": "<ul><li>MFast is the leading financial services distribution network in Vietnam</li><li> The company announced today it has raised million in its Series A funding round led by Wavemaker Partners</li><li> The round also got participation from new investors Finnoventure Fund I managed by Krungsri Finnovate and Headline Asia alongside returning backers Do Ventures JAFCO Asia and Ascend Vietnam Ventures</li><li> MFast helps its customers get access to financial services including loans and insurance and high ticket items like home appliances from brands that don t usually open retail branches in rural areas</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/28/mfast/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Eldercare robot ElliQ nabs another $25 million in funding | TechCrunch. 4 ways to show customers they can trust your generative AI enterprise tool | TechCrunch. MFast get backing from Wavemaker Partners to increase financial services access in Vietnam | TechCrunch"
+}

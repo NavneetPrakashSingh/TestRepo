@@ -1,0 +1,103 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Elon Musks X fined $380K over serious child safety concerns, watchdog says",
+            "description": "Google got a warning, but X could face millions in fines for compliance failure.",
+            "url": "/2023-10-16-elon-musks-x-fined-380k-over-serious-child-safety-concerns-watchdog-says",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1499013165-760x380.jpg",
+            "publishedAt": "2023-10-16T19:08:13Z",
+            "content": "38 with Today, X (formerly known as Twitter) became the first platform fined under Australias Online Safety Act. The fine comes after X failed to respond to more than a dozen key questions from Au [+3185 chars]",
+            "summary": "X formerly known as Twitter became the first platform fined under Australia s Online Safety Act. X failed to respond to more than a dozen key questions from Australia eSafety Commissioner Julie Inman Grant. X was given days to appeal the decision or pay the approximately fine. While the fine seems small the reputational ding could further hurt X s chances of persuading advertisers to increase spending on the platform. Any failure to comply or respond could trigger even more fines with X potentially on the hook for as much as daily for alleged non compliance dating back to March.",
+            "html_summary": "<ul><li>X formerly known as Twitter became the first platform fined under Australia s Online Safety Act.</li><li> X failed to respond to more than a dozen key questions from Australia eSafety Commissioner Julie Inman Grant.</li><li> X was given days to appeal the decision or pay the approximately fine.</li><li> While the fine seems small the reputational ding could further hurt X s chances of persuading advertisers to increase spending on the platform.</li><li> Any failure to comply or respond could trigger even more fines with X potentially on the hook for as much as daily for alleged non compliance dating back to March.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/elon-musks-x-fined-380k-over-serious-child-safety-concerns-watchdog-says/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kyle Orland",
+            "title": "AMD pulls graphics driver after AntiLag+ triggers CounterStrike 2 bans",
+            "description": "Apex Legends also among the games affected by overzealous DLL alterations.",
+            "url": "/2023-10-16-amd-pulls-graphics-driver-after-anti-lag-triggers-counter-strike-2-bans",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/cs2-760x380.jpg",
+            "publishedAt": "2023-10-16T15:00:13Z",
+            "content": "Enlarge/ The red eyes represent the mark of VAC for AntiLag+ players.11 with AMD has taken down the latest version of its AMD Adrenalin Edition graphics driver after CounterStrike 2maker Valve [+2530 chars]",
+            "summary": " AMD has taken down the latest version of its AMD Adrenalin Edition graphics driver after Counter Strike maker Valve warned that players using its Anti Lag technology would result in a ban. AMD first introduced regular Anti Lag mitigation in its drivers back in limiting input lag by reducing the amount of queued CPU work when the processor was getting too far ahead of the GPU frame processing. The newer Anti Lag system which was first rolled out for a handful of games last month updates this system by applying frame alignment within the game code itself according to AMD.",
+            "html_summary": "<ul><li> AMD has taken down the latest version of its AMD Adrenalin Edition graphics driver after Counter Strike maker Valve warned that players using its Anti Lag technology would result in a ban.</li><li> AMD first introduced regular Anti Lag mitigation in its drivers back in limiting input lag by reducing the amount of queued CPU work when the processor was getting too far ahead of the GPU frame processing.</li><li> The newer Anti Lag system which was first rolled out for a handful of games last month updates this system by applying frame alignment within the game code itself according to AMD.</li></ul>",
+            "website_url": "https://arstechnica.com/gaming/2023/10/amd-pulls-graphics-driver-after-anti-lag-triggers-counter-strike-2-bans/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "10 examples of technology going from the racetrack to the road",
+            "description": "From the 550 Spyder to the Le Manswinning 919 Hybrid and beyond.",
+            "url": "/2023-10-16-10-ways-that-porsches-race-cars-made-road-cars-better",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Rennsport-Reunion-7-1-760x380.jpg",
+            "publishedAt": "2023-10-16T12:27:00Z",
+            "content": "Enlarge/ The Porsche Museum brought plenty of its toys to Laguna Seca for Rennsport Reunion 7 in September 2023.4 with Porsche provided flights from Washington, DC, to San Jose and four nights in [+3235 chars]",
+            "summary": "Porsche celebrated its seventh Rennsport Reunion at Laguna Seca racetrack in California at the end of September. The first Porsche designed racing cars predate the family firm and date back to and the fearsome Auto Union V. But the first factory built Porsche racing car took five years to follow the company s first road car which appeared in. Porsche didn t introduce twin spark plugs in a road car engine until after the N rburgring that May It won its first time out at the Eifel Races at the Nburgring.",
+            "html_summary": "<ul><li>Porsche celebrated its seventh Rennsport Reunion at Laguna Seca racetrack in California at the end of September.</li><li> The first Porsche designed racing cars predate the family firm and date back to and the fearsome Auto Union V.</li><li> But the first factory built Porsche racing car took five years to follow the company s first road car which appeared in.</li><li> Porsche didn t introduce twin spark plugs in a road car engine until  after the N rburgring that May It won its first time out at the Eifel Races at the Nburgring.</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/10/10-ways-that-porsches-race-cars-made-road-cars-better/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "Can selection tie evolution more closely to physics?",
+            "description": "New papers claim to link evolution to other physics, but neither really succeeds.",
+            "url": "/2023-10-16-can-selection-tie-evolution-more-closely-to-physics",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1349020801-760x380.jpg",
+            "publishedAt": "2023-10-17T11:30:35Z",
+            "content": "Enlarge/ Does Assembly Theory have useful things to say about evolution? The paper written by its proponents makes that difficult to tell.2 with Usually, when someone starts talking about the int [+5414 chars]",
+            "summary": "This October has seen two papers that claim to describe how a key component of evolutionary theory selection fits in with other areas of physics. Both papers are published in prestigious journals Nature and PNAS so they can t be summarily dismissed. But they re both pretty limited in ways that probably are the product of the interests and biases of their authors. One of them may be the worst written paper I ve ever seen in a major journal. The theory can easily be explained in a series of less than two dozen tweet length social media posts as demonstrated by Carl Bergstrom.",
+            "html_summary": "<ul><li>This October has seen two papers that claim to describe how a key component of evolutionary theory selection fits in with other areas of physics.</li><li> Both papers are published in prestigious journals Nature and PNAS so they can t be summarily dismissed.</li><li> But they re both pretty limited in ways that probably are the product of the interests and biases of their authors.</li><li> One of them may be the worst written paper I ve ever seen in a major journal.</li><li> The theory can easily be explained in a series of less than two dozen tweet length social media posts as demonstrated by Carl Bergstrom.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/10/can-selection-tie-evolution-more-closely-to-physics/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Telcos filed blank robocall plans with FCC and got away with it for 2 years",
+            "description": "FCC received blank pages, a Windows Printer Test, and an indiscernible object.",
+            "url": "/2023-10-16-telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/getty-robot-phone-760x380.jpg",
+            "publishedAt": "2023-10-17T20:59:12Z",
+            "content": "3 with Twenty phone companies may soon have all their voice calls blocked by US carriers because they didnt submit real plans for preventing robocalls on their networks.The 20 carriers include a [+5398 chars]",
+            "summary": "Twenty phone companies may soon have all their voice calls blocked by US carriers because they didn't submit real plans for preventing robocalls on their networks. The carriers include a mix of US based and foreign voice service providers that submitted required robocall mitigation plans to the Federal Communications Commission about two years ago. Some of the carriers submissions were blank pages and others were bizarre images or documents that had no relation to roboc calls. The strange submissions according to FCC enforcement orders issued yesterday included a PNG file depicting an indiscernible object and a document titled Windows Printer Test Page.",
+            "html_summary": "<ul><li>Twenty phone companies may soon have all their voice calls blocked by US carriers because they didn't submit real plans for preventing robocalls on their networks.</li><li> The carriers include a mix of US based and foreign voice service providers that submitted required robocall mitigation plans to the Federal Communications Commission about two years ago.</li><li> Some of the carriers submissions were blank pages and others were bizarre images or documents that had no relation to roboc calls.</li><li> The strange submissions according to FCC enforcement orders issued yesterday included a PNG file depicting an indiscernible object and a document titled Windows Printer Test Page.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Comcast should stop advertising slower speeds as 10G, industry group says",
+            "description": "Comcast renamed its whole network Xfinity 10G despite cables slower speeds.",
+            "url": "/2023-10-16-comcast-should-stop-advertising-slower-speeds-as-10g-industry-group-says",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-xfinity-760x380.jpg",
+            "publishedAt": "2023-10-16T18:14:57Z",
+            "content": "13 with An advertising industry group urged Comcast to stop its 10G ads or modify them to state that 10G is an aspirational technology rather than something the company actually provides on its [+5173 chars]",
+            "summary": "The National Advertising Division NAD ruled against Comcast after a challenge lodged by T Mobile. The advertising industry group urged Comcast to stop its G ads or modify them to state that G is an aspirational technology rather than something the company actually provides on its cable network today. If Comcast loses the appeal and agrees to change its practices it would affect more than just a few ads because Comcast now calls its entire broadband network G. Comcast plans to appeal the decision so it won t make any changes to marketing immediately.",
+            "html_summary": "<ul><li>The National Advertising Division NAD ruled against Comcast after a challenge lodged by T Mobile.</li><li> The advertising industry group urged Comcast to stop its G ads or modify them to state that G is an aspirational technology rather than something the company actually provides on its cable network today.</li><li> If Comcast loses the appeal and agrees to change its practices it would affect more than just a few ads because Comcast now calls its entire broadband network G.</li><li> Comcast plans to appeal the decision so it won t make any changes to marketing immediately.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/comcast-should-stop-advertising-slower-speeds-as-10g-industry-group-says/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Elon Musks X fined $380K over serious child safety concerns, watchdog says | Makemetechie.com Summary. AMD pulls graphics driver after AntiLag+ triggers CounterStrike 2 bans | Makemetechie.com Summary. 10 examples of technology going from the racetrack to the road | Makemetechie.com Summary. Can selection tie evolution more closely to physics? | Makemetechie.com Summary. Telcos filed blank robocall plans with FCC and got away with it for 2 years | Makemetechie.com Summary. Comcast should stop advertising slower speeds as 10G, industry group says | Makemetechie.com Summary"
+}

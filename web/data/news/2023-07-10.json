@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Chuong Nguyen",
+            "title": "The best Prime Day laptop deals arent on Amazonheres where to find them",
+            "description": "These powerful laptops come with newer silicon and a more walletfriendly price.",
+            "url": "/2023-07-10-the-best-prime-day-laptop-deals-arent-on-amazon-heres-where-to-find-them",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Alienwaer-760x380.jpg",
+            "publishedAt": "2023-07-11T18:13:05Z",
+            "content": "Enlarge/ Alienware x17 R2 laptop.1 with You can find some significant savings at Amazon for the retailers Prime Day sale right now, but if youre in the market for a laptop, youre probably bett [+10192 chars]",
+            "summary": " Chuong Nguyen - Jul 11, 2023 6:13 pm UTC You can find some significant savings at Amazon for the retailer's Prime Day sale right now, but if you're in the market for a laptop, you're probably better off looking elsewhere. Even though Amazon has some good sales on laptops, some of the machines the retailer has discounted contain older processors or graphics cards.",
+            "html_summary": "<ul><li> Chuong Nguyen - Jul 11, 2023 6:13 pm UTC You can find some significant savings at Amazon for the retailer's Prime Day sale right now, but if you're in the market for a laptop, you're probably better off looking elsewhere.</li></ul>",
+            "website_url": "https://arstechnica.com/shopping/2023/07/the-best-prime-day-laptop-deals-arent-on-amazon-heres-where-to-find-them/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "Googles head of AR software quits, citing unstable commitment and vision",
+            "description": "Departure follows layoffs, project cancellations, and other chaos.",
+            "url": "/2023-07-10-googles-head-of-ar-software-quits-citing-unstable-commitment-and-vision",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/44-1-1440x1080-760x380.jpeg",
+            "publishedAt": "2023-07-11T20:16:08Z",
+            "content": "Enlarge/ Product photography of the Google Glass wearable.25 with Googles head of operating system and software platforms for augmented and mixed reality devices, Mark Lucovsky, has left the com [+3037 chars]",
+            "summary": " Samuel Axon - Jul 11, 2023 8:16 pm UTC Google's head of operating system and software platforms for augmented and mixed reality devices, Mark Lucovsky, has left the company after months of turmoil for the company's mixed reality projects and staff. Apple expects it to be a slow rollout, but its commitment to long-term investment in the space seems clear.There are ongoing AR projects at Microsoft and Amazon, and of course, numerous VC-backed startups are working in the space. Meanwhile, Apple plans to launch Vision Pro and visionOS to consumers early next year, and AR developers have just started building apps for the platform. He publicly announced his departure in a tweet on Monday:I have decided to step away from my role at Google, where I was Senior Director of Engineering, responsible for OS and Software Platform for AR and XR devices. \"Moving forward, I am eager to explore opportunities that allow me to further advance Augmented Reality technology and its intersection with generative AI,\" he wrote in a follow-up tweet. Bavor left the company in March of this year.Google was one of the pioneers of mass-market AR when it piloted Google Glass with developers in 2013, but things have been rocky of late. Even as Google has struggled to find its focus in augmented reality, some competitors have made big commitments.",
+            "html_summary": "<ul><li> Samuel Axon - Jul 11, 2023 8:16 pm UTC Google's head of operating system and software platforms for augmented and mixed reality devices, Mark Lucovsky, has left the company after months of turmoil for the company's mixed reality projects and staff.</li><li>Apple expects it to be a slow rollout, but its commitment to long-term investment in the space seems clear.There are ongoing AR projects at Microsoft and Amazon, and of course, numerous VC-backed startups are working in the space.</li><li>Meanwhile, Apple plans to launch Vision Pro and visionOS to consumers early next year, and AR developers have just started building apps for the platform.</li><li>He publicly announced his departure in a tweet on Monday:I have decided to step away from my role at Google, where I was Senior Director of Engineering, responsible for OS and Software Platform for AR and XR devices.</li><li>\"Moving forward, I am eager to explore opportunities that allow me to further advance Augmented Reality technology and its intersection with generative AI,\" he wrote in a follow-up tweet.</li><li>Bavor left the company in March of this year.Google was one of the pioneers of mass-market AR when it piloted Google Glass with developers in 2013, but things have been rocky of late.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/07/googles-head-of-ar-software-quits-citing-unstable-commitment-and-vision/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "JumpCloud resets customer API keys citing ongoing incident",
+            "description": "JumpCloud has told customers it reset their API keys to protect their organizations from an apparent security incident.  The directory, identity, and access ...",
+            "url": "/2023-07-10-jumpcloud-api-keys-ongoing-incident",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oV2i2peoXWR4_91hnMk7CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/d7f88da5582b4404b7ea00d69ded2c47",
+            "publishedAt": "2023-07-10T13:10:07Z",
+            "content": "JumpCloud has told customers it reset their API keys to protect their organizations from an apparent security incident.The directory, identity, and access management giant said in an email to custo [+1344 chars]",
+            "summary": "JumpCloud has told customers it reset their API keys to protect their organizations from an apparent security incident.The directory, identity and access management giant said in an email to customers that it was experiencing an ongoing incident but did not provide specifics. In a support post on its site, the company said the resets were out of an abundance of caution.The Louisville, Colorado-based technology company provides cloud file directory and device security, such as single sign-on and multifactor authentication, for corporations and organizations. JumpCloud says it provides its technology to more than 180,000 organizations, with more than 5,000 paying customers.Its not uncommon for companies to offer API keys that allow customers to integrate that technology into their own tech stack and different systems to talk to each other. JumpCloud raises $159M on $2.56B valuation for cloud directory tool",
+            "html_summary": "<ul><li>JumpCloud has told customers it reset their API keys to protect their organizations from an apparent security incident.The directory, identity and access management giant said in an email to customers that it was experiencing an “ongoing incident” but did not provide specifics.</li><li>In a support post on its site, the company said the resets were “out of an abundance of caution.”The Louisville, Colorado-based technology company provides cloud file directory and device security, such as single sign-on and multifactor authentication, for corporations and organizations.</li><li>JumpCloud says it provides its technology to more than 180,000 organizations, with more than 5,000 paying customers.It’s not uncommon for companies to offer API keys that allow customers to integrate that technology into their own tech stack and different systems to talk to each other.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/10/jumpcloud-api-keys-ongoing-incident/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "Is distributed computing dying, or just fading into the backdrop?",
+            "description": "There seems to be much less excitement about distributed computing these days.",
+            "url": "/2023-07-10-is-distributed-computing-dying-or-just-fading-into-the-backdrop",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/image-1-760x380.png",
+            "publishedAt": "2023-07-11T13:44:35Z",
+            "content": "Enlarge/ This image has a warm, nostalgic feel for many of us.17 with Distributed computing erupted onto the scene in 1999 with the release of SETI@home, a nifty program and screensaver (back whe [+3205 chars]",
+            "summary": "SETI@home was a prime candidate for distributed computing: Each individual work unit was a unique moment in time and space as seen by a radio telescope.Twenty-one years later, SETI@home shut down, having found nothing. We have no way of knowing all the reasons people quit (feel free to tell us in the comments section), but having nothing to show for it is a pretty good reason.SETI@homes history is emblematic of the churn that typifies the distributed computing world. Each piece of the project is independent of the others; a distributed computing project wouldn't work if a process needed the results of a prior process to continue. A UHN spokesperson declined to comment for this story.With the outbreak of the COVID pandemic, there was a new darling in the distributed world: Folding@home, a simulator trying to understand how proteins adopt functional structures. So many people launched it on their computers that it broke the exaFLOP barrier long before supercomputers did.But as the pandemic waned, so did interest in the project. Folding@home had been around for more than 20 years simulating protein folding to understand how diseases were formed. But, with proteins from SARS-CoV-2 to study, Folding@home became the It Project.",
+            "html_summary": "<ul><li>SETI@home was a prime candidate for distributed computing: Each individual work unit was a unique moment in time and space as seen by a radio telescope.Twenty-one years later, SETI@home shut down, having found nothing.</li><li>We have no way of knowing all the reasons people quit (feel free to tell us in the comments section), but having nothing to show for it is a pretty good reason.SETI@home’s history is emblematic of the churn that typifies the distributed computing world.</li><li>Each piece of the project is independent of the others; a distributed computing project wouldn't work if a process needed the results of a prior process to continue.</li><li>A UHN spokesperson declined to comment for this story.With the outbreak of the COVID pandemic, there was a new darling in the distributed world: Folding@home, a simulator trying to understand how proteins adopt functional structures.</li><li>So many people launched it on their computers that it broke the exaFLOP barrier long before supercomputers did.But as the pandemic waned, so did interest in the project.</li><li>Folding@home had been around for more than 20 years simulating protein folding to understand how diseases were formed.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Verifiable validates its healthcare credentialing software with another $27M",
+            "description": "Verifiable integrates APIs with realtime verification technology to shorten the time it takes to credential providers.",
+            "url": "/2023-07-10-verifiable-healthcare-credentialing-software-27m",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/verifiable-credentialing-1.jpg?resize=1200,675",
+            "publishedAt": "2023-07-10T12:31:10Z",
+            "content": "Knowing that a doctor on your hospital staff is who they say they are would seem like a nobrainer, but poor access to realtime credentialing data is causing a headache for healthcare organizations. [+2513 chars]",
+            "summary": "In total, the company has raised $47 million since forming in 2020.Verifiable integrates APIs with real-time verification technology to help healthcare organizations shorten the time it takes to credential providers from weeks to days. We are also focusing on operational efficiency and our path to profitability.5 tips for healthcare startups fundraising in a down market I think this speaks to the relevance, necessity and differentiation of Verifiables solution, co-founder and CEO Nick Macario told TechCrunch via email.",
+            "html_summary": "<ul><li>In total, the company has raised $47 million since forming in 2020.Verifiable integrates APIs with real-time verification technology to help healthcare organizations shorten the time it takes to credential providers from weeks to days.</li><li>“We are also focusing on operational efficiency and our path to profitability.”5 tips for healthcare startups fundraising in a down market</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/10/verifiable-healthcare-credentialing-software-27m/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "eBay acquires AIpowered product authentication company Certilogo",
+            "description": "eBay has closed its acquisition of Certilogo, a provider of AIpowered apparel and fashion goods digital IDs and authentication.",
+            "url": "/2023-07-10-ebay-acquires-product-authentication-company-certilogo",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-632621434.jpg?w=1024",
+            "publishedAt": "2023-07-11T17:04:25Z",
+            "content": "eBay announced today that it has closed its acquisition of Certilogo, a company that provides AIpowered apparel and fashion goods digital IDs and authentication. The financial terms of the deal were [+2103 chars]",
+            "summary": "Brands will also be able to protect their customers from counterfeits and engage in recommerce through counterfeit-proof digital product passports.When eBay first announced the purchase back in May, the company said the acquisition marked a key investment in the growing pre-loved fashion category. eBays acquisition indicates that its looking to boost secondhand fashion authentication on its marketplace.We are excited to welcome the talented Certilogo team to eBay, as they bring their passion and cutting-edge technology to our community of fashion enthusiasts, said eBay VP Charis Marquez in a statement. The Milan-based company will continue to be led by CEO Michele Casucci.Certilogo uses digital technology to help brands manage the lifecycle of their garments, while providing consumers a way to confirm authenticity and access reliable information about items. eBay announced today that it has closed its acquisition of Certilogo, a company that provides AI-powered apparel and fashion goods digital IDs and authentication. In February, the company acquired AI-powered fraud detection company 3PM Shield.eBay appoints new head of emerging markets, covering regions like Southeast Asia and India The company said the purchase solidifies eBay as a trusted destination to shop for pre-loved apparel and fashion. Through this acquisition, eBay will be able to offer brands secure, connected product solutions that are both flexible and compatible.",
+            "html_summary": "<ul><li>Brands will also be able to protect their customers from counterfeits and engage in recommerce through counterfeit-proof digital product passports.”When eBay first announced the purchase back in May, the company said the acquisition marked a key investment in the growing pre-loved fashion category.</li><li>eBay’s acquisition indicates that it’s looking to boost secondhand fashion authentication on its marketplace.“We are excited to welcome the talented Certilogo team to eBay, as they bring their passion and cutting-edge technology to our community of fashion enthusiasts,” said eBay VP Charis Marquez in a statement.</li><li>The Milan-based company will continue to be led by CEO Michele Casucci.Certilogo uses digital technology to help brands manage the lifecycle of their garments, while providing consumers a way to confirm authenticity and access reliable information about items.</li><li>eBay announced today that it has closed its acquisition of Certilogo, a company that provides AI-powered apparel and fashion goods digital IDs and authentication.</li><li>In February, the company acquired AI-powered fraud detection company 3PM Shield.eBay appoints new head of emerging markets, covering regions like Southeast Asia and India</li><li>The company said the purchase solidifies eBay as a trusted destination to shop for pre-loved apparel and fashion.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/11/ebay-acquires-product-authentication-company-certilogo/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "The era of tech layoffs is evolving in an interesting way",
+            "description": "The era of tech layoffs is not yet past, but it is losing some of its intensity and changing into a unique trend.",
+            "url": "/2023-07-10-tech-layoffs-are-changing",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1193927148.jpg?resize=1200,720",
+            "publishedAt": "2023-07-11T16:00:43Z",
+            "content": "The &lt;a href=https//techcrunch.com/2023/07/11/techindustrylayoffs2023/&gt;era of tech layoffs is not yet past, but it is losing some of its intensity and changing into a unique trend.The Ex [+1298 chars]",
+            "summary": "In a spreadsheet that the business data platform released in conjunction with its recent staffing cuts, you can clearly see the areas where the startup felt it could afford to scale back: sales roles of varying seniority, customer success staff, marketing and recruiting. Recruiting, marketing, and client-facing roles are other areas commonly affected when tech shops decide to trim costs.The recent layoffs at Crunchbase are a good example of this. )But there is change afoot in the realm of tech layoffs.If you study the Layoffs.fyi database of tech staff cuts, you can spot an interesting trend budding. Read it every morning on TechCrunch+ or get The Exchange newsletter every Saturday.It isnt surprising to see Microsoft cutting staff yet again, in addition to the roughly 10,000 workers it laid off earlier this year. The era of tech layoffs is not yet past, but it is losing some of its intensity and changing into a unique trend.The Exchange explores startups, markets and money. The tech giant is slashing its sales headcount, which is usually one of the areas that technology companies tend to pare down when budgets are reduced. The number of tech workers asked to leave since we saw layoffs peak in January 2023 has come down steadily:",
+            "html_summary": "<ul><li>In a spreadsheet that the business data platform released in conjunction with its recent staffing cuts, you can clearly see the areas where the startup felt it could afford to scale back: sales roles of varying seniority, customer success staff, marketing and recruiting.</li><li>Recruiting, marketing, and client-facing roles are other areas commonly affected when tech shops decide to trim costs.The recent layoffs at Crunchbase are a good example of this.</li><li>)But there is change afoot in the realm of tech layoffs.If you study the Layoffs.fyi database of tech staff cuts, you can spot an interesting trend budding.</li><li>Read it every morning on TechCrunch+ or get The Exchange newsletter every Saturday.It isn’t surprising to see Microsoft cutting staff yet again, in addition to the roughly 10,000 workers it laid off earlier this year.</li><li>The era of tech layoffs is not yet past, but it is losing some of its intensity and changing into a unique trend.The Exchange explores startups, markets and money.</li><li>The tech giant is slashing its sales headcount, which is usually one of the areas that technology companies tend to pare down when budgets are reduced.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/11/tech-layoffs-are-changing/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Bangladesh government takes down exposed citizens data",
+            "description": "Bangladeshs government took down the website that leaked citizens personal information after TechCrunch reported the leak.",
+            "url": "/2023-07-10-bangladesh-government-takes-down-exposed-citizens-data",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/bangladesh-id-card-tilt.jpg?resize=1200,793",
+            "publishedAt": "2023-07-10T15:06:39Z",
+            "content": "The Bangladeshi government on Sunday took down citizens sensitive data that it had left exposed online.On Friday, TechCrunch reported that a website belonging to the government of Bangladesh was le [+2003 chars]",
+            "summary": "Citizens information was exposed due to the vulnerability of the website, according to the Business Standard, a local newspaper.Bangladeshs Home Minister Asaduzzaman Khan Kamal reportedly said that law enforcement agencies are investigating the incident.Do you have information about similar leaks or data breaches? According to his estimate, the website leaked data on around 50 million Bangladeshi citizens.Last week, we also reached out to CIRT, as well as the Bangladesh governments press office, its embassy in Washington, D.C. and its consulate in New York City. You can also contact TechCrunch via SecureDrop.Bangladesh government website leaks citizens personal data From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Wickr, Telegram and Wire @lorenzofb, or email lorenzo@techcrunch.com. Wed love to hear from you.",
+            "html_summary": "<ul><li>Citizens’ information was exposed due to the vulnerability of the website,” according to the Business Standard, a local newspaper.Bangladesh’s Home Minister Asaduzzaman Khan Kamal reportedly said that law enforcement agencies are investigating the incident.Do you have information about similar leaks or data breaches?</li><li>According to his estimate, the website leaked data on around 50 million Bangladeshi citizens.Last week, we also reached out to CIRT, as well as the Bangladesh government’s press office, its embassy in Washington, D.C. and its consulate in New York City.</li><li>You can also contact TechCrunch via SecureDrop.Bangladesh government website leaks citizens’ personal data</li><li>From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Wickr, Telegram and Wire @lorenzofb, or email lorenzo@techcrunch.com.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/10/bangladesh-government-takes-down-exposed-citizens-data/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "This VC firm uses personality tests and AI to find its next investments",
+            "description": "Investors are throwing money at AI startups, so its no wonder were starting to see them leaning on the tech to save their most precious resource Time.",
+            "url": "/2023-07-10-here-is-a-term-sheet-beep-boop",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1084839932.jpg?resize=1200,800",
+            "publishedAt": "2023-07-11T15:01:06Z",
+            "content": "Investors are throwing money at AI startups (perhaps not as much as you might think), so its no wonder that were starting to see them leaning on the technology to leverage their most precious resou [+2283 chars]",
+            "summary": "Knowing that the team is at the center of any startup, the fund went down what Hjelm described as a behavioral psychology rabbit hole and sought the help of an industrial psychologist to define the optimal entrepreneurial behavioral profile. They then built Wendal.I tried the platform out myself, and my fictional company (based heavily on my real company that failed spectacularly) was recommended to the investment team.Wendal is not all thats unique about this firm: It also has no carry component. But any AI system is only as good as its training data, so its logical to wonder about Wendals fairness or its capability to determine whether a startups founder is right for a given market. Called Wendal, the platform assesses founders according to 13 entrepreneurial traits to determine if a meeting will prove fruitful or not for investors. Unlike most VC firms that get to keep 20% of the money they generate for their LPs, Connetic wants to make itself available to retail investors through financial advisers. But Hjelm believes the platform has been built to be equitable and that the data bears out this assertion. The question was how.",
+            "html_summary": "<ul><li>Knowing that the team is at the center of any startup, the fund went down what Hjelm described as a “behavioral psychology rabbit hole” and sought the help of an industrial psychologist to define the optimal entrepreneurial behavioral profile.</li><li>They then built Wendal.I tried the platform out myself, and my fictional company (based heavily on my real company that failed spectacularly) was recommended to the investment team.Wendal is not all that’s unique about this firm: It also has no carry component.</li><li>But any AI system is only as good as its training data, so it’s logical to wonder about Wendal’s fairness or its capability to determine whether a startup’s founder is right for a given market.</li><li>Called Wendal, the platform assesses founders according to 13 entrepreneurial traits to determine if a meeting will prove fruitful or not for investors.</li><li>Unlike most VC firms that get to keep 20% of the money they generate for their LPs, Connetic wants to make itself available to retail investors through financial advisers.</li><li>But Hjelm believes the platform has been built to be equitable and that the data bears out this assertion.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/11/here-is-a-term-sheet-beep-boop/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Verity brings in another $11M for its inventory drones",
+            "description": "Today, Swiss startup Verity announced that its adding $11 million in funding. The addition is part of a $43 million Series B.",
+            "url": "/2023-07-10-verity-brings-in-another-11m-for-its-inventory-drones",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Verity-Series-B.jpeg?resize=1200,628",
+            "publishedAt": "2023-07-11T13:00:28Z",
+            "content": "Seems were in the middle of drone delivery summer. A few weeks back, Gather AI snapped up competitor, Ware, following an executive shake and soon after, San Josebased B Garage brought in a $20 milli [+2445 chars]",
+            "summary": "Were excited to invest in Verity as it scales its operations internationally.Dexory nabs $19M to bring visibility to warehouses through analytics and autonomous robotsCertainly Qualcomm has a personal interest in the world of supply chains and logistics, which have been clouded by uncertainty for the last several years. A few weeks back, Gather AI snapped up competitor Ware following an executive shake-up, and soon after, San Jose-based B Garage brought in a $20 million Series A.Today, Swiss startup Verity announced that its adding $11 million in funding. Veritys self-flying drone technology and advanced warehouse inventory analytics are helping transform supply chains by enabling end-to-end, real-time visibility. The addition is an extension of a $32 million Series B announced back in March, bringing the rounds full raise up to $43 million. The wheeled robot sports an extending scaffolding system to hit those hard to reach shelves.In a lot of ways, drones are uniquely qualified for the job. When you factor in third-party logistics firms, retailers and manufacturers, youve got countless shelves that need to be inventoried.A number of companies, including Simbe and Bossa Nova, have focused on front-of-store shelf scanning. The secret sauce, so to speak, are systems with limited connectivity that allow drones to fly indoors and avoid collisions.Veritys latest round was led by A.P.",
+            "html_summary": "<ul><li>We’re excited to invest in Verity as it scales its operations internationally.”Dexory nabs $19M to bring visibility to warehouses through analytics and autonomous robotsCertainly Qualcomm has a personal interest in the world of supply chains and logistics, which have been clouded by uncertainty for the last several years.</li><li>A few weeks back, Gather AI snapped up competitor Ware following an executive shake-up, and soon after, San Jose-based B Garage brought in a $20 million Series A.Today, Swiss startup Verity announced that it’s adding $11 million in funding.</li><li>“Verity’s self-flying drone technology and advanced warehouse inventory analytics are helping transform supply chains by enabling end-to-end, real-time visibility.</li><li>The addition is an extension of a $32 million Series B announced back in March, bringing the round’s full raise up to $43 million.</li><li>The wheeled robot sports an extending scaffolding system to hit those hard to reach shelves.In a lot of ways, drones are uniquely qualified for the job.</li><li>When you factor in third-party logistics firms, retailers and manufacturers, you’ve got countless shelves that need to be inventoried.A number of companies, including Simbe and Bossa Nova, have focused on front-of-store shelf scanning.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/11/verity-brings-in-another-11m-for-its-inventory-drones/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "India deals a 28% tax blow to online gaming",
+            "description": "India has unveiled a significant tax increase on turnovers of online gaming companies in a major blow to the fastgrowing industry.",
+            "url": "/2023-07-10-india-online-gaming-gst-tax",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1229542362.jpg?resize=1200,800",
+            "publishedAt": "2023-07-11T15:43:29Z",
+            "content": "India unveiled a significant tax increase on turnovers of online gaming companies on Tuesday evening in a major blow to the fastgrowing industry that was quick to label the move as catastrophic an [+2763 chars]",
+            "summary": "It also tasked the gaming industry to form self-regulatory bodies.Our intention is not to end online gaming, casino, horse racing. The council said there should be no distinction between game of skill and game of chance, closing a loophole that has allowed fantasy sports companies to justify their offerings as skill-based.Online gaming is one of the fastest growing consumer internet businesses in India. But all these have become so complex that go this route or go that route, each route has transparency to a certain extent, but after that, it is opaque, Sitharaman said.RIP  Real money gaming industry in India. We will still align with what the MeitY (the Ministry of Electronics and Information Technology) wants to bring in as their regulation.Earlier this year, New Delhi amended its IT law to crack down on online games offering betting services.",
+            "html_summary": "<ul><li>It also tasked the gaming industry to form self-regulatory bodies.“Our intention is not to end online gaming, casino, horse racing.</li><li>The council said there should be no distinction between “game of skill” and “game of chance,” closing a loophole that has allowed fantasy sports companies to justify their offerings as skill-based.Online gaming is one of the fastest growing consumer internet businesses in India.</li><li>But all these have become so complex that go this route or go that route, each route has transparency to a certain extent, but after that, it is opaque,” Sitharaman said.RIP – Real money gaming industry in India.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/11/india-online-gaming-gst-tax/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Cybersecurity professional charged for stealing $9 million in crypto",
+            "description": "U.S. government prosecutors accused Shakeeb Ahmed, a former cybersecurity professional, of stealing around $9 million in crypto.",
+            "url": "/2023-07-10-cybersecurity-professional-charged-for-stealing-9-million-in-crypto",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/drawkit-illustrations-8iIUDnRq87o-unsplash-1.jpg?resize=1200,675",
+            "publishedAt": "2023-07-11T18:31:57Z",
+            "content": "The U.S. government accused a cybersecurity professional of hacking a cryptocurrency exchange and stealing around $9 million in cryptocurrency, in what looks like a case of an ethical hacker turning  [+3369 chars]",
+            "summary": "In the past, hackers who stole crypto and offered to return parts of it by negotiating with the victims directly have sometimes called themselves white hats, cybersecurity lingo for hackers who have good intentions. Do you have information about this hack, other cyberattacks against crypto projects, or thefts of cryptocurrency? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Wickr, Telegram and Wire @lorenzofb, or email lorenzo@techcrunch.com. His LinkedIn profile says he is a senior security engineer at Amazon. You can also contact TechCrunch via SecureDrop. Wed love to hear from you.",
+            "html_summary": "<ul><li>In the past, hackers who stole crypto and offered to return parts of it by negotiating with the victims directly have sometimes called themselves “white hats,” cybersecurity lingo for hackers who have good intentions.</li><li>Do you have information about this hack, other cyberattacks against crypto projects, or thefts of cryptocurrency?</li><li>From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Wickr, Telegram and Wire @lorenzofb, or email lorenzo@techcrunch.com.</li><li>His LinkedIn profile says he is a senior security engineer at Amazon.</li><li>You can also contact TechCrunch via SecureDrop.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/11/cybersecurity-professional-charged-for-stealing-9-million-in-crypto/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. The best Prime Day laptop deals arent on Amazonheres where to find them. Googles head of AR software quits, citing unstable commitment and vision. JumpCloud resets customer API keys citing ongoing incident. Is distributed computing dying, or just fading into the backdrop?. Verifiable validates its healthcare credentialing software with another $27M. eBay acquires AIpowered product authentication company Certilogo. The era of tech layoffs is evolving in an interesting way. Bangladesh government takes down exposed citizens data. This VC firm uses personality tests and AI to find its next investments. Verity brings in another $11M for its inventory drones. India deals a 28% tax blow to online gaming. Cybersecurity professional charged for stealing $9 million in crypto"
+}

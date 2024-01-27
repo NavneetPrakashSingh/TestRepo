@@ -1,0 +1,119 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Stanford researchers challenge OpenAI, others on AI transparency in new report",
+            "description": "Researchers say most transparent AI model scores only 54% on their index.",
+            "url": "/2023-10-23-https-arstechnica-com-information-technology-2023-10-stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-760x380.jpg",
+            "publishedAt": "2023-10-23T19:59:50Z",
+            "content": "4 with On Wednesday, Stanford University researchers issued a report on major AI models and found them greatly lacking in transparency, reports Reuters. The report, called The Foundation Model Tra [+3718 chars]",
+            "summary": "Stanford University researchers issued a report on major AI models and found them greatly lacking in transparency. The report called The Foundation Model Transparency Index examined models such as GPT created by OpenAI Google Meta Anthropic and others. It aims to shed light on the data and human labor used in training the models calling for increased disclosure from companies. Less transparency makes it harder for other businesses to know if they can safely build applications that rely on commercial foundation models says the researchers. The authors of the Transparency Index hope that it will not only spur companies to improve their transparency but also serve as a resource for governments grappling with how to potentially regulate the rapidly growing AI field.",
+            "html_summary": "<ul><li>Stanford University researchers issued a report on major AI models and found them greatly lacking in transparency.</li><li> The report called The Foundation Model Transparency Index examined models such as GPT created by OpenAI Google Meta Anthropic and others.</li><li> It aims to shed light on the data and human labor used in training the models calling for increased disclosure from companies.</li><li> Less transparency makes it harder for other businesses to know if they can safely build applications that rely on commercial foundation models says the researchers.</li><li> The authors of the Transparency Index hope that it will not only spur companies to improve their transparency but also serve as a resource for governments grappling with how to potentially regulate the rapidly growing AI field.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Rivian R1T is the first EV to win the longest offroad competition in the US",
+            "description": "A team driving an Rivian R1T won the Rebelle Rally, making it the first EV to place first in the longest offroad competition in the U.S.",
+            "url": "/2023-10-23-https-techcrunch-com-2023-10-22-rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us-",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/Rivian-rebelle.jpg?resize=1200,800",
+            "publishedAt": "2023-10-23T00:33:39Z",
+            "content": "Motorsports and offroad competition isnt the typical fodder over here at TechCrunch unless, of course, there also happens to be a podiumwinning team driving an allelectric 2023 Rivian R1T.The R [+3929 chars]",
+            "summary": "The Rivian R T with Lilly Macaruso behind the wheel and Alex Anderson behind the compass and map took first place in the class of X Cross. This was the first time that a team driving an all electric vehicle that would be the Rivan R T came in first place. The Rebelle Rally the longest off road map and compass rally in the United States wrapped up Friday evening with a new EV milestone under its belt. This year in another first Rivian customer Mandy Brezina took her personally owned R T in the competition.",
+            "html_summary": "<ul><li>The Rivian R T with Lilly Macaruso behind the wheel and Alex Anderson behind the compass and map took first place in the class of X Cross.</li><li> This was the first time that a team driving an all electric vehicle that would be the Rivan R T came in first place.</li><li> The Rebelle Rally the longest off road map and compass rally in the United States wrapped up Friday evening with a new EV milestone under its belt.</li><li> This year in another first Rivian customer Mandy Brezina took her personally owned R T in the competition.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Reddit finally takes its API war where it belongs To AI companies",
+            "description": "After battling thirdparty apps, Reddit threatens generative AI firms, WaPo reports.",
+            "url": "/2023-10-23-https-arstechnica-com-gadgets-2023-10-reddit-may-block-search-if-it-cant-reach-an-ai-deal-with-google-microsoft-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1438051262-760x380.jpg",
+            "publishedAt": "2023-10-23T19:48:57Z",
+            "content": "8 with Reddit ignited a war this year. Dramatic changes in API access pricing (from free to unaffordable)was one of its most polarizing moves ever. It resulted in apps beloved by longtime Reddit  [+4230 chars]",
+            "summary": "The Washington Post said Reddit has met with top generative AI companies about being paid for its data. The Washington Post reported that Reddit is ready to play hard ball if a deal can t be reached. Reddit is considering blocking search crawlers from Google and Bing which would prevent the forum from being discovered in searches and reduce the number of visitors to the site. The social media firm is said to be considering an IPO this year and has been relentless lately in its pursuit to become profitable and to diversify revenue streams beyond ads.",
+            "html_summary": "<ul><li>The Washington Post said Reddit has met with top generative AI companies about being paid for its data.</li><li> The Washington Post reported that Reddit is ready to play hard ball if a deal can t be reached.</li><li> Reddit is considering blocking search crawlers from Google and Bing which would prevent the forum from being discovered in searches and reduce the number of visitors to the site.</li><li> The social media firm is said to be considering an IPO this year and has been relentless lately in its pursuit to become profitable and to diversify revenue streams beyond ads.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/10/reddit-may-block-search-if-it-cant-reach-an-ai-deal-with-google-microsoft/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Search engine that scans billions of faces tries blocking kids from results",
+            "description": "PimEyes is still perfecting its AI agedetection system.",
+            "url": "/2023-10-23-https-arstechnica-com-tech-policy-2023-10-search-engine-that-scans-billions-of-faces-tries-blocking-kids-from-results-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1439774778-760x380.jpg",
+            "publishedAt": "2023-10-24T18:04:11Z",
+            "content": "28 with A search engine that uses facial recognition to help people scan billions of images to find their photos strewn across the Internet has officially banned searches of minors, The New York Ti [+2677 chars]",
+            "summary": "PimEyes CEO Giorgi Gobronidze said the company has implemented new AI age detection technology to detect and block searches of minors. This update is due to privacy concerns that images of children might be used by some individuals with a twisted moral compass and values such as pedophiles child predators. The update is intended to address privacy concerns and enhance platform safety but also blocks parents from using the tech to find photos of their children online. Online human rights organizations will be permitted to search for photos of minors moving forward.",
+            "html_summary": "<ul><li>PimEyes CEO Giorgi Gobronidze said the company has implemented new AI age detection technology to detect and block searches of minors.</li><li> This update is due to privacy concerns that images of children might be used by some individuals with a twisted moral compass and values such as pedophiles child predators.</li><li> The update is intended to address privacy concerns and enhance platform safety but also blocks parents from using the tech to find photos of their children online.</li><li> Online human rights organizations will be permitted to search for photos of minors moving forward.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/search-engine-that-scans-billions-of-faces-tries-blocking-kids-from-results/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DARLENE SUPERVILLE - Associated Press",
+            "title": "Biden names technology hubs for 32 states and Puerto Rico to help the industry and create jobs",
+            "description": "The White House says the dozens of U.S. technology hubs President Joe Biden is announcing will help communities across the country become centers of innovation critical to its competitiveness. Biden is designating 31 technology hubs that reach 32 states and",
+            "url": "/2023-10-23-https-apnews-com-article-biden-raimondo-tech-hubs-innovation-jobs-205ef4710451f2d37595739056c648ae",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/9/94/9942ba6c-d392-560d-a5e7-76a482096d73/65364ca30eef6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-10-23T13:16:42Z",
+            "content": "By DARLENE SUPERVILLE  Associated PressREHOBOTH BEACH, Del. (AP) The Biden administration is designating 31 technology hubs touching 32 states and Puerto Rico to help spur innovation and create jo [+2558 chars]",
+            "summary": "The Biden administration on Monday designated technology hubs spread across states and Puerto Rico to help spur innovation and create jobs. The tech hubs are the result of a process that the Commerce Department launched in May to distribute a total of million in grants to cities. The million came from a billion authorization in last year s CHIPS and Science Act to stimulate investments in new technologies such as artificial intelligence quantum computing and biotech. The program formally the Regional Technology and Innovation Hub Program ties into the president s economic argument that people should be able to find good jobs where they live.",
+            "html_summary": "<ul><li>The Biden administration on Monday designated technology hubs spread across states and Puerto Rico to help spur innovation and create jobs.</li><li> The tech hubs are the result of a process that the Commerce Department launched in May to distribute a total of million in grants to cities.</li><li> The million came from a billion authorization in last year s CHIPS and Science Act to stimulate investments in new technologies such as artificial intelligence quantum computing and biotech.</li><li> The program formally the Regional Technology and Innovation Hub Program ties into the president s economic argument that people should be able to find good jobs where they live.</li></ul>",
+            "website_url": "https://apnews.com/article/biden-raimondo-tech-hubs-innovation-jobs-205ef4710451f2d37595739056c648ae"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "Atom Computing is the first to announce a 1,000+ qubit quantum computer",
+            "description": "A startup company has upped its qubit count by an order of magnitude in two years.",
+            "url": "/2023-10-23-https-arstechnica-com-science-2023-10-atom-computing-is-the-first-to-announce-a-1000-qubit-quantum-computer-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/atom_array-760x380.jpg",
+            "publishedAt": "2023-10-24T14:02:54Z",
+            "content": "Enlarge/ The qubits of the new hardware an array of individual atoms.0 with Today, a startup called Atom Computing announced that it has been doing internal testing of a 1,180 qubit quantum comp [+3176 chars]",
+            "summary": "Atom Computing announced that it has been doing internal testing of a qubit quantum computer and will be making it available to customers next year. The system represents a major step forward for the company which had only built one prior system based on neutral atom qubits a system that operated using only qubits. The error rate for individual qubit operations is high enough that it won t be possible to run an algorithm that relies on the full qubit count without it failing due to an error. But it does back up the company s claims that its technology can scale rapidly and provides a testbed for work on quantum error correction.",
+            "html_summary": "<ul><li>Atom Computing announced that it has been doing internal testing of a qubit quantum computer and will be making it available to customers next year.</li><li> The system represents a major step forward for the company which had only built one prior system based on neutral atom qubits a system that operated using only qubits.</li><li> The error rate for individual qubit operations is high enough that it won t be possible to run an algorithm that relies on the full qubit count without it failing due to an error.</li><li> But it does back up the company s claims that its technology can scale rapidly and provides a testbed for work on quantum error correction.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/10/atom-computing-is-the-first-to-announce-a-1000-qubit-quantum-computer/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Many robocallers dont pay fines, as FCC still lacks legal power to collect",
+            "description": "Fines go uncollected, and the company dissolves and moves assets elsewhere.",
+            "url": "/2023-10-23-https-arstechnica-com-tech-policy-2023-10-many-robocallers-dont-pay-fines-as-fcc-still-lacks-legal-power-to-collect-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-spam-call-760x380.jpg",
+            "publishedAt": "2023-10-24T19:17:37Z",
+            "content": "2 with The Federal Communications Commissions attempts to stop robocalls have failed to make a big dent in the problem, according to testimony at a Senate subcommittee hearing today.The FCC has [+4768 chars]",
+            "summary": "The FCC has been trying to address the problems but to date its methods have not succeeded in achieving a meaningful reduction in these unwanted and illegal calls. The FCC is unable to collect on most of the robocall fines it issues. Scammers and fly by night companies are stealing American families hard earned dollars using our telecom networks to do so and don t face any consequences. Congress must empower our regulators and enforcement agencies to ensure that when an individual or a company breaks the law they are held to account said FCC Enforcement Bureau Chief Loyaan Egal.",
+            "html_summary": "<ul><li>The FCC has been trying to address the problems but to date its methods have not succeeded in achieving a meaningful reduction in these unwanted and illegal calls.</li><li> The FCC is unable to collect on most of the robocall fines it issues.</li><li> Scammers and fly by night companies are stealing American families hard earned dollars using our telecom networks to do so and don t face any consequences.</li><li> Congress must empower our regulators and enforcement agencies to ensure that when an individual or a company breaks the law they are held to account said FCC Enforcement Bureau Chief Loyaan Egal.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/many-robocallers-dont-pay-fines-as-fcc-still-lacks-legal-power-to-collect/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Stanford researchers challenge OpenAI, others on AI transparency in new report. Rivian R1T is the first EV to win the longest offroad competition in the US. Reddit finally takes its API war where it belongs To AI companies. Search engine that scans billions of faces tries blocking kids from results. Biden names technology hubs for 32 states and Puerto Rico to help the industry and create jobs. Atom Computing is the first to announce a 1,000+ qubit quantum computer. Many robocallers dont pay fines, as FCC still lacks legal power to collect"
+}

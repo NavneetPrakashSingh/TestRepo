@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Microsoft reveals how hackers stole its email signing key... kind of | Makemetechie.com Summary",
+            "description": "A series of unfortunate and cascading mistakes allowed a Chinabacked hacking group to steal one of the keys to Microsofts email kingdom that granted near...",
+            "url": "/2023-09-08-microsoft-hacker-china-government-storm-0558",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HlS3iKCbwlQmDGl9UPXvIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/25fa35c8df85d6417aaaaaa65574ae3d",
+            "publishedAt": "2023-09-08T21:15:27Z",
+            "content": "A series of unfortunate and cascading mistakes allowed a Chinabacked hacking group to steal one of the keys to Microsofts email kingdom that granted near unfettered access to U.S. government inboxe [+6181 chars]",
+            "summary": "But while one mystery was solved, several important details remain unknown.To recap, Microsoft disclosed in July that hackers it calls Storm-0558, which it believes are backed by China, acquired an email signing key that Microsoft uses to secure consumer email accounts like Outlook.com. LastPass, too, had a major data breach of customers password vaults after hackers broke into the companys cloud storage by way of a compromised LastPass developers computer.How the Microsoft engineers account was compromised is an important detail that could help network defenders prevent a similar incident in the future. This consumer key signing system is kept in a highly isolated and restricted environment where internet access is blocked to defend against a range of cyberattacks. The hackers used that digital skeleton key to break into both the personal and enterprise email accounts of government officials hosted by Microsoft. In any case, the focus on an individual engineer seems unfair given the real culprits for the compromise are the network security policies that failed to block the (albeit highly skilled) intruder.What is clear is that cybersecurity is incredibly difficult, even for corporate mega-giants with near-limitless cash and resources. When reached for comment, Jeff Jones, senior director at Microsoft, told TechCrunch that the engineers account was compromised using token-stealing malware, but declined to comment further.Token-stealing malware, which can be delivered by phishing or malicious links, seek out session tokens on a victims computer. Software company CircleCi was also similarly compromised in January after the antivirus software the company was using failed to detect token-stealing malware on an engineers laptop.",
+            "html_summary": "<ul><li>But while one mystery was solved, several important details remain unknown.To recap, Microsoft disclosed in July that hackers it calls Storm-0558, which it believes are backed by China, “acquired” an email signing key that Microsoft uses to secure consumer email accounts like Outlook.com..</li><li>LastPass, too, had a major data breach of customers’ password vaults after hackers broke into the company’s cloud storage by way of a compromised LastPass developer’s computer.How the Microsoft engineer’s account was compromised is an important detail that could help network defenders prevent a similar incident in the future..</li><li>This consumer key signing system is kept in a “highly isolated and restricted” environment where internet access is blocked to defend against a range of cyberattacks..</li><li>The hackers used that digital skeleton key to break into both the personal and enterprise email accounts of government officials hosted by Microsoft..</li><li>In any case, the focus on an individual engineer seems unfair given the real culprits for the compromise are the network security policies that failed to block the (albeit highly skilled) intruder.What is clear is that cybersecurity is incredibly difficult, even for corporate mega-giants with near-limitless cash and resources..</li><li>When reached for comment, Jeff Jones, senior director at Microsoft, told TechCrunch that the engineer’s account was compromised using “token-stealing malware,” but declined to comment further.Token-stealing malware, which can be delivered by phishing or malicious links, seek out session tokens on a victim’s computer..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/08/microsoft-hacker-china-government-storm-0558/"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Juliana Liu, Yoonjung Seo",
+            "title": "South Koreas Hynix is looking into how its chips got into Huaweis controversial smartphone | Makemetechie.com Summary",
+            "description": "SK Hynix, a South Korean chipmaker, is investigating how two of its memory chips mysteriously ended up inside the Mate 60 Pro, a controversial smartphone launched by Huawei last week.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908115349-sk-hynix-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T05:31:12Z",
+            "content": "SK Hynix, a South Korean chipmaker, is investigating how two of its memory chips mysteriously ended up inside the Mate 60 Pro, a controversial smartphone launched by Huawei last week.Shares in Hyni [+2604 chars]",
+            "summary": "SK Hynix a South Korean chipmaker is investigating how two of its memory chips mysteriously ended up inside the Mate Pro a controversial smartphone launched by Huawei last week. The development is that there are restrictions on what SK HynIX can ship to China. TechInsights a research organization based in Canada specializing in semiconductors which took the phone apart for analysis. The big question is whether any laws were violated The development prompted two US congressmen Mike Gallagher and Michael McCaul to call on the White House to further restrict technology export sales to Chinese companies.",
+            "html_summary": "<ul><li>SK Hynix a South Korean chipmaker is investigating how two of its memory chips mysteriously ended up inside the Mate Pro a controversial smartphone launched by Huawei last week.</li><li> The development is that there are restrictions on what SK HynIX can ship to China.</li><li> TechInsights a research organization based in Canada specializing in semiconductors which took the phone apart for analysis.</li><li> The big question is whether any laws were violated The development prompted two US congressmen Mike Gallagher and Michael McCaul to call on the White House to further restrict technology export sales to Chinese companies.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/tech/south-korea-hynix-china-huawei-chips-hnk-intl/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kristina Sgueglia, Zoe Sottile",
+            "title": "Two new 9/11 victims identified, the first identifications in two years | Makemetechie.com Summary",
+            "description": "New York City officials have identified two more victims of the September 11 terror attacks on the World Trade Center, just days before the 22nd memorial anniversary of the attacks.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908133158-01-9-11-memorial-lights-090623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T18:38:08Z",
+            "content": "New York City officials have identified two more victims of the September 11 terror attacks on the World Trade Center, just days before the 22nd memorial anniversary of the attacks.The man and woma [+2264 chars]",
+            "summary": "New York City officials have identified two more victims of the September terror attacks on the World Trade Center just days before the nd memorial anniversary of the attacks. The man and woman identified are the th and th victims identified by the Office of the Chief Medical Examiner according to a news release from the mayor s office. The two were identified through advanced DNA testing of their remains says the release. Despite these advancements in DNA technology roughly of the victims or about people thought to have died in the disaster remain unidentified.",
+            "html_summary": "<ul><li>New York City officials have identified two more victims of the September terror attacks on the World Trade Center just days before the nd memorial anniversary of the attacks.</li><li> The man and woman identified are the th and th victims identified by the Office of the Chief Medical Examiner according to a news release from the mayor s office.</li><li> The two were identified through advanced DNA testing of their remains says the release.</li><li> Despite these advancements in DNA technology roughly of the victims or about people thought to have died in the disaster remain unidentified.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/us/september-11-new-victim-identifications/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brad Lendon",
+            "title": "Why Russias failures in Ukraine could be a win for North Korea | Makemetechie.com Summary",
+            "description": "Russias failures on the battlefield in Ukraine could turn into a win for North Korea.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907110540-kim-jong-un-putin-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T03:05:27Z",
+            "content": "Russias failures on the battlefield in Ukraine could turn into a win for North Korea.Thats the view of analysts who say a possible meeting between Kim Jong Un and Vladimir Putin could lead to Pyong [+5178 chars]",
+            "summary": "A possible meeting between Kim Jong Un and Vladimir Putin could lead to Pyongyang getting its hands on the sort of weapons two decades worth of United Nations sanctions have barred it from accessing. The US National Security Council claimed arms negotiations between Russia and North Korea were actively advancing after Russian Defense Minister Sergei Shoigu visited Pyongyang in July in an attempt to convince it to sell artillery ammunition to Moscow. Some questioned how quickly any North Korean ammo could get into the hands of Russian troops on the frontlines in Ukraine.",
+            "html_summary": "<ul><li>A possible meeting between Kim Jong Un and Vladimir Putin could lead to Pyongyang getting its hands on the sort of weapons two decades worth of United Nations sanctions have barred it from accessing.</li><li> The US National Security Council claimed arms negotiations between Russia and North Korea were actively advancing after Russian Defense Minister Sergei Shoigu visited Pyongyang in July in an attempt to convince it to sell artillery ammunition to Moscow.</li><li> Some questioned how quickly any North Korean ammo could get into the hands of Russian troops on the frontlines in Ukraine.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/07/asia/north-korea-russia-military-relations-intl-hnk-ml/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tami Luhby",
+            "title": "Those new IRS agents wont be going after regular Americans, agency reaffirms as Congress prepares for funding fight | Makemetechie.com Summary",
+            "description": "In its latest effort to show that it is putting its extra congressional funding to good use, the Internal Revenue Service said Friday that it is shifting its enforcement efforts to highincome earners, partnerships and big corporations.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908122935-01-irs-building-081822-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T18:59:50Z",
+            "content": "In its latest effort to show that it is putting its extra congressional funding to good use, the Internal Revenue Service said Friday that it is shifting its enforcement efforts to highincome earner [+3380 chars]",
+            "summary": "The IRS said Friday that it is shifting its enforcement efforts to high income earners partnerships and big corporations. The agency will also ensure that audit rates do not increase for those earning less than a year echoing President Joe Biden s pledge not to raise taxes on those below that threshold. The additional IRS funding contained in the Inflation Reduction Act has been a political football since Democrats pushed the legislation through Congress last year. The law provided the cash strapped agency with roughly billion over years to ramp up enforcement and improve customer service.",
+            "html_summary": "<ul><li>The IRS said Friday that it is shifting its enforcement efforts to high income earners partnerships and big corporations.</li><li> The agency will also ensure that audit rates do not increase for those earning less than a year echoing President Joe Biden s pledge not to raise taxes on those below that threshold.</li><li> The additional IRS funding contained in the Inflation Reduction Act has been a political football since Democrats pushed the legislation through Congress last year.</li><li> The law provided the cash strapped agency with roughly billion over years to ramp up enforcement and improve customer service.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/politics/irs-inflation-reduction-act-funding/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marshall Cohen",
+            "title": "Rudy Giuliani files new legal challenge to Georgia election interference case | Makemetechie.com Summary",
+            "description": "Rudy Giuliani has filed a new legal challenge against the criminal charges hes facing in Georgia over his attempts to subvert the 2020 presidential election.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230901180112-05-rudy-giuliani-082323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T23:15:05Z",
+            "content": "Rudy Giuliani has filed a new legal challenge against the criminal charges hes facing in Georgia over his attempts to subvert the 2020 presidential election.The former Trump attorney on Friday aske [+2578 chars]",
+            "summary": "Rudy Giuliani has filed a new legal challenge against the criminal charges he s facing in Georgia over his attempts to subvert the presidential election. The former Trump attorney on Friday asked Fulton County Superior Court Judge Scott McAfee to quash the indictment or at least to set a hearing on the matter. Giuliani argued in the filing that there were deficiencies in the indictment that render it invalid and that prosecutors are violating his rights against double jeopardy by how they structured the racketeering conspiracy allegations. He pleaded not guilty as have the other defendants in the sweeping case.",
+            "html_summary": "<ul><li>Rudy Giuliani has filed a new legal challenge against the criminal charges he s facing in Georgia over his attempts to subvert the presidential election.</li><li> The former Trump attorney on Friday asked Fulton County Superior Court Judge Scott McAfee to quash the indictment or at least to set a hearing on the matter.</li><li> Giuliani argued in the filing that there were deficiencies in the indictment that render it invalid and that prosecutors are violating his rights against double jeopardy by how they structured the racketeering conspiracy allegations.</li><li> He pleaded not guilty as have the other defendants in the sweeping case.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/politics/giuliani-georgia-election-interference-case-challenge/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Morrow",
+            "title": "Logistics startup rescinds dozens of job offers amid messy executive drama | Makemetechie.com Summary",
+            "description": "Flexport founder Ryan Petersen said his supply chain management firm would rescind dozens of job offers just days before many applicants were scheduled to start work  a move that followed a dramatic leadership shakeup this week.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908135056-ryan-petersen-flexport-ceo-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T18:58:10Z",
+            "content": "Flexport founder Ryan Petersen said his supply chain management firm would rescind dozens of job offers just days before many applicants were scheduled to start work a move that followed a dramatic l [+2475 chars]",
+            "summary": "Flexport founder Ryan Petersen said his supply chain management firm would rescind dozens of job offers just days before many applicants were scheduled to start work. The move that followed a dramatic leadership shakeup this week Petersen wrote on X formerly Twitter on Friday It s messed up But no way around it Petersen wrote that he had no idea why people were signed to join He said more than open job posts on Flexport s website would also be canceled while Flexport gets its house in order. A Flexport spokesperson said the company didn t have additional comment beyond Petersen s tweets.",
+            "html_summary": "<ul><li>Flexport founder Ryan Petersen said his supply chain management firm would rescind dozens of job offers just days before many applicants were scheduled to start work.</li><li> The move that followed a dramatic leadership shakeup this week Petersen wrote on X formerly Twitter on Friday It s messed up But no way around it Petersen wrote that he had no idea why people were signed to join He said more than open job posts on Flexport s website would also be canceled while Flexport gets its house in order.</li><li> A Flexport spokesperson said the company didn t have additional comment beyond Petersen s tweets.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/business/flexport-jobs-rescinded/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rachel Ramirez",
+            "title": "Lee adds to a growing trend of intense hurricanes powered by warmer oceans | Makemetechie.com Summary",
+            "description": "Hurricane Lee rapidly intensified at a historic pace into a Category 5 storm Thursday night, adding to a spate of extremely intense hurricanes this year and in recent decades which experts say is a symptom of the climate crisis.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908104321-weather-hurricane-lee-satellite-image-090823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T18:38:53Z",
+            "content": "Hurricane Lee rapidly intensified at a historic pace into a Category 5 storm Thursday night, adding to a spate of extremely intense hurricanes this year and in recent decades which experts say is a s [+3441 chars]",
+            "summary": "Hurricane Lee rapidly intensified at a historic pace into a Category storm Thursday night adding to a spate of extremely intense hurricanes this year and in recent decades which experts say is a symptom of the climate crisis. Lee is now the eighth Category storm in the North Atlantic since which means of Category hurricanes on record in the basin have occurred in the last seven years. This year alone Category storms have already appeared in all seven ocean basins where tropical cyclones form including Hurricane Jova which also rapidly strengthened earlier this week.",
+            "html_summary": "<ul><li>Hurricane Lee rapidly intensified at a historic pace into a Category storm Thursday night adding to a spate of extremely intense hurricanes this year and in recent decades which experts say is a symptom of the climate crisis.</li><li> Lee is now the eighth Category storm in the North Atlantic since which means of Category hurricanes on record in the basin have occurred in the last seven years.</li><li> This year alone Category storms have already appeared in all seven ocean basins where tropical cyclones form including Hurricane Jova which also rapidly strengthened earlier this week.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/weather/category-5-hurricane-frequency-climate/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy",
+            "title": "Google to require disclosures of AI content in political ads | Makemetechie.com Summary",
+            "description": "Starting in November, Google will require political advertisements to prominently disclose when they feature synthetic content  such as images generated by artificial intelligence  the tech giant announced this week.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908104403-person-using-phone-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T15:29:34Z",
+            "content": "Starting in November, Google will require political advertisements to prominently disclose when they feature synthetic content such as images generated by artificial intelligence the tech giant annou [+2989 chars]",
+            "summary": "Starting in November Google will require political advertisements to prominently disclose when they feature synthetic content such as images generated by artificial intelligence. The rule an addition to the company s political content policy that covers Google and YouTube will apply to image video and audio content. The policy update comes as campaign season for the US presidential election ramps up and as a number of countries around the world prepare for their own major elections the same year. Digital information integrity experts have raised alarms that these new AI tools could lead to a wave of election misinformation.",
+            "html_summary": "<ul><li>Starting in November Google will require political advertisements to prominently disclose when they feature synthetic content such as images generated by artificial intelligence.</li><li> The rule an addition to the company s political content policy that covers Google and YouTube will apply to image video and audio content.</li><li> The policy update comes as campaign season for the US presidential election ramps up and as a number of countries around the world prepare for their own major elections the same year.</li><li> Digital information integrity experts have raised alarms that these new AI tools could lead to a wave of election misinformation.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/tech/google-political-ad-policy-ai-content/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zenebou Sylla, Ashley R. Williams",
+            "title": "Mother charged nearly 40 years after her newborn baby was found dead in remote woods | Makemetechie.com Summary",
+            "description": "A woman was charged in her newborn girls death nearly 40 years after the abandoned baby was found dead in a remote wooded area in New Jersey, according to the Morris County Prosecutors Office.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230909142555-01-morris-county-baby-murder-presser.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-09T18:45:21Z",
+            "content": "A woman was charged in her newborn girls death nearly 40 years after the abandoned baby was found dead in a remote wooded area in New Jersey, according to the Morris County Prosecutors Office.On Ch [+2645 chars]",
+            "summary": "A woman was charged in her newborn girl s death nearly years after the abandoned baby was found dead in a remote wooded area in New Jersey. On Christmas Eve officers discovered the baby s body wrapped in a towel inside a plastic bag off a road in Mendham Township after two boys reported finding her that morning. The medical examiner determined the infant whose death was ruled a homicide was alive at birth and died less than hours later. The girl whose identity was unknown was named Mary after being baptized by a reverend of St Joseph Church.",
+            "html_summary": "<ul><li>A woman was charged in her newborn girl s death nearly years after the abandoned baby was found dead in a remote wooded area in New Jersey.</li><li> On Christmas Eve officers discovered the baby s body wrapped in a towel inside a plastic bag off a road in Mendham Township after two boys reported finding her that morning.</li><li> The medical examiner determined the infant whose death was ruled a homicide was alive at birth and died less than hours later.</li><li> The girl whose identity was unknown was named Mary after being baptized by a reverend of St Joseph Church.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/09/us/new-jersey-mother-charged-newborn-death/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kayla Tausche",
+            "title": "White House completes $50 million revamp of highsecurity Situation Room | Makemetechie.com Summary",
+            "description": "The White House Situation Room, the highsecurity complex beneath the West Wing where presidents watch history unfold and receive topsecret intelligence, has undergone a muchneeded makeover for the first time in 15 years.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908102237-01-white-house-situation-room-revamp.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T09:31:53Z",
+            "content": "The White House Situation Room, the highsecurity complex beneath the West Wing where presidents watch history unfold and receive topsecret intelligence, has undergone a muchneeded makeover for the [+4464 chars]",
+            "summary": "The White House Situation Room the high security complex beneath the West Wing where presidents watch history unfold and receive top secret intelligence has undergone a much needed makeover for the first time in years. The yearlong gut renovation saw the ground dug out five feet to remove concrete and cables the walls stripped to the studs and the entire room refitted with enhanced security and technology. President Joe Biden s jaw dropped when he saw it this week alongside the senior White House officials involved in the renovation including those from the WHSR National Security Council and White House IT.",
+            "html_summary": "<ul><li>The White House Situation Room the high security complex beneath the West Wing where presidents watch history unfold and receive top secret intelligence has undergone a much needed makeover for the first time in years.</li><li> The yearlong gut renovation saw the ground dug out five feet to remove concrete and cables the walls stripped to the studs and the entire room refitted with enhanced security and technology.</li><li> President Joe Biden s jaw dropped when he saw it this week alongside the senior White House officials involved in the renovation including those from the WHSR National Security Council and White House IT.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/politics/situation-room-makeover-white-house/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Krystal Hur",
+            "title": "The case for owning stocks over bonds is crumbling | Makemetechie.com Summary",
+            "description": "The allure of owning stocks over less risky investments is at its lowest level in decades, according to one measure, despite the equity markets race upward this year.",
+            "url": "/2023-09-08-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907161534-premarket-stocks-trading-stocks-over-bonds.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-08T11:54:10Z",
+            "content": "A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign upright here. You can listen to an audio version of the newsletter by clicking the s [+4260 chars]",
+            "summary": "The allure of owning stocks over less risky investments is at its lowest level in decades according to one measure. Despite the equity market s race upward this year the benchmark S P index has gained this year pushed higher by Wall Street s obsession with artificial intelligence. Hot economic data has helped push Treasury yields higher in recent months Bonds have become coveted additions to investors portfolios thanks to the Federal Reserve s historic pace of interest rate hikes it began last March to tame runaway inflation. Seema Shah says she recommends that investors weigh increasing their positions in high quality bonds considering that the economic outlook remains foggy.",
+            "html_summary": "<ul><li>The allure of owning stocks over less risky investments is at its lowest level in decades according to one measure.</li><li> Despite the equity market s race upward this year the benchmark S P index has gained this year pushed higher by Wall Street s obsession with artificial intelligence.</li><li> Hot economic data has helped push Treasury yields higher in recent months Bonds have become coveted additions to investors portfolios thanks to the Federal Reserve s historic pace of interest rate hikes it began last March to tame runaway inflation.</li><li> Seema Shah says she recommends that investors weigh increasing their positions in high quality bonds considering that the economic outlook remains foggy.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/09/08/investing/premarket-stocks-trading-equities-over-bonds/index.html"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Microsoft reveals how hackers stole its email signing key... kind of | Makemetechie.com Summary. South Koreas Hynix is looking into how its chips got into Huaweis controversial smartphone | Makemetechie.com Summary. Two new 9/11 victims identified, the first identifications in two years | Makemetechie.com Summary. Why Russias failures in Ukraine could be a win for North Korea | Makemetechie.com Summary. Those new IRS agents wont be going after regular Americans, agency reaffirms as Congress prepares for funding fight | Makemetechie.com Summary. Rudy Giuliani files new legal challenge to Georgia election interference case | Makemetechie.com Summary. Logistics startup rescinds dozens of job offers amid messy executive drama | Makemetechie.com Summary. Lee adds to a growing trend of intense hurricanes powered by warmer oceans | Makemetechie.com Summary. Google to require disclosures of AI content in political ads | Makemetechie.com Summary. Mother charged nearly 40 years after her newborn baby was found dead in remote woods | Makemetechie.com Summary. White House completes $50 million revamp of highsecurity Situation Room | Makemetechie.com Summary. The case for owning stocks over bonds is crumbling | Makemetechie.com Summary"
+}

@@ -1,0 +1,119 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "California suspends Cruise robotaxis after car dragged pedestrian 20 feet | Makemetechie.com Summary",
+            "description": "Horrifying hitandrun triggers California suspension of Cruise robotaxis.",
+            "url": "/2023-10-24-https-arstechnica-com-tech-policy-2023-10-california-suspends-cruises-robotaxis-after-pedestrian-was-critically-injured-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1590511704-760x380.jpg",
+            "publishedAt": "2023-10-25T14:34:16Z",
+            "content": "58 with Less than three months after the California Public Utilities Commission approved robotaxiservice Cruises plan to provide aroundtheclock driverless rides to passengers in San Francisco,  [+4113 chars]",
+            "summary": "The California Department of Motor Vehicles DMV has shut down Cruise s driverless operations in the state. The suspension followed two notable accidents involving Cruise s robotaxis. In August one person was injured after a Cruise vehicle crashed into a fire truck. And earlier this month a pedestrian using a crosswalk was found in critical condition after a driver of another vehicle struck the pedestrian and threw her into the path of an oncoming Cruise robotaxi. This hit and run incident is still being investigated. Cruise promised that its teams have immediately begun working on potential enhancements to the AV s response to rare circumstances.",
+            "html_summary": "<ul><li>The California Department of Motor Vehicles DMV has shut down Cruise s driverless operations in the state.</li><li> The suspension followed two notable accidents involving Cruise s robotaxis.</li><li> In August one person was injured after a Cruise vehicle crashed into a fire truck.</li><li> And earlier this month a pedestrian using a crosswalk was found in critical condition after a driver of another vehicle struck the pedestrian and threw her into the path of an oncoming Cruise robotaxi.</li><li> This hit and run incident is still being investigated.</li><li> Cruise promised that its teams have immediately begun working on potential enhancements to the AV s response to rare circumstances.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/california-suspends-cruises-robotaxis-after-pedestrian-was-critically-injured/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Karoli Hindriks",
+            "title": "Antiimmigration policy is killing European tech | Makemetechie.com Summary",
+            "description": "Governments need to create environments where founders and their teams can imagine building lasting and successful businesses.",
+            "url": "/2023-10-24-https-techcrunch-com-2023-10-17-anti-immigration-policy-is-killing-european-tech-",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-474416023.jpg?resize=1200,800",
+            "publishedAt": "2023-10-25T11:26:44Z",
+            "content": "Increases in immigration to Europe since the pandemic have given politicians ample material for election campaigns. Despite illegal immigration making up just a fraction of net migration to Europe, r [+6495 chars]",
+            "summary": "The tech industry thrives on talent; further limiting our access to it is a disservice.Governments need to create environments where founders and their teams can imagine building lasting and successful businesses. Initiatives like the Startup Visa program, Estonias e-Residency, and the Digital Nomad Visa (now adopted by multiple European states) have collectively cultivated a tech landscape attracting global investment and expertise. Earlier this year, neobank Monzo moved its operations to San Francisco, followed by British chip giant Arm, which moved its primary listings to New York in another blow to London.Estonia serves as a prime example of how embracing international talent can drive an entire sector. Tech relies on international talent and cutting off our talent supply is a self-inflicted wound. Last year, the tech sector was responsible for 8% of GBP in Estonia and 10% of all the employment taxes.Estonias sustained growth isnt by chance; it stems from intentional policies promoting innovation and immigration. The U.K. is witnessing a growing trend of founders starting out in the U.K. and then establishing their businesses elsewhere in Europe, where ecosystems in countries like France and Germany have matured considerably over the past few years. Additionally, the U.K. barred international students from moving with their families, further threatening the talent pipeline for British startups.Anyone who has worked in a European startup will tell you its very unlikely youll be on a team with everyone from the same country.",
+            "html_summary": "<ul><li>The tech industry thrives on talent; further limiting our access to it is a disservice.Governments need to create environments where founders and their teams can imagine building lasting and successful businesses..</li><li>Initiatives like the Startup Visa program, Estonia’s e-Residency, and the Digital Nomad Visa (now adopted by multiple European states) have collectively cultivated a tech landscape attracting global investment and expertise..</li><li>Earlier this year, neobank Monzo moved its operations to San Francisco, followed by British chip giant Arm, which moved its primary listings to New York in another blow to London.Estonia serves as a prime example of how embracing international talent can drive an entire sector..</li><li>Tech relies on international talent and cutting off our talent supply is a self-inflicted wound..</li><li>Last year, the tech sector was responsible for 8% of GBP in Estonia and 10% of all the employment taxes.Estonia’s sustained growth isn’t by chance; it stems from intentional policies promoting innovation and immigration..</li><li>The U.K. is witnessing a growing trend of founders starting out in the U.K. and then establishing their businesses elsewhere in Europe, where ecosystems in countries like France and Germany have matured considerably over the past few years..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/17/anti-immigration-policy-is-killing-european-tech/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "How to make almost any computer a modernday PLATO terminal | Makemetechie.com Summary",
+            "description": "A dive into the past, whether youre using a vintage or new computer.",
+            "url": "/2023-10-24-https-arstechnica-com-gadgets-2023-10-how-to-make-almost-any-computer-a-modern-day-plato-terminal-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/plato-terminal-emulation-760x380.jpg",
+            "publishedAt": "2023-10-25T11:30:09Z",
+            "content": "1 with In our previous deep dive into the groundbreaking world of PLATO, we pointed out the technological advances the system heralded in graphical displays, sound, and user interface; the trailbla [+4208 chars]",
+            "summary": "IRATA ONLINE and Cyber both operate a server running an emulated PLATO environment with many of the same software components but the specific mix of lessons and applications. Both instances are descendants of the original In Control Data Corporation CDC CEO Lawrence Perlman sold thePLATO trademark and some of its courseware to the Roach Organization which eventually renamed itself PLatO Learning and is today called Edmentum. Because the CYBIS image that both services started with is directly descended from the original PLATAO they can trace their family tree back to the original via CYB IS. IRATA OnLINE has an explicit retrocomputing focus and we ll look a little later in this article at how it specifically caters to period vintage computers.",
+            "html_summary": "<ul><li>IRATA ONLINE and Cyber both operate a server running an emulated PLATO environment with many of the same software components but the specific mix of lessons and applications.</li><li> Both instances are descendants of the original In Control Data Corporation CDC CEO Lawrence Perlman sold thePLATO trademark and some of its courseware to the Roach Organization which eventually renamed itself PLatO Learning and is today called Edmentum.</li><li> Because the CYBIS image that both services started with is directly descended from the original PLATAO they can trace their family tree back to the original via CYB IS.</li><li> IRATA OnLINE has an explicit retrocomputing focus and we ll look a little later in this article at how it specifically caters to period vintage computers.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/10/how-to-make-almost-any-computer-a-modern-day-plato-terminal/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Search engine that scans billions of faces tries blocking kids from results | Makemetechie.com Summary",
+            "description": "PimEyes is still perfecting its AI agedetection system.",
+            "url": "/2023-10-24-https-arstechnica-com-tech-policy-2023-10-search-engine-that-scans-billions-of-faces-tries-blocking-kids-from-results-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1439774778-760x380.jpg",
+            "publishedAt": "2023-10-24T18:04:11Z",
+            "content": "28 with A search engine that uses facial recognition to help people scan billions of images to find their photos strewn across the Internet has officially banned searches of minors, The New York Ti [+2677 chars]",
+            "summary": "PimEyes CEO Giorgi Gobronidze said the company has implemented new AI age detection technology to detect and block searches of minors. This update is due to privacy concerns that images of children might be used by some individuals with a twisted moral compass and values such as pedophiles child predators. The update is intended to address privacy concerns and enhance platform safety but also blocks parents from using the tech to find photos of their children online. Online human rights organizations will be permitted to search for photos of minors moving forward.",
+            "html_summary": "<ul><li>PimEyes CEO Giorgi Gobronidze said the company has implemented new AI age detection technology to detect and block searches of minors.</li><li> This update is due to privacy concerns that images of children might be used by some individuals with a twisted moral compass and values such as pedophiles child predators.</li><li> The update is intended to address privacy concerns and enhance platform safety but also blocks parents from using the tech to find photos of their children online.</li><li> Online human rights organizations will be permitted to search for photos of minors moving forward.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/search-engine-that-scans-billions-of-faces-tries-blocking-kids-from-results/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "University of Chicago researchers seek to poison AI art generators with Nightshade | Makemetechie.com Summary",
+            "description": "Altered images could destroy AI model training efforts that scrape art without consent.",
+            "url": "/2023-10-24-https-arstechnica-com-information-technology-2023-10-university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/robot_poison_hero-760x380.jpg",
+            "publishedAt": "2023-10-25T21:21:23Z",
+            "content": "20 with On Friday, a team of researchers at the University of Chicago released a research paper outlining Nightshade, a data poisoning technique aimed at disrupting the training process for AI mo [+3970 chars]",
+            "summary": "Nightshade is a data poisoning technique aimed at disrupting the training process for AI models. The goal is to help visual artists and publishers protect their work from being used to train generative AI image synthesis models such as Midjourney DALL E and Stable Diffusion. The open source poison pill tool as the University of Chicago s press department calls it alters images in ways invisible to the human eye that can corrupt an AI model s training process. It tricks AI models into misidentifying objects within the images. In tests researchers used the tool to alter images of dogs in a way that led anAI model to generate a cat when prompted to produce a dog.",
+            "html_summary": "<ul><li>Nightshade is a data poisoning technique aimed at disrupting the training process for AI models.</li><li> The goal is to help visual artists and publishers protect their work from being used to train generative AI image synthesis models such as Midjourney DALL E and Stable Diffusion.</li><li> The open source poison pill tool as the University of Chicago s press department calls it alters images in ways invisible to the human eye that can corrupt an AI model s training process.</li><li> It tricks AI models into misidentifying objects within the images.</li><li> In tests researchers used the tool to alter images of dogs in a way that led anAI model to generate a cat when prompted to produce a dog.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "Atom Computing is the first to announce a 1,000+ qubit quantum computer | Makemetechie.com Summary",
+            "description": "A startup company has upped its qubit count by an order of magnitude in two years.",
+            "url": "/2023-10-24-https-arstechnica-com-science-2023-10-atom-computing-is-the-first-to-announce-a-1000-qubit-quantum-computer-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/atom_array-760x380.jpg",
+            "publishedAt": "2023-10-24T14:02:54Z",
+            "content": "Enlarge/ The qubits of the new hardware an array of individual atoms.0 with Today, a startup called Atom Computing announced that it has been doing internal testing of a 1,180 qubit quantum comp [+3176 chars]",
+            "summary": "Atom Computing announced that it has been doing internal testing of a qubit quantum computer and will be making it available to customers next year. The system represents a major step forward for the company which had only built one prior system based on neutral atom qubits a system that operated using only qubits. The error rate for individual qubit operations is high enough that it won t be possible to run an algorithm that relies on the full qubit count without it failing due to an error. But it does back up the company s claims that its technology can scale rapidly and provides a testbed for work on quantum error correction.",
+            "html_summary": "<ul><li>Atom Computing announced that it has been doing internal testing of a qubit quantum computer and will be making it available to customers next year.</li><li> The system represents a major step forward for the company which had only built one prior system based on neutral atom qubits a system that operated using only qubits.</li><li> The error rate for individual qubit operations is high enough that it won t be possible to run an algorithm that relies on the full qubit count without it failing due to an error.</li><li> But it does back up the company s claims that its technology can scale rapidly and provides a testbed for work on quantum error correction.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/10/atom-computing-is-the-first-to-announce-a-1000-qubit-quantum-computer/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Many robocallers dont pay fines, as FCC still lacks legal power to collect | Makemetechie.com Summary",
+            "description": "Fines go uncollected, and the company dissolves and moves assets elsewhere.",
+            "url": "/2023-10-24-https-arstechnica-com-tech-policy-2023-10-many-robocallers-dont-pay-fines-as-fcc-still-lacks-legal-power-to-collect-",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-spam-call-760x380.jpg",
+            "publishedAt": "2023-10-24T19:17:37Z",
+            "content": "2 with The Federal Communications Commissions attempts to stop robocalls have failed to make a big dent in the problem, according to testimony at a Senate subcommittee hearing today.The FCC has [+4768 chars]",
+            "summary": "The FCC has been trying to address the problems but to date its methods have not succeeded in achieving a meaningful reduction in these unwanted and illegal calls. The FCC is unable to collect on most of the robocall fines it issues. Scammers and fly by night companies are stealing American families hard earned dollars using our telecom networks to do so and don t face any consequences. Congress must empower our regulators and enforcement agencies to ensure that when an individual or a company breaks the law they are held to account said FCC Enforcement Bureau Chief Loyaan Egal.",
+            "html_summary": "<ul><li>The FCC has been trying to address the problems but to date its methods have not succeeded in achieving a meaningful reduction in these unwanted and illegal calls.</li><li> The FCC is unable to collect on most of the robocall fines it issues.</li><li> Scammers and fly by night companies are stealing American families hard earned dollars using our telecom networks to do so and don t face any consequences.</li><li> Congress must empower our regulators and enforcement agencies to ensure that when an individual or a company breaks the law they are held to account said FCC Enforcement Bureau Chief Loyaan Egal.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/many-robocallers-dont-pay-fines-as-fcc-still-lacks-legal-power-to-collect/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. California suspends Cruise robotaxis after car dragged pedestrian 20 feet | Makemetechie.com Summary. Antiimmigration policy is killing European tech | Makemetechie.com Summary. How to make almost any computer a modernday PLATO terminal | Makemetechie.com Summary. Search engine that scans billions of faces tries blocking kids from results | Makemetechie.com Summary. University of Chicago researchers seek to poison AI art generators with Nightshade | Makemetechie.com Summary. Atom Computing is the first to announce a 1,000+ qubit quantum computer | Makemetechie.com Summary. Many robocallers dont pay fines, as FCC still lacks legal power to collect | Makemetechie.com Summary"
+}

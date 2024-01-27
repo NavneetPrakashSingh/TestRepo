@@ -1,0 +1,44 @@
+name: Cron
+on:
+#  push:
+#    branches:
+#      - 'main'
+  schedule:
+    - cron: "56 10 * * *"
+jobs:
+  news-generation-tool:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: nschloe/action-cached-lfs-checkout@v1
+#      - uses: actions/checkout@v2
+#        with:
+#          lfs: true
+#      - name: Pull LFS objects
+#        run: git lfs checkout
+      - name: Cache dependency # caching dependency will make our build faster.
+        uses: actions/cache@v2 # for more info checkout pip section documentation at https://github.com/actions/cache
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Setup python environment # setting python environment to 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # if you want multiple python version run just use matrix strategy in job config. See the documentation of GitHub Actions
+      - name: Check Python version # checking the python version to see if 3.x is installed.
+        run: python --version
+      - name: Install requirements # install application requirements
+        run: pip install -r requirements.txt
+      - name: Generates daily news
+        run: python manage.py generate
+      - name: Tweet hourly news
+        run: python manage.py tweet
+      - name: Commit
+        run: |
+          git config --global user.name 'NavneetPrakashSingh'
+          git config --global user.email 'navneet_prakash_singh@live.com'
+          git add .
+          git commit -m "Generate today's data"
+          git push

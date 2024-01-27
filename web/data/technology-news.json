@@ -1,0 +1,242 @@
+[
+    {
+        "source": {
+            "id": null,
+            "name": "Outside"
+        },
+        "author": "Outside Magazine",
+        "title": "Velos Predictions for 2024 Narrower Bars, 1X on the Road, and Defined Gravel Bike Categories  Outside Magazine",
+        "description": "",
+        "url": "/2023-12-27-https-velo-outsideonline-com-road-road-gear-velos-predictions-for-2024-narrower-bars-1x-on-the-road-and-gravel-bike-categories-",
+        "urlToImage": null,
+        "publishedAt": "2023-12-26T03:29:00Z",
+        "content": "",
+        "summary": "Bikes already in this spectrum include the BMC Kaius, Canyon Grail, Specialized Crux (despite the round tube sets, it is seen as a fast bike), and others.Then comes the adventure bikes, which offer wider clearance, more upright body positioning, and a greater array of mounts. Im pulling every ounce of clairvoyance I have in my body to make predictions about what road and gravel bike tech trends well see in 2024.Some of these predictions come from my reading of the tea leaves, particularly the ones about new groupsets in 2024. The real change will be that well start to see 1x drivetrains on off-the-shelf road bikes.Sram Apex AXS  a volume drivetrain for off-the-shelf bikes  is only available with a 1x drivetrain. But for people not looking for marginal gains on their bike, using a 1x drivetrain makes a whole more sense.I still think that 1x drivetrains will stand as an outlier on pro race bikes, though Classified might have something to say about that. These are the gravel bikes for people who are just looking to get out there and possibly load up their bikes once a year for some overnight camping.What happens at the entry level? I propose two delineations: performance gravel bikes, and adventure gravel bikes. I never said these delineations would roll off the tongue!Folks looking to compete at increasingly competitive gravel events look more and more for bikes with low weight, just enough tire clearance to fit a 40 or 45 mm tire with room for mud, and some form of aero advantage.",
+        "html_summary": "<ul><li>Bikes already in this spectrum include the BMC Kaius, Canyon Grail, Specialized Crux (despite the round tube sets, it is seen as a fast bike), and others.Then comes the adventure bikes, which offer wider clearance, more upright body positioning, and a greater array of mounts..</li><li>I’m pulling every ounce of clairvoyance I have in my body to make predictions about what road and gravel bike tech trends we’ll see in 2024.Some of these predictions come from my reading of the tea leaves, particularly the ones about new groupsets in 2024..</li><li>The real change will be that we’ll start to see 1x drivetrains on off-the-shelf road bikes.Sram Apex AXS – a volume drivetrain for off-the-shelf bikes – is only available with a 1x drivetrain..</li><li>But for people not looking for marginal gains on their bike, using a 1x drivetrain makes a whole more sense.I still think that 1x drivetrains will stand as an outlier on pro race bikes, though Classified might have something to say about that..</li><li>These are the gravel bikes for people who are just looking to get out there and possibly load up their bikes once a year for some overnight camping.What happens at the entry level?.</li><li>I propose two delineations: performance gravel bikes, and adventure gravel bikes..</li></ul>",
+        "website_url": "https://velo.outsideonline.com/road/road-gear/velos-predictions-for-2024-narrower-bars-1x-on-the-road-and-gravel-bike-categories/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hackaday"
+        },
+        "author": "Lewin Day",
+        "title": "Audio Synthesizer Hooked Up With ChatGPT Interface  Hackaday",
+        "description": "ChatGPT is being asked to handle all kinds of weird tasks, from determining whether written text was created by an AI, to answering homework questions, and much more. Its good at some of the",
+        "url": "/2023-12-27-https-hackaday-com-2023-12-25-audio-synthesizer-hooked-up-with-chatgpt-interface-",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2023/12/Audio-synthesizer-with-ChatGPT-interface-implemented-on-RP2040-1-46-screenshot-e1703243196628.png",
+        "publishedAt": "2023-12-26T03:00:00Z",
+        "content": "ChatGPT is being asked to handle all kinds of weird tasks, from determining whether written text was created by an AI, to answering homework questions, and much more. Its good at some of these tasks [+1274 chars]",
+        "summary": "Please upload the sheet music youd like me to analyze.Me: Can you generate new compositions based on the sheet music you analyze?ChatGPT: Yes, I can generate new compositions based on the sheet music you provide. Way easier to copy and paste lol.artificialnot artistic intelligenceMe: If I upload sheet music, can you analyze it?ChatGPT: Yes, I can analyze sheet music if you upload an image of it. If you trained a large language model, but got it to digest sheet music instead of written texts could it learn to write music in various genres and styles? Skip to 1:52.Im interested to see someone merge the analog synth with fine-tuning like we see in this tutorial: https://huggingface.co/blog/juancopi81/using-hugging-face-to-train-a-gpt-2-model-for-musiThis and the midi keyboard synth a few days ago are all available on the instructor (Hunter Adams) YouTube channel. Feel free to upload the sheet music youd like to use as a basis for a new composition.Will be interesting to try out! After analyzing the sheet music, I can create variations, develop new themes inspired by it, or compose a piece in a similar style. What if ChatGPT could do something musical?They built a system that, at the press of a button, would query ChatGPT for a 10-note melody in a given musical key.",
+        "html_summary": "<ul><li>Please upload the sheet music you’d like me to analyze.Me: Can you generate new compositions based on the sheet music you analyze?ChatGPT: Yes, I can generate new compositions based on the sheet music you provide..</li><li>Way easier to copy and paste lol.artificial…not artistic intelligenceMe: If I upload sheet music, can you analyze it?ChatGPT: Yes, I can analyze sheet music if you upload an image of it..</li><li>If you trained a large language model, but got it to digest sheet music instead of written texts… could it learn to write music in various genres and styles?.</li><li>Skip to 1:52.I’m interested to see someone merge the analog synth with fine-tuning like we see in this tutorial: https://huggingface.co/blog/juancopi81/using-hugging-face-to-train-a-gpt-2-model-for-musiThis and the midi keyboard synth a few days ago are all available on the instructor (Hunter Adams) YouTube channel..</li><li>Feel free to upload the sheet music you’d like to use as a basis for a new composition.Will be interesting to try out!.</li><li>After analyzing the sheet music, I can create variations, develop new themes inspired by it, or compose a piece in a similar style..</li></ul>",
+        "website_url": "https://hackaday.com/2023/12/25/audio-synthesizer-hooked-up-with-chatgpt-interface/"
+    },
+    {
+        "source": {
+            "id": "ign",
+            "name": "IGN"
+        },
+        "author": "Shailyn Cotten",
+        "title": "The 7 Best Ships in Starfield  IGN",
+        "description": "",
+        "url": "/2023-12-27-https-www-ign-com-articles-the-7-best-ships-in-starfield",
+        "urlToImage": "https://assets-prd.ignimgs.com/2023/11/10/best-ships-in-starfield-1699638231332.png?width=1280",
+        "publishedAt": "2023-12-26T01:16:49Z",
+        "content": "Investing in your next ship is no small endeavor in Starfield. Each one costs a hefty amount of credits, not to mention the time and effort poured into leveling up your pilot skill to fly certain shi [+6556 chars]",
+        "summary": "On the flip side, if exploration and crafting is more your thing, what you'll want is a lot of cargo capacity.No matter what you're looking for in a ship, this list has the best of what Starfield has to offer for every playstyle. Still, if you've gotten your piloting skill up to Level 3 and are in the market for an upgrade, you can't go wrong with the Aegis.Curious about what ship parts come with this ship, or what it's other stats are? Better weapons, better shields, and better fuel capacity, all without sacrificing the lightweight that the Razorleaf provides.However, while the Aegis has more to offer with crew capacity, allowing you to bring up to five crewmembers along, it's cargo is on the teeny side. These are seven of the best ships you can get in Starfield.It can be tough to find a good ship in Starfield early-game when you don't have a lot of credits or piloting skill. The Stronghold has a grav drive that packs a punch, and shields even stronger than the Silent Runner.It's cargo capacity isn't quite as generous as some other ships, but it allows six crewmembers on board, which is a solid plus. There you can find all the ships in Starfield, plus a handy list of every ship you can get for free. Each one costs a hefty amount of credits, not to mention the time and effort poured into leveling up your pilot skill to fly certain ship classes.",
+        "html_summary": "<ul><li>On the flip side, if exploration and crafting is more your thing, what you'll want is a lot of cargo capacity.No matter what you're looking for in a ship, this list has the best of what Starfield has to offer for every playstyle..</li><li>Still, if you've gotten your piloting skill up to Level 3 and are in the market for an upgrade, you can't go wrong with the Aegis.Curious about what ship parts come with this ship, or what it's other stats are?.</li><li>Better weapons, better shields, and better fuel capacity, all without sacrificing the lightweight that the Razorleaf provides.However, while the Aegis has more to offer with crew capacity, allowing you to bring up to five crewmembers along, it's cargo is on the teeny side..</li><li>These are seven of the best ships you can get in Starfield.It can be tough to find a good ship in Starfield early-game when you don't have a lot of credits or piloting skill..</li><li>The Stronghold has a grav drive that packs a punch, and shields even stronger than the Silent Runner.It's cargo capacity isn't quite as generous as some other ships, but it allows six crewmembers on board, which is a solid plus..</li><li>There you can find all the ships in Starfield, plus a handy list of every ship you can get for free..</li></ul>",
+        "website_url": "https://www.ign.com/articles/the-7-best-ships-in-starfield"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Digital Trends"
+        },
+        "author": "Trevor Mogg",
+        "title": "Apple is about to begin mass shipments of Vision Pro, report says  Digital Trends",
+        "description": "Apple will begin mass shipments of its Vision Pro headset next week before launching it in late January or early February, a new report claims.",
+        "url": "/2023-12-27-https-www-digitaltrends-com-computing-apple-mass-shipments-of-vision-pro-",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/12/vision-pro.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2023-12-26T01:05:29Z",
+        "content": "AppleApple will begin mass shipments of its Vision Pro mixedreality headset in the first week of January before launching it in Apple Stores in late January or early February, oftreliable suppl [+1996 chars]",
+        "summary": "Its impossible to say yet, but one factor that may deter many potential customers is the hefty $3,499 price tag. Apple is also rumored to be developing a cheaper version, but it could be a while before it hits stores.",
+        "html_summary": "<ul><li>It’s impossible to say yet, but one factor that may deter many potential customers is the hefty $3,499 price tag..</li></ul>",
+        "website_url": "https://www.digitaltrends.com/computing/apple-mass-shipments-of-vision-pro/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Dexerto"
+        },
+        "author": "Jeremy Gan",
+        "title": "Blizzard reportedly partnering with Chinese publisher NetEase again after Microsoft acquisition  Dexerto",
+        "description": "Blizzard is reportedly renewing their partnership with NetEase in 2024 to open up Chinese servers again after their Microsoft acquisition.",
+        "url": "/2023-12-27-https-www-dexerto-com-gaming-blizzard-reportedly-partnering-with-chinese-publisher-netease-again-after-microsoft-acquisition-2445755-",
+        "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/12/25/Blizzard-NetEase-header-img.jpg",
+        "publishedAt": "2023-12-25T23:59:09Z",
+        "content": "Blizzard is reportedly renewing their partnership with Chinese game publisher NetEase once again to bring back local servers after their acquisition by Microsoft.In November 2022, Blizzard announce [+1910 chars]",
+        "summary": "Jeremy mainly covers esports such as CS:GO, Valorant, Overwatch, League of Legends, and Dota 2, but he also leans into gaming and entertainment news as well. Subscribe to our newsletter for the latest updates on Esports, Gaming and more.2023 has been a long and complicated year for Blizzard. He studied at RMIT University in Melbourne, Australia, and graduated with a Bachelors in Journalism. You can contact Jeremy at jeremy.gan@dexerto.com or on Twitter @Jer_Gan",
+        "html_summary": "<ul><li>Jeremy mainly covers esports such as CS:GO, Valorant, Overwatch, League of Legends, and Dota 2, but he also leans into gaming and entertainment news as well..</li><li>Subscribe to our newsletter for the latest updates on Esports, Gaming and more.2023 has been a long and complicated year for Blizzard..</li><li>He studied at RMIT University in Melbourne, Australia, and graduated with a Bachelors in Journalism..</li></ul>",
+        "website_url": "https://www.dexerto.com/gaming/blizzard-reportedly-partnering-with-chinese-publisher-netease-again-after-microsoft-acquisition-2445755/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PhoneArena"
+        },
+        "author": "Alan Friedman",
+        "title": "A list of the top five bestselling phones in the U.S. during October contains one surprise  PhoneArena",
+        "description": "Counterpoint released a list of the five topselling phones in the U.S. and this list had one surprise guest.",
+        "url": "/2023-12-27-https-www-phonearena-com-news-top-five-best-selling-phones-in-us-during-october-one-big-surprise_id153802",
+        "urlToImage": "https://m-cdn.phonearena.com/images/article/153802-wide-two_1200/A-list-of-the-top-five-best-selling-phones-in-the-U.S.-during-October-contains-one-surprise.jpg",
+        "publishedAt": "2023-12-25T22:17:42Z",
+        "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox.",
+        "summary": " Enjoy the hottest mobile tech storylines, delivered straight to your inbox. Things that are NOT allowed:",
+        "html_summary": "<ul><li> Enjoy the hottest mobile tech storylines, delivered straight to your inbox..</li></ul>",
+        "website_url": "https://www.phonearena.com/news/top-five-best-selling-phones-in-us-during-october-one-big-surprise_id153802"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Giantbomb.com"
+        },
+        "author": "Marino - Brad Lynch",
+        "title": "Evil Unos Top 10 Games of 2023  Giant Bomb",
+        "description": "Professional ranker of all things evil, The Dark Orders Evil Uno returns to Giant Bomb to rank some games of varying levels of nefariousness.",
+        "url": "/2023-12-27-https-www-giantbomb-com-articles-evil-unos-top-10-games-of-2023-1100-6338-",
+        "urlToImage": "https://www.giantbomb.com/a/uploads/screen_kubrick/0/1992/3527997-3136163464-intro.jpg",
+        "publishedAt": "2023-12-25T22:00:00Z",
+        "content": "Hello, this is Evil Uno.What city am I in again? Who knows? Im writing this from an airport lounge. This is appropriate because this is where Ive done most of my gaming in 2023, not specifically th [+7428 chars]",
+        "summary": "I dont know if thats really the case, but I think the game really made the best out of the first iterations map, essentially tripling it in size and filling it up with wild new puzzles and new mechanics. A really refreshing game in a sea of 30+ hour games.I thought this was going to be my game of the year. Its the game I am slowly chipping away at on my flights and Im sure Ill still be playing it well into 2024.I love deductive games and my favorite one this year was Chants of Sennaar. Everything in this game is alien in nature: the creatures, the ambient noises, and the very core puzzle mechanic that the game is based on. This game may go down as my favorite survival horror game of all time. Its one of the only games on this list that I truly completed in its entirety.I was a bit leery how this game would turn out, to be honest with you Giant Bomb readers. The game also utilizes full motion video in ways Ive never seen before; theres a level midway through that is predominantly FMV and I am never EVER going to forget it.",
+        "html_summary": "<ul><li>I don’t know if that’s really the case, but I think the game really made the best out of the first iteration’s map, essentially tripling it in size and filling it up with wild new puzzles and new mechanics..</li><li>A really refreshing game in a sea of 30+ hour games.I thought this was going to be my game of the year..</li><li>It’s the game I am slowly chipping away at on my flights and I’m sure I’ll still be playing it well into 2024.I love deductive games and my favorite one this year was Chants of Sennaar..</li><li>Everything in this game is alien in nature: the creatures, the ambient noises, and the very core puzzle mechanic that the game is based on..</li><li>This game may go down as my favorite survival horror game of all time..</li><li>It’s one of the only games on this list that I truly completed in its entirety.I was a bit leery how this game would turn out, to be honest with you Giant Bomb readers..</li></ul>",
+        "website_url": "https://www.giantbomb.com/articles/evil-unos-top-10-games-of-2023/1100-6338/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ComicBook.com"
+        },
+        "author": "Tyler Fischer",
+        "title": "GTA 6 Report Reveals How Long the Game May Be  ComicBook.com",
+        "description": "GTA 6 wont be as long as Red Dead Redemption 2.",
+        "url": "/2023-12-27-https-comicbook-com-gaming-news-gta-6-grand-theft-auto-vi-rockstar-games-campaign-length-how-long-",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/2023/12/16/b72181a4-3f03-4658-844b-5395746420a1/aw2.png?width=1200",
+        "publishedAt": "2023-12-25T21:44:00Z",
+        "content": "A new Grand Theft Auto VI report sheds light on how long GTA 6 will be when it releases in 2025. To this end, it sounds like the length of GTA 6 could be a similar length to GTA 5, which means nowher [+1970 chars]",
+        "summary": "According to the YouTuber, they don't have any information on how long the game is, which is not surprising because this information would not even be known by developers. Now, if you played GTA 5 you will know it is about 30 to 50 hours long, depending on how much of the side content you complete. According to the YouTuber, he predicts the game will be about 35 to 40 hours long. To this end, it sounds like the length of GTA 6 could be a similar length to GTA 5, which means nowhere near as long as Red Dead Redemption 2. That said, a completionist playthrough sets you back roughly 80 hours. Add the bulk of main side content and you are looking at least 80 hours. For those that don't know: Red Dead Redemption 2 is at minimum 50 hours long.",
+        "html_summary": "<ul><li>According to the YouTuber, they don't have any information on how long the game is, which is not surprising because this information would not even be known by developers..</li><li>Now, if you played GTA 5 you will know it is about 30 to 50 hours long, depending on how much of the side content you complete..</li><li>According to the YouTuber, he predicts the game will be about 35 to 40 hours long..</li><li>To this end, it sounds like the length of GTA 6 could be a similar length to GTA 5, which means nowhere near as long as Red Dead Redemption 2..</li><li>That said, a completionist playthrough sets you back roughly 80 hours..</li><li>Add the bulk of main side content and you are looking at least 80 hours..</li></ul>",
+        "website_url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-campaign-length-how-long/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "David Phelan",
+        "title": "Apple iOS 17.3 Release Date Awesome iPhone Upgrade Coming Soon  Forbes",
+        "description": "The next big iOS update is on its way and includes a brilliant allnew feature which cant come soon enough.",
+        "url": "/2023-12-27-https-www-forbes-com-sites-davidphelan-2023-12-25-ios-173-apple-is-about-to-launch-a-stunning-new-iphone-upgrade-",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/643adef6e09a915d266b19cc/0x0.jpg?format=jpg&crop=1023,682,x0,y19,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2023-12-25T21:26:53Z",
+        "content": "December 25 update below, plus updated release date projections. This post was first published on December 23, 2023.The next iPhone software release will include something all owners will welcome  [+6275 chars]",
+        "summary": "Among the new features is something called Stolen Device Protection.Its bad enough that your iPhone could be stolen, but thieves who have got hold of your passcode, say by reading it over your shoulder in a bar, could do more. This post was first published on December 23, 2023.The next iPhone software release will include something all owners will welcome: an extra layer of security to protect you if your phone is stolen by a thief who has your passcode. This could slip to the following week or things could move if the holidays slows down the beta testing, perhaps even to early February, though I think thats less likely. This YouTuber says the expectation for the timing of the next beta releases could be as late as January 9 or 10, which has led me to believe the general release will happen later in the month or even in FebruaryIll keep you apprised if this changes. Remember that you can lock individual items in the Notes app, and obviously make sure you have a separate password for that.Thieves will still try to steal your iPhone, but this new addition should mean its tougher for them to steal your digital life as well.December 24 update. He goes on to say he thinks there could be another beta release this week, Christmas week. With it, you cant take certain Apple Cash and Savings actions in Wallet, use payment methods saved in Safari, use the iPhone to set up a new device or apply for a new Apple Cardas well as the reassuring restrictions mentioned above.",
+        "html_summary": "<ul><li>Among the new features is something called Stolen Device Protection.It’s bad enough that your iPhone could be stolen, but thieves who have got hold of your passcode, say by reading it over your shoulder in a bar, could do more..</li><li>This post was first published on December 23, 2023.The next iPhone software release will include something all owners will welcome: an extra layer of security to protect you if your phone is stolen by a thief who has your passcode..</li><li>This could slip to the following week or things could move if the holidays slows down the beta testing, perhaps even to early February, though I think that’s less likely..</li><li>This YouTuber says the expectation for the timing of the next beta releases could be as late as January 9 or 10, which has led me to believe the general release will happen later in the month or even in February—I’ll keep you apprised if this changes..</li><li>Remember that you can lock individual items in the Notes app, and obviously make sure you have a separate password for that.Thieves will still try to steal your iPhone, but this new addition should mean it’s tougher for them to steal your digital life as well.December 24 update..</li><li>He goes on to say he thinks there could be another beta release this week, Christmas week..</li></ul>",
+        "website_url": "https://www.forbes.com/sites/davidphelan/2023/12/25/ios-173-apple-is-about-to-launch-a-stunning-new-iphone-upgrade/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ScienceAlert"
+        },
+        "author": "Rebecca Dyer",
+        "title": "New MindReading AI Translates Thoughts Directly From Brainwaves  Without Implants  ScienceAlert",
+        "description": "A worldfirst, noninvasive AI system can turn silent thoughts into text while only requiring users to wear a snugfitting cap.",
+        "url": "/2023-12-27-https-www-sciencealert-com-new-mind-reading-ai-translates-thoughts-directly-from-brainwaves-without-implants",
+        "urlToImage": "https://www.sciencealert.com/images/2023/08/BrainGlow.jpg",
+        "publishedAt": "2023-12-25T20:01:34Z",
+        "content": "A worldfirst, noninvasive AI system can turn silent thoughts into text while only requiring users to wear a snugfitting cap.The Australian researchers who developed the technology, called DeWave [+3995 chars]",
+        "summary": "\"\"We think this is because when the brain processes these words, semantically similar words might produce similar brain wave patterns,\" says first author Yiqun Duan, a computer scientist from UTS. \"Given the rapid advancement of Large Language Models, similar encoding methods that bridge brain activity with natural language deserve increased attention. \"The translation of thoughts directly from the brain is a valuable yet challenging endeavor that warrants significant continued efforts,\" the team writes. Nouns, on the other hand, tended to be translated as pairs of words that mean the same thing rather than exact translations, like \"the man\" instead of \"the author. \"It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding,\" explains Lin. \"The integration with large language models is also opening new frontiers in neuroscience and AI. \"Despite the challenges, our model yields meaningful results, aligning keywords and forming similar sentence structures.",
+        "html_summary": "<ul><li>\"\"We think this is because when the brain processes these words, semantically similar words might produce similar brain wave patterns,\" says first author Yiqun Duan, a computer scientist from UTS..</li><li>\"Given the rapid advancement of Large Language Models, similar encoding methods that bridge brain activity with natural language deserve increased attention..</li><li>\"The translation of thoughts directly from the brain is a valuable yet challenging endeavor that warrants significant continued efforts,\" the team writes..</li><li>Nouns, on the other hand, tended to be translated as pairs of words that mean the same thing rather than exact translations, like \"the man\" instead of \"the author..</li><li>\"It is the first to incorporate discrete encoding techniques in the brain-to-text translation process, introducing an innovative approach to neural decoding,\" explains Lin..</li><li>\"The integration with large language models is also opening new frontiers in neuroscience and AI..</li></ul>",
+        "website_url": "https://www.sciencealert.com/new-mind-reading-ai-translates-thoughts-directly-from-brainwaves-without-implants"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Digital Trends"
+        },
+        "author": "Mark Jansen",
+        "title": "Have Android 14? Heres how to easily customize your lock screen  Digital Trends",
+        "description": "Android 14s lock screen is fully customizable, so you can make some pretty big changes to let it match your needs. Heres how to customize your lock screen.",
+        "url": "/2023-12-27-https-www-digitaltrends-com-mobile-android-14-how-to-customize-your-lock-screen-",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/10/google-pixel-8-pro-review-9.jpeg?resize=1200%2C630&p=1",
+        "publishedAt": "2023-12-25T20:00:38Z",
+        "content": "Smartphone users unlock their phones, on average, an incredible 150 times a day. That means youre going to see your lock screen an awful lot, so it should absolutely be something you like looking at [+2919 chars]",
+        "summary": "Here's how to customize your lock screen in Android 14.Opening your lock screen customization menu is easy, and you don't need to go much further than your lock screen itself.Step 1: Open your phone and long-press on the display. Select Left shortcut and Right shortcut and select the apps or functions you want in both of those areas.Step 6: Show notifications on the lock screen is the box you need to untick if you don't want any notifications on your lock screen.That's not all, either. Select More wallpapers to find more options.Step 5: Now, you can change the two app shortcuts in the bottom corners of your lock screen by choosing Shortcuts. That means you're going to see your lock screen an awful lot, so it should absolutely be something you like looking at. You can even change exactly what shows up on there, so you can keep private information private. Smartphone users unlock their phones, on average, an incredible 150 times a day.",
+        "html_summary": "<ul><li>Here's how to customize your lock screen in Android 14.Opening your lock screen customization menu is easy, and you don't need to go much further than your lock screen itself.Step 1: Open your phone and long-press on the display..</li><li>Select Left shortcut and Right shortcut and select the apps or functions you want in both of those areas.Step 6: Show notifications on the lock screen is the box you need to untick if you don't want any notifications on your lock screen.That's not all, either..</li><li>Select More wallpapers to find more options.Step 5: Now, you can change the two app shortcuts in the bottom corners of your lock screen by choosing Shortcuts..</li><li>That means you're going to see your lock screen an awful lot, so it should absolutely be something you like looking at..</li><li>You can even change exactly what shows up on there, so you can keep private information private..</li></ul>",
+        "website_url": "https://www.digitaltrends.com/mobile/android-14-how-to-customize-your-lock-screen/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jalopnik"
+        },
+        "author": "Daniel Golson",
+        "title": "If You Love Fonts And Graphic Design, Go To A Classic Car Show  Jalopnik",
+        "description": "While there are still many good modern examples, vintage cars had incredible typography and unique badges",
+        "url": "/2023-12-27-https-jalopnik-com-the-best-fonts-and-graphic-designs-classic-car-shows-1851109730",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/380b62c7eaa590df833c37156f66c203.png",
+        "publishedAt": "2023-12-25T20:00:00Z",
+        "content": "It can be hard to convince the noncar enthusiasts in your life to spend a few weekend hours at a car show, especially if its one that starts before 9 a.m. (even I have trouble with that). As enticin [+984 chars]",
+        "summary": "Let us know in the comments what your favorite automotive badges are, and if you can successfully convince your loved ones to enjoy cars through a different lens.2 / 20One of the most iconic supercars of all time has one of the most iconic badge designs of all time. This is my favorite era of Ferrari design and fonts, exemplified by this cool badge.9 / 20Everyone knows that gold badges are just better, and this Alfa Giulietta Sprint Speciale is another great example of a cursive font. Nearly every car in Lamborghinis history has a name and/or design thats inspired by bull fighting, so the Miuras nameplate script got a pair of horns on the M and a curling tail at the end of the badge. Vintage cars are rich with incredible badges, fonts and logo designs, with every era and country of origin typically easy to deduce just by reading the nameplates. It can be hard to convince the non-car enthusiasts in your life to spend a few weekend hours at a car show, especially if its one that starts before 9 a.m. (even I have trouble with that). Marchal logo is one of the greatest of all time.19 / 20Another awesome logo is the bird used by Moto Guzzi. Unlike those of modern trucks, both the Panda name and the 4x4 are in an approachable, simple font.13 / 20This Panda is the Country Club edition, which has these great side graphics.",
+        "html_summary": "<ul><li>Let us know in the comments what your favorite automotive badges are, and if you can successfully convince your loved ones to enjoy cars through a different lens.2 / 20One of the most iconic supercars of all time has one of the most iconic badge designs of all time..</li><li>This is my favorite era of Ferrari design and fonts, exemplified by this cool badge.9 / 20Everyone knows that gold badges are just better, and this Alfa Giulietta Sprint Speciale is another great example of a cursive font..</li><li>Nearly every car in Lamborghini’s history has a name and/or design that’s inspired by bull fighting, so the Miura’s nameplate script got a pair of horns on the M and a curling tail at the end of the badge..</li><li>Vintage cars are rich with incredible badges, fonts and logo designs, with every era and country of origin typically easy to deduce just by reading the nameplates..</li><li>It can be hard to convince the non-car enthusiasts in your life to spend a few weekend hours at a car show, especially if it’s one that starts before 9 a.m. (even I have trouble with that)..</li><li>Marchal logo is one of the greatest of all time.19 / 20Another awesome logo is the bird used by Moto Guzzi..</li></ul>",
+        "website_url": "https://jalopnik.com/the-best-fonts-and-graphic-designs-classic-car-shows-1851109730"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BGR"
+        },
+        "author": "Chris Smith, Chris Smith",
+        "title": "iPhone 15 Pro Max melted a thirdparty USBC cable while charging  BGR",
+        "description": "iPhone 15 Pro Max owner found the USBC port melted a cheap thirdparty cable, proving you shouldnt buy cheap cables for your smartphones.",
+        "url": "/2023-12-27-https-bgr-com-tech-iphone-15-pro-max-melted-a-generic-usb-c-cable-and-it-should-be-a-lesson-for-everyone-",
+        "urlToImage": "https://bgr.com/wp-content/uploads/2023/09/iPhone-15-3.jpg?quality=82&strip=all",
+        "publishedAt": "2023-12-25T19:22:00Z",
+        "content": "Before the EU forced Apple to replace its Lightning connector with USBC, there was a lot of talk about why the iPhone did not get USBC until the iPhone 15 rolled out. It was said that Apple preferr [+4081 chars]",
+        "summary": "I assumed it was the phone, doesnt the cable only conduct the power supplied by the plug or pulled by the phone?Many people replying to the post that went viral on Reddit speculated the charging cable was to blame. Id also use any cables coming from well-known accessory makers that have been making MFi products for previous iPhones.But Id never rely on a very cheap cable, the generic type that might be super affordable on Amazon. The handset was charging overnight as the owner was sleeping.In a different reply, the user said it was a long charging cable for convenience. As youre about to see, an iPhone 15 Pro Max owner discovered that the USB-C port melted a generic USB-C cable, rendering the cable inoperable.This should be a lesson to everybody out there. Some chastised NoisilyMarvellous for using a cheap generic USB-C cable to charge the handset.In a different update, the Redditor said they were able to pull the melted plug from the USB-C port. But the entire inside is blackened, and most importantly, it doesnt charge with a cable charger anymore.The good news in all of this is that the iPhone 15 Pro Max, like any iPhone launched since the iPhone X, supports wireless charging. Its a generic cable from Amazon, the user said in a different comment.The person also revealed in the other comments they were not doing anything with the iPhone 15 Pro Max at the time of the incident.",
+        "html_summary": "<ul><li>“I assumed it was the phone, doesn’t the cable only conduct the power supplied by the plug or pulled by the phone?”Many people replying to the post that went viral on Reddit speculated the charging cable was to blame..</li><li>I’d also use any cables coming from well-known accessory makers that have been making MFi products for previous iPhones.But I’d never rely on a very cheap cable, the generic type that might be super affordable on Amazon..</li><li>The handset was charging overnight as the owner was sleeping.In a different reply, the user said it was a long charging cable for convenience..</li><li>As you’re about to see, an iPhone 15 Pro Max owner discovered that the USB-C port melted a generic USB-C cable, rendering the cable inoperable.This should be a lesson to everybody out there..</li><li>Some chastised NoisilyMarvellous for using a cheap generic USB-C cable to charge the handset.In a different update, the Redditor said they were able to pull the melted plug from the USB-C port..</li><li>But “the entire inside is blackened, and most importantly, it doesn’t charge with a cable charger anymore.”The good news in all of this is that the iPhone 15 Pro Max, like any iPhone launched since the iPhone X, supports wireless charging..</li></ul>",
+        "website_url": "https://bgr.com/tech/iphone-15-pro-max-melted-a-generic-usb-c-cable-and-it-should-be-a-lesson-for-everyone/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GameRant"
+        },
+        "author": "Dalton Cooper",
+        "title": "GameStop is Selling a 2023 Xbox Console Exclusive for Next to Nothing  GameRant | Makemetechie.com Summary",
+        "description": "Gaming retailer GameStop is currently selling a 2023 Xbox Series X/S console exclusive game for next to nothing.",
+        "url": "/2023-12-27-https-gamerant-com-gamestop-cheap-games-redfall-",
+        "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/gamestop-logo-white-background.jpg",
+        "publishedAt": "2023-12-25T18:59:00Z",
+        "content": "Highlights GameStop is currently offering a massive discount on the Xbox exclusive game Redfall, selling it for just $4.37 instead of $69.99.  Redfall received mixed reviews and fa [+3023 chars]",
+        "summary": "Having written thousands of game reviews and articles over the course of his career, Dalton considers himself a video game historian and strives to play as many games as possible. Gaming retailer GameStop is currently selling a 2023 Xbox Series X/S console exclusive game for next to nothing.GameStop is selling Xbox console exclusive game Redfall for just $4.37, down from its usual $69.99 asking price. The latest reports suggest that the Blade game won't be out until 2027 at the earliest, though, so it may be some time before fans have the chance to play a new game from Arkane. Xbox Game Pass has hundreds of titles on offer, including Arkane's better-received projects like the 2017 Prey game and Dishonored 2.Redfall was a rare miss for Arkane, but many are expecting the studio to redeem itself with future projects. This wont affect the price you pay and helps us offer the best product recommendations.By subscribing, you agree to our Privacy Policy and may receive occasional deal communications; you can unsubscribe anytime.Dalton Cooper is an editor for Game Rant who has been writing about video games professionally since 2011. After all, a monthly Xbox Game Pass subscription doesn't cost much more than this physical copy of Redfall, and it gives users access to much more than just one game. Even though Redfall earned mixed reviews and many were disappointed with the game, $4.37 is quite the steal.",
+        "html_summary": "<ul><li>Having written thousands of game reviews and articles over the course of his career, Dalton considers himself a video game historian and strives to play as many games as possible..</li><li>Gaming retailer GameStop is currently selling a 2023 Xbox Series X/S console exclusive game for next to nothing.GameStop is selling Xbox console exclusive game Redfall for just $4.37, down from its usual $69.99 asking price..</li><li>The latest reports suggest that the Blade game won't be out until 2027 at the earliest, though, so it may be some time before fans have the chance to play a new game from Arkane..</li><li>Xbox Game Pass has hundreds of titles on offer, including Arkane's better-received projects like the 2017 Prey game and Dishonored 2.Redfall was a rare miss for Arkane, but many are expecting the studio to redeem itself with future projects..</li><li>This won’t affect the price you pay and helps us offer the best product recommendations.By subscribing, you agree to our Privacy Policy and may receive occasional deal communications; you can unsubscribe anytime.Dalton Cooper is an editor for Game Rant who has been writing about video games professionally since 2011..</li><li>After all, a monthly Xbox Game Pass subscription doesn't cost much more than this physical copy of Redfall, and it gives users access to much more than just one game..</li></ul>",
+        "website_url": "https://gamerant.com/gamestop-cheap-games-redfall/"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Siliconera"
+        },
+        "author": "Kite Stenbuck",
+        "title": "KOSMOS From Xenosaga Will Appear in Tales of the Rays  Siliconera | Makemetechie.com Summary",
+        "description": "",
+        "url": "/2023-12-27-https-www-siliconera-com-kos-mos-from-xenosaga-will-appear-in-tales-of-the-rays-",
+        "urlToImage": "https://www.siliconera.com/wp-content/uploads/2023/12/kos-mos-featured-in-xenosaga-crossover-for-tales-of-the-rays.png",
+        "publishedAt": "2023-12-25T18:30:00Z",
+        "content": "Bandai Namco revealed new crossover content from Xenosaga for the Japanese mobile game Tales of the Rays. The events main highlight will be the inperson appearance of KOSMOS, the combat android wh [+1242 chars]",
+        "summary": "Mariko Suzuki, the original Japanese voice actress for KOS-MOS, will also return to reprise her role in Tales of the Rays.The crossover will also provide new Xenosaga-themed costumes for several existing Tales Of series characters. The company also held two crossover events with Slayers, adding characters like Lina Inverse and Naga the Serpent.KOS-MOS and the Xenosaga-themed character costumes will appear in Tales of the Rays, available on Android and iOS devices exclusively in Japan. The events main highlight will be the in-person appearance of KOS-MOS, the combat android who is also the series main star. Bandai Namco revealed new crossover content from Xenosaga for the Japanese mobile game Tales of the Rays. Tales of Berserias protagonist Velvet will get a T-elos costume, while the deuteragonist Laphicet will receive a chaos outfit. The game used to have a global English version that launched in July 2017, but Bandai Namco shut it down in May 2018. Bandai Namco had previously launched in-house collaborations with God Eater and Scarlet Nexus.",
+        "html_summary": "<ul><li>Mariko Suzuki, the original Japanese voice actress for KOS-MOS, will also return to reprise her role in Tales of the Rays.The crossover will also provide new Xenosaga-themed costumes for several existing Tales Of series characters..</li><li>The company also held two crossover events with Slayers, adding characters like Lina Inverse and Naga the Serpent.KOS-MOS and the Xenosaga-themed character costumes will appear in Tales of the Rays, available on Android and iOS devices exclusively in Japan..</li><li>The event’s main highlight will be the in-person appearance of KOS-MOS, the combat android who is also the series’ main star..</li><li>Bandai Namco revealed new crossover content from Xenosaga for the Japanese mobile game Tales of the Rays..</li><li>Tales of Berseria‘s protagonist Velvet will get a T-elos costume, while the deuteragonist Laphicet will receive a chaos outfit..</li><li>The game used to have a global English version that launched in July 2017, but Bandai Namco shut it down in May 2018..</li></ul>",
+        "website_url": "https://www.siliconera.com/kos-mos-from-xenosaga-will-appear-in-tales-of-the-rays/"
+    }
+]

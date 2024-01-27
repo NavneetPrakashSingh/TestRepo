@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Airalo locks in $60M to expand its eSIMbased global roaming marketplace | TechCrunch",
+            "description": "Travel is back on the agenda after a Covid19 hiatus, and today a mobile startup out of Canada is announcing a healthy round of funding to capitalize on that. Airalo  which uses softwarebased eSIM connectivity to provide a wide range of lowercost mobile da",
+            "url": "/2023-07-31-airalo-locks-in-60m-to-expand-its-esim-based-global-roaming-marketplace",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/Regional-eSIMs.jpg?resize=1200,754",
+            "publishedAt": "2023-07-31T14:26:49Z",
+            "content": "Travel is back on the agenda after a Covid19 hiatus, and today a mobile startup out of Canada is announcing a healthy round of funding to capitalize on that. Airalo  which uses softwarebased eSIM  [+7077 chars]",
+            "summary": "Its for the same reason that a brand might sell through many retailers while also selling goods directly through its own-branded storefronts: If a customer is already looking somewhere else for a good mobile roaming plan before traveling, chances are the carrier has already lost that customer. (Indeed, stitching together data connectivity as an eSIM provider is not that far in concept from privacy-focused VPNs, which is something Truphone was already building for business customers, and may have been one of the interesting services that caught the eye of its Russian oligarch former owners. )On that note, the idea of expanding what else an eSIM company can be providing to its customers beyond basic data is something that it seems Airalo is also taking on board, too. Airalo has also built technology that measures demand and corresponding costs and pricing for these different eSIM packages.If you are asking yourself, why would a carrier work with a third party like Airalo, which might compete directly against it? eSIM offerings promise an alternative: more granular offerings at smaller pricing increments.Currently Airalo says that it has 5.1 million customers buying its eSIM products. We have complete confidence in Airalos ability to expand its user community, strengthen its diverse team, and introduce its latest product Airalo Partners, a groundbreaking connectivity solution for global businesses and organizations. Overall, for consumers its a huge win, since it means mobile operators have to be a lot more creative and competitive to win business.And thats where Airalo has been showing promise.",
+            "html_summary": "<ul><li>It’s for the same reason that a brand might sell through many retailers while also selling goods directly through its own-branded storefronts: If a customer is already looking somewhere else for a good mobile roaming plan before traveling, chances are the carrier has already lost that customer.</li><li>(Indeed, stitching together data connectivity as an eSIM provider is not that far in concept from privacy-focused VPNs, which is something Truphone was already building for business customers, and may have been one of the interesting services that caught the eye of its Russian oligarch former owners.</li><li>)On that note, the idea of expanding what else an eSIM company can be providing to its customers beyond basic data is something that it seems Airalo is also taking on board, too.</li><li>Airalo has also built technology that measures demand and corresponding costs and pricing for these different eSIM packages.If you are asking yourself, why would a carrier work with a third party like Airalo, which might compete directly against it?</li><li>eSIM offerings promise an alternative: more granular offerings at smaller pricing increments.Currently Airalo says that it has 5.1 million customers buying its eSIM products.</li><li>“We have complete confidence in Airalo’s ability to expand its user community, strengthen its diverse team, and introduce its latest product Airalo Partners, a groundbreaking connectivity solution for global businesses and organizations.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/31/airalo-locks-in-60m-to-expand-its-esim-based-global-roaming-marketplace/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Timothy B. Lee And Sean Trott",
+            "title": "A jargonfree explanation of how AI large language models work",
+            "description": "A jargonfree explanation of how AI large language models workarstechnica.com",
+            "url": "/2023-07-31-a-jargon-free-explanation-of-how-ai-large-language-models-work",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/LLM-cat-vector-space-1-760x380.jpg",
+            "publishedAt": "2023-07-31T11:04:17Z",
+            "content": "8 with When ChatGPT was introduced last fall, it sent shockwaves through the technology industry and the larger world. Machine learning researchers had been experimenting with large language models [+2877 chars]",
+            "summary": "ChatGPT was introduced last fall it sent shockwaves through the technology industry and the larger world. Machine learning researchers had been experimenting with large language models LLMs for a few years by that point but the general public had not been paying close attention. Today almost everyone has heard about LLMs and tens of millions of people have tried them out. But not very many people understand how they work. We ll aim to explain what s known about the inner workings of these models without resorting to technical jargon or advanced math.",
+            "html_summary": "<ul><li>ChatGPT was introduced last fall it sent shockwaves through the technology industry and the larger world</li><li> Machine learning researchers had been experimenting with large language models LLMs for a few years by that point but the general public had not been paying close attention</li><li> Today almost everyone has heard about LLMs and tens of millions of people have tried them out</li><li> But not very many people understand how they work</li><li> We ll aim to explain what s known about the inner workings of these models without resorting to technical jargon or advanced math</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Topline Pro grabs $12M in new capital to help home service businesses get discovered | TechCrunch",
+            "description": "The company has a social media hub for automated posts and ads and an AIenabled Super Assistant for digitizing customer interactions.",
+            "url": "/2023-07-31-topline-pro-12m-home-service-enterprise",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/ToplinePro_Product_Overview_2nd.png?resize=1200,624",
+            "publishedAt": "2023-07-31T13:02:24Z",
+            "content": "Homes are always in need of repair, providing home service businesses with no shortage of opportunity. However, managing inbound requests with actually doing the work and taking payments can be diffi [+4163 chars]",
+            "summary": "Topline Pro infuses generative AI into its platform to manage and scale businesses like general contractors and landscapers. Today Topline announced million in new Series A capital Forerunner Ventures led the investment along with support from Bonfire Ventures TMV and BBG Ventures In all the company has raised million. The new cash infusion will enable Topline the opportunity to double the number of employees again in the areas of engineering product customer success marketing and sales from now to the end of the year. The company also expanded its product offerings including a social media hub where text and image based social content could go on autopilot while AI generated Google Ads could be launched in less than seconds.",
+            "html_summary": "<ul><li>Topline Pro infuses generative AI into its platform to manage and scale businesses like general contractors and landscapers</li><li> Today Topline announced million in new Series A capital Forerunner Ventures led the investment along with support from Bonfire Ventures TMV and BBG Ventures In all the company has raised million</li><li> The new cash infusion will enable Topline the opportunity to double the number of employees again in the areas of engineering product customer success marketing and sales from now to the end of the year</li><li> The company also expanded its product offerings including a social media hub where text and image based social content could go on autopilot while AI generated Google Ads could be launched in less than seconds</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/31/topline-pro-12m-home-service-enterprise/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Airalo locks in $60M to expand its eSIMbased global roaming marketplace | TechCrunch. A jargonfree explanation of how AI large language models work. Topline Pro grabs $12M in new capital to help home service businesses get discovered | TechCrunch"
+}

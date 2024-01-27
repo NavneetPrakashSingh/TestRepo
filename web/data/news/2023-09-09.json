@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carrie Andrews",
+            "title": "Fintech faces its reckoning Its only a matter of time until the house of cards collapses | Makemetechie.com Summary",
+            "description": "The fintech business models that wooed consumers look increasingly tenuous. Its only a matter of time until the house of cards collapses.",
+            "url": "/2023-09-09-are-fintech-business-models-sustainable",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1440554393.jpg?resize=1200,800",
+            "publishedAt": "2023-09-09T13:30:06Z",
+            "content": "The 2008 Global Financial Crisis was easily the most destructive economic crisis since the Great Depression. And yet, its not without a touch of irony that without it, we wouldnt have a thriving star [+10913 chars]",
+            "summary": "When inflation spikes, so too do the interest rates as central banks try to dampen economic activity (and thus, demand).By itself, this presents a serious dilemma for fintechs wholly or primarily reliant on interchange fees. These are, essentially, the commissions paid to card issuers, payment networks, and banks whenever a consumer buys something.Many fintech companies rely on interchange fees to varying degrees, although in each case, they account for a significant part of their income. And now the business models that won consumers affection look increasingly tenuous.Its only a matter of time until the house of cards collapses.For countless fintech providers, the main source of revenue comes from interchange fees. While their revenue potential is capped as a fixed percentage of their customers purchasing activity, their borrowing costs can spiral dangerously out of control.This issue is compounded further by the fact that, in many cases, these fintechs arent keeping the interchange fees for themselves. And yet, its not without a touch of irony that without it, we wouldnt have a thriving startup ecosystem.In an attempt to reboot the global economy, central banks slashed interest rates to almost zero, resulting in an era of cheap money.This resulted in two things. As some of the most successful fintech companies prove, the best way to drive volume is to offer a customer experience thats unambiguously better than the legacy alternatives.Ultimately, fintechs need to remember that they are, first and foremost, technology companies. This means were unlikely to see low central bank rates  the secret sauce that allowed these fundamentally precarious business models to last so long  for several years to come.",
+            "html_summary": "<ul><li>When inflation spikes, so too do the interest rates as central banks try to dampen economic activity (and thus, demand).By itself, this presents a serious dilemma for fintechs wholly or primarily reliant on interchange fees..</li><li>These are, essentially, the commissions paid to card issuers, payment networks, and banks whenever a consumer buys something.Many fintech companies rely on interchange fees to varying degrees, although in each case, they account for a significant part of their income..</li><li>And now the business models that won consumers’ affection look increasingly tenuous.It’s only a matter of time until the house of cards collapses.For countless fintech providers, the main source of revenue comes from interchange fees..</li><li>While their revenue potential is capped as a fixed percentage of their customers’ purchasing activity, their borrowing costs can spiral dangerously out of control.This issue is compounded further by the fact that, in many cases, these fintechs aren’t keeping the interchange fees for themselves..</li><li>And yet, it’s not without a touch of irony that without it, we wouldn’t have a thriving startup ecosystem.In an attempt to reboot the global economy, central banks slashed interest rates to almost zero, resulting in an era of cheap money.This resulted in two things..</li><li>As some of the most successful fintech companies prove, the best way to drive volume is to offer a customer experience that’s unambiguously better than the legacy alternatives.Ultimately, fintechs need to remember that they are, first and foremost, technology companies..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/09/are-fintech-business-models-sustainable/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "LexisNexis is embracing generative AI to ease legal writing and research | TechCrunch | Makemetechie.com Summary",
+            "description": "LexisNexis has always been a goto source for lawyers, but the company is adding AI to make it easier to draft briefs and do research.",
+            "url": "/2023-09-09-lexisnexis-generative-ai",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1474442258.jpg?resize=1200,675",
+            "publishedAt": "2023-09-10T15:00:15Z",
+            "content": "Last June, just months after the release of ChatGPT from OpenAI, a couple of New York City lawyers infamously used the tool to write a very poor brief. The AI cited fake cases, leading to an uproar,  [+1184 chars]",
+            "summary": "LexisNexis is a legal software company that offers tooling to help lawyers find the right case law to make their legal arguments. The company sees the potential of AI in helping reduce much of the mundane legal work that every lawyer undertakes but it also recognizes these very real issues as it begins its generative AI journey. Jeff Reihl chief technology officer at LexisNExis understands the value of AI and has been building the technology into its platform for some time now.",
+            "html_summary": "<ul><li>LexisNexis is a legal software company that offers tooling to help lawyers find the right case law to make their legal arguments.</li><li> The company sees the potential of AI in helping reduce much of the mundane legal work that every lawyer undertakes but it also recognizes these very real issues as it begins its generative AI journey.</li><li> Jeff Reihl chief technology officer at LexisNExis understands the value of AI and has been building the technology into its platform for some time now.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/10/lexisnexis-generative-ai/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "Discover space tech, trends, policies and possibilities at TechCrunch Disrupt 2023 | TechCrunch | Makemetechie.com Summary",
+            "description": "Explore the future of space exploration, commerce, tech and more on the Space Stage at TechCrunch Disrupt 2023. Theres even a pitchoff!",
+            "url": "/2023-09-09-discover-space-tech-trends-policies-and-possibilities-at-techcrunch-disrupt-2023",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Space-Stage-Article-Image-Header-1920x1080@2x.jpg?resize=1200,675",
+            "publishedAt": "2023-09-09T00:00:56Z",
+            "content": "Set your coordinates for theSpace Stage on September 19, Day 1 promptly at 0800 hours ofTechCrunch Disrupt 2023. Youll find sessions featuring some of the industrys leading founders, investors, NASA  [+4179 chars]",
+            "summary": "Set your coordinates for the Space Stage on September Day promptly at hours of TechCrunch Disrupt You ll find sessions featuring some of the industry s leading founders investors NASA researchers Department of Defense officials military commanders and national security experts These leaders will delve into the challenges of interstellar travel commercial and government collaboration the next space age and more. Don t miss the five startups that made finals and will compete in the Space Domain Awareness Challenge Pitch off Each team will pitch live on the Space stage to our panel of judges Tess Hatch Bessemer Venture Partners and Ian McCubbin JPL.",
+            "html_summary": "<ul><li>Set your coordinates for the Space Stage on September Day promptly at hours of TechCrunch Disrupt You ll find sessions featuring some of the industry s leading founders investors NASA researchers Department of Defense officials military commanders and national security experts These leaders will delve into the challenges of interstellar travel commercial and government collaboration the next space age and more.</li><li> Don t miss the five startups that made finals and will compete in the Space Domain Awareness Challenge Pitch off Each team will pitch live on the Space stage to our panel of judges Tess Hatch Bessemer Venture Partners and Ian McCubbin JPL.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/08/discover-space-tech-trends-policies-and-possibilities-at-techcrunch-disrupt-2023/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Taylor Hatmaker",
+            "title": "Roblox is launching avatarbased voice calls with facial motion tracking | TechCrunch | Makemetechie.com Summary",
+            "description": "Roblox Connect weaves Robloxs existing avatars, voice chat and camerabased facial animations together into a new product.",
+            "url": "/2023-09-09-roblox-connect-avatar-calling",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/roblox-connect.png?resize=1200,590",
+            "publishedAt": "2023-09-09T04:31:26Z",
+            "content": "At its annual developers conference, Roblox detailed its nearfuture plans to expand beyond its identity as a game platform for kids.The company is already pushing into new demographics Roblox ann [+2542 chars]",
+            "summary": "At its annual developer s conference Roblox detailed its near future plans to expand beyond its identity as a game platform for kids. The company announced that it would foster mature content for users earlier this year and a new animated video calling product launching later this year looks to be part of that plan. Part Zoom and part Memoji users can dial up another friend and start a virtual hangout in the new product called Robl Rox Connect. The voice based calls bring two avatars together in a virtual space for a more present immersive experience.",
+            "html_summary": "<ul><li>At its annual developer s conference Roblox detailed its near future plans to expand beyond its identity as a game platform for kids.</li><li> The company announced that it would foster mature content for users earlier this year and a new animated video calling product launching later this year looks to be part of that plan.</li><li> Part Zoom and part Memoji users can dial up another friend and start a virtual hangout in the new product called Robl Rox Connect.</li><li> The voice based calls bring two avatars together in a virtual space for a more present immersive experience.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/08/roblox-connect-avatar-calling/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "SoftBank bets on exArgo AI founders, Flexports founder cleans house and Cruise digs in | TechCrunch | Makemetechie.com Summary",
+            "description": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.",
+            "url": "/2023-09-09-softbank-bets-on-ex-argo-ai-founders-flexports-founder-cleans-house-and-cruise-digs-in",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/FINAL_Stack_Truck_1-1.jpg?resize=1200,800",
+            "publishedAt": "2023-09-10T19:15:31Z",
+            "content": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.This week was packed with news, including in the world of  [+8643 chars]",
+            "summary": "The company didnt disclose the amount of the fund except to say it has raised a total of $7 million to date.Lydian, a Massachusetts-based startup aiming to produce sustainable aviation fuel (SAF), has raised $12 million in seed funding from Congruent Ventures and Galvanize Climate Solutions. Ascend Elements, U.S.-based manufacturer of battery materials for EVs, raised $542 million in new investments that includes $460 million in a Series D round and $82 million of additional funds from earlier this year. TuSimple closed 2022 with $615.4 million in cash and cash equivalents.The company said it would focus on testing and R&D while trying to get a handle on its loss-making revenue operations. Financial terms were not disclosed.Envisics, a U.K.-based holographics company building in-car technology that projects navigation, safety alerts and other data onto the inside of a windshield, closed a $100 million Series C round. Autonomy, an EV subscription company, said it will acquire the technology, assets and customer accounts from all-electric vehicle car-sharing company EV Mobility. The companys net loss for Q4 was $138 million and for FY 2022 was $472 million. The company announced the rounds first $50 million tranche in March, which included Hyundai Mobis, with participation from InMotion Ventures (the investment arm of Jaguar Land Rover) and Stellantis.",
+            "html_summary": "<ul><li>The company didn’t disclose the amount of the fund except to say it has raised a total of $7 million to date.Lydian, a Massachusetts-based startup aiming to produce sustainable aviation fuel (SAF), has raised $12 million in seed funding from Congruent Ventures and Galvanize Climate Solutions..</li><li>Ascend Elements, U.S.-based manufacturer of battery materials for EVs, raised $542 million in new investments that includes $460 million in a Series D round and $82 million of additional funds from earlier this year..</li><li>TuSimple closed 2022 with $615.4 million in cash and cash equivalents.The company said it would focus on testing and R&D while trying to get a handle on its loss-making revenue operations..</li><li>Financial terms were not disclosed.Envisics, a U.K.-based holographics company building in-car technology that projects navigation, safety alerts and other data onto the inside of a windshield, closed a $100 million Series C round..</li><li>Autonomy, an EV subscription company, said it will acquire the technology, assets and customer accounts from all-electric vehicle car-sharing company EV Mobility..</li><li>The company’s net loss for Q4 was $138 million and for FY 2022 was $472 million..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/10/softbank-bets-on-ex-argo-ai-founders-flexports-founder-cleans-house-and-cruise-digs-in/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Fintech faces its reckoning Its only a matter of time until the house of cards collapses | Makemetechie.com Summary. LexisNexis is embracing generative AI to ease legal writing and research | TechCrunch | Makemetechie.com Summary. Discover space tech, trends, policies and possibilities at TechCrunch Disrupt 2023 | TechCrunch | Makemetechie.com Summary. Roblox is launching avatarbased voice calls with facial motion tracking | TechCrunch | Makemetechie.com Summary. SoftBank bets on exArgo AI founders, Flexports founder cleans house and Cruise digs in | TechCrunch | Makemetechie.com Summary"
+}

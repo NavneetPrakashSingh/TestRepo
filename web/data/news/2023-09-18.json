@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jennifer Ouellette",
+            "title": "Ancient Roman wow glass has photonic crystal patina forged over centuries | Makemetechie.com Summary",
+            "description": "Precise hierarchical molecular selfassembly formed socalled Bragg stack reflectors.",
+            "url": "/2023-09-18-ancient-roman-wow-glass-has-photonic-crystal-patina-forged-over-centuries",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/glass1-760x380.jpg",
+            "publishedAt": "2023-09-18T19:06:19Z",
+            "content": "Enlarge/ Microscopic view of photonic crystals on the surface of ancient Roman glass.7 with Nature is the ultimate nanofabricator. The latest evidence of that is an unusual shard of ancient Roman [+4211 chars]",
+            "summary": "Ancient Roman glass shards are noteworthy for their iridescent hues of blue green and orange the result of the corrosion process slowly restructuring the glass to form photonic crystals. This particular shard s shimmering mirror like gold sheen is a rare example with unusual optical properties according to a new paper published in the Proceedings of the National Academy of Sciences. It s yet another example of naturally occurring structural coloration not due to adding pigments or dyes but from how they are structured in nature.",
+            "html_summary": "<ul><li>Ancient Roman glass shards are noteworthy for their iridescent hues of blue green and orange the result of the corrosion process slowly restructuring the glass to form photonic crystals.</li><li> This particular shard s shimmering mirror like gold sheen is a rare example with unusual optical properties according to a new paper published in the Proceedings of the National Academy of Sciences.</li><li> It s yet another example of naturally occurring structural coloration not due to adding pigments or dyes but from how they are structured in nature.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/09/ancient-roman-wow-glass-has-photonic-crystal-patina-forged-over-centuries/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "Phalanx protects company data by automatically securing and tracking sensitive documents | Makemetechie.com Summary",
+            "description": "Data loss prevention (DLP) has emerged as a foundational strategy for businesses looking to prevent workers from inadvertently (or advertently) sharing...",
+            "url": "/2023-09-18-phalanx-protects-company-data-by-automatically-securing-and-tracking-sensitive-documents",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lXSw9pm9kBtLAxus1IVFLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/d167fab6fcecd9546657585d73f4ce51",
+            "publishedAt": "2023-09-19T21:04:27Z",
+            "content": "Data loss prevention (DLP) has emerged as a foundational strategy for businesses looking to prevent workers from inadvertently (or advertently) sharing sensitive data outside the confines of the comp [+7637 chars]",
+            "summary": "Data loss prevention (DLP) has emerged as a foundational strategy for businesses looking to prevent workers from inadvertently (or advertently) sharing sensitive data outside the confines of the company network. Its corny, but we put the prevention in data loss prevention. Traditional DLP aims to catch data as its leaving its perimeter, while we protect it in place so no matter what happens to it, it will be secure. Indeed, the company debuted an all-new version of the dashboard at TC Disrupt today, where it showcased new data-mapping and data inventory smarts that reveal how many files there are, how many are encrypted, and across how many devices.Phalanx dashboard. Document visibility is a black box, so security teams try to retrofit legacy DLP to fix the issue.In truth, existing DLP solutions adopt various approaches to keeping company data secure. Image Credits: PhalanxThey can choose to allow a file to be accessed just the one time, allow anyone with the link to access the file, require email verification, and more.Phalanx: Sharing secure link. Phalanx, on the other hand, is designed for same-day deployment.Existing DLP is difficult for security teams to deploy and manage, as well as being difficult for end users (e.g., employees) to deal with, Garrett said. This may involve applying rules and policies to network traffic, for example, or trying to prevent data movement beyond a defined perimeter.",
+            "html_summary": "<ul><li>Data loss prevention (DLP) has emerged as a foundational strategy for businesses looking to prevent workers from inadvertently (or advertently) sharing sensitive data outside the confines of the company network..</li><li>“It’s corny, but we put the ‘prevention’ in ‘data loss prevention.’ Traditional DLP aims to catch data as it’s leaving its perimeter, while we protect it in place so no matter what happens to it, it will be secure.”.</li><li>Indeed, the company debuted an all-new version of the dashboard at TC Disrupt today, where it showcased new data-mapping and data inventory smarts that reveal how many files there are, how many are encrypted, and across how many devices.Phalanx dashboard..</li><li>Document visibility is a black box, so security teams try to retrofit legacy DLP to fix the issue.”In truth, existing DLP solutions adopt various approaches to keeping company data secure..</li><li>Image Credits: PhalanxThey can choose to allow a file to be accessed just the one time, allow anyone with the link to access the file, require email verification, and more.Phalanx: Sharing secure link..</li><li>Phalanx, on the other hand, is designed for same-day deployment.“Existing DLP is difficult for security teams to deploy and manage, as well as being difficult for end users (e.g., employees) to deal with,” Garrett said..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/19/phalanx-protects-company-data-by-automatically-securing-and-tracking-sensitive-documents/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "HiddenLayer raises $50M for its AIdefending cybersecurity tools | Makemetechie.com Summary",
+            "description": "HiddenLayer, a security startup focused on protecting AI systems from adversarial attacks, today announced that it raised $50 million in a funding round co...",
+            "url": "/2023-09-18-hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5o4h.cD4aMTfv.2jj4HM9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzg-/https://media.zenfs.com/en/techcrunch_350/9d4c6f3874212c2e8e2f871cd226d82f",
+            "publishedAt": "2023-09-19T12:00:28Z",
+            "content": "HiddenLayer, a security startup focused on protecting AI systems from adversarial attacks, today announced that it raised $50 million in a funding round coled by M12 and Moore Strategic Ventures wit [+5390 chars]",
+            "summary": "HiddenLayer a security startup focused on protecting AI systems from adversarial attacks today announced that it raised million in a funding round. The new funds will be put toward supporting HiddenLayer s go to market efforts expanding its headcount from employees to by the end of the year and further investing in R D co founder and CEO Chris Sestito. HiddenLayer claims to have Fortune customers in the financial government and defense including the U S Air Force and Space Force and cybersecurity industries. The pace of AI adoption has left many organizations struggling to put in place the proper controls necessary to protect against machine learning attacks.",
+            "html_summary": "<ul><li>HiddenLayer a security startup focused on protecting AI systems from adversarial attacks today announced that it raised million in a funding round.</li><li> The new funds will be put toward supporting HiddenLayer s go to market efforts expanding its headcount from employees to by the end of the year and further investing in R D co founder and CEO Chris Sestito.</li><li> HiddenLayer claims to have Fortune customers in the financial government and defense including the U S Air Force and Space Force and cybersecurity industries.</li><li> The pace of AI adoption has left many organizations struggling to put in place the proper controls necessary to protect against machine learning attacks.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/19/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "Beyond Aero is building a hydrogenpowered jet | Makemetechie.com Summary",
+            "description": "The aviation industry is well aware of its carbon footprint, but its not an industry where things change quickly.  The company, which is part of our...",
+            "url": "/2023-09-18-beyond-aero-is-building-a-hydrogen-powered-jet",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rx1rEn4ZnGVOd_ysSSn9aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/670a2876438c2840bccaed541d88c913",
+            "publishedAt": "2023-09-19T20:39:00Z",
+            "content": "The aviation industry is well aware of its carbon footprint, but its not an industry where things change quickly. Batteries may be an option for shortrange eVTOL use cases, but for anything else, t [+4888 chars]",
+            "summary": "Toulouse France based Beyond Aero is looking to bring a hydrogen powered business jet to market. The company which is part of our Battlefield startup competition at Disrupt this week is currently ground testing an kW hydrogen based propulsion system. The vision is significantly broader though with plans to launch a commuter jet and potentially even larger planes in the future. Beyond Aero was part of Y Combinator s Winter batch and raised funding before joining YC during and after for a total of three rounds so far with a number of unicorn founders investing in the company.",
+            "html_summary": "<ul><li>Toulouse France based Beyond Aero is looking to bring a hydrogen powered business jet to market.</li><li> The company which is part of our Battlefield startup competition at Disrupt this week is currently ground testing an kW hydrogen based propulsion system.</li><li> The vision is significantly broader though with plans to launch a commuter jet and potentially even larger planes in the future.</li><li> Beyond Aero was part of Y Combinator s Winter batch and raised funding before joining YC during and after for a total of three rounds so far with a number of unicorn founders investing in the company.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/19/beyond-aero-is-building-a-hydrogen-powered-jet/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Chuong Nguyen",
+            "title": "Dealmaster Early Amazon Prime Big Day deals, Lenovo laptop savings, and more | Makemetechie.com Summary",
+            "description": "Amazon announced that Prime Big Day Deals will happen on October 10 and 11 this year.",
+            "url": "/2023-09-18-amazon-prime-big-day-deals-2023",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/2022-13-inch-MacBook-Pro-top-1440x787-1-760x380.jpeg",
+            "publishedAt": "2023-09-18T18:36:04Z",
+            "content": "Enlarge/ The 2022 13inch MacBook Pro with an M2 chip.3 with Now that Amazon has announced that its second big Prime Day shopping event of the year, called Prime Big Day, will take place next mon [+14113 chars]",
+            "summary": "Amazon has some early Prime Big Day deals listed for the event. To take advantage of these savings and more during the main days you ll need a Prime membership. In addition to Amazon we also found some great savings at competing retailers. Ars Technica may earn compensation for sales from links on this post through affiliate programs. The Daily Discussion is a weekly, offbeat look at what's trending on the web. This week, we look at some of the best deals we saw on Amazon's Prime Day event.",
+            "html_summary": "<ul><li>Amazon has some early Prime Big Day deals listed for the event.</li><li> To take advantage of these savings and more during the main days you ll need a Prime membership.</li><li> In addition to Amazon we also found some great savings at competing retailers.</li><li> Ars Technica may earn compensation for sales from links on this post through affiliate programs.</li><li> The Daily Discussion is a weekly, offbeat look at what's trending on the web.</li><li> This week, we look at some of the best deals we saw on Amazon's Prime Day event.</li></ul>",
+            "website_url": "https://arstechnica.com/shopping/2023/09/amazon-prime-big-day-deals-2023/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Keeping Googles search secrets protects its monopoly, DOJ argues in court | Makemetechie.com Summary",
+            "description": "The DOJ objected when the court removed the public from the Google trial on Monday.",
+            "url": "/2023-09-18-keeping-googles-search-secrets-protects-its-monopoly-doj-argues-in-court",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1444475597-760x380.jpg",
+            "publishedAt": "2023-09-18T21:49:45Z",
+            "content": "8 with Since Google has a right to protect its trade secrets during the US Department of Justices trial digging into how the tech giant allegedly monopolized Internet searches, some of the trials [+3912 chars]",
+            "summary": "Google has a right to protect its trade secrets during the US Department of Justice s trial digging into how the tech giant allegedly monopolized Internet searches. On Monday the court sealed off two hours of testimony from Verizon executive Brian Higgins. The DOJ objected when the court removed the public during discussions of Google s online advertising pricing. To the DOJ every piece of information that Google hides from the public eye risks weakening the public s understanding of the case that the DOJ is building against Google. More information will likely be revealed in sealed testimony.",
+            "html_summary": "<ul><li>Google has a right to protect its trade secrets during the US Department of Justice s trial digging into how the tech giant allegedly monopolized Internet searches.</li><li> On Monday the court sealed off two hours of testimony from Verizon executive Brian Higgins.</li><li> The DOJ objected when the court removed the public during discussions of Google s online advertising pricing.</li><li> To the DOJ every piece of information that Google hides from the public eye risks weakening the public s understanding of the case that the DOJ is building against Google.</li><li> More information will likely be revealed in sealed testimony.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/09/keeping-googles-search-secrets-protects-its-monopoly-doj-argues-in-court/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matthew Panzarino",
+            "title": "Apples iPhone 15 Pro Max goes to Disneyland | Makemetechie.com Summary",
+            "description": "Since 2014, Ive been reviewing Apples latest iPhones at Disneyland. The rationale was, and is, simple Instead of lab tests, do my best to get a feeling for what these devices will be like to use for people and families in a realworld scenario. Disneyland ",
+            "url": "/2023-09-18-apples-iphone-15-pro-max-goes-to-disneyland",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/1-e1695088502767.jpeg?w=1200",
+            "publishedAt": "2023-09-19T13:00:15Z",
+            "content": "Since 2014, Ive been reviewing Apples latest iPhones at Disneyland. The rationale was, and is, simple Instead of lab tests, do my best to get a feeling for what these devices will be like to use for [+25049 chars]",
+            "summary": "Really impressive execution that feels a lot deeper than the simple painted glass backs of a few years ago.Image Credits: Will Proctor ProductionsThe natural titanium color was my personal purchase (due some time in October, whew) and is really great as well. It doesnt just work, its probably the best camera Apple has ever made.In fact, if I were to sum up this entire review in just two photos, Id submit these exhibits for you, shot through the ultra wide camera and the 5x camera in low light. Thats one of the reasons I like it so much as a testing ground.A few years ago, one of Apples larger phones could get me through the whole day no problem. I know bolder colors would have played better from a distance, but up close I think a lot of folks are going to really love the mint and pink shades especially.Image Credits: Will Proctor ProductionsOn the iPhone 15 Pro front, the PVD-coated titanium rims are also solidly executed. The blue color that I tested is great, and throws off a bunch of different shades between the lens rims, the flat camera housing, the sides of the raised glass, the matte part of the back and the titanium rim. I want to get them out into real life and get a real handle on their perks and pitfalls and deliver you a review that gives you the specs in context, as well as a general vibe.Its been a privilege. Being able to deliver big improvements in a camera is great, but being able to do it without incurring any additional usage or operational debt on the part of the user is actually huge.",
+            "html_summary": "<ul><li>Really impressive execution that feels a lot deeper than the simple painted glass backs of a few years ago.Image Credits: Will Proctor ProductionsThe ‘natural’ titanium color was my personal purchase (due some time in October, whew) and is really great as well..</li><li>It doesn’t just work, it’s probably the best camera Apple has ever made.In fact, if I were to sum up this entire review in just two photos, I’d submit these exhibits for you, shot through the ultra wide camera and the 5x camera in low light..</li><li>That’s one of the reasons I like it so much as a testing ground.A few years ago, one of Apple’s larger phones could get me through the whole day no problem..</li><li>I know bolder colors would have played better from a distance, but up close I think a lot of folks are going to really love the mint and pink shades especially.Image Credits: Will Proctor ProductionsOn the iPhone 15 Pro front, the PVD-coated titanium rims are also solidly executed..</li><li>The blue color that I tested is great, and throws off a bunch of different shades between the lens rims, the flat camera housing, the sides of the raised glass, the matte part of the back and the titanium rim..</li><li>I want to get them out into real life and get a real handle on their perks and pitfalls and deliver you a review that gives you the specs in context, as well as a general vibe.It’s been a privilege..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/19/apples-iphone-15-pro-max-goes-to-disneyland/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Robinhood CEO on the companys evolution Weve made a lot of progress | Makemetechie.com Summary",
+            "description": "Ten years ago, Robinhood was founded to democratize stock trading, or more simply, to make it more accessible for anyone to trade stocks. Over time, the now publicly traded company has broadened its offerings  allowing users to do far more than just buy sh",
+            "url": "/2023-09-18-robinhood-ceo-on-the-companys-evolution-weve-made-a-lot-of-progress",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/05/tcdisrupt_ny16-4706.jpg?resize=1200,800",
+            "publishedAt": "2023-09-19T22:57:47Z",
+            "content": "Ten years ago, Robinhood was founded to democratize stock trading, or more simply, to make it more accessible for anyone to trade stocks.Over time, the now publicly traded company has broadened its [+4013 chars]",
+            "summary": "Ten years ago Robinhood was founded to democratize stock trading or more simply to make it more accessible for anyone to trade stocks. Over time the now publicly traded company has broadened its offerings allowing users to do far more than just buy shares of stocks. Last quarter Robinhood achieved GAAP profitability for the first time helped by higher interest rates. The company is also forging ahead on its international ambitions Robinhood is planning to launch in the United Kingdom in the next few months a move that had been actually planned for.",
+            "html_summary": "<ul><li>Ten years ago Robinhood was founded to democratize stock trading or more simply to make it more accessible for anyone to trade stocks.</li><li> Over time the now publicly traded company has broadened its offerings allowing users to do far more than just buy shares of stocks.</li><li> Last quarter Robinhood achieved GAAP profitability for the first time helped by higher interest rates.</li><li> The company is also forging ahead on its international ambitions Robinhood is planning to launch in the United Kingdom in the next few months a move that had been actually planned for.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/19/robinhood-ceo-on-the-companys-evolution-weve-made-a-lot-of-progress/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Toyota reveals its plan to catch up on EV battery technology | Makemetechie.com Summary",
+            "description": "Three liquid chemistries, solid state cells, and flatter battery packs.",
+            "url": "/2023-09-18-toyota-reveals-its-plan-to-catch-up-on-ev-battery-technology",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1454180419-760x380.jpg",
+            "publishedAt": "2023-09-19T15:26:20Z",
+            "content": "16 with Toyota, the worlds largest automaker, has a problem. Although the company is famous for pioneering lean methods of manufacturing and being an early pioneer of hybrid electric powertrains,  [+4448 chars]",
+            "summary": "Toyota has released a new roadmap showing how it will regain competitiveness and sell million EVs by. After some early experiments with electric converted RAV s including a partnership with Tesla Toyota has finally released a modern BEV the bZ x. The slow going on BEVs cost CEO Akio Toyoda his position earlier this year and he was replaced by former Lexus boss Koji Sato who created a new organization within Toyota called BEV Factory which has the mission of developing next generation EVs for Toyota in We will need various options for batteries just like we have different variations of engines.",
+            "html_summary": "<ul><li>Toyota has released a new roadmap showing how it will regain competitiveness and sell million EVs by.</li><li> After some early experiments with electric converted RAV s including a partnership with Tesla Toyota has finally released a modern BEV the bZ x.</li><li> The slow going on BEVs cost CEO Akio Toyoda his position earlier this year and he was replaced by former Lexus boss Koji Sato who created a new organization within Toyota called BEV Factory which has the mission of developing next generation EVs for Toyota in We will need various options for batteries just like we have different variations of engines.</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/09/toyota-reveals-its-plan-to-catch-up-on-ev-battery-technology/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "AP",
+            "title": "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence | Makemetechie.com Summary",
+            "description": "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X  while Musk asked him to address his judicial overhaul in Israel. The",
+            "url": "/2023-09-18-netanyahu-elon-musk-tesla-california-ai-b3f8bb6d485cdc14c2e256e383c13aa4",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/97/1979febb-d253-59e0-ab3b-13f88c9e1b25/6509d133e1f07.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-09-18T19:39:15Z",
+            "content": "SAN JOSE, Calif. (AP) Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X whi [+5749 chars]",
+            "summary": "The two also discussed artificial intelligence in a sparsely attended livestream event Monday.Netanyahus high-profile visit to the San Francisco Bay Area comes at a time when Musk is facing accusations of tolerating antisemitic messages on his social media platform, while Netanyahu is confronting political opposition at home and abroad. The freestyle conversation, which included jokes from both men, soon turned to free speech and antisemitism, with Netanyahu telling Musk he hopes that within the confines of the First Amendment he can find a way to roll back antisemitism and other forms of hatred on his social media platform. (AP Photo/Noah Berger)SAN JOSE, Calif. (AP)  Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X  while Musk asked him to address his judicial overhaul in Israel. Silicon Valley itineraries for visiting political dignitaries typically also include major tech companies such as Apple, Google or Meta.From California, Netanyahu heads to New York, where he is scheduled to address the United Nations General Assembly and meet with President Joe Biden and other world leaders, his office said. Netanyahu said controlling more-advanced AI must start by getting like-minded states to agree to a code of ethics and conduct to foster the technology and curb the curses. But he said there will still be a need to police the planet against rogue actors. But it comes at a time that Musk is facing accusations of tolerating antisemitic messages on his social media platform X, formerly known as Twitter. Its a tough one, Netanyahu said.Musk said that with 100 million to 200 million posts on X in a day, some of those are gonna be bad. He reiterated the platforms policy to not promote or amplify hate speech.",
+            "html_summary": "<ul><li>The two also discussed artificial intelligence in a sparsely attended livestream event Monday.Netanyahu’s high-profile visit to the San Francisco Bay Area comes at a time when Musk is facing accusations of tolerating antisemitic messages on his social media platform, while Netanyahu is confronting political opposition at home and abroad..</li><li>The freestyle conversation, which included jokes from both men, soon turned to free speech and antisemitism, with Netanyahu telling Musk he hopes that within the confines of the First Amendment he can find a way to roll back antisemitism and other forms of hatred on his social media platform..</li><li>(AP Photo/Noah Berger)SAN JOSE, Calif. (AP) — Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel..</li><li>Silicon Valley itineraries for visiting political dignitaries typically also include major tech companies such as Apple, Google or Meta.From California, Netanyahu heads to New York, where he is scheduled to address the United Nations General Assembly and meet with President Joe Biden and other world leaders, his office said..</li><li>Netanyahu said controlling more-advanced AI must start by getting like-minded states to agree to a code of ethics and conduct to foster the technology and “curb the curses.” But he said there will still be a need to “police the planet” against rogue actors..</li><li>But it comes at a time that Musk is facing accusations of tolerating antisemitic messages on his social media platform X, formerly known as Twitter..</li></ul>",
+            "website_url": "https://apnews.com/article/netanyahu-elon-musk-tesla-california-ai-b3f8bb6d485cdc14c2e256e383c13aa4"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "TikTok debuts new tools and technology to label AI content | TechCrunch | Makemetechie.com Summary",
+            "description": "As more creators turn to AI for their artistic expression, theres also a broader push for transparency around when AI was involved in content creation.",
+            "url": "/2023-09-18-tiktok-debuts-new-tools-and-technology-to-label-ai-content",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/tiktok-logo-neon.jpg?resize=1200,800",
+            "publishedAt": "2023-09-19T10:00:28Z",
+            "content": "As more creators turn to AI for their artistic expression, theres also a broader push for transparency around when AI was involved in content creation. To address this concern, TikTok announced toda [+4521 chars]",
+            "summary": "TikTok announced today it will launch a new tool that will allow creators to label their AI generated content. The company says it felt the need to introduce AI labeling because AI content can potentially confuse or mislead viewers. In addition TikTok says it s working to develop a way to automatically detect and label AI content. This week it will begin testing an AI generated label that will eventually apply to any content that it detects was edited or created with AI. The AI labels will begin rolling out today but you may not immediately see them until the rollout is complete.",
+            "html_summary": "<ul><li>TikTok announced today it will launch a new tool that will allow creators to label their AI generated content.</li><li> The company says it felt the need to introduce AI labeling because AI content can potentially confuse or mislead viewers.</li><li> In addition TikTok says it s working to develop a way to automatically detect and label AI content.</li><li> This week it will begin testing an AI generated label that will eventually apply to any content that it detects was edited or created with AI.</li><li> The AI labels will begin rolling out today but you may not immediately see them until the rollout is complete.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/19/tiktok-debuts-new-tools-and-technology-to-label-ai-content/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Amazons new Just Walk Out cashierless checkout system uses RFID tags to track apparel purchases | TechCrunch | Makemetechie.com Summary",
+            "description": "Amazon today introduced a new version of its Just Walk Out retail technology that allows customers to skip the cashier lines when they make a purchase by",
+            "url": "/2023-09-18-amazons-new-just-walk-out-cashierless-checkout-system-uses-rfid-tags-to-track-apparel-purchases",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/just-walk-out-sports.jpeg?resize=1200,675",
+            "publishedAt": "2023-09-19T13:51:40Z",
+            "content": "Amazon today introduced a new version of its Just Walk Out retail technology that allows customers to skip the cashier lines when they make a purchase by having their payment card automatically charg [+3192 chars]",
+            "summary": "Amazon has introduced a new version of its Just Walk Out retail technology that allows customers to skip the cashier lines when they make a purchase by having their payment card automatically charged. The prior system leveraged a combination of ceiling mounted cameras shelf sensors and computer vision techniques to allow customers to shop and then leave the store without waiting to pay. The new system designed for apparel retailers instead uses RFID Radio frequency identification tags that let customers grab clothes shoes hats and more and then walk out of the store. The system has since launched at Lumen Field home of the NFL s Seattle Seahawks.",
+            "html_summary": "<ul><li>Amazon has introduced a new version of its Just Walk Out retail technology that allows customers to skip the cashier lines when they make a purchase by having their payment card automatically charged.</li><li> The prior system leveraged a combination of ceiling mounted cameras shelf sensors and computer vision techniques to allow customers to shop and then leave the store without waiting to pay.</li><li> The new system designed for apparel retailers instead uses RFID Radio frequency identification tags that let customers grab clothes shoes hats and more and then walk out of the store.</li><li> The system has since launched at Lumen Field home of the NFL s Seattle Seahawks.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/19/amazons-new-just-walk-out-cashierless-checkout-system-uses-rfid-tags-to-track-apparel-purchases/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Ancient Roman wow glass has photonic crystal patina forged over centuries | Makemetechie.com Summary. Phalanx protects company data by automatically securing and tracking sensitive documents | Makemetechie.com Summary. HiddenLayer raises $50M for its AIdefending cybersecurity tools | Makemetechie.com Summary. Beyond Aero is building a hydrogenpowered jet | Makemetechie.com Summary. Dealmaster Early Amazon Prime Big Day deals, Lenovo laptop savings, and more | Makemetechie.com Summary. Keeping Googles search secrets protects its monopoly, DOJ argues in court | Makemetechie.com Summary. Apples iPhone 15 Pro Max goes to Disneyland | Makemetechie.com Summary. Robinhood CEO on the companys evolution Weve made a lot of progress | Makemetechie.com Summary. Toyota reveals its plan to catch up on EV battery technology | Makemetechie.com Summary. Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence | Makemetechie.com Summary. TikTok debuts new tools and technology to label AI content | TechCrunch | Makemetechie.com Summary. Amazons new Just Walk Out cashierless checkout system uses RFID tags to track apparel purchases | TechCrunch | Makemetechie.com Summary"
+}

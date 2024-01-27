@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "The first foldable PC era is unfolding | Makemetechie.com Summary",
+            "description": "LGs 17inch foldable OLED arrives October 4 for 4.99 million won (~$3,726).",
+            "url": "/2023-09-25-the-first-foldable-pc-era-is-unfolding",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/laptop-760x380.jpg",
+            "publishedAt": "2023-09-25T18:51:00Z",
+            "content": "21 with  LG announced its first foldable laptop, the Gram Fold, today.  The laptop reportedly has two USBC ports, three speakers, WiFi 6E, and Bluetooth 5.1.   [+3118 chars]",
+            "summary": "LG became the latest OEM to announce a foldable screen laptop right after HP announced its first attempt the Spectre Foldable PC earlier this month. LG only announced the Gram Fold in South Korea thus far and LG didn t immediately respond when I asked if it has plans to release the machine in the US. LG said the gram Fold will release on October for million won about. LG Display announced today that it will start mass production of inch foldable OLED laptop panels as panel supplier LG Display first entered production of foldable inch laptop panels in 2012.",
+            "html_summary": "<ul><li>LG became the latest OEM to announce a foldable screen laptop right after HP announced its first attempt the Spectre Foldable PC earlier this month.</li><li> LG only announced the Gram Fold in South Korea thus far and LG didn t immediately respond when I asked if it has plans to release the machine in the US.</li><li> LG said the gram Fold will release on October for million won about.</li><li> LG Display announced today that it will start mass production of inch foldable OLED laptop panels as panel supplier LG Display first entered production of foldable inch laptop panels in 2012.</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/09/the-first-foldable-pc-era-is-unfolding/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Space Force chief says commercial satellites may need defending | Makemetechie.com Summary",
+            "description": "It would stand to reason that same philosophy would extend into space.",
+            "url": "/2023-09-25-space-force-chief-foresees-role-in-protecting-commercial-satellites",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1248268597-760x380.jpg",
+            "publishedAt": "2023-09-26T00:25:20Z",
+            "content": "Enlarge/ Gen. Chance Saltzman, the top general on the US Space Force, testifies before a Senate subcommittee in March.19 with Like the US Navy has long protected sea lanes during conflict, the mi [+3556 chars]",
+            "summary": "Gen Chance Saltzman echoed many statements made by military leaders over the last few years US military space capabilities are under threat from China and Russia military leaders need more information about what other countries are doing in space. commercial satellites are playing an ever larger role in the military s space programs. A hypothetical military operation to defend a commercial satellite from an adversary s attack would likely go through US Space Command. It would be up to civilian leadership to set the priorities on what commercial capabilities to defend from attack.",
+            "html_summary": "<ul><li>Gen Chance Saltzman echoed many statements made by military leaders over the last few years US military space capabilities are under threat from China and Russia military leaders need more information about what other countries are doing in space.</li><li> commercial satellites are playing an ever larger role in the military s space programs.</li><li> A hypothetical military operation to defend a commercial satellite from an adversary s attack would likely go through US Space Command.</li><li> It would be up to civilian leadership to set the priorities on what commercial capabilities to defend from attack.</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/09/space-force-chief-foresees-role-in-protecting-commercial-satellites/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Signals Meredith Whittaker AI is fundamentally a surveillance technology | Makemetechie.com Summary",
+            "description": "Why is it that so many companies that rely on monetizing the data of their users seem to be extremely hot on AI?  If you ask Signal president Meredith...",
+            "url": "/2023-09-25-signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RvqGip0bKqNcYUdoKM9MSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/373ffb46ffaf8f0f6e5f00960d06cebb",
+            "publishedAt": "2023-09-25T23:01:13Z",
+            "content": "Why is it that so many companies that rely on monetizing the data of their users seem to be extremely hot on AI? If you ask Signal president Meredith Whittaker (and I did), shell tell you its simpl [+3103 chars]",
+            "summary": "Signal president Meredith Whittaker spoke at TechCrunch Disrupt. She said AI is largely inseparable from the big data and targeting industry perpetuated by the likes of Google and Meta as well as less consumer focused but equally prominent enterprise and defense companies. She pointed out the data that underlies these systems is frequently organized and annotated a necessary step in the AI dataset assembly process by the very workers at whom it can be aimed. Not all AI and machine learning systems are equally exploitative though she added.",
+            "html_summary": "<ul><li>Signal president Meredith Whittaker spoke at TechCrunch Disrupt.</li><li> She said AI is largely inseparable from the big data and targeting industry perpetuated by the likes of Google and Meta as well as less consumer focused but equally prominent enterprise and defense companies.</li><li> She pointed out the data that underlies these systems is frequently organized and annotated a necessary step in the AI dataset assembly process by the very workers at whom it can be aimed.</li><li> Not all AI and machine learning systems are equally exploitative though she added.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Amazon to invest up to $4 billion in AI startup Anthropic | Makemetechie.com Summary",
+            "description": "Amazon has agreed to invest up to $4 billion in the AI startup Anthropic as the ecommerce group steps up rivalry against Microsoft, Meta, Google and Nvidia ...",
+            "url": "/2023-09-25-amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3b0p3CM_hla1m9lW70Zbuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/d554c9ae8b521e6447400504b0f0f3cb",
+            "publishedAt": "2023-09-25T07:10:49Z",
+            "content": "Amazon has agreed to invest up to $4 billion in the AI startup Anthropic as the ecommerce group steps up rivalry against Microsoft, Meta, Google and Nvidia in the fastgrowing sector that many techn [+3874 chars]",
+            "summary": "Amazon has agreed to invest up to billion in the AI startup Anthropic the two firms said. The e commerce group said it will initially invest billion for a minority stake in Anthropic. As part of the deal Amazon said it has an option to increase its investment to a total of billion. Anthropic which also counts Google as an investor plans to raise as much as billion over the next two years Anthropic plans to build a frontier model tentatively called Claude Next that is times more capable than today s most powerful AI according to a investor deck TechCrunch obtained earlier this year.",
+            "html_summary": "<ul><li>Amazon has agreed to invest up to billion in the AI startup Anthropic the two firms said.</li><li> The e commerce group said it will initially invest billion for a minority stake in Anthropic.</li><li> As part of the deal Amazon said it has an option to increase its investment to a total of billion.</li><li> Anthropic which also counts Google as an investor plans to raise as much as billion over the next two years Anthropic plans to build a frontier model tentatively called Claude Next that is times more capable than today s most powerful AI according to a investor deck TechCrunch obtained earlier this year.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Erudit raises $10M to monitor workplaces for misalignment | Makemetechie.com Summary",
+            "description": "According to one poll, searches for staff monitoring software rose by 75% in March 2020 compared with the 2019 monthly average  and demand remained strong ...",
+            "url": "/2023-09-25-erudit-raises-10m-to-monitor-workplaces-for-misalignment",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sSWRBVZZBzR7fQk1srlcbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/647bfee4be2323416d20c4640d40f023",
+            "publishedAt": "2023-09-26T12:00:23Z",
+            "content": "Employee surveillance is on the rise. According to one poll, searches for staff monitoring software rose by 75% in March 2020 compared with the 2019 monthly average  and demand remained strong in 2 [+4877 chars]",
+            "summary": "Erudit which uses AI to keep track of workforce stats like turnover risk and burnout rate raised million in a Series A funding round led by Conexo Ventures. Erudit connects to the apps a company already uses like Slack Microsoft Teams and Zoom to attempt to get a pulse on the organization. The company runs the data it collects through a set of AI algorithms which generates scores along metrics such as alignment autonomy engagement and satisfaction. But this reporter worries about the potential for mistakes and misinterpretations as well as other forms of bias.",
+            "html_summary": "<ul><li>Erudit which uses AI to keep track of workforce stats like turnover risk and burnout rate raised million in a Series A funding round led by Conexo Ventures.</li><li> Erudit connects to the apps a company already uses like Slack Microsoft Teams and Zoom to attempt to get a pulse on the organization.</li><li> The company runs the data it collects through a set of AI algorithms which generates scores along metrics such as alignment autonomy engagement and satisfaction.</li><li> But this reporter worries about the potential for mistakes and misinterpretations as well as other forms of bias.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/26/erudit-raises-10m-to-monitor-workplaces-for-misalignment/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Correcto grabs $7M to build out its Grammarly for Spanish | Makemetechie.com Summary",
+            "description": "The generative AI boom has put a spring in the step of Correcto, a Madridbased language writing tool startup focused on Spanish speakers thats today...",
+            "url": "/2023-09-25-correcto-seed",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lWHCh.QVbkWu39rbfB.4Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/c2197f971ddf812b763d2f501e489e24",
+            "publishedAt": "2023-09-25T05:00:38Z",
+            "content": "The generative AI boom has put a spring in the step of Correcto, a Madridbased language writing tool startup focused on Spanish speakers thats today announcing $7 million in seed funding. The round [+12781 chars]",
+            "summary": "The generative AI boom has put a spring in the step of Correcto, a Madrid-based language writing tool startup focused on Spanish speakers thats today announcing $7 million in seed funding. But our goal is to be the first unicorn that comes from writing particularly focused in Spanish.The startup points to the huge size of the addressable market, saying there more native Spanish speakers (500 million) than native English speakers (373 million). Large language models (LLMs) like OpenAIs ChatGPT and Anthropics Claude are now freely available (at least for casual) and able to generate all sorts of written texts on demand, including writing in Spanish. He even floats the possibility that the pair could end up working together in the future  if/when Clibrain delivers a more powerful LLM (with 40BN parameters, rather than the 7BN of its debut model).On the auto-editing side, he also name-checks rival writing assistant business LanguageTool. Correctos strategy is to go deep on language nuance and broad in the sense of offering a tool for Spanish speakers that offers multifaceted utility.Prior to todays $7 million seed the startup had taken in a pre-seed raise of $1M. So, along with a third (technical) co-founder, CTO Antonio Triguero Noriega, they set to work on an MVP.The early version of Correcto used rules-based natural language processing plus a proprietary data-base of Spanish phrases to power Grammarly-style auto-editing features, correcting for grammar and style in the target language. (Though they say they are also committed to keep offering a freemium version of the tool for individual users, which provides them with valuable feedback on the product.",
+            "html_summary": "<ul><li>The generative AI boom has put a spring in the step of Correcto, a Madrid-based language writing tool startup focused on Spanish speakers that’s today announcing $7 million in seed funding..</li><li>But our goal is to be the first unicorn that comes from writing particularly focused in Spanish.”The startup points to the huge size of the addressable market, saying there more native Spanish speakers (500 million) than native English speakers (373 million)..</li><li>Large language models (LLMs) like OpenAI’s ChatGPT and Anthropic’s Claude are now freely available (at least for casual) and able to generate all sorts of written texts on demand, including writing in Spanish..</li><li>He even floats the possibility that the pair could end up working together in the future — if/when Clibrain delivers a more powerful LLM (with 40BN parameters, rather than the 7BN of its debut model).On the auto-editing side, he also name-checks rival writing assistant business LanguageTool..</li><li>Correcto’s strategy is to go deep on language nuance and broad in the sense of offering a tool for Spanish speakers that offers multifaceted utility.Prior to today’s $7 million seed the startup had taken in a pre-seed raise of $1M..</li><li>So, along with a third (technical) co-founder, CTO Antonio Triguero Noriega, they set to work on an MVP.The early version of Correcto used rules-based natural language processing plus a proprietary data-base of Spanish phrases to power Grammarly-style auto-editing features, correcting for grammar and style in the target language..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/24/correcto-seed/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ap news",
+            "title": "Doubles taxes on guns, ammo... | Makemetechie.com Summary",
+            "description": "California Gov. Gavin Newsom has signed a law that will raise taxes on guns and ammunition. The federal government already taxes guns at 10% or 11%. The law Newsom signed on Tuesday adds an 11% tax on top of that. The money will pay for things like security i",
+            "url": "/2023-09-25-california-guns-ammunition-tax-school-safety-0870a673a3d4e85c78466897cfd7ff6f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/36dfe86/2147483647/strip/true/crop/6000x3375+0+410/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F89%2Ffa635e63be13486e16db3d1ff306%2F7602c1a1b5f646939fa94b0335ee41c3",
+            "publishedAt": "2023-09-26T19:00:04Z",
+            "content": "California governor signs law raising taxes on guns and ammunition to pay for school safetySACRAMENTO, Calif. (AP)  California will double the taxes on guns and ammunition and use the money to pay f [+5594 chars]",
+            "summary": "Gov Gavin Newsom on Tuesday signed three bills aimed at reducing gun violence including an percent state tax on guns and ammunition to pay for gun safety programs. Gun rights advocates plan to challenge the new tax in court. California has some of the lowest gun death rates in the country ranking rd out of states with deaths for every people according to data from the Centers for Disease Control and Prevention. But violent crimes have increased recently with the violent crime rate increased by in according to the California Department of Justice. The laws were some of nearly two dozen gun control measures Newsom signed on Tuesday.",
+            "html_summary": "<ul><li>Gov Gavin Newsom on Tuesday signed three bills aimed at reducing gun violence including an percent state tax on guns and ammunition to pay for gun safety programs.</li><li> Gun rights advocates plan to challenge the new tax in court.</li><li> California has some of the lowest gun death rates in the country ranking rd out of states with deaths for every people according to data from the Centers for Disease Control and Prevention.</li><li> But violent crimes have increased recently with the violent crime rate increased by in according to the California Department of Justice.</li><li> The laws were some of nearly two dozen gun control measures Newsom signed on Tuesday.</li></ul>",
+            "website_url": "https://apnews.com/article/california-guns-ammunition-tax-school-safety-0870a673a3d4e85c78466897cfd7ff6f"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "EVgo knows that DC fast charging is still rough, so its fixing more stations | Makemetechie.com Summary",
+            "description": "Its a tricky thing, telling customers that your stations are far from perfect.",
+            "url": "/2023-09-25-evgo-knows-that-dc-fast-charging-is-still-rough-so-its-fixing-more-stations",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/evgo-Large-760x380.jpeg",
+            "publishedAt": "2023-09-26T18:08:42Z",
+            "content": "Enlarge/ If my dad had been able to show me the intricate dance between smartphone app, car, cable, and station, perhaps my first outing wouldnt have been quite so confusing.31 with EVgo, one of [+3863 chars]",
+            "summary": " EVgo one of the nation s largest DC fast charging providers seems to be coming around to the idea that while having more chargers would be nice having reliably functioning chargers is more important at the moment. As part of EVgo ReNew the company s plan focuses on overall network performance and the holistic customer experience. EVgo rated a out of in that study roughly midway between ChargePoint at and Electrify America at with all of them dropping from Tesla meanwhile with its nationwide network of Supercharger spots with first mover placement advantage rated out of unchanged.",
+            "html_summary": "<ul><li> EVgo one of the nation s largest DC fast charging providers seems to be coming around to the idea that while having more chargers would be nice having reliably functioning chargers is more important at the moment.</li><li> As part of EVgo ReNew the company s plan focuses on overall network performance and the holistic customer experience.</li><li> EVgo rated a out of in that study roughly midway between ChargePoint at and Electrify America at with all of them dropping from Tesla meanwhile with its nationwide network of Supercharger spots with first mover placement advantage rated out of unchanged.</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/09/evgo-knows-that-dc-fast-charging-is-still-rough-so-its-fixing-more-stations/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "In depression treatment trials, placebo effect is growing stronger | Makemetechie.com Summary",
+            "description": "As with placebo pills, time is making placebo magnetic stimulation more effective.",
+            "url": "/2023-09-25-in-depression-treatment-trials-placebo-effect-is-growing-stronger",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-548557027-760x380.jpg",
+            "publishedAt": "2023-09-26T18:20:21Z",
+            "content": "Enlarge/ A decent placebo setup for transcranial magnetic stimulation is difficult to distinguish from actual treatment.1 with Placebos have occupied an increasingly awkward spot in the medical l [+5636 chars]",
+            "summary": "A new study has expanded on a previous finding that the placebo effect for antidepressant treatments appears to be growing stronger over time. Earlier work had shown this was happening with placebo pills The new study shows that it s happening with a treatment called transcranial magnetic stimulation. Fortunately effective treatments appear to be getting better in parallel so this hasn t obviously interfered with any results yet. The researchers estimate that it would take nearly new studies showing that there is no placebo effect to go away entirely. But it does suggest that at least some of the differences between earlier and later trials may come down to study design.",
+            "html_summary": "<ul><li>A new study has expanded on a previous finding that the placebo effect for antidepressant treatments appears to be growing stronger over time.</li><li> Earlier work had shown this was happening with placebo pills The new study shows that it s happening with a treatment called transcranial magnetic stimulation.</li><li> Fortunately effective treatments appear to be getting better in parallel so this hasn t obviously interfered with any results yet.</li><li> The researchers estimate that it would take nearly new studies showing that there is no placebo effect to go away entirely.</li><li> But it does suggest that at least some of the differences between earlier and later trials may come down to study design.</li></ul>",
+            "website_url": "https://arstechnica.com/science/2023/09/in-depression-treatment-trials-placebo-effect-is-growing-stronger/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By ANDREW DALTON - AP Entertainment Writer",
+            "title": "Writers union reaches tentative deal with Hollywood studios to end historic strike | Makemetechie.com Summary",
+            "description": "Screenwriters union leaders and Hollywood studios have reached a tentative agreement to end a historic strike after nearly five months. That is raising hopes that a crippling shutdown of movie and television filming is near an end. Actors remain on",
+            "url": "/2023-09-25-writers-strike-deal-hollywood-wga-3336824c06795931845c889f1e08b3ff",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/2/18/218d6a10-33ef-5e51-bbb0-d012b2219462/6511867321c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-09-25T14:08:00Z",
+            "content": "LOS ANGELES (AP) Screenwriters union leaders and Hollywood studios have reached a tentative agreement to end a historic strike after nearly five months, raising hopes that a crippling shutdown of fil [+5886 chars]",
+            "summary": "Union leaders and Hollywood studios reached a tentative agreement Sunday to end a historic screenwriters strike after nearly five months  though no deal is yet in the works for striking actors. Gavin Newsom congratulated the two sides on the deal and expressed hopes that the industry could return to normal soon.The writers strike immediately sent late-night talk shows and Saturday Night Live on hiatus. They encouraged writers to join the actors on their picket lines in solidarity.The three-year contract agreement emerged after five marathon days of renewed talks by the WGA and negotiators from the Alliance of Motion Picture and Television Producers, which represents studios, streaming services and production companies in the negotiations. Discovery, Paramount, Disney and Netflix all rose about 2% or less on Monday.The agreement came just five days before the strike would have become the longest in the guilds history and the longest Hollywood strike more than 70 years. Network shows including NBCs The Tonight Show Starring Jimmy Fallon and ABCs Jimmy Kimmel Live! could return to the air within days.Details of the agreement have not yet been made public or even shared with the writers themselves because the contract language is being finalized. A tentative deal was reached, Sunday, Sept. 24, 2023, to end Hollywoods writers strike after nearly five months. But I think people are pretty used to being ready to go on short notice.Union leaders told writers not to return to work yet, but picketing will be suspended.",
+            "html_summary": "<ul><li>Union leaders and Hollywood studios reached a tentative agreement Sunday to end a historic screenwriters strike after nearly five months — though no deal is yet in the works for striking actors..</li><li>Gavin Newsom congratulated the two sides on the deal and expressed hopes that the industry could return to normal soon.The writers strike immediately sent late-night talk shows and “Saturday Night Live” on hiatus..</li><li>They encouraged writers to join the actors on their picket lines in solidarity.The three-year contract agreement emerged after five marathon days of renewed talks by the WGA and negotiators from the Alliance of Motion Picture and Television Producers, which represents studios, streaming services and production companies in the negotiations..</li><li>Discovery, Paramount, Disney and Netflix all rose about 2% or less on Monday.The agreement came just five days before the strike would have become the longest in the guild’s history and the longest Hollywood strike more than 70 years..</li><li>Network shows including NBC’s “The Tonight Show Starring Jimmy Fallon” and ABC’s “Jimmy Kimmel Live!” could return to the air within days.Details of the agreement have not yet been made public or even shared with the writers themselves because the contract language is being finalized..</li><li>A tentative deal was reached, Sunday, Sept. 24, 2023, to end Hollywood’s writers strike after nearly five months..</li></ul>",
+            "website_url": "https://apnews.com/article/writers-strike-deal-hollywood-wga-3336824c06795931845c889f1e08b3ff"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "California governor vetoes bill to ban driverless AV trucks | TechCrunch | Makemetechie.com Summary",
+            "description": "California Gov. Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a selfdriving truck operated on",
+            "url": "/2023-09-25-california-governor-vetoes-bill-to-ban-driverless-av-trucks",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1168450645.jpg?w=1024",
+            "publishedAt": "2023-09-25T00:17:42Z",
+            "content": "California Gov. Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a selfdriving truck operated on public roads in the state.The win for the  [+3120 chars]",
+            "summary": "California Gov Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a self driving truck operated on public roads in the state. The bill would have effectively banned driverless autonomous heavy duty trucks from operating in the way they were designed. The win for the autonomous trucking industry comes after the California Senate passed the bill in mid September. Despite being a battleground for robotaxi companies like Waymo and Cruise to develop and commercialize their technology California has some of the strictest autonomous vehicle regulation in the nation.",
+            "html_summary": "<ul><li>California Gov Gavin Newsom vetoed a bill Friday that would have required a human safety operator to be present any time a self driving truck operated on public roads in the state.</li><li> The bill would have effectively banned driverless autonomous heavy duty trucks from operating in the way they were designed.</li><li> The win for the autonomous trucking industry comes after the California Senate passed the bill in mid September.</li><li> Despite being a battleground for robotaxi companies like Waymo and Cruise to develop and commercialize their technology California has some of the strictest autonomous vehicle regulation in the nation.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/24/california-governor-vetoes-bill-to-ban-driverless-av-trucks/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "OpenAI gives ChatGPT a voice for verbal conversations | TechCrunch | Makemetechie.com Summary",
+            "description": "ChatGPT is evolving into more than a textbased search engine, with OpenAI announcing that its adding new voice and image smarts to the mix.",
+            "url": "/2023-09-25-openai-chatgpt-voice",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
+            "publishedAt": "2023-09-25T13:55:11Z",
+            "content": "ChatGPT is evolving into much more than a textbased search engine, with OpenAI announcing today that its adding new voice and imagebased smarts to the mix.The wildly popular generative AI assist [+3185 chars]",
+            "summary": "ChatGPT has been one of the biggest technology success stories of recent times allowing anyone to generate essays poems and summaries from simple text based prompts. Today marks a notable evolution for the generative AI movement with OpenAI meshing the familiar world of voice based assistants with its powerful large language models LLMs. The announcement comes on the same day Amazon committed to invest up to billion in OpenAI rival Anthropic a move that constitutes part of a bigger generativeAI battle between the tech giants of the world.",
+            "html_summary": "<ul><li>ChatGPT has been one of the biggest technology success stories of recent times allowing anyone to generate essays poems and summaries from simple text based prompts.</li><li> Today marks a notable evolution for the generative AI movement with OpenAI meshing the familiar world of voice based assistants with its powerful large language models LLMs.</li><li> The announcement comes on the same day Amazon committed to invest up to billion in OpenAI rival Anthropic a move that constitutes part of a bigger generativeAI battle between the tech giants of the world.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. The first foldable PC era is unfolding | Makemetechie.com Summary. Space Force chief says commercial satellites may need defending | Makemetechie.com Summary. Signals Meredith Whittaker AI is fundamentally a surveillance technology | Makemetechie.com Summary. Amazon to invest up to $4 billion in AI startup Anthropic | Makemetechie.com Summary. Erudit raises $10M to monitor workplaces for misalignment | Makemetechie.com Summary. Correcto grabs $7M to build out its Grammarly for Spanish | Makemetechie.com Summary. Doubles taxes on guns, ammo... | Makemetechie.com Summary. EVgo knows that DC fast charging is still rough, so its fixing more stations | Makemetechie.com Summary. In depression treatment trials, placebo effect is growing stronger | Makemetechie.com Summary. Writers union reaches tentative deal with Hollywood studios to end historic strike | Makemetechie.com Summary. California governor vetoes bill to ban driverless AV trucks | TechCrunch | Makemetechie.com Summary. OpenAI gives ChatGPT a voice for verbal conversations | TechCrunch | Makemetechie.com Summary"
+}

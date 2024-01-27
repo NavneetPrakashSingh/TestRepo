@@ -1,0 +1,103 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Adobes AI image generators get beefy updates, including vector graphics",
+            "description": "Firefly 2 improves detail, Firefly Vector generates scalable vectors from a prompt.",
+            "url": "/2023-10-10-adobes-ai-image-generators-get-beefy-updates-including-vector-graphics",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-760x380.jpg",
+            "publishedAt": "2023-10-10T21:36:16Z",
+            "content": "Enlarge/ An AIgenerated vector graphic of a barbarian and a landscape generated with Adobe Illustrator.11 with On Tuesday, Adobe announced major updates to AI image synthesis features across sev [+5414 chars]",
+            "summary": "On Tuesday Adobe announced major updates to AI image synthesis features across several products including Photoshop Illustrator and Adobe Express. The updates include three new generative AI models Firefly Firefly Design Model and Firefly Vector Model which improve its previous offerings and add new capabilities. With the vector model Adobe is notably launching its first text to vector AI image generator. The company has also introduced new Firefly models specifically for Illustrator that let users create editable vector images based on text prompts. Adobe also introduced a Generative Match feature allowing users to match the style of generated content to specific images.",
+            "html_summary": "<ul><li>On Tuesday Adobe announced major updates to AI image synthesis features across several products including Photoshop Illustrator and Adobe Express.</li><li> The updates include three new generative AI models Firefly Firefly Design Model and Firefly Vector Model which improve its previous offerings and add new capabilities.</li><li> With the vector model Adobe is notably launching its first text to vector AI image generator.</li><li> The company has also introduced new Firefly models specifically for Illustrator that let users create editable vector images based on text prompts.</li><li> Adobe also introduced a Generative Match feature allowing users to match the style of generated content to specific images.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-Madori Davis",
+            "title": "California mandates VC firms to release investments diversity information",
+            "description": "This is the United States first piece of legislation that aims to increase diversity within the venture capital landscape.",
+            "url": "/2023-10-10-california-passes-law-mandating-vc-firms-to-release-investments-diversity-information",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-186653928.jpg?resize=1200,800",
+            "publishedAt": "2023-10-10T20:50:25Z",
+            "content": "Last night, California Governor Gavin Newsom signed into law Senate Bill 54, which will require venture capital firms in the state to annually report the diversity of the founders they are backing. T [+4253 chars]",
+            "summary": "Last night California Governor Gavin Newsom signed into law Senate Bill which will require venture capital firms in the state to annually report the diversity of the founders they are backing. This is the United States first piece of legislation that aims to increase diversity within the venture capital landscape. The law will go into effect on March and will require firms to collect and release their diversity data to the public. Those who fail to comply with the new law may face a penalty as decided by the courts. Tech policy advocates are thrilled that the bill has been passed and hope that it will provide more transparency into how venture capital dollars are allocated.",
+            "html_summary": "<ul><li>Last night California Governor Gavin Newsom signed into law Senate Bill which will require venture capital firms in the state to annually report the diversity of the founders they are backing.</li><li> This is the United States first piece of legislation that aims to increase diversity within the venture capital landscape.</li><li> The law will go into effect on March and will require firms to collect and release their diversity data to the public.</li><li> Those who fail to comply with the new law may face a penalty as decided by the courts.</li><li> Tech policy advocates are thrilled that the bill has been passed and hope that it will provide more transparency into how venture capital dollars are allocated.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Conveyor raises $12.5M to automate security reviews using LLMs",
+            "description": "The trouble is, security reviews require a massive investment of time  and labor.  Questionnaires  the main way companies vet vendor  contain hundreds ...",
+            "url": "/2023-10-10-conveyor-raises-12-5m-to-automate-security-reviews-using-llms",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h.PFmPJx9o7cUNooregDbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/9ec52c964408dd06abbaad9250ed9cdd",
+            "publishedAt": "2023-10-11T12:30:55Z",
+            "content": "In a perfect world, companies would vet the security and compliance of every thirdparty vendor they use. Sales wouldnt close until these reviews are complete. The trouble is, security reviews requi [+5875 chars]",
+            "summary": "Thats very tough to replicate with AI, but something that Conveyors software is excellent at.Conveyor is one of several companies attempting to automate security reviews using LLMs.Another is Vendict, which leverages a combination of in-house and third-party LLMs to fill out security questionnaires on behalf of companies. The trouble is, security reviews require a massive investment of time  and labor.Questionnaires  the main way companies vet vendors  contain hundreds of questions, covering everything from privacy policies to physical data center security. Rather, he says, its taking the various data points about a vendors security  data points contributed by relevant stakeholders  and rearranging them, padded by prose, in a questionnaire-friendly format.Each prospective customer asks the same kinds of questions, but in slightly different formats and phrasings, Ballew said. These reviews are manual drudgery.But can LLMs answer these questionnaires more reliably than humans, especially given the stakes involved with security reviews? Conveyor  automates the security review response process.Ballew is a second-time founder, having co-launched Aptible, a platform-as-a-service for automating security compliance, in 2013. Would Conveyor understand them, or be led astray?If Conveyor isnt confident in one of its responses to a security question, it flags the response for human review, Ballew said. The proceeds will be put toward expanding Conveyors sales and marketing efforts, R&D and 15-person workforce, Ballew said.Security reviews are still largely an old-fashioned process, Ballew told TechCrunch in an email interview.",
+            "html_summary": "<ul><li>“That’s very tough to replicate with AI, but something that Conveyor’s software is excellent at.”Conveyor is one of several companies attempting to automate security reviews using LLMs.Another is Vendict, which leverages a combination of in-house and third-party LLMs to fill out security questionnaires on behalf of companies..</li><li>The trouble is, security reviews require a massive investment of time — and labor.Questionnaires — the main way companies vet vendors — contain hundreds of questions, covering everything from privacy policies to physical data center security..</li><li>Rather, he says, it’s taking the various data points about a vendor’s security — data points contributed by relevant stakeholders — and rearranging them, padded by prose, in a questionnaire-friendly format.“Each prospective customer asks the same kinds of questions, but in slightly different formats and phrasings,” Ballew said..</li><li>“These reviews are manual drudgery.”But can LLMs answer these questionnaires more reliably than humans, especially given the stakes involved with security reviews?.</li><li>Conveyor … automates the security review response process.”Ballew is a second-time founder, having co-launched Aptible, a platform-as-a-service for automating security compliance, in 2013..</li><li>Would Conveyor understand them, or be led astray?If Conveyor isn’t confident in one of its responses to a security question, it flags the response for human review, Ballew said..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/11/conveyor-raises-12-5m-to-automate-security-reviews-using-llms/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ron Amadeo",
+            "title": "Pixel 8 Pro reviewThe best Android phone",
+            "description": "7 years of updates, a flat screen, and better face unlock highlight Googles latest.",
+            "url": "/2023-10-10-pixel-8-pro-review-the-best-android-phone",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/39-760x380.jpg",
+            "publishedAt": "2023-10-11T17:00:20Z",
+            "content": "Enlarge/ Behold, the glorious, flat display. Normal, commonsense phone design is back, finally!3 with Google is listening. Reviewing phones means that we usually complaina lotabout phone designs [+27797 chars]",
+            "summary": "This year face unlock is a Class 3 biometric, just like the fingerprint reader, so logging in with your face is just as good as your finger.Assuming that the new face unlock is actually secure, this is a huge improvement! The iPhone does face unlock with a bevy of purpose-built sensors that can create a 3D map of your face, while the Pixel 7 has a dubiously secure face unlock system that works only via the front selfie cam. The face unlock on the Pixel 7 was the Class 1 \"convenience\" tier, which only unlocks the phone and doesn't grant access to Android's cryptographic keystore, so opening a high-security app would make a second lock screen appear. Just as with the curved-screen fiasco, Google seems to think that a flagship phone has to look this way and doesn't appear to consider usability concerns.Speaking of the sides of the phone, one thing you'll notice along the top edge is a big oval cutout for the mmWave antenna. Instead of the ultra-shiny glass back, this material has a matte or satiny finish, and it looks gorgeous on our black review unit.I wish I could say that the aluminum sides and camera bar also had a great finish, but the aluminum still has a mirror polish. The only thing the curved display accomplished was making the sides of an Android phone distorted and unusable for content, necessitating bigger margins on the sides of the display. We're not the only ones who questioned the security of a camera-only face unlockGoogle did, too, and it set up the OS so that a face-unlocking phone would not grant the same amount of access as unlocking with a fingerprint.",
+            "html_summary": "<ul><li>This year face unlock is a Class 3 biometric, just like the fingerprint reader, so logging in with your face is just as good as your finger.Assuming that the new face unlock is actually secure, this is a huge improvement!.</li><li>The iPhone does face unlock with a bevy of purpose-built sensors that can create a 3D map of your face, while the Pixel 7 has a dubiously secure face unlock system that works only via the front selfie cam..</li><li>The face unlock on the Pixel 7 was the Class 1 \"convenience\" tier, which only unlocks the phone and doesn't grant access to Android's cryptographic keystore, so opening a high-security app would make a second lock screen appear..</li><li>Just as with the curved-screen fiasco, Google seems to think that a flagship phone has to look this way and doesn't appear to consider usability concerns.Speaking of the sides of the phone, one thing you'll notice along the top edge is a big oval cutout for the mmWave antenna..</li><li>Instead of the ultra-shiny glass back, this material has a matte or satiny finish, and it looks gorgeous on our black review unit.I wish I could say that the aluminum sides and camera bar also had a great finish, but the aluminum still has a mirror polish..</li><li>The only thing the curved display accomplished was making the sides of an Android phone distorted and unusable for content, necessitating bigger margins on the sides of the display..</li></ul>",
+            "website_url": "https://arstechnica.com/google/2023/10/pixel-8-pro-review-the-best-android-phone/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By CHEYANNE MUMPHREY - AP Education Writer",
+            "title": "ACT test scores for US students drop to new 30year low",
+            "description": "High school students scores on the ACT college admissions test have dropped to their lowest in more than three decades, showing a lack of student preparedness for collegelevel coursework, according to the nonprofit organization that administers the test. Sc",
+            "url": "/2023-10-10-act-college-admission-test-score-optional-99f80b26696a92c78e2680873a3df68c",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/78/87803b1d-1189-5207-968c-94df2eb20f8d/65267b78553b1.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-10-11T09:39:00Z",
+            "content": "By CHEYANNE MUMPHREY  AP Education WriterHigh school students scores on the ACT college admissions test have dropped to their lowest in more than three decades, showing a lack of student prepared [+3382 chars]",
+            "summary": "Scores have been falling for six consecutive years but the trend accelerated during the COVID pandemic. The average ACT composite score for U S students was out of Last year the average score was The average scores in reading science and math all were below benchmarks the ACT says students must reach to have a high probability of success in first year college courses. Many universities have made standardized admissions tests optional amid criticism that they favor the wealthy and put low income students at a disadvantage. Some including the University of California system do not consider ACT or SAT scores even if submitted.",
+            "html_summary": "<ul><li>Scores have been falling for six consecutive years but the trend accelerated during the COVID pandemic.</li><li> The average ACT composite score for U S students was out of Last year the average score was The average scores in reading science and math all were below benchmarks the ACT says students must reach to have a high probability of success in first year college courses.</li><li> Many universities have made standardized admissions tests optional amid criticism that they favor the wealthy and put low income students at a disadvantage.</li><li> Some including the University of California system do not consider ACT or SAT scores even if submitted.</li></ul>",
+            "website_url": "https://apnews.com/article/act-college-admission-test-score-optional-99f80b26696a92c78e2680873a3df68c"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Andrew Cunningham",
+            "title": "Theres no Mac version of CounterStrike 2 because there are no Mac players",
+            "description": "Mac owners make up less than one percent of active CSGO players.",
+            "url": "/2023-10-10-theres-no-mac-version-of-counter-strike-2-because-there-are-no-mac-players",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-WWDC23-macOS-Sonoma-gaming-230605-760x380.jpg",
+            "publishedAt": "2023-10-10T19:33:57Z",
+            "content": "Enlarge/ A MacBook Pro running a game, a scenario that is technically possible but practically rare.3 with For the last two years, Apple has been working to make Mac gaming a thing. Expanded game [+4129 chars]",
+            "summary": "Apple has been working to make Mac gaming a thing. Despite a handful of high profile ports like No Man s Sky or Resident Evil Village Mac gaming is still stuck in the loop that it has always been stuck in. There aren t many gamers who choose macOS so there isn t a lot of interest in developing high profile games. That cycle played out again in Valve s recent Counter Strike update which removed the Mac support already present in the outgoing Counter Strike Global Offensive Today a Valve support document for CS confirmed that Mac support had been removed and wasn t likely to be re added.",
+            "html_summary": "<ul><li>Apple has been working to make Mac gaming a thing.</li><li> Despite a handful of high profile ports like No Man s Sky or Resident Evil Village Mac gaming is still stuck in the loop that it has always been stuck in.</li><li> There aren t many gamers who choose macOS so there isn t a lot of interest in developing high profile games.</li><li> That cycle played out again in Valve s recent Counter Strike update which removed the Mac support already present in the outgoing Counter Strike Global Offensive Today a Valve support document for CS confirmed that Mac support had been removed and wasn t likely to be re added.</li></ul>",
+            "website_url": "https://arstechnica.com/gaming/2023/10/theres-no-mac-version-of-counter-strike-2-because-there-are-no-mac-players/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Adobes AI image generators get beefy updates, including vector graphics. California mandates VC firms to release investments diversity information. Conveyor raises $12.5M to automate security reviews using LLMs | Makemetechie.com Summary. Pixel 8 Pro reviewThe best Android phone | Makemetechie.com Summary. ACT test scores for US students drop to new 30year low | Makemetechie.com Summary. Theres no Mac version of CounterStrike 2 because there are no Mac players | Makemetechie.com Summary"
+}

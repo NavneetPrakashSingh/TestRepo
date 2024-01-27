@@ -1,0 +1,23 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Garance Burke",
+            "title": "AI chatbots are supposed to improve health care. But research says some are perpetuating racism",
+            "description": "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors notes and analyze health records. But a new study led by Stanford School of Medicine researchers cautions that popular chatbots are also perpetuat",
+            "url": "/2023-10-20-ai-chatbots-racist-medicine-chatgpt-bard-6f2a330086acd0a1f8955ac995bdde4d",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1d66753/2147483647/strip/true/crop/8048x4527+0+419/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2F06%2F47999d6430087a4b3776cdefb199%2F935634bae8da4c3c9e1224cfc6844ee1",
+            "publishedAt": "2023-10-20T09:16:33Z",
+            "content": "SAN FRANCISCO (AP) As hospitals and health care systems turn to artificial intelligence to help summarize doctors notes and analyze health records, a new study led by Stanford School of Medicine rese [+7892 chars]",
+            "summary": "A new study, co-led by Omiye, cautions that popular chatbots are perpetuating racist, debunked medical ideas, prompting concerns that the tools could worsen health disparities for Black patients. A new study led by Stanford researchers cautions that popular chatbots are perpetuating racist, debunked medical ideas, prompting concerns that the tools could worsen health disparities for Black patients. Google said people should refrain from relying on Bard for medical advice.Earlier testing of GPT-4 by physicians at Beth Israel Deaconess Medical Center in Boston found generative AI could serve as a promising adjunct in helping human doctors diagnose challenging cases. Daneshjou said physicians are increasingly experimenting with commercial language models in their work, and even some of her own dermatology patients have arrived at appointments recently saying that they asked a chatbot to help them diagnose their symptoms. Those beliefs are known to have caused medical providers to rate Black patients pain lower, misdiagnose health concerns and recommend less relief. There are very real-world consequences to getting this wrong that can impact health disparities, said Stanford Universitys Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper. In some cases, they appeared to reinforce long-held false beliefs about biological differences between Black and white people that experts have spent years trying to eradicate from medical institutions.",
+            "html_summary": "<ul><li>A new study, co-led by Omiye, cautions that popular chatbots are perpetuating racist, debunked medical ideas, prompting concerns that the tools could worsen health disparities for Black patients..</li><li>A new study led by Stanford researchers cautions that popular chatbots are perpetuating racist, debunked medical ideas, prompting concerns that the tools could worsen health disparities for Black patients..</li><li>Google said people should “refrain from relying on Bard for medical advice.”Earlier testing of GPT-4 by physicians at Beth Israel Deaconess Medical Center in Boston found generative AI could serve as a “promising adjunct” in helping human doctors diagnose challenging cases..</li><li>Daneshjou said physicians are increasingly experimenting with commercial language models in their work, and even some of her own dermatology patients have arrived at appointments recently saying that they asked a chatbot to help them diagnose their symptoms..</li><li>Those beliefs are known to have caused medical providers to rate Black patients’ pain lower, misdiagnose health concerns and recommend less relief..</li><li>“There are very real-world consequences to getting this wrong that can impact health disparities,” said Stanford University’s Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper..</li></ul>",
+            "website_url": "https://apnews.com/article/ai-chatbots-racist-medicine-chatgpt-bard-6f2a330086acd0a1f8955ac995bdde4d"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
+}

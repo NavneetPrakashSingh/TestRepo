@@ -1,0 +1,151 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Benj Edwards",
+            "title": "Tom Hanks warns of AIgenerated doppelganger in Instagram plea | Makemetechie.com Summary",
+            "description": "Hanks and other celebrities have recently become targets of AIpowered ad scams.",
+            "url": "/2023-10-03-tom-hanks-warns-of-ai-generated-doppelganger-in-instagram-plea",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tom_hanks_ai_hero_2-760x380.jpg",
+            "publishedAt": "2023-10-03T19:22:29Z",
+            "content": "Enlarge/ A cropped portion of the AIgenerated version of Hanks that the actor shared on his Instagram feed.11 with News of AI deepfakes spread quickly when youre Tom Hanks. On Sunday, the actor [+3755 chars]",
+            "summary": "News of AI deepfakes spread quickly when you re Tom Hanks. Hanks warning spread in the media including The New York Times. CBS anchor Gayle King warned of a similar scheme using her likeness to sell a weight loss product. The now widely reported incidents have raised new concerns about the use of AI in digital media. As we warned convincing AIDeepfakes are an increasingly pressing issue that may undermine shared trust and threaten the reliability of communications technologies by casting doubt on someone s identity Dealing with it is a tricky problem.",
+            "html_summary": "<ul><li>News of AI deepfakes spread quickly when you re Tom Hanks.</li><li> Hanks warning spread in the media including The New York Times.</li><li> CBS anchor Gayle King warned of a similar scheme using her likeness to sell a weight loss product.</li><li> The now widely reported incidents have raised new concerns about the use of AI in digital media.</li><li> As we warned convincing AIDeepfakes are an increasingly pressing issue that may undermine shared trust and threaten the reliability of communications technologies by casting doubt on someone s identity Dealing with it is a tricky problem.</li></ul>",
+            "website_url": "https://arstechnica.com/information-technology/2023/10/tom-hanks-warns-of-ai-generated-doppelganger-in-instagram-plea/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Googles claim that search users have choice is bogus, Microsoft CEO tells judge | Makemetechie.com Summary",
+            "description": "Googles search dominance creates vicious cycle, Satya Nadella testified.",
+            "url": "/2023-10-03-googles-claim-that-search-users-have-choice-is-bogus-microsoft-ceo-tells-judge",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1701653921-760x380.jpg",
+            "publishedAt": "2023-10-03T19:04:30Z",
+            "content": "Enlarge/ Microsoft CEO Satya Nadella arrives at federal court on October 2, 2023 in Washington, DC. Nadella is testifying in the antitrust trial to determine if Alphabet Inc.s Google maintains a mon [+3975 chars]",
+            "summary": "Microsoft CEO Satya Nadella showed up at the Google antitrust trial on Monday to back the Department of Justice s argument that Google used unfair tactics to block competitors like Bing. The DOJ is arguing that Google uses default search contracts to block opportunities for search competitors like Microsoft's Bing. Nadellas efforts to support the DOJ seemingly required that the CEO walk back some of his earliest remarks hyping AI powered Bing as potentially giving Microsoft a long sought after competitive advantage over Google. In Silicon Valley Internet search is the biggest no fly zone which the Journal characterized as the hardest market to crack. Even Microsoft's seeming lead in artificial intelligence it invested billions into OpenAI likely won't be enough to change that.",
+            "html_summary": "<ul><li>Microsoft CEO Satya Nadella showed up at the Google antitrust trial on Monday to back the Department of Justice s argument that Google used unfair tactics to block competitors like Bing.</li><li> The DOJ is arguing that Google uses default search contracts to block opportunities for search competitors like Microsoft's Bing.</li><li> Nadellas efforts to support the DOJ seemingly required that the CEO walk back some of his earliest remarks hyping AI powered Bing as potentially giving Microsoft a long sought after competitive advantage over Google.</li><li> In Silicon Valley Internet search is the biggest no fly zone which the Journal characterized as the hardest market to crack.</li><li> Even Microsoft's seeming lead in artificial intelligence it invested billions into OpenAI likely won't be enough to change that.</li></ul>",
+            "website_url": "https://arstechnica.com/tech-policy/2023/10/googles-claim-that-search-users-have-choice-is-bogus-microsoft-ceo-tells-judge/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "Setting up home automation is rough. Google, shockingly, has good ideas for it | Makemetechie.com Summary",
+            "description": "We can all use help finding connections between gear.",
+            "url": "/2023-10-03-setting-up-home-automation-is-rough-google-shockingly-has-good-ideas-for-it",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-466700725-760x380.jpg",
+            "publishedAt": "2023-10-04T20:01:04Z",
+            "content": "Enlarge/ Claus Scholz is offered tea and moral encouragement by his robots, MM7 and MM8, also known as Psychotrons, in 1950 Vienna. This could be us, but many home automation platforms are only pla [+7204 chars]",
+            "summary": "But there have to be many ways to make connecting your smart home gear far easier.You can make home automation easier on yourself in the short term by buying into a customized total-home system, the kind installed by contractors and controlled with wall-mounted tablets. \"Help me script\" is a code automation tool that turns natural languagelike, \"When I arrive home and the garage door closes, turn on the downstairs lights\"into Google Home scripts. But betting on one company to always be there for you is not something we generally recommend.This is why the idea of Googleor any companyoffering help with the deeper and more difficult parts of a smart home setup is so intriguing to me. )Earlier this week, Google announced another way that AI could help even seasoned smart home enthusiasts get more control. Even smart home systems with robust scripting abilities mostly let users develop great ideas for connecting two or more devices. Hooking them up to Google Home, Alexa, Apple's Home, or Home Assistant varies by device and system but should be achievable. In Google's example, you could have certain lights in your home blink three times and have speakers play a chimebut only if somebody is home.",
+            "html_summary": "<ul><li>But there have to be many ways to make connecting your smart home gear far easier.You can make home automation easier on yourself in the short term by buying into a customized total-home system, the kind installed by contractors and controlled with wall-mounted tablets..</li><li>\"Help me script\" is a code automation tool that turns natural language—like, \"When I arrive home and the garage door closes, turn on the downstairs lights\"—into Google Home scripts..</li><li>But betting on one company to always be there for you is not something we generally recommend.This is why the idea of Google—or any company—offering help with the deeper and more difficult parts of a smart home setup is so intriguing to me..</li><li>)Earlier this week, Google announced another way that AI could help even seasoned smart home enthusiasts get more control..</li><li>Even smart home systems with robust scripting abilities mostly let users develop great ideas for connecting two or more devices..</li><li>Hooking them up to Google Home, Alexa, Apple's Home, or Home Assistant varies by device and system but should be achievable..</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/10/setting-up-home-automation-is-rough-google-shockingly-has-good-ideas-for-it/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ryan Waniata",
+            "title": "Dealmaster Early Amazon Prime Big Deal Days sales heat up, Apple deals, and more | Makemetechie.com Summary",
+            "description": "Get sweet discounts on Apple tech and home gear ahead of Amazons Big Deal Days.",
+            "url": "/2023-10-03-dealmaster-early-amazon-prime-big-deal-days-sales-heat-up-apple-deals-and-more",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/07/Prime-day-2017.png",
+            "publishedAt": "2023-10-03T22:16:56Z",
+            "content": "9 with The Amazon Prime Big Deal Days event is creeping ever closer. For early shoppers, there are plenty of excellent tech deals available today from Amazon and competing retailers. Our curated De [+8812 chars]",
+            "summary": "The Amazon Prime Big Deal Days event is creeping ever closer. For early shoppers there are plenty of excellent tech deals available today from Amazon and competing retailers. Our curated Dealmaster comes with savings on Sony s wildly popular WF XM noise canceling earbuds. There are also sales on Apple gear including the AirPods Pro and the still excellent Apple Watch Series as well as deals on a bevy of home and office gear. Whatever you re into you ll likely find a great deal or three below.",
+            "html_summary": "<ul><li>The Amazon Prime Big Deal Days event is creeping ever closer.</li><li> For early shoppers there are plenty of excellent tech deals available today from Amazon and competing retailers.</li><li> Our curated Dealmaster comes with savings on Sony s wildly popular WF XM noise canceling earbuds.</li><li> There are also sales on Apple gear including the AirPods Pro and the still excellent Apple Watch Series as well as deals on a bevy of home and office gear.</li><li> Whatever you re into you ll likely find a great deal or three below.</li></ul>",
+            "website_url": "https://arstechnica.com/shopping/2023/10/dealmaster-early-amazon-prime-big-deal-days-sales-heat-up-apple-deals-and-more/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MADDIE BURAKOFF",
+            "title": "How are Mayan buildings still standing? Scientists unlocking secrets... | Makemetechie.com Summary",
+            "description": "Scientists are trying to understand how some ancient buildings have lasted for centuries in hopes of making modern buildings more durable. Materials like Roman concrete and Maya plaster have held up structures for thousands of years. Meanwhile, the concrete t",
+            "url": "/2023-10-03-ancient-cement-plaster-concrete-roman-maya-copan-f5799b0009acc8145805610ee1972ac9",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9ebf23d/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F85%2F64f0e845b5a33cce3a89b6d9357c%2Fef2bb04a34214f17bcf308863ade731b",
+            "publishedAt": "2023-10-03T11:55:37Z",
+            "content": "NEW YORK (AP) In the quest to build better for the future, some are looking for answers in the longago past.Ancient builders across the world created structures that are still standing today, thou [+8337 chars]",
+            "summary": "Scientists are trying to understand how some ancient buildings have lasted for centuries in hopes of making modern buildings more durable. Researchers used to think these chunks were a sign that the Romans werent mixing up their materials well enough.Instead, after analyzing concrete samples from Privernum  an ancient city outside of Rome  the scientists found that the chunks could fuel the materials self-healing abilities. Scientists think theyve found a key reason why some Roman concrete has held up structures for thousands of years: The ancient material has an unusual power to repair itself. (AP Photo/Andrew Medichini)Now, scientists think theyve found a key reason why some Roman concrete has held up structures for thousands of years: The ancient material has an unusual power to repair itself. The mortar that holds together some of Chinas most famous structures  including the Great Wall and the Forbidden City  includes traces of starch from sticky rice. And according to a study published earlier this year, the secret to these structures longevity might lie in the trees that sprout among them.A stucco relief is seen inside the Jaguar Tunnel at the Acropolis of Copan, an ancient Maya site in western Honduras, Saturday, Sept. 23, 2023. Then, chunks of material like rock and gravel are added, and the cement paste binds them into a concrete mass.According to records from ancient architects like Vitruvius, the Roman process was similar.",
+            "html_summary": "<ul><li>Scientists are trying to understand how some ancient buildings have lasted for centuries in hopes of making modern buildings more durable..</li><li>Researchers used to think these chunks were a sign that the Romans weren’t mixing up their materials well enough.Instead, after analyzing concrete samples from Privernum — an ancient city outside of Rome — the scientists found that the chunks could fuel the material’s “self-healing” abilities..</li><li>Scientists think they’ve found a key reason why some Roman concrete has held up structures for thousands of years: The ancient material has an unusual power to repair itself..</li><li>(AP Photo/Andrew Medichini)Now, scientists think they’ve found a key reason why some Roman concrete has held up structures for thousands of years: The ancient material has an unusual power to repair itself..</li><li>The mortar that holds together some of China’s most famous structures — including the Great Wall and the Forbidden City — includes traces of starch from sticky rice..</li><li>And according to a study published earlier this year, the secret to these structures’ longevity might lie in the trees that sprout among them.A stucco relief is seen inside the “Jaguar Tunnel” at the Acropolis of Copan, an ancient Maya site in western Honduras, Saturday, Sept. 23, 2023..</li></ul>",
+            "website_url": "https://apnews.com/article/ancient-cement-plaster-concrete-roman-maya-copan-f5799b0009acc8145805610ee1972ac9"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DAVID KEYTON and MIKE CORDER - Associated Press",
+            "title": "3 scientists win Nobel Prize in chemistry for their work on tiny quantum dots | Makemetechie.com Summary",
+            "description": "The Nobel Prize in chemistry has been awarded to Moungi Bawendi, Louis Brus and Alexei Ekimov for their work on tiny quantum dots. The secretarygeneral of the Royal Swedish Academy of Sciences announced the award Wednesday in Stockholm. The Nobel",
+            "url": "/2023-10-03-nobel-prize-chemistry-stockholm-cabca0d16dc33427799886a1f012effe",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/2/ec/2ec54c29-494d-5c27-89bc-0667a24c2068/651d419a2e75a.image.jpg?crop=1778%2C933%2C0%2C115&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-10-04T10:02:00Z",
+            "content": "By DAVID KEYTON and MIKE CORDER  Associated PressSTOCKHOLM (AP) Three scientists won the Nobel Prize in chemistry for their work on tiny quantum dots.Moungi Bawendi, of MIT, Louis Brus, of Colum [+3004 chars]",
+            "summary": "Three U.S. scientists won the Nobel Prize in chemistry Wednesday for their work on quantum dots  particles just a few atoms in diameter that can release bright colored light and whose applications in everyday life include electronics and medical imaging. The practical applications of quantum dots, like creating the colors in flat-screen TVs, are something he was hoping for when he started the work decades ago, he said.Basic research is extremely hard to predict exactly how its going to work out, Brus said. The advance notice apparently came from a news release sent out early by mistake.Quantum dots are tiny inorganic particles that glow a range of colors from red to blue when exposed to light. But it wasnt until several decades later that scientists could manufacture quantum dots in a lab.In the 1980s, Ekimov, 78, and Brus, 80, honed the theory and developed early laboratory techniques for creating particles that emit varying colors by adjusting sizes. Bawendi said he was not thinking about the possible applications of his work when he started researching quantum dots. And thats what drives scientists and academic scientists to do what they do, he said.Brus, a professor emeritus at Columbia, said he didnt pick up the phone when the early morning call came from the Swedish academy to notify him. He finally saw the news online when he got up around 6 a.m.I certainly was not expecting this, Brus said.Brus said he was glad to see recognition for the area of chemistry he practices.",
+            "html_summary": "<ul><li>Three U.S. scientists won the Nobel Prize in chemistry Wednesday for their work on quantum dots — particles just a few atoms in diameter that can release bright colored light and whose applications in everyday life include electronics and medical imaging..</li><li>The practical applications of quantum dots, like creating the colors in flat-screen TVs, are something he was hoping for when he started the work decades ago, he said.“Basic research is extremely hard to predict exactly how it’s going to work out,” Brus said..</li><li>The advance notice apparently came from a news release sent out early by mistake.Quantum dots are tiny inorganic particles that glow a range of colors from red to blue when exposed to light..</li><li>But it wasn’t until several decades later that scientists could manufacture quantum dots in a lab.In the 1980s, Ekimov, 78, and Brus, 80, honed the theory and developed early laboratory techniques for creating particles that emit varying colors by adjusting sizes..</li><li>Bawendi said he was not thinking about the possible applications of his work when he started researching quantum dots..</li><li>And that’s what drives scientists and academic scientists to do what they do,” he said.Brus, a professor emeritus at Columbia, said he didn’t pick up the phone when the early morning call came from the Swedish academy to notify him..</li></ul>",
+            "website_url": "https://apnews.com/article/nobel-prize-chemistry-stockholm-cabca0d16dc33427799886a1f012effe"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Electric Hydrogen is the green hydrogen industrys first unicorn | TechCrunch | Makemetechie.com Summary",
+            "description": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and",
+            "url": "/2023-10-03-electric-hydrogen-is-the-green-hydrogen-industrys-first-unicorn",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?resize=1200,802",
+            "publishedAt": "2023-10-03T21:38:36Z",
+            "content": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and minimal government support have made the green hyd [+3011 chars]",
+            "summary": "Electric Hydrogen has just become green hydrogen s first unicorn with a million Series C raise that brought its valuation up to billion. The startup is backed by heavy hitters like Microsoft s Climate Innovation Fund United Airlines BP and Fortescue Metals. The funds will be used to expand production capacity of its electrolyzers according to a spokesperson for the company. Electrolyzers are devices that use a process called electrolysis to split water H O into its constituent elements hydrogen H and oxygen O. They are expensive and consume tons of renewable energy to make a small amount of hydrogen.",
+            "html_summary": "<ul><li>Electric Hydrogen has just become green hydrogen s first unicorn with a million Series C raise that brought its valuation up to billion.</li><li> The startup is backed by heavy hitters like Microsoft s Climate Innovation Fund United Airlines BP and Fortescue Metals.</li><li> The funds will be used to expand production capacity of its electrolyzers according to a spokesperson for the company.</li><li> Electrolyzers are devices that use a process called electrolysis to split water H O into its constituent elements hydrogen H and oxygen O.</li><li> They are expensive and consume tons of renewable energy to make a small amount of hydrogen.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/03/electric-hydrogen-is-the-green-hydrogen-industrys-first-unicorn/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "7 companies to provide NASA with commercial satellite imagery under $476M contract | TechCrunch | Makemetechie.com Summary",
+            "description": "Umbra, Capella Space and GHGSat are among the seven companies that will provide NASA with commercial satellite imagery.",
+            "url": "/2023-10-03-7-companies-to-provide-nasa-with-commercial-satellite-imagery-under-476m-contract",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/niagara-falls-umbra.jpeg?resize=1200,807",
+            "publishedAt": "2023-10-03T20:14:38Z",
+            "content": "Umbra, Capella Space and GHGSat are among the seven companies that will provide NASA with commercial satellite imagery, part of an acquisition program that has a maximum potential value of $476 milli [+1663 chars]",
+            "summary": "Umbra Capella Space and GHGSat are among the seven companies that will provide NASA with commercial satellite imagery. The contract duration is five years with an option to extend it by six months Maxar s intelligence division PlanetIQ Spire and Airbus Defence and Space subsidiary Airbus DS GEO were also selected for the five year contract. The awards are under the aegis of NASA s Commercial Smallsat Data Acquisition Program which was established by the agency s Earth Science Division to acquire remote sensing imagery from commercial providers.",
+            "html_summary": "<ul><li>Umbra Capella Space and GHGSat are among the seven companies that will provide NASA with commercial satellite imagery.</li><li> The contract duration is five years with an option to extend it by six months Maxar s intelligence division PlanetIQ Spire and Airbus Defence and Space subsidiary Airbus DS GEO were also selected for the five year contract.</li><li> The awards are under the aegis of NASA s Commercial Smallsat Data Acquisition Program which was established by the agency s Earth Science Division to acquire remote sensing imagery from commercial providers.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/03/7-companies-to-provide-nasa-with-commercial-satellite-imagery-under-476m-contract/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Unitary AI picks up $15M for its multimodal approach to video content moderation | TechCrunch | Makemetechie.com Summary",
+            "description": "Content moderation continues to be a contentious topic in the world of online media. New regulations and public concern are likely to keep it as a",
+            "url": "/2023-10-03-unitary-ai-picks-up-15m-for-its-multimodal-approach-to-video-content-moderation",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-03-at-01.44.37.png?resize=1200,820",
+            "publishedAt": "2023-10-03T07:40:55Z",
+            "content": "Content moderation continues to be a contentious topic in the world of online media. New regulations and public concern are likely to keep it as a priority for many years to come. But weaponised AI a [+6104 chars]",
+            "summary": "Unitary has emerged as clear early leaders in the important AI field of content safety, and were so excited to back this exceptional team as they continue to accelerate and innovate in content classification technology.From the start, Unitary had some of the most powerful AI for classifying harmful content. Lately, social media companies have signaled a move away from stronger moderation policies; fact-checking organizations are losing momentum; and questions remain about the ethics of moderation when it comes to harmful content. In an online world, theres an immense need for a technology-driven approach to identify harmful content, said Christopher Steed, chief investment officer, Paladin Capital Group, in a statement.Still, its a crowded space. Rather than analyzing just a series of frames, in order to understand the nuance and whether a video is [for example] artistic or violent, you need to be able to simulate the way a human moderator watches the video. But also, it may refer to Hacos previous career: Unitary operators are used in describing a quantum state, which in itself is complicated and unpredictable  just like online content and humans. Unitary thus straddles that interesting intersection of cutting-edge research and real-world application.We first met Sasha and James two years ago and have been incredibly impressed, said Gemma Bloemen, a principal at Creandum and board member, in a statement. Content moderation continues to be a contentious topic in the world of online media.",
+            "html_summary": "<ul><li>“Unitary has emerged as clear early leaders in the important AI field of content safety, and we’re so excited to back this exceptional team as they continue to accelerate and innovate in content classification technology.”“From the start, Unitary had some of the most powerful AI for classifying harmful content..</li><li>Lately, social media companies have signaled a move away from stronger moderation policies; fact-checking organizations are losing momentum; and questions remain about the ethics of moderation when it comes to harmful content..</li><li>“In an online world, there’s an immense need for a technology-driven approach to identify harmful content,” said Christopher Steed, chief investment officer, Paladin Capital Group, in a statement.Still, it’s a crowded space..</li><li>“Rather than analyzing just a series of frames, in order to understand the nuance and whether a video is [for example] artistic or violent, you need to be able to simulate the way a human moderator watches the video..</li><li>But also, it may refer to Haco’s previous career: Unitary operators are used in describing a quantum state, which in itself is complicated and unpredictable — just like online content and humans..</li><li>Unitary thus straddles that interesting intersection of cutting-edge research and real-world application.“We first met Sasha and James two years ago and have been incredibly impressed,” said Gemma Bloemen, a principal at Creandum and board member, in a statement..</li></ul>",
+            "website_url": "https://techcrunch.com/2023/10/02/unitary-ai-picks-up-15m-for-its-multimodal-approach-to-video-content-moderation/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Tom Hanks warns of AIgenerated doppelganger in Instagram plea | Makemetechie.com Summary. Googles claim that search users have choice is bogus, Microsoft CEO tells judge | Makemetechie.com Summary. Setting up home automation is rough. Google, shockingly, has good ideas for it | Makemetechie.com Summary. Dealmaster Early Amazon Prime Big Deal Days sales heat up, Apple deals, and more | Makemetechie.com Summary. How are Mayan buildings still standing? Scientists unlocking secrets... | Makemetechie.com Summary. 3 scientists win Nobel Prize in chemistry for their work on tiny quantum dots | Makemetechie.com Summary. Electric Hydrogen is the green hydrogen industrys first unicorn | TechCrunch | Makemetechie.com Summary. 7 companies to provide NASA with commercial satellite imagery under $476M contract | TechCrunch | Makemetechie.com Summary. Unitary AI picks up $15M for its multimodal approach to video content moderation | TechCrunch | Makemetechie.com Summary"
+}

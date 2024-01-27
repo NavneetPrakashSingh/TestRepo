@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Rocket Report Iran launches satellite; Artemis II boosters get train ride | Makemetechie.com Summary",
+            "description": "Is ArianeGroup finally getting more serious about a reusable rocket?",
+            "url": "/2023-09-29-rocket-report-iran-launches-satellite-artemis-ii-boosters-get-train-ride",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/MAF_20230921_CS2_4EnginesInstalled_02-2048x1365-1-760x380.jpg",
+            "publishedAt": "2023-09-29T11:00:23Z",
+            "content": "Enlarge/ All four RS25 main engines are now installed the core stage for the Artemis II mission.4 with Welcome to Edition 6.13 of the Rocket Report! While SpaceX waits for regulatory approval to [+7451 chars]",
+            "summary": "The US Space Force's successful \"Victus Nox\" responsive launch demonstration on September 14 set a high bar, with contractor teams proving that they could prepare a satellite for launch, integrate it with a rocket, and send it into orbit in record time, Space News reports. This military satellite launched aboard a Qased rocket, a small launch vehicle powered by a liquid-fueled booster stage. This was the third consecutive successful launch of the Qased rocket to put a small satellite into orbit. Publicly available US military tracking data indicated the rocket deployed the Noor 3 satellite into an orbit about 280 miles (450 kilometers) above Earth.Purely military ... The company's founder, Jason Hundley, says X-Bow's technology can work for any size rocket motor, and the 3D-printing technology will permit the stand-up of a solid propellant production line within 12 months rather than the three to six years it takes for traditional aerospace companies. ArianeGroup, Europe's largest launch vehicle manufacturer, recently invested 27 million euros into a reusable rocket startup called MaiaSpace, European Spaceflight reports. A startup named X-Bow Systems has received a $17.8 million contract from the US Air Force Research Laboratory to demonstrate additive manufacturing technologies for solid rocket propulsion, Space News reports.",
+            "html_summary": "<ul><li>The US Space Force's successful \"Victus Nox\" responsive launch demonstration on September 14 set a high bar, with contractor teams proving that they could prepare a satellite for launch, integrate it with a rocket, and send it into orbit in record time, Space News reports..</li><li>This military satellite launched aboard a Qased rocket, a small launch vehicle powered by a liquid-fueled booster stage..</li><li>This was the third consecutive successful launch of the Qased rocket to put a small satellite into orbit..</li><li>Publicly available US military tracking data indicated the rocket deployed the Noor 3 satellite into an orbit about 280 miles (450 kilometers) above Earth.Purely military ....</li><li>The company's founder, Jason Hundley, says X-Bow's technology can work for any size rocket motor, and the 3D-printing technology will permit the stand-up of a solid propellant production line within 12 months rather than the three to six years it takes for traditional aerospace companies..</li><li>ArianeGroup, Europe's largest launch vehicle manufacturer, recently invested 27 million euros into a reusable rocket startup called MaiaSpace, European Spaceflight reports..</li></ul>",
+            "website_url": "https://arstechnica.com/space/2023/09/rocket-report-iran-launches-satellite-artemis-ii-boosters-get-train-ride/"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By JOSH BOAK - Associated Press",
+            "title": "As employers face labor shortages, Biden administration rolls out playbook for training workers | Makemetechie.com Summary",
+            "description": "The Biden administration is releasing a playbook on best practices for training workers as the low 3.8% unemployment rate and years of underinvestment have left manufacturers, construction firms and other employers with unfilled jobs. Worker shortages have be",
+            "url": "/2023-09-29-biden-worker-training-apprentice-d2a8dbefa5d5d70431e9cd7073b1baa0",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/4/e2/4e21d3df-1047-5edb-87f6-d559e1ad13bc/6516ab8163c3e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-09-29T09:03:00Z",
+            "content": "By JOSH BOAK  Associated PressWASHINGTON (AP) The Biden administration on Friday is expected to release a playbook on best practices for training workers as the low 3.8% unemployment rate and year [+2724 chars]",
+            "summary": "The Biden administration on Friday is expected to release a playbook on best practices for training workers. The low unemployment rate and years of underinvestment have left manufacturers construction firms and other employers with unfilled jobs. Finding employees to replace retirees also has become a challenge. As part of the pandemic rescue package state and local governments have committed billion to worker training. The money must be spent by the end of and the administration is trying to ensure the investments pay off as promised. This is a chance to make a once in a generation investment in the skills and well being of workers in your communities says Treasury Department official Veronica Soto.",
+            "html_summary": "<ul><li>The Biden administration on Friday is expected to release a playbook on best practices for training workers.</li><li> The low unemployment rate and years of underinvestment have left manufacturers construction firms and other employers with unfilled jobs.</li><li> Finding employees to replace retirees also has become a challenge.</li><li> As part of the pandemic rescue package state and local governments have committed billion to worker training.</li><li> The money must be spent by the end of and the administration is trying to ensure the investments pay off as promised.</li><li> This is a chance to make a once in a generation investment in the skills and well being of workers in your communities says Treasury Department official Veronica Soto.</li></ul>",
+            "website_url": "https://apnews.com/article/biden-worker-training-apprentice-d2a8dbefa5d5d70431e9cd7073b1baa0"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Pudgy Penguins approach may be the answer to fixing NFTs revenue problems | TechCrunch | Makemetechie.com Summary",
+            "description": "The companys toyfocused expansion is its bet that NFTs should have a broader presence, one thats not limited to the digital world.",
+            "url": "/2023-09-29-pudgy-penguins-nfts-revenue-problems",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/FaZp7iSXoAAwdgz.jpeg?resize=1200,799",
+            "publishedAt": "2023-09-29T18:31:46Z",
+            "content": "Pudgy Penguins was once solely known for its 8,888 NFT collection. But ever since 24yearold Luca Netz bought the project for $2.5 million and took over as CEO in April 2022, it has evolved into an  [+2471 chars]",
+            "summary": "Pudgy Penguins digital collectibles have generated over million in transaction volume since they were released. Luca Netz bought the project for million and took over as CEO in April. Pudgy Toys became available in over Walmart stores across the U S this week. The company is also launching its toys in Smyths one of the biggest toy store chains in the United Kingdom. The toy focused expansion is Netz s bet that NFTs should have a broader presence one that s not limited to the digital world.",
+            "html_summary": "<ul><li>Pudgy Penguins digital collectibles have generated over million in transaction volume since they were released.</li><li> Luca Netz bought the project for million and took over as CEO in April.</li><li> Pudgy Toys became available in over Walmart stores across the U S this week.</li><li> The company is also launching its toys in Smyths one of the biggest toy store chains in the United Kingdom.</li><li> The toy focused expansion is Netz s bet that NFTs should have a broader presence one that s not limited to the digital world.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/09/29/pudgy-penguins-nfts-revenue-problems/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Rocket Report Iran launches satellite; Artemis II boosters get train ride | Makemetechie.com Summary. As employers face labor shortages, Biden administration rolls out playbook for training workers | Makemetechie.com Summary. Pudgy Penguins approach may be the answer to fixing NFTs revenue problems | TechCrunch | Makemetechie.com Summary"
+}

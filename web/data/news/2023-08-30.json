@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Voxel uses computer vision to increase workplace safety | TechCrunch",
+            "description": "The International Labour Organization estimates that there are 340 million workplace incidents every year. Voxel was created to increase workplace safety The International Labour Organization estimates that there are 340 million workplace incidents every year",
+            "url": "/2023-08-30-voxel",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/voxel_nearmiss_video_laptop.png?resize=1200,693",
+            "publishedAt": "2023-08-30T11:00:59Z",
+            "content": "The International Labour Organization estimates that there are 340 million workplace incidents every year. Voxel was created to increase workplace safety through computer vision. The startup announce [+3170 chars]",
+            "summary": "Voxel was created to increase workplace safety through computer vision. The startup announced today it has raised million in strategic funding led by manufacturer Rite Hite with participation from returning investors Eclipse Ventures and MTech. Voxel is currently used by companies like Michael s Dollar Tree Clorox PPG Industries and Office Depot. It was founded by CEO Alex Senemar who previously launched Sherbit an AI powered remote health monitoring system for hospitals that was acquired in by Medopad Other co founders include CTO Anurag Kanungo Harishma Dayanidhi and former Google software engineer Troy Carlson.",
+            "html_summary": "<ul><li>Voxel was created to increase workplace safety through computer vision</li><li> The startup announced today it has raised million in strategic funding led by manufacturer Rite Hite with participation from returning investors Eclipse Ventures and MTech</li><li> Voxel is currently used by companies like Michael s Dollar Tree Clorox PPG Industries and Office Depot</li><li> It was founded by CEO Alex Senemar who previously launched Sherbit an AI powered remote health monitoring system for hospitals that was acquired in by Medopad Other co founders include CTO Anurag Kanungo Harishma Dayanidhi and former Google software engineer Troy Carlson</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/30/voxel/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Praso bags $9.3M, acquires Flokis IP to simplify food purchasing for Brazilian retailers | TechCrunch",
+            "description": "The company connects large foodservice manufacturers with bars, restaurants, cafs and bakeries then manages fulfillment.",
+            "url": "/2023-08-30-praso-9-3m-floki-food-purchasing-brazil-restaurant",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Praso.jpg?resize=1200,675",
+            "publishedAt": "2023-08-30T11:00:49Z",
+            "content": "Praso, a Brazilbased company providing a distribution platform for small retailers, secured $9.3 million in Series A funding. It also announced the acquisition of the intellectual property of Floki, [+4255 chars]",
+            "summary": "Praso a Brazil based company providing a distribution platform for small retailers secured million in Series A funding. It also announced the acquisition of the intellectual property of Floki a company using artificial intelligence to automate the purchases of small bars and restaurants. Praso connects large foodservice manufacturers with small retailers like bars restaurants caf s and bakeries and provides a data driven approach to demand generation last mile logistics understanding purchasing behavior and a credit solution. The company grew its revenue x and is on track to grow another x by the end of this year.",
+            "html_summary": "<ul><li>Praso a Brazil based company providing a distribution platform for small retailers secured million in Series A funding</li><li> It also announced the acquisition of the intellectual property of Floki a company using artificial intelligence to automate the purchases of small bars and restaurants</li><li> Praso connects large foodservice manufacturers with small retailers like bars restaurants caf s and bakeries and provides a data driven approach to demand generation last mile logistics understanding purchasing behavior and a credit solution</li><li> The company grew its revenue x and is on track to grow another x by the end of this year</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/30/praso-9-3m-floki-food-purchasing-brazil-restaurant/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Hyperproof, a compliance and risk management startup, raises $40M | TechCrunch",
+            "description": "Hyperproof, a startup building tools to enable organizations to become more compliant with data regulations, has raised $40 million in funding.",
+            "url": "/2023-08-30-hyperproof-compliance-startup-raises-40m",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800",
+            "publishedAt": "2023-08-30T10:09:35Z",
+            "content": "Hyperproof, a softwareasaservice risk and compliance management company, today announced that it raised $40 million in a funding round led by Riverwood Capital with participation from Toba Capital [+6757 chars]",
+            "summary": "Hyperproof seeks to automate non-strategic compliance tasks for around 85 compliance and governance frameworks, including FedRAMP, the U.S. federal government-wide compliance program for cloud services and products.Hyperproofs compliance and policy monitoring dashboard. The same report estimated that the cost of being compliant by using the right tools and training was actually 2.71 times the cost of being noncompliant.Hyperproofs rivals include Cypago, which offers tools to automate governance, compliance and risk workflows, and Osano, a data privacy management platform. Hyperproofs algorithms and rules try to prevent duplicative work while creating novel connections between the user data and compliance regimes that require this data, he explained  ostensibly saving teams time and money.Enterprises in the past have taken two distinct paths, Unger said. Thats why companies are increasingly adopting flexible and scalable software-as-a-service platforms like Hyperproof that can scale to meet their diverse needs while increasing collaboration between teams and visibility across the organization.Now, Hyperproof isnt the only player in the compliance software solutions market. Meanwhile, the EU recently adopted the Cybersecurity Act, which imposes stricter requirements on businesses storing private data, and the U.S. Securities and Exchange Commission released new regulatory disclosure rules.Most enterprises are attempting to build a culture of compliance in response. 'So in 2018, Unger launched Hyperproof, which provides a system of record for compliance data coupled with a collaboration and work management system. Another module, an audit management module, gives teams visibility into audit prep statuses and helps them map evidence from existing controls to audit requests.",
+            "html_summary": "<ul><li>Hyperproof seeks to automate “non-strategic” compliance tasks for around 85 compliance and governance frameworks, including FedRAMP, the U.S. federal government-wide compliance program for cloud services and products.Hyperproof’s compliance and policy monitoring dashboard.</li><li>The same report estimated that the cost of being compliant by using the right tools and training was actually 2.71 times the cost of being noncompliant.Hyperproof’s rivals include Cypago, which offers tools to automate governance, compliance and risk workflows, and Osano, a data privacy management platform.</li><li>Hyperproof’s algorithms and rules try to prevent duplicative work while “creating novel connections between the user data and compliance regimes that require this data,” he explained — ostensibly saving teams time and money.“Enterprises in the past have taken two distinct paths,” Unger said.</li><li>That’s why companies are increasingly adopting flexible and scalable software-as-a-service platforms like Hyperproof that can scale to meet their diverse needs while increasing collaboration between teams and visibility across the organization.”Now, Hyperproof isn’t the only player in the compliance software solutions market.</li><li>Meanwhile, the EU recently adopted the Cybersecurity Act, which imposes stricter requirements on businesses storing private data, and the U.S. Securities and Exchange Commission released new regulatory disclosure rules.Most enterprises are attempting to build a culture of compliance in response.</li><li>'”So in 2018, Unger launched Hyperproof, which provides a system of record for compliance data coupled with a collaboration and work management system.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/30/hyperproof-compliance-startup-raises-40m/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Voxel uses computer vision to increase workplace safety | TechCrunch. Praso bags $9.3M, acquires Flokis IP to simplify food purchasing for Brazilian retailers | TechCrunch. Hyperproof, a compliance and risk management startup, raises $40M | TechCrunch"
+}

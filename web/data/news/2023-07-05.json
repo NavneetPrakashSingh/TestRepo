@@ -1,0 +1,103 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "Mid1990s Sega document leak shows how it lost the second console war to Sony",
+            "description": "Another example of why we will eventually win, writes blissfully unaware CEO.",
+            "url": "/2023-07-05-mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cropped_postit-760x380.png",
+            "publishedAt": "2023-07-05T16:48:43Z",
+            "content": "Enlarge/ There are so many incomplete and esoteric thoughts on this note attached to a Brand Strategy folder in the Sega leaked docs that I will be thinking about it for days, if not months. What w [+4352 chars]",
+            "summary": "All Sega had to do, according to the next slide, was improve its software, get pricing advantage, improve its advertising, spend better on TV advertising, and \"dramatically improve\" its game timing. The retail margin on a core $250 Saturn system, without pack-in games, was 6 percent, or $15, while Sony seemed to be offering 10 percent core, 15 percent pack-in. Enthusiasts and historians can see the costs, margins, and sales of every Sega system sold in America by 1997 in detailed business plan spreadsheets. And you can read Kalinske's notes to marketing head Neil Cohen demanding 50 percent of the ad be game footage and asking, \"When did we decide on Hare Krishna cult members?\" Strategies included \"position Saturn as the technically superior next generation system,\" \"leverage exclusive Saturn peripherals,\" and \"strengthen sports line-up and ship titles concurrent with season. The answer, according to Sega, is that it was perceived to be cheaper, its software \"looks better than ours,\" that Sega \"equity has been damaged by 32x and Sega CD,\" and that Sony has \"effectively leveraged their considerable equity from consumer electronics.\" Sega's Wikipedia page will likely be overhauled with the information contained in inter-departmental emails, like the one where CEO Tom Kalinske assures staff (and perhaps himself) that \"we are killing Sony\" in Japan in March 1996.",
+            "html_summary": "<ul><li>All Sega had to do, according to the next slide, was improve its software, get pricing advantage, improve its advertising, spend better on TV advertising, and \"dramatically improve\" its game timing.</li><li>The retail margin on a core $250 Saturn system, without pack-in games, was 6 percent, or $15, while Sony seemed to be offering 10 percent core, 15 percent pack-in.</li><li>Enthusiasts and historians can see the costs, margins, and sales of every Sega system sold in America by 1997 in detailed business plan spreadsheets.</li><li>And you can read Kalinske's notes to marketing head Neil Cohen demanding 50 percent of the ad be game footage and asking, \"When did we decide on Hare Krishna cult members?\"</li><li>Strategies included \"position Saturn as the technically superior next generation system,\" \"leverage exclusive Saturn peripherals,\" and \"strengthen sports line-up and ship titles concurrent with season.</li><li>The answer, according to Sega, is that it was perceived to be cheaper, its software \"looks better than ours,\" that Sega \"equity has been damaged by 32x and Sega CD,\" and that Sony has \"effectively leveraged their considerable equity from consumer electronics.\"</li></ul>",
+            "website_url": "https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Yes, investors will sign an NDA, but only in this specific circumstance",
+            "description": "If youve tried to get an investor to sign an NDA before you pitch them, youll often be waved off with something like, We dont do that.",
+            "url": "/2023-07-05-vc-investor-nda",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-912978272.jpg?resize=1200,800",
+            "publishedAt": "2023-07-05T14:01:16Z",
+            "content": "If youve tried to get an investor to sign a nondisclosure agreement (NDA) before you pitch them, youll often be waved off with something like, We dont do that.That is somewhat sensible Investors t [+1002 chars]",
+            "summary": "For example, an investor could agree to not share anything youve disclosed, but its possible they heard another startup doing exactly what you do, with exactly your approach a couple of weeks before they spoke to you.",
+            "html_summary": "<ul><li>For example, an investor could agree to not share anything you’ve disclosed, but it’s possible they heard another startup doing exactly what you do, with exactly your approach a couple of weeks before they spoke to you.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/05/vc-investor-nda/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "UK security researchers latest to blast Online Safety Bill as encryption risk",
+            "description": "Nearly 70 IT security and privacy experts have added to the clamour of alarm over the damage the UKs Online Safety Bill could wreak to strong encryption.",
+            "url": "/2023-07-05-uk-online-safety-bill-risks-e2ee",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1182226451.jpg?resize=1200,675",
+            "publishedAt": "2023-07-05T11:04:29Z",
+            "content": "Nearly 70 IT security and privacy academics have added to the clamour of alarm over the damage the UKs Online Safety Bill could wreak to, er, online safety unless its amended to ensure it does not  [+6787 chars]",
+            "summary": "In brief, our concern is that surveillance technologies are deployed in the spirit of providing online safety.",
+            "html_summary": "<ul><li>“In brief, our concern is that surveillance technologies are deployed in the spirit of providing online safety.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/05/uk-online-safety-bill-risks-e2ee/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "CADDi raises $89M Series C to scale its B2B supply chain marketplace for manufacturing parts",
+            "description": "The pandemic has damaged the entire manufacturing supply chain, which is not likely to return to normal until at least 2024 due to a few challenges, including the ongoing U.S.China tech battle. According to a recent survey by the Association of Equipment Man",
+            "url": "/2023-07-05-caddi-raises-89m-series-c-to-scale-its-b2b-supply-chain-marketplace-for-manufacturing-parts",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1022854924.jpg?resize=1200,523",
+            "publishedAt": "2023-07-05T13:59:01Z",
+            "content": "The pandemic has damaged the entire manufacturing supply chain, which is not likely to return to normal until at least 2024 due to a few challenges, including the ongoing U.S.China tech battle. Acco [+4306 chars]",
+            "summary": "But the problem is consumers cannot get optimal pricing with low- to mid-volume production manufacturers due to volume constraints.The outfit says the CAADi Manufacturing platform eliminates some procurement work and aggregates orders to help find similar materials, processes and suitable delivery schedules. Today, a startup called CADDi, which operates a business-to-business (B2B) marketplace for the manufacturing industry, said it has raised $89 million in a Series C round, bringing its total capital to $164 million, to scale its business and help those equipment manufacturing players. CADDi Drawer offers access to all procurement data and details that impact quality, cost and delivery (QCD); its platform also enables users to save significant time and costs while allowing manufacturers to improve QCD with more drawings created. So, instead of more drawings providing more improvement, its almost like the data is never saved, and people are forced to start from scratch every time. CADDi claims it works with 70% of Japans top 20 industrial equipment manufacturers (by revenue) for CADDi Manufacturing. It will use the proceeds to enhance CADDi manufacturing and CADDi Drawing and expand its workforce in the U.S., aiming to reach its goals of posting $10 billion in revenue from CADDi manufacturing and $1 billion in revenue from CADDi Drawer by 2030. Some of the pains in the procurement industry in the U.S. are similar to those in Japan, Kato said, citing not only labor shortages in the manufacturing sector but also many ongoing mergers and acquisitions. Because of the difficulty of access [drawings], drawings are often recreated or just not found, which means keys to improving QCD, the KPI for manufacturing professionals, are never unlocked, Kato said.",
+            "html_summary": "<ul><li>But the problem is consumers cannot get optimal pricing with low- to mid-volume production manufacturers due to volume constraints.The outfit says the CAADi Manufacturing platform eliminates some procurement work and aggregates orders to help find similar materials, processes and suitable delivery schedules.</li><li>Today, a startup called CADDi, which operates a business-to-business (B2B) marketplace for the manufacturing industry, said it has raised $89 million in a Series C round, bringing its total capital to $164 million, to scale its business and help those equipment manufacturing players.</li><li>CADDi Drawer offers access to “all procurement data” and details that impact quality, cost and delivery (QCD); its platform also enables users to save significant time and costs while allowing manufacturers to improve QCD with more drawings created.</li><li>“So, instead of more drawings providing more improvement, it’s almost like the data is never saved, and people are forced to start from scratch every time.” CADDi claims it works with 70% of Japan’s top 20 industrial equipment manufacturers (by revenue) for CADDi Manufacturing.</li><li>It will use the proceeds to enhance CADDi manufacturing and CADDi Drawing and expand its workforce in the U.S., aiming to reach its goals of posting $10 billion in revenue from CADDi manufacturing and $1 billion in revenue from CADDi Drawer by 2030.</li><li>Some of the pains in the procurement industry in the U.S. are similar to those in Japan, Kato said, citing not only labor shortages in the manufacturing sector but also many ongoing mergers and acquisitions.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/05/caddi-raises-89m-series-c-to-scale-its-b2b-supply-chain-marketplace-for-manufacturing-parts/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "NYCs antibias law for hiring algorithms goes into effect",
+            "description": "An NYC law that aims to limit bias in hiring and recruitment algorithms has gone into effect after repeated delays.",
+            "url": "/2023-07-05-nycs-anti-bias-law-for-hiring-algorithms-goes-into-effect",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+            "publishedAt": "2023-07-05T12:30:27Z",
+            "content": "After months of delays, New York City today began enforcing a law that requires employers using algorithms to recruit, hire or promote employees to submit those algorithms for an independent audit   [+6896 chars]",
+            "summary": ")The  proposed rules [must be strengthened to] ensure broad coverage of [hiring algorithms], expand the bias audit requirements and provide transparency and meaningful notice to affected people in order to ensure that [algorithms] dont operate to digitally circumvent New York Citys laws against discrimination, Schwarz wrote. After months of delays, New York City today began enforcing a law that requires employers using algorithms to recruit, hire or promote employees to submit those algorithms for an independent audit  and make the results public. Were not yet at a place where algorithms can or should be trusted to make these decisions on their own without mirroring and perpetuating biases that already exist in the world of work.One neednt look far for evidence of bias seeping into hiring algorithms. Daniel Schwarz, senior privacy and technology strategist at the NYCLU, notes in a policy memo that Local Law 144 could, as written, be understood to only cover a subset of hiring algorithms  for example excluding tools that transcribe text from video and audio interviews. It must also list the algorithms impact ratios, which the law defines as the average algorithm-given score of all people in a specific category (e.g. Black male candidates) divided by the average score of people in the highest-scoring category.Companies found not to be in compliance will face penalties of $375 for a first violation, $1,350 for a second violation and $1,500 for a third and any subsequent violations. The percentage is even higher  42%  among employers with 5,000 or more employees.So what forms of algorithms are employers using, exactly?",
+            "html_summary": "<ul><li>)“The … proposed rules [must be strengthened to] ensure broad coverage of [hiring algorithms], expand the bias audit requirements and provide transparency and meaningful notice to affected people in order to ensure that [algorithms] don’t operate to digitally circumvent New York City’s laws against discrimination,” Schwarz wrote.</li><li>After months of delays, New York City today began enforcing a law that requires employers using algorithms to recruit, hire or promote employees to submit those algorithms for an independent audit — and make the results public.</li><li>“We’re not yet at a place where algorithms can or should be trusted to make these decisions on their own without mirroring and perpetuating biases that already exist in the world of work.”One needn’t look far for evidence of bias seeping into hiring algorithms.</li><li>Daniel Schwarz, senior privacy and technology strategist at the NYCLU, notes in a policy memo that Local Law 144 could, as written, be understood to only cover a subset of hiring algorithms — for example excluding tools that transcribe text from video and audio interviews.</li><li>It must also list the algorithms’ “impact ratios,” which the law defines as the average algorithm-given score of all people in a specific category (e.g.</li><li>Black male candidates) divided by the average score of people in the highest-scoring category.Companies found not to be in compliance will face penalties of $375 for a first violation, $1,350 for a second violation and $1,500 for a third and any subsequent violations.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/05/nycs-anti-bias-law-for-hiring-algorithms-goes-into-effect/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "EGYM, the Munichbased smart fitness startup, raises $225M from Jared Kushners Affinity Partners",
+            "description": "The technology industry at large might not be in the best of health at the moment, but health and fitness startups appear to be alive and well. EGYM, the Munichbased smart workout solution business, has agreed a monster equity investment of 207 million ($",
+            "url": "/2023-07-05-egym-the-munich-based-smart-fitness-startup-raises-225m-from-jared-kushners-affinity-partners",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/EGYM.jpg?resize=1200,691",
+            "publishedAt": "2023-07-05T16:01:13Z",
+            "content": "The technology industry at large might not be in the best of health at the moment, but health and fitness startups appear to be alive and well. EGYM, the Munichbased smart workout solution busines [+6579 chars]",
+            "summary": "This is a Series F, and EGYM said that roughly half of it, 107 million, will flow immediately with the remaining 100 million on the table for future use.The first tranche is coming at a post-money valuation of 600 million. We want to shift that.You can argue that this is a gross over-simplification of the state of global healthcare market today, but you might argue less with EGYMs numbers.The business brought in $130 million in revenues in 2022, growing 70% year-over-year. The technology industry at large might not be in the best of health at the moment, but health and fitness startups appear to be alive and well. Over time, the company has been slowly incorporating more sophisticated tech into the mix, and making the software work with other equipment. Last week, Augmedics raised more than $80 million for a new take on spinal surgery that aims to be less invasive and more accurate thanks to AR and AI. Affinity Partners  the Saudi-backed, Florida-based investment firm founded by the son-in-law and close confidante of former U.S. President Donald Trump  is leading the round, with previous backers Mayfair Equity Partners and Bayern Kapital also participating. (On that note, Roesch-Schlanderer said that its not looking at Affinity as a strategic investor: There have been no conversations so far to bring on The Trump Organization or its various resort properties as customers.",
+            "html_summary": "<ul><li>This is a Series F, and EGYM said that roughly half of it, €107 million, will “flow immediately” with the remaining €100 million on the table for future use.The first tranche is coming at a post-money valuation of €600 million.</li><li>“We want to shift that.”You can argue that this is a gross over-simplification of the state of global healthcare market today, but you might argue less with EGYM’s numbers.The business brought in $130 million in revenues in 2022, growing 70% year-over-year.</li><li>The technology industry at large might not be in the best of health at the moment, but health and fitness startups appear to be alive and well.</li><li>Over time, the company has been slowly incorporating more sophisticated tech into the mix, and making the software work with other equipment.</li><li>Last week, Augmedics raised more than $80 million for a new take on spinal surgery that aims to be less invasive and more accurate thanks to AR and AI.</li><li>Affinity Partners — the Saudi-backed, Florida-based investment firm founded by the son-in-law and close confidante of former U.S. President Donald Trump — is leading the round, with previous backers Mayfair Equity Partners and Bayern Kapital also participating.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/07/05/egym-the-munich-based-smart-fitness-startup-raises-225m-from-jared-kushners-affinity-partners/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Mid1990s Sega document leak shows how it lost the second console war to Sony. Yes, investors will sign an NDA, but only in this specific circumstance. UK security researchers latest to blast Online Safety Bill as encryption risk. CADDi raises $89M Series C to scale its B2B supply chain marketplace for manufacturing parts. NYCs antibias law for hiring algorithms goes into effect. EGYM, the Munichbased smart fitness startup, raises $225M from Jared Kushners Affinity Partners"
+}

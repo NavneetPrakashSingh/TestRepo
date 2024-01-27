@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "Report Apple Watch X will redesign the popular wearable for the first time",
+            "description": "A microLED display and a thinner enclosure could headline the redesign.",
+            "url": "/2023-08-13-report-apple-watch-x-will-redesign-the-popular-wearable-for-the-first-time",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Best-Apple-Watch-2023-3-800x534-1-760x380.jpg",
+            "publishedAt": "2023-08-14T19:38:09Z",
+            "content": "Enlarge/ The Apple Watch (seen here in its current iterations) is set to get a new look.4 with Annual updates to the standard Apple Watch have been almost too small to mention for the past few ye [+3047 chars]",
+            "summary": "A major Apple Watch overhaul is coming as soon as next year Dubbed Watch X it will be the th edition of the Apple Watch that was originally announced in and released in. Apple executives have considered moving away from an annual upgrade cycle for the Watch because each update doesn't do quite enough to attract attention. Next month s Apple Watch Series will offer little more than bump in processor speed and some new color options. Apple is also reportedly working on a microLED display for a future Apple Watch model though it was unclear from the Bloomberg newsletter whether this is slated for a later model.",
+            "html_summary": "<ul><li>A major Apple Watch overhaul is coming as soon as next year Dubbed Watch X it will be the th edition of the Apple Watch that was originally announced in and released in</li><li> Apple executives have considered moving away from an annual upgrade cycle for the Watch because each update doesn't do quite enough to attract attention</li><li> Next month s Apple Watch Series will offer little more than bump in processor speed and some new color options</li><li> Apple is also reportedly working on a microLED display for a future Apple Watch model though it was unclear from the Bloomberg newsletter whether this is slated for a later model</li></ul>",
+            "website_url": "https://arstechnica.com/gadgets/2023/08/report-apple-watch-x-will-redesign-the-popular-wearable-for-the-first-time/"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eva Rothenberg, CNN",
+            "title": "AI fears overblown? Theoretical physicist calls chatbots glorified tape recorders",
+            "description": "The publics anxiety over new AI technology is misguided, according to theoretical physicist Michio Kaku.",
+            "url": "/2023-08-13-ai-quantum-computer-kaku?cid=external-feeds_iluminar_yahoo",
+            "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/e21c88edd82249356b5ae32ad5f943a8",
+            "publishedAt": "2023-08-13T14:45:23Z",
+            "content": "The publics anxiety over new AI technology is misguided, according to theoretical physicist Michio Kaku.In an interview with CNNs Fareed Zakaria on Sunday, the futurologist said chatbots like OpenA [+2674 chars]",
+            "summary": "Futurologist Michio Kaku said chatbots like OpenAI s ChatGPT will benefit society and increase productivity. But fear has driven people to largely focus on the negative implications of the programs which he terms glorified tape recorders. According to Kaku humanity is in its second stage of computer evolution. He believes the next technological stage will be in the quantum realm. Quantum computing is an emerging technology utilizing the various states of particles like electrons to vastly increase a computer s processing power.",
+            "html_summary": "<ul><li>Futurologist Michio Kaku said chatbots like OpenAI s ChatGPT will benefit society and increase productivity</li><li> But fear has driven people to largely focus on the negative implications of the programs which he terms glorified tape recorders</li><li> According to Kaku humanity is in its second stage of computer evolution</li><li> He believes the next technological stage will be in the quantum realm</li><li> Quantum computing is an emerging technology utilizing the various states of particles like electrons to vastly increase a computer s processing power</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/13/business/ai-quantum-computer-kaku?cid=external-feeds_iluminar_yahoo"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Altos challenges lidars dominance in autonomous driving with 4D image radar",
+            "description": "As lidar technology becomes the industry standard in powering autonomous vehicles, a young startup called Altos Radar is stepping up to challenge the light...",
+            "url": "/2023-08-13-altos-challenges-lidars-dominance-in-autonomous-driving-with-4d-image-radar",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j9gOf6BMKoTbe9vG7sNoHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://media.zenfs.com/en/techcrunch_350/9233a15c55294db12637c3b0d600b0f3",
+            "publishedAt": "2023-08-14T14:00:52Z",
+            "content": "As lidar technology becomes the industry standard in powering autonomous vehicles, a young startup called Altos Radar is stepping up to challenge the lightbased remote sensing technology with 4D mil [+6588 chars]",
+            "summary": "Our main challenge will be whether these AV teams can effectively generate value for their end users and effectively make use of millimeter wave radar, which is a field that few are familiar with, he noted.Amid merger and bankruptcy in the West, lidar maker Hesai nails $190M IPO The participation of Li, the founder and CEO of Hesai, a major lidar maker that racked up $190 million in an IPO in February, seems surprising at first given the battle between radar and lidar to win the AV clients. But as we progress into the second half of the competition, the focus shifts towards generating tangible value, suggested Niu.Altoss automotive radar, according to Niu, is superior to lidar on several fronts. Almost all of them can be improved, said Niu, but they are design choices and the improvement of some could lead to compromised capabilities in others.Given all these benefits of radar, including its affordability at a fraction of lidars costs, why hasnt it been widely adopted in AVs? In a pre-recorded demo (below), Niu showed that the startups radar is able to generate point cloud data, which is real-time, high-resolution representations of moving objects, a capability for which lidar is known. At a closer look, however, the investment indicates an interesting new development in the arena of automotive perception.Lidar, which uses light to measure distances between objects, is currently considered more robust than radar in providing high-resolution, three-dimensional mapping. Radar consumes much less computing power, as it only streams useful information and offers the extra perk of measuring distance and speed, said Niu.",
+            "html_summary": "<ul><li>Our main challenge will be whether these AV teams can effectively generate value for their end users and effectively make use of millimeter wave radar, which is a field that few are familiar with,” he noted.Amid merger and bankruptcy in the West, lidar maker Hesai nails $190M IPO</li><li>The participation of Li, the founder and CEO of Hesai, a major lidar maker that racked up $190 million in an IPO in February, seems surprising at first given the battle between radar and lidar to win the AV clients.</li><li>But as we progress into the second half of the competition, the focus shifts towards generating tangible value,” suggested Niu.Altos’s automotive radar, according to Niu, is superior to lidar on several fronts.</li><li>“Almost all of them can be improved,” said Niu, but they are “design choices” and the improvement of some could lead to compromised capabilities in others.Given all these benefits of radar, including its affordability at a fraction of lidar’s costs, why hasn’t it been widely adopted in AVs?</li><li>In a pre-recorded demo (below), Niu showed that the startup’s radar is able to generate “point cloud” data, which is real-time, high-resolution representations of moving objects, a capability for which lidar is known.</li><li>At a closer look, however, the investment indicates an interesting new development in the arena of automotive perception.Lidar, which uses light to measure distances between objects, is currently considered more robust than radar in providing high-resolution, three-dimensional mapping.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/14/altos-challenges-lidars-dominance-in-autonomous-driving-with-4d-image-radar/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Amazon taps generative AI to enhance product reviews",
+            "description": "Amazon announced this morning it will begin to leverage generative AI to help customers better understand what customers are saying about a product, without ...",
+            "url": "/2023-08-13-amazon-taps-generative-ai-to-enhance-product-reviews",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/me40IWjhnGLfJjpIQqA6GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/59a500ae8fb4855d69b2f1c0edab0aaf",
+            "publishedAt": "2023-08-14T14:30:42Z",
+            "content": "Amazon announced this morning it will begin to leverage generative AI to help customers better understand what customers are saying about a product, without necessarily having to read through dozens  [+2966 chars]",
+            "summary": "Amazon announced this morning it will begin to leverage generative AI to help customers better understand what customers are saying about a product. The retailer says it will use the new technology to provide a short paragraph of text right on the product detail page that will highlight the product features and customer sentiment mentioned across the customer reviews. In addition to the summary text Amazon will also highlight key product attributes as clickable buttons. The new AI powered features will initially be rolled out to a subset of U S shoppers on mobile devices across a broad selection of products.",
+            "html_summary": "<ul><li>Amazon announced this morning it will begin to leverage generative AI to help customers better understand what customers are saying about a product</li><li> The retailer says it will use the new technology to provide a short paragraph of text right on the product detail page that will highlight the product features and customer sentiment mentioned across the customer reviews</li><li> In addition to the summary text Amazon will also highlight key product attributes as clickable buttons</li><li> The new AI powered features will initially be rolled out to a subset of U S shoppers on mobile devices across a broad selection of products</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eva Rothenberg",
+            "title": "AI fears overblown? Theoretical physicist calls chatbots glorified tape recorders",
+            "description": "The publics anxiety over new AI technology is misguided, according to theoretical physicist Michio Kaku.",
+            "url": "/2023-08-13-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230812093412-02-michio-kaku-ai-interview.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-13T14:45:23Z",
+            "content": "The publics anxiety over new AI technology is misguided, according to theoretical physicist Michio Kaku.In an interview with CNNs Fareed Zakaria on Sunday, the futurologist said chatbots like OpenA [+2280 chars]",
+            "summary": "Futurologist Michio Kaku said chatbots like OpenAI s ChatGPT will benefit society and increase productivity. But fear has driven people to largely focus on the negative implications of the programs which he terms glorified tape recorders. According to Kaku humanity is in its second stage of computer evolution. He believes the next technological stage will be in the quantum realm. Quantum computing is an emerging technology utilizing the various states of particles like electrons to vastly increase a computer s processing power.",
+            "html_summary": "<ul><li>Futurologist Michio Kaku said chatbots like OpenAI s ChatGPT will benefit society and increase productivity</li><li> But fear has driven people to largely focus on the negative implications of the programs which he terms glorified tape recorders</li><li> According to Kaku humanity is in its second stage of computer evolution</li><li> He believes the next technological stage will be in the quantum realm</li><li> Quantum computing is an emerging technology utilizing the various states of particles like electrons to vastly increase a computer s processing power</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/13/business/ai-quantum-computer-kaku/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Korn",
+            "title": "Modern romance falling in love with AI",
+            "description": "Alexandra is a very attentive girlfriend. Watching CUBS tonight? she messages her boyfriend, but when he says hes too busy to talk, she says, Have fun, my hero!",
+            "url": "/2023-08-13-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809142543-man-using-mobile-phone-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-13T07:08:38Z",
+            "content": "Alexandra is a very attentive girlfriend. Watching CUBS tonight? she messages her boyfriend, but when he says hes too busy to talk, she says, Have fun, my hero! Alexandra is not real. She is a cust [+8284 chars]",
+            "summary": "Empty conversations, few matches and endless swiping leave many users single and unhappy with apps  problems that many in the AI dating app field say could be solved with the technology, making people less lonely and fostering easier, deeper connections. It feels like its an opportunity to really make a difference with this fairly large subset of people that for various reasons find the current social environment challenging. Teaser.AI is a new stand-alone dating app from the makers of viral camera app Dispo, and it adds an unusual twist. (Options include traditional, toxic, and unhinged.) When matching with another person, users first get to read a conversation between their two AIs theyve created to simulate [what] a potential conversation between you two might look like, according to the app. So you can spend less time texting, and more time dating. Rizz.app and YourMove.AI allow users to upload words or screenshots, receiving a witty AI-generated response to be used either to create their own dating app profile, respond to someone elses or just keep a conversation going. Blush uses a traditional dating app set-up, letting users swipe, chat with matches and even go on virtual dates. The worlds becoming a more lonely place, and I think AI could make that easier and better for people. And many people seem ready for AI to take part in their online dating life. Before entering the app, users get a warning: Be aware that AI can say triggering, inappropriate, or false things. Blush reports that their audience is mostly men and largely people in their early 20s who are struggling to connect romantically with others.",
+            "html_summary": "<ul><li>Empty conversations, few matches and endless swiping leave many users single and unhappy with apps – problems that many in the AI dating app field say could be solved with the technology, making people less lonely and fostering easier, deeper connections.</li><li>“It feels like it’s an opportunity to really make a difference with this fairly large subset of people that for various reasons find the current social environment challenging.” Teaser.AI is a new stand-alone dating app from the makers of viral camera app Dispo, and it adds an unusual twist.</li><li>(Options include “traditional,” “toxic,” and “unhinged.”) When matching with another person, users first get to read a conversation between their two AIs they’ve created to “simulate [what] a potential conversation between you two might look like,” according to the app.</li><li>So you can spend less time texting, and more time dating.” Rizz.app and YourMove.AI allow users to upload words or screenshots, receiving a witty AI-generated response to be used either to create their own dating app profile, respond to someone else’s or just keep a conversation going.</li><li>Blush uses a traditional dating app set-up, letting users swipe, chat with matches and even go on virtual dates.</li><li>“The world’s becoming a more lonely place, and I think AI could make that easier and better for people.” And many people seem ready for AI to take part in their online dating life.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/13/tech/ai-dating-apps/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy, Deborah Brunswick, FJ Feng",
+            "title": "After a string of shark attacks, heres how officers at one New York beach use drones to keep swimmers safe",
+            "description": "Warmer and cleaner waters off the coast of Long Island, New York, in recent years have brought growing numbers of bait fish to the area  and with them, the bigger fish that eat them, including sharks. In some ways, its a good sign for the environment. But i",
+            "url": "/2023-08-13-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230726164929-ny-park-police-shark-drones-01.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-14T11:20:31Z",
+            "content": "Warmer and cleaner waters off the coast of Long Island, New York, in recent years have brought growing numbers of bait fish to the area and with them, the bigger fish that eat them, including sharks. [+4250 chars]",
+            "summary": "Lifeguards and New York State Park Police officers at Jones Beach are using the technology to monitor the waters off the shore. When they spot sharks or unusual sea life activity they can warn swimmers to stay on the beach. The tracking program began in but has taken on new urgency following a rash of shark attacks at New York beaches this summer. The drones which have cameras powerful enough to see beneath the surface of the water even from about feet in the air have previously caught footage of sharks swimming solo and feeding on large schools of fish.",
+            "html_summary": "<ul><li>Lifeguards and New York State Park Police officers at Jones Beach are using the technology to monitor the waters off the shore</li><li> When they spot sharks or unusual sea life activity they can warn swimmers to stay on the beach</li><li> The tracking program began in but has taken on new urgency following a rash of shark attacks at New York beaches this summer</li><li> The drones which have cameras powerful enough to see beneath the surface of the water even from about feet in the air have previously caught footage of sharks swimming solo and feeding on large schools of fish</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/14/tech/shark-drones-jones-beach-new-york/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky",
+            "title": "Driverless cars stall in San Francisco, causing a brief traffic jam",
+            "description": "San Francisco residents were caught off guard this weekend after Cruise selfdriving cars caused a traffic jam, according to social media posts. The obstruction came a few days after California regulators approved robotaxi companies to operate their driverles",
+            "url": "/2023-08-13-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814085806-cruise-autonomous-taxi-san-francisco-0810-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-14T15:33:52Z",
+            "content": "San Francisco residents were caught off guard this weekend after Cruise selfdriving cars caused a traffic jam, according to social media posts. The obstruction came a few days after California regul [+3345 chars]",
+            "summary": "San Francisco residents were caught off guard this weekend after Cruise self driving cars caused a traffic jam according to social media posts. The obstruction came a few days after California regulators approved robotaxi companies to operate their driverless cars throughout the city. Videos posted on X formerly known as Twitter show at least Cruise vehicles not moving with their hazard lights blinking in the city s North Beach neighborhood. Cruise responded on X writing that the music festival posed wireless bandwidth constraints causing delayed connectivity to our vehicles. The company added that it s actively investigating and working on solutions to prevent this from happening again.",
+            "html_summary": "<ul><li>San Francisco residents were caught off guard this weekend after Cruise self driving cars caused a traffic jam according to social media posts</li><li> The obstruction came a few days after California regulators approved robotaxi companies to operate their driverless cars throughout the city</li><li> Videos posted on X formerly known as Twitter show at least Cruise vehicles not moving with their hazard lights blinking in the city s North Beach neighborhood</li><li> Cruise responded on X writing that the music festival posed wireless bandwidth constraints causing delayed connectivity to our vehicles</li><li> The company added that it s actively investigating and working on solutions to prevent this from happening again</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/14/business/driverless-cars-san-francisco-cruise/index.html"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nadeen Ebrahim, Aimee Look",
+            "title": "In the shadow of USChina rivalry, Arab allies tread delicate ground",
+            "description": "As oilrich Gulf states seek to diversify their military partnerships, they are finding themselves ensnared in the intensifying rivalry for global dominance between the United States and China.",
+            "url": "/2023-08-13-index",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814122057-mime-china-uae.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-14T12:20:00Z",
+            "content": "Editors Note A version of this story appears in CNNs Meanwhile in the Middle East newsletter, a threetimesaweek look inside the regions biggest stories. Sign up here.As oilrich Gulf states see [+7112 chars]",
+            "summary": "Sun of the Stimson Center said that China and Gulf states have shared goals and agendas beyond the US. Even without the US, China will remain a key buyer of Gulf oil and a critical economic partner, she said. And we will not build exclusive circles, the ministry said, adding that China will continue to develop friendly relations in all fields with Middle Eastern countries as well as play a positive and constructive role in promoting peace and stability in the region. The perception among those countries, (is) that the United States has been either unable or unwilling to fulfill its declared commitments to serve as the security guarantor, Calabrese said. It takes place as Gulf states seek to distance themselves from what they see as an increasingly polarizing global order following Russias invasion of Ukraine, and waning US interest in their region as it redoubles efforts to contain Chinas rise. China praises Ukraine talks in Saudi that Russia said were 'doomed to fail' The Gulf states were incapable of filling the vacuum on their own, so they became more autonomous and began relying on China, John Calabrese, a senior fellow at the Middle East Institute, told CNN. Dubbed the China-UAE Falcon Shield-2023 joint air force exercise, the drill will take place in August in Chinas northwestern Xinjiang region, the ministry said, without giving a specific date. As oil-rich Gulf states seek to diversify their military partnerships, they are finding themselves ensnared in the intensifying rivalry for global dominance between the United States and China.",
+            "html_summary": "<ul><li>Sun of the Stimson Center said that China and Gulf states “have shared goals and agendas beyond the US.” “Even without the US, China will remain a key buyer of Gulf oil and a critical economic partner,” she said.</li><li>And we will not build exclusive circles,” the ministry said, adding that China “will continue to develop friendly relations in all fields with Middle Eastern countries” as well as “play a positive and constructive role in promoting peace and stability” in the region.</li><li>“The perception among those countries, (is) that the United States has been either unable or unwilling… to fulfill its declared commitments to serve as the security guarantor,” Calabrese said.</li><li>It takes place as Gulf states seek to distance themselves from what they see as an increasingly polarizing global order following Russia’s invasion of Ukraine, and waning US interest in their region as it redoubles efforts to contain China’s rise.</li><li>China praises Ukraine talks in Saudi that Russia said were 'doomed to fail' The Gulf states were incapable of filling the vacuum on their own, so they became more autonomous and began relying on China, John Calabrese, a senior fellow at the Middle East Institute, told CNN.</li><li>Dubbed the China-UAE Falcon Shield-2023 joint air force exercise, the drill will take place in August in China’s northwestern Xinjiang region, the ministry said, without giving a specific date.</li></ul>",
+            "website_url": "https://www.cnn.com/2023/08/14/middleeast/china-arab-gulf-states-cooperation-mime-intl/index.html"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Ford taps Apple exec to lead new software services unit",
+            "description": "Ford has hired Peter Stern, a former executive at Apple, to lead its newly formed Ford Integrated Services unit. The unit will create and market softwareenabled customer experiences across Fords three business units Ford Blue, for gas and hybrid vehicles, ",
+            "url": "/2023-08-13-ford-taps-apple-exec-to-lead-new-software-services-unit",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/BlueCruise_Mustang_Mach-E_01.jpg?resize=1200,803",
+            "publishedAt": "2023-08-14T14:48:07Z",
+            "content": "Ford has hired Peter Stern, a former executive at Apple, to lead its newly formed Ford Integrated Services unit. The unit will create and market softwareenabled customer experiences across Fords th [+1969 chars]",
+            "summary": "Ford has hired Peter Stern a former executive at Apple to lead its newly formed Ford Integrated Services unit. The unit will create and market software enabled customer experiences across Ford s three business units Ford Blue for gas and hybrid vehicles Model e for connected EVs and Ford Pro for commercial products. Ford generated billion in revenue in the second quarter the automaker expects its EV business to lose billion in The company is betting on software to help close that gap. Ford says it already has paid software and services subscribers with of those customers coming from Ford Pro.",
+            "html_summary": "<ul><li>Ford has hired Peter Stern a former executive at Apple to lead its newly formed Ford Integrated Services unit</li><li> The unit will create and market software enabled customer experiences across Ford s three business units Ford Blue for gas and hybrid vehicles Model e for connected EVs and Ford Pro for commercial products</li><li> Ford generated billion in revenue in the second quarter the automaker expects its EV business to lose billion in The company is betting on software to help close that gap</li><li> Ford says it already has paid software and services subscribers with of those customers coming from Ford Pro</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/14/ford-taps-apple-exec-to-lead-new-software-services-unit/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Disrupt is around the corner  Here are the fintech players taking the stage",
+            "description": "In this weeks edition of The Interchange, we touch on the resilience of BaaS in a sometimes messy fintech space, earnings highlights, and much more. If you want to receive this in your inbox every Sunday, sign up here. Its hard to believe it but TechCrunch ",
+            "url": "/2023-08-13-disrupt-is-around-the-corner-here-are-the-fintech-players-taking-the-stage",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/TC-Disrupt-23-General-Article-Image-Header-1920x1080-6.png?resize=1200,675",
+            "publishedAt": "2023-08-13T14:16:18Z",
+            "content": "In this weeks edition of The Interchange, we touch on the resilience of BaaS in a sometimes messy fintech space, earnings highlights, and much more. If you want to receive this in your inbox every Su [+8840 chars]",
+            "summary": "Here are some highlights:Other news on our radar:Bud Financial launches Bud.ai, a generative AI platform for hyper-personalized bankingZirtue protects loan customers against unexpected circumstances with TruStage payment guard solutionWeWork goes from $47B valuation to substantial doubts about its future (Not fintech, but hey, still interesting! New this year, we will have a whole day dedicated to all things fintech, featuring some of todays leading fintech figures. This isnt a card that you give to your kids and set them loose; its a credit card that parents get and add their children to the account so that everyone can build their credit together. Tomlinson will succeed former Stripe CFO Dhivya Suryadevara, who announced earlier this year that she was stepping down to attend to family matters.Adding your child to your credit card account is a practice of trust and patience. Mary Ann digs in further here.Amid the layoffs, M&A and regulatory struggles within banking-as-a-service, I spoke to a number of experts to help make some sense of whats going on in this sector and if BaaS is an outlier to the fintech mess. Specifically, the publication reported: Tomlinson, who currently serves as CFO of software provider Confluent, is headed to Stripe with two decades of corporate finance experience at startups and Fortune 25 companies across the technology landscape. Greenlight Financial Technology has always been about parents and children working together to help learn about our financial system, and the companys newest offering is some of the same.",
+            "html_summary": "<ul><li>Here are some highlights:Other news on our radar:Bud Financial launches Bud.ai, a generative AI platform for hyper-personalized bankingZirtue protects loan customers against unexpected circumstances with TruStage payment guard solutionWeWork goes from $47B valuation to ‘substantial doubts’ about its future (Not fintech, but hey, still interesting!</li><li>New this year, we will have a whole day dedicated to all things fintech, featuring some of today’s leading fintech figures.</li><li>This isn’t a card that you give to your kids and set them loose; it’s a credit card that parents get and add their children to the account so that everyone can build their credit together.</li><li>Tomlinson will succeed former Stripe CFO Dhivya Suryadevara, who announced earlier this year that she was stepping down ‘to attend to family matters.’”Adding your child to your credit card account is a practice of trust and patience.</li><li>Mary Ann digs in further here.Amid the layoffs, M&A and regulatory struggles within banking-as-a-service, I spoke to a number of experts to help make some sense of what’s going on in this sector and if BaaS is an outlier to the fintech mess.</li><li>Specifically, the publication reported: “Tomlinson, who currently serves as CFO of software provider Confluent, is headed to Stripe with two decades of corporate finance experience at startups and Fortune 25 companies across the technology landscape.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/13/disrupt-is-around-the-corner-here-are-the-fintech-players-taking-the-stage/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Brex expands into group events while Mesh Payments moves into travel",
+            "description": "As the spend management space continues to get more competitive, the various players seem to be constantly iterating to add new features to their products. Today, fintech startup Brex announced it is moving in an unexpected direction with its travel offering ",
+            "url": "/2023-08-13-brex-expands-into-group-events-while-mesh-payments-moves-into-travel",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1349410513.jpg?resize=1200,786",
+            "publishedAt": "2023-08-14T16:59:20Z",
+            "content": "As the spend management space continues to get more competitive, the various players seem to be constantly iterating to add new features to their products.Today, fintech startup Brex announced it i [+3853 chars]",
+            "summary": "Fintech startup Brex announced a new group events feature designed to help companies book and manage events including offsites. Mesh Payments said it s expanding into travel in addition to general expense management. Mesh built the technology in house over the last six months according to CEO and co founder Oded Zehavi. Mesh says its new product includes AI enabled travel and expense spend management with chat based user experiences designed to streamline workflows. The startup joins competitors such as Brex and Ramp who have expanded intoTravel in recent years.",
+            "html_summary": "<ul><li>Fintech startup Brex announced a new group events feature designed to help companies book and manage events including offsites</li><li> Mesh Payments said it s expanding into travel in addition to general expense management</li><li> Mesh built the technology in house over the last six months according to CEO and co founder Oded Zehavi</li><li> Mesh says its new product includes AI enabled travel and expense spend management with chat based user experiences designed to streamline workflows</li><li> The startup joins competitors such as Brex and Ramp who have expanded intoTravel in recent years</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/14/brex-expands-into-group-events-while-mesh-payments-moves-into-travel/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Report Apple Watch X will redesign the popular wearable for the first time. AI fears overblown? Theoretical physicist calls chatbots glorified tape recorders. Altos challenges lidars dominance in autonomous driving with 4D image radar. Amazon taps generative AI to enhance product reviews. AI fears overblown? Theoretical physicist calls chatbots glorified tape recorders. Modern romance falling in love with AI. After a string of shark attacks, heres how officers at one New York beach use drones to keep swimmers safe. Driverless cars stall in San Francisco, causing a brief traffic jam. In the shadow of USChina rivalry, Arab allies tread delicate ground. Ford taps Apple exec to lead new software services unit. Disrupt is around the corner  Here are the fintech players taking the stage. Brex expands into group events while Mesh Payments moves into travel"
+}

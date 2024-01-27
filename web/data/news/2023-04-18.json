@@ -1,0 +1,119 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Rebecca Falconer",
+            "title": "Whats next for Juul after ecigarette makers latest settlements",
+            "description": "Minnesota settled its lawsuit against Juul labs and the ecigarette manufacturers previously largest investor Altria as their trial was wrapping up in on Monday, the two parties announced.The big picture Juul has settled thousands of lawsuits  its biggest ",
+            "url": "/2023-04-18-juul-settlements-e-cigarettes",
+            "urlToImage": "https://images.axios.com/_UdcEMrGfpv4SsPo1B44r7RKfr0=/0x24:5312x3012/1366x768/2023/04/14/1681435534531.jpg",
+            "publishedAt": "2023-04-18T04:40:23Z",
+            "content": "Minnesota settled its lawsuit against Juul labs and the ecigarette manufacturers previously largest investor Altria as their trial was wrapping up in on Monday, the two parties announced.The big  [+4024 chars]",
+            "summary": "Packages of Juul e-cigarettes displayed at a store.",
+            "html_summary": "<ul><li>Packages of Juul e-cigarettes displayed at a store.</li></ul>",
+            "website_url": "https://www.axios.com/2023/04/18/juul-settlements-e-cigarettes"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-Bicchierai",
+            "title": "Apples high security mode blocked NSO spyware, researchers say",
+            "description": "Last year, Apple launched a new feature for iPhone users who are worried about getting targeted with sophisticated spyware, such as journalists or human rights defenders. Now, researchers say they have found evidence that the feature  called Lockdown Mode  ",
+            "url": "/2023-04-18-apple-lockdown-mode-iphone-nso-pegasus",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Screenshot-2023-04-16-at-3.10.52-PM.png?resize=1200,839",
+            "publishedAt": "2023-04-18T11:11:29Z",
+            "content": "Last year, Apple launched a new feature for iPhone users who are worried about getting targeted with sophisticated spyware, such as journalists or human rights defenders. Now, researchers say they ha [+5279 chars]",
+            "summary": "For years, researchers at Citizen Lab, Amnesty International and other organizations have documented several cases where NSO customers used the companys spyware to target journalists, human rights defenders and opposition politicians.Citizen Labs new findings show that NSO is still alive and well, despite a rocky past couple of years. This is the first documented case where Lockdown Mode has successfully protected someone from a targeted attack.In the recent cases, Citizen Lab researchers said that the targets iPhones blocked the hacking attempts and showed a notification saying Lockdown Mode prevented someone from accessing the phones Home app. And the last exploit, deployed starting in October 2022 exploited the iPhones HomeKit and iMessage functionalities.In its report, Citizen Lab said the two Mexicans targeted by the exploits investigate human rights violations allegedly carried out by the Mexican military. Last year, Apple launched a new feature for iPhone users who are worried about getting targeted with sophisticated spyware, such as journalists or human rights defenders. The second exploit deployed starting in June 2022 and is a two-step exploit, meaning it targets two features, in this case the FindMy feature and iMessage. The Mexican government is a known spyware customer.Citizen Lab reported all these exploits to Apple, which have since then pushed updates and reduced the attack surface. Lockdown Mode was specifically designed to reduce the iPhones attack surface  cybersecurity lingo referring to parts of the code or features of a system prone to attacks by hackers.",
+            "html_summary": "<ul><li>For years, researchers at Citizen Lab, Amnesty International and other organizations have documented several cases where NSO customers used the company’s spyware to target journalists, human rights defenders and opposition politicians.Citizen Lab’s new findings show that NSO is still alive and well, despite a rocky past couple of years.</li><li>This is the first documented case where Lockdown Mode has successfully protected someone from a targeted attack.In the recent cases, Citizen Lab researchers said that the targets’ iPhones blocked the hacking attempts and showed a notification saying Lockdown Mode prevented someone from accessing the phone’s Home app.</li><li>And the last exploit, deployed starting in October 2022 exploited the iPhone’s HomeKit and iMessage functionalities.In its report, Citizen Lab said the two Mexicans targeted by the exploits investigate human rights violations allegedly carried out by the Mexican military.</li><li>Last year, Apple launched a new feature for iPhone users who are worried about getting targeted with sophisticated spyware, such as journalists or human rights defenders.</li><li>The second exploit deployed starting in June 2022 and is a “two-step” exploit, meaning it targets two features, in this case the FindMy feature and iMessage.</li><li>The Mexican government is a known spyware customer.Citizen Lab reported all these exploits to Apple, which have since then pushed updates and reduced the attack surface.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/18/apple-lockdown-mode-iphone-nso-pegasus/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Remote working means this startup can use brains in emerging markets to disrupt management consultants",
+            "description": "Intellia engages remote talent from emerging markets which can now (because of the acceptance of remote working, postpandemic) participate in much higher value roles in finance, strategy, and public policy",
+            "url": "/2023-04-18-remote-working-means-this-startup-can-use-brains-in-emerging-markets-to-disrupt-management-consultants",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Intellia-founder-and-CEO-Saad-Raja.jpeg?w=663",
+            "publishedAt": "2023-04-18T06:00:57Z",
+            "content": "The global management consulting industry is worth billions of dollars but to this day its been tough to disrupt with technology. Traditional consulting firms provide highquality services but the co [+2203 chars]",
+            "summary": "And while there are plenty of portals offering low-quality freelance consulting services, these are generally unsupervised and would never work for corporates and the public sector.Plus, countries like India are famous for offering back-office and research work at scale. The global management consulting industry is worth billions of dollars, but to this day its been tough to disrupt with technology. Traditional consulting firms provide high-quality services, but they cost a lot and have rigid terms.",
+            "html_summary": "<ul><li>And while there are plenty of portals offering low-quality freelance consulting services, these are generally unsupervised and would never work for corporates and the public sector.Plus, countries like India are famous for offering back-office and research work at scale.</li><li>The global management consulting industry is worth billions of dollars, but to this day it’s been tough to disrupt with technology.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/17/remote-working-means-this-startup-can-use-brains-in-emerging-markets-to-disrupt-management-consultants/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Elon Musk wants to develop TruthGPT, a maximum truthseeking AI",
+            "description": "Elon Musk said Tuesday that he wants to develop his own chatbot called TruthGPT, which will be a maximum truthseeking AI",
+            "url": "/2023-04-18-elon-musk-wants-to-develop-truthgpt-a-maximum-truth-seeking-ai",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242798333.jpg?resize=1200,675",
+            "publishedAt": "2023-04-18T12:50:45Z",
+            "content": "On Tuesday, Elon Musk said in an interview with Fox News Tucker Carlson that he wants to develop his own chatbot called TruthGPT, which will be a maximum truthseeking AI whatever that means.The [+2774 chars]",
+            "summary": "And that is something Musk reliably seems to have at his disposal, Devin wrote.Its also worth noting that TruthGPT might be a temporary project name, as OpenAI has applied for a trademark for the term GPT.Elon Musk reportedly rushing to assemble a rival to OpenAI One does not have to topple the market leader to influence events and gain a seat at the table  often all it takes is billions of dollars.",
+            "html_summary": "<ul><li>And that is something Musk reliably seems to have at his disposal,” Devin wrote.It’s also worth noting that TruthGPT might be a temporary project name, as OpenAI has applied for a trademark for the term “GPT.”Elon Musk reportedly rushing to assemble a rival to OpenAI</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/18/elon-musk-wants-to-develop-truthgpt-a-maximum-truth-seeking-ai/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "B Capital leads Odekos $53M Series D to help small coffee shops scale",
+            "description": "Odeko has operations software for coffee shops to manage inventory, get data insights and order equipment and supplies from over 400 vendors.",
+            "url": "/2023-04-18-b-capital-odeko-restaurant-tech",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1154917433.jpg?resize=1200,900",
+            "publishedAt": "2023-04-18T11:00:29Z",
+            "content": "When the global pandemic hit, independent restaurants and shops that didnt already have an online ordering system in place found themselves scrambling to keep operations going when consumers no longe [+2638 chars]",
+            "summary": "We now have built a really good foundation underneath this, with quite a bit of capital, and now well expand back into growth and add new markets and new adjacencies toward the latter half of this year. He said Odeko is able to save customers up to 21% on the cost of goods and up to 10 hours a week of time spent on managing vendors.It is in 16 markets locally, and in the past year, expanded into six of those, including Miami, Portland and Dallas. Image Credits: OdekoOdeko recently raised $53 million in Series D financing to bring its total equity investment to date to $177 million, which includes a $12 million Series A in 2020. Were sensitive to the market were in, but we are putting additional capital to work to take the formula and run it in other places.If you have a juicy tip or lead about happenings in the venture world, you can reach Christine Hall at chall.techcrunch@gmail.com or Signal at 832-862-1051. Weve gone through a pretty rough supply chain crisis. As startups whip up a restaurant tech frenzy, is anyone close to Toast? It is also available in the rest of the United States through e-commerce and other solutions.Odekos dashboard.",
+            "html_summary": "<ul><li>“We now have built a really good foundation underneath this, with quite a bit of capital, and now we’ll expand back into growth and add new markets and new adjacencies toward the latter half of this year.</li><li>He said Odeko is able to save customers up to 21% on the cost of goods and up to 10 hours a week of time spent on managing vendors.It is in 16 markets locally, and in the past year, expanded into six of those, including Miami, Portland and Dallas.</li><li>Image Credits: OdekoOdeko recently raised $53 million in Series D financing to bring its total equity investment to date to $177 million, which includes a $12 million Series A in 2020.</li><li>We’re sensitive to the market we’re in, but we are putting additional capital to work to take the formula and run it in other places.”If you have a juicy tip or lead about happenings in the venture world, you can reach Christine Hall at chall.techcrunch@gmail.com or Signal at 832-862-1051.</li><li>“We’ve gone through a pretty rough supply chain crisis.</li><li>As startups whip up a restaurant tech frenzy, is anyone close to Toast?</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/18/b-capital-odeko-restaurant-tech/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "In letter to European Commission, open source bodies say Cyber Resilience Act could have chilling effect on software development",
+            "description": "In letter to European Commission, open source bodies say Cyber Resilience Act could have chilling effect on software developmenttechcrunch.com",
+            "url": "/2023-04-18-in-letter-to-european-commission-open-source-bodies-say-cyber-resilience-act-could-have-chilling-effect-on-software-development",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1138358728.jpg?resize=1200,790",
+            "publishedAt": "2023-04-18T10:38:19Z",
+            "content": "More than a dozen open source industry bodies have published an open letterasking the European Commission (EC) to reconsider aspects of its proposed Cyber Resilience Act (CRA), saying it will have a [+6442 chars]",
+            "summary": "If open source software is not offered as a paid or monetized product, it should be exempt.A growing number of proposed regulations in Europe is raising concerns across the technological landscape, with open source software a recurring theme. Its estimated that open source components constitute between 70-90% of most modern software products, from web browsers to servers, yet many open source projects are developed by individuals or small teams in their spare time. Open source software represents more than 70% of the software present in products with digital elements in Europe. While the text does seem to exempt non-commercial open source software from its scope, trying to define what is meant by non-commercial is not a straight forward endeavor. This is in particular the case for software, including its source code and modified versions, that is openly shared and freely accessible, usable, modifiable and redistributable. The software and other technical artefacts produced by us are unprecedented in their contribution to the technology industry along with our digital sovereignty and associated economic benefits on many levels. With the CRA, more than 70% of the software in Europe is about to be regulated without an in-depth consultation.First unveiled in draft from back in September, the Cyber Resilience Act strives to codify into law best cybersecurity practices for connected products sold in the European Union.",
+            "html_summary": "<ul><li>“If open source software is not offered as a paid or monetized product, it should be exempt.”A growing number of proposed regulations in Europe is raising concerns across the technological landscape, with open source software a recurring theme.</li><li>It’s estimated that open source components constitute between 70-90% of most modern software products, from web browsers to servers, yet many open source projects are developed by individuals or small teams in their spare time.</li><li>Open source software represents more than 70% of the software present in products with digital elements in Europe.</li><li>While the text does seem to exempt non-commercial open source software from its scope, trying to define what is meant by “non-commercial” is not a straight forward endeavor.</li><li>This is in particular the case for software, including its source code and modified versions, that is openly shared and freely accessible, usable, modifiable and redistributable.</li><li>The software and other technical artefacts produced by us are unprecedented in their contribution to the technology industry along with our digital sovereignty and associated economic benefits on many levels.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/18/in-letter-to-european-commission-open-source-bodies-say-cyber-resilience-act-could-have-chilling-effect-on-software-development/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Whisper Aero wants to make aviation, and the rest of the world, quieter",
+            "description": "The world is loud. If delivery drones and air taxis  also known as electric vertical takeoff and landing (eVTOL) aircraft  gain the level of market saturation investors are hoping for, cities and neighborhoods are only going to get noisier. Thats the assu",
+            "url": "/2023-04-18-whisper-aero-wants-to-make-aviation-quieter-and-the-rest-of-the-world-too",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/eQpropulsorInAnechoicChamber.png?resize=1200,675",
+            "publishedAt": "2023-04-18T13:01:32Z",
+            "content": "The world is loud. If delivery drones and air taxis also known as electric vertical takeoff and landing (eVTOL) aircraft gain the level of market saturation investors are hoping for, cities and neig [+6520 chars]",
+            "summary": "Moore told TechCrunch that he came out of Uber with an understanding of the compelling need of urban air mobility: a lower noise profile.If you want to get to scale with delivery drones or eVTOL air taxis, you better be really quiet, Moore said. If delivery drones and air taxis  also known as electric vertical take-off and landing (eVTOL) aircraft  gain the level of market saturation investors are hoping for, cities and neighborhoods are only going to get noisier.Thats the assumption, anyway. The companys already developed a demonstration electric leaf blower that uses its electric ducted fan. Whisper has validated that it can fly a 55-pound drone with its electric ducted fan at an altitude of 200 feet that is completely undetectable, at least by noise, from the ground. The company also says that many aircraft have speeds that are limited by open rotors (or open propellors), as opposed to ducted. Instead of operating at 150 miles per hour, an eVTOL could potentially fly as fast as 300-400 miles per hour.With this new round of funding, Whisper is looking to double their Tennessee-based team, which currently stands somewhere between 10-50 people (they declined to be more specific). Its only now, having spent the past two years entrenched in research, design and testing, that the company is ready for its coming out party.To reflect that, Whisper has recently closed a $32 million Series A led jointly by Menlo Ventures, EVE Atlas, Capricorn Investment Group and Connor Capital.",
+            "html_summary": "<ul><li>Moore told TechCrunch that he came out of Uber with an understanding of “the compelling need” of urban air mobility: a lower noise profile.“If you want to get to scale with delivery drones or eVTOL air taxis, you better be really quiet,” Moore said.</li><li>If delivery drones and air taxis — also known as electric vertical take-off and landing (eVTOL) aircraft — gain the level of market saturation investors are hoping for, cities and neighborhoods are only going to get noisier.That’s the assumption, anyway.</li><li>The company’s already developed a demonstration electric leaf blower that uses its electric ducted fan.</li><li>Whisper has validated that it can fly a 55-pound drone with its electric ducted fan at an altitude of 200 feet that is completely undetectable, at least by noise, from the ground.</li><li>The company also says that many aircraft have speeds that are limited by open rotors (or open propellors), as opposed to ducted.</li><li>Instead of operating at 150 miles per hour, an eVTOL could potentially fly as fast as 300-400 miles per hour.With this new round of funding, Whisper is looking to double their Tennessee-based team, which currently stands somewhere between 10-50 people (they declined to be more specific).</li></ul>",
+            "website_url": "https://techcrunch.com/2023/04/18/whisper-aero-wants-to-make-aviation-quieter-and-the-rest-of-the-world-too/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Whats next for Juul after ecigarette makers latest settlements. Apples high security mode blocked NSO spyware, researchers say. Remote working means this startup can use brains in emerging markets to disrupt management consultants. Elon Musk wants to develop TruthGPT, a maximum truthseeking AI. B Capital leads Odekos $53M Series D to help small coffee shops scale. In letter to European Commission, open source bodies say Cyber Resilience Act could have chilling effect on software development. Whisper Aero wants to make aviation, and the rest of the world, quieter"
+}

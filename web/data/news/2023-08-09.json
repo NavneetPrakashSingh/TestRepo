@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Deepset secures $30M to expand its LLMfocused MLOps offerings",
+            "description": "Deepset, a platform for building enterprise apps powered by large language models akin to ChatGPT, today announced that it raised $30 million in a funding...",
+            "url": "/2023-08-09-deepset-secures-30m-to-expand-its-llm-focused-mlops-offerings",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KSclb6v5KwP39rDDYWPAKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/c94b455109d3db4c91ed570cf26f5fff",
+            "publishedAt": "2023-08-09T12:00:57Z",
+            "content": "Deepset, a platform for building enterprise apps powered by large language models akin to ChatGPT, today announced that it raised $30 million in a funding round led by Balderton Capital with particip [+4995 chars]",
+            "summary": "Deepset a platform for building enterprise apps powered by large language models akin to ChatGPT today announced that it raised million in a funding round led by Balderton Capital with participation from GV and Harpoon Ventures. The proceeds will be put toward expanding Deepset s products and services and growing its team from around people to to by the end of the year. The industry is shifting from AI labs to AI factories it s not anymore about tinkering around it s about shipping successful products and value co founder and CEO Milos Rusic says.",
+            "html_summary": "<ul><li>Deepset a platform for building enterprise apps powered by large language models akin to ChatGPT today announced that it raised million in a funding round led by Balderton Capital with participation from GV and Harpoon Ventures</li><li> The proceeds will be put toward expanding Deepset s products and services and growing its team from around people to to by the end of the year</li><li> The industry is shifting from AI labs to AI factories it s not anymore about tinkering around it s about shipping successful products and value co founder and CEO Milos Rusic says</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/09/deepset-secures-30m-to-expand-its-llm-focused-mlops-offerings/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Microsoft partners with Aptos blockchain to marry AI and web3 | TechCrunch",
+            "description": "Microsoft announced that it is partnering with layer1 blockchain Aptos to expand AI and web3 capabilities and trust.",
+            "url": "/2023-08-09-microsoft-aptos-blockchain-ai-web3",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816",
+            "publishedAt": "2023-08-09T12:30:32Z",
+            "content": "Artificial intelligence has captured the hearts, minds and wallets of the technology industry. So its little surprise that Microsoft, which has several irons in the AI fire, is working to expand its [+3839 chars]",
+            "summary": "Microsoft announced on Wednesday that it is partnering with layer blockchain Aptos Labs to work on AI and web. The collaboration allows Microsoft s AI models to be trained using Apts verified blockchain information. Microsoft anticipates that AI will be infused into web solutions at greater scale in the coming months and years. Helping mature tech companies use web tech to delve deeper into AI may assist those companies getting deeper into the blockchain realm. The openness and immutability of blockchain can improve the trust that people place in AI generated content.",
+            "html_summary": "<ul><li>Microsoft announced on Wednesday that it is partnering with layer blockchain Aptos Labs to work on AI and web</li><li> The collaboration allows Microsoft s AI models to be trained using Apts verified blockchain information</li><li> Microsoft anticipates that AI will be infused into web solutions at greater scale in the coming months and years</li><li> Helping mature tech companies use web tech to delve deeper into AI may assist those companies getting deeper into the blockchain realm</li><li> The openness and immutability of blockchain can improve the trust that people place in AI generated content</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/09/microsoft-aptos-blockchain-ai-web3/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Atmosfy, an app that helps you discover local businesses through shortfrom video, raises $12M | TechCrunch",
+            "description": "Atmosfy, an app that lets you discover restaurants and local businesses through shortform video, has raised $12 million in seed funding.",
+            "url": "/2023-08-09-atmosfy-an-app-that-helps-you-discover-local-businesses-through-short-from-video-raises-12m",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/atmosfy.jpg?resize=1200,626",
+            "publishedAt": "2023-08-09T12:00:53Z",
+            "content": "Atmosfy, an app that helps you discover restaurants and local businesses through shortform videos, has raised $12 million in seed funding led by Redpoint Ventures. The app lets you explore dining, n [+4335 chars]",
+            "summary": "Atmosfy an app that helps you discover restaurants and local businesses through short form videos has raised million in seed funding led by Redpoint Ventures. The app lets you explore dining nightlife hotels and more by browsing quick videos from locals and visitors. Atmosfy is designed to give users a true sense of the atmosphere at a location and what it feels like to be there right now. The concept behind the app is essentially Yelp meets TikTok Founded by seventeen year Air Force Captain Michael Ebel who was previously the Global Program Manager for Meta s operational machine learning initiatives.",
+            "html_summary": "<ul><li>Atmosfy an app that helps you discover restaurants and local businesses through short form videos has raised million in seed funding led by Redpoint Ventures</li><li> The app lets you explore dining nightlife hotels and more by browsing quick videos from locals and visitors</li><li> Atmosfy is designed to give users a true sense of the atmosphere at a location and what it feels like to be there right now</li><li> The concept behind the app is essentially Yelp meets TikTok Founded by seventeen year Air Force Captain Michael Ebel who was previously the Global Program Manager for Meta s operational machine learning initiatives</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/09/atmosfy-an-app-that-helps-you-discover-local-businesses-through-short-from-video-raises-12m/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jagmeet Singh",
+            "title": "Micromax, smartphone sales stalled, eyes a steer into electric vehicles | TechCrunch",
+            "description": "Micromax Informatics is looking to foray into a new business a long time after struggling in the smartphone market.",
+            "url": "/2023-08-09-micromax-india-ev-smartphone",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/micromax-brand-getty.jpg?w=1200",
+            "publishedAt": "2023-08-09T03:30:20Z",
+            "content": "Micromax Informatics oncehad a firm grip on the local mobile phone market in India, for a time passing stalwarts like Samsung, icons like Apple and many more to be the biggest handset maker of them a [+16550 chars]",
+            "summary": "Image Credits: Prashanth Vishwanathan/Bloomberg via Getty ImagesIn Russia, where the company became the third largest handset vendor a couple years after debuting in 2014, Micromax followed in the footsteps of Fly Mobiles, which was also operating in the Russian market, according to a former company executive. There have also been reports about how the company is gearing up, among other similarly struggling older brands, to redouble its efforts to recover.[The] market is very competitive now, focused around the top five or six brands, said Navkendar Singh, associate vice president at market research firm IDC. Other Indian vendors were also impacted, he added.The troubles with sales also started to flare up tensions between founders and executives, which in turn impacted Micromaxs attempts to raise capital.According to the data available on PitchBook, the company raised a total of $98.02 million. Its most recent smartphone model launched as far back April 2022.Micromax declined to comment about the job cuts and other details of this story.To the public, for now, the company remains a mobile phone company, although many cracks are showing. Several top executives, including the companys chief business officer and chief product officer, have also resigned in the last some months. Micromax also started generating profits from its global operations.However, Micromaxs global market presence began to decline after its business in India experienced a downturn.The profits were not to the extent that we could sustain and move to the next level as far as the branding is concerned. If you are not being able to devote that time, how will an organization survive?The four founders are said to have different qualities that helped the company compete against global brands in India and international markets.",
+            "html_summary": "<ul><li>Image Credits: Prashanth Vishwanathan/Bloomberg via Getty ImagesIn Russia, where the company became the third largest handset vendor a couple years after debuting in 2014, Micromax followed in the footsteps of Fly Mobiles, which was also operating in the Russian market, according to a former company executive.</li><li>There have also been reports about how the company is gearing up, among other similarly struggling older brands, to redouble its efforts to recover.“[The] market is very competitive now, focused around the top five or six brands,” said Navkendar Singh, associate vice president at market research firm IDC.</li><li>Other Indian vendors were also impacted, he added.The troubles with sales also started to flare up tensions between founders and executives, which in turn impacted Micromax’s attempts to raise capital.According to the data available on PitchBook, the company raised a total of $98.02 million.</li><li>Its most recent smartphone model launched as far back April 2022.Micromax declined to comment about the job cuts and other details of this story.To the public, for now, the company remains a mobile phone company, although many cracks are showing.</li><li>Several top executives, including the company’s chief business officer and chief product officer, have also resigned in the last some months.</li><li>Micromax also started generating profits from its global operations.However, Micromax’s global market presence began to decline after its business in India experienced a downturn.“The profits were not to the extent that we could sustain and move to the next level as far as the branding is concerned.</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/08/micromax-india-ev-smartphone/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Deepset secures $30M to expand its LLMfocused MLOps offerings. Microsoft partners with Aptos blockchain to marry AI and web3 | TechCrunch. Atmosfy, an app that helps you discover local businesses through shortfrom video, raises $12M | TechCrunch. Micromax, smartphone sales stalled, eyes a steer into electric vehicles | TechCrunch"
+}

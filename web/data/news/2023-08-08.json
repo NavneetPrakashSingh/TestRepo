@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Efficient motors and LFP batteries will power this new mediumduty truck",
+            "description": "Motiv has been making electric powertrains for other chassis for 14 years now.",
+            "url": "/2023-08-08-efficient-motors-and-lfp-batteries-will-power-this-new-medium-duty-truck",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Motiv-Argo_3-760x380.jpg",
+            "publishedAt": "2023-08-08T12:00:23Z",
+            "content": "8 with Compared to lightduty vehiclessmaller pickup trucks, SUVs, and passenger carstheres a relative lack of new mediumduty electric trucks for the commercial market. Thats not to say there ar [+3145 chars]",
+            "summary": "Motiv has announced a new medium duty EV designed from the ground up called the Argo. The Argo will use Motiv s new powertrain which the company announced earlier this year The six phase motors were developed together with Japan s Nidec. Motiv says that Argos should be on the road by late next year and will help meet the growing demand of many companies waiting for an EV solution capable of supporting a wide range of applications. The company has also moved to LFP battery cells lithium iron phosphate versus NMC lithium nickel manganese cobalt as used in its earlier powertrains.",
+            "html_summary": "<ul><li>Motiv has announced a new medium duty EV designed from the ground up called the Argo</li><li> The Argo will use Motiv s new powertrain which the company announced earlier this year The six phase motors were developed together with Japan s Nidec</li><li> Motiv says that Argos should be on the road by late next year and will help meet the growing demand of many companies waiting for an EV solution capable of supporting a wide range of applications</li><li> The company has also moved to LFP battery cells lithium iron phosphate versus NMC lithium nickel manganese cobalt as used in its earlier powertrains</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/08/efficient-motors-and-lfp-batteries-will-power-this-new-medium-duty-truck/"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "General Motors will add bidirectional charging to its Ultiumbased EVs",
+            "description": "The rollout starts with 2024 models, including the Silverado and Blazer EVs.",
+            "url": "/2023-08-08-general-motors-will-add-bidirectional-charging-to-its-ultium-based-evs",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/gm-energy-ultium-home-01-760x380.jpg",
+            "publishedAt": "2023-08-08T13:00:37Z",
+            "content": "Enlarge/ GM recently announced home charging hardware that was capable of bidirectional charging. Today it filled in the missing piece, announcing V2H capabilities are coming to Ultium EVs.18 with  [+2037 chars]",
+            "summary": "General Motors is adding capabilities to allow its new electric vehicles to send power from their batteries to the owner s home. Known as V H or bidirectional charging it s a relatively simple idea an EV is a giant battery on wheels so why not be able to use that to power other things. V H will debut on the Chevrolet Silverado EV RST and will then roll out to other Ultium based EVs the GMC Sierra EV Denali Edition Chevrolet Blazer EV Chevrolet Equinox EV Cadillac Lyriq.",
+            "html_summary": "<ul><li>General Motors is adding capabilities to allow its new electric vehicles to send power from their batteries to the owner s home</li><li> Known as V H or bidirectional charging it s a relatively simple idea an EV is a giant battery on wheels so why not be able to use that to power other things</li><li> V H will debut on the Chevrolet Silverado EV RST and will then roll out to other Ultium based EVs the GMC Sierra EV Denali Edition Chevrolet Blazer EV Chevrolet Equinox EV Cadillac Lyriq</li></ul>",
+            "website_url": "https://arstechnica.com/cars/2023/08/general-motors-will-add-bidirectional-charging-to-its-ultium-based-evs/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Chinas draft measures demand individual consent for facial recognition use | TechCrunch",
+            "description": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has also fueled the exponential growth of valuations in companies ",
+            "url": "/2023-08-08-chinas-draft-measures-demand-individual-consent-for-facial-recognition-use",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1128224709.jpg?resize=1200,799",
+            "publishedAt": "2023-08-08T04:26:28Z",
+            "content": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has al [+3528 chars]",
+            "summary": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has fueled the exponential growth of valuations in companies specializing in the field such as AI giants SenseTime and Megvii. Beijing steps up efforts to establish more defined boundaries for the technology s usage. The move is building upon the implementation of major tech regulations that rolled out in recent years targeting cybersecurity data security and privacy protection. The proposal is seeking public opinions until September China Roundup facial recognition lawsuit and cashless payments for foreigners.",
+            "html_summary": "<ul><li>The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns</li><li> The widespread adoption has fueled the exponential growth of valuations in companies specializing in the field such as AI giants SenseTime and Megvii</li><li> Beijing steps up efforts to establish more defined boundaries for the technology s usage</li><li> The move is building upon the implementation of major tech regulations that rolled out in recent years targeting cybersecurity data security and privacy protection</li><li> The proposal is seeking public opinions until September China Roundup facial recognition lawsuit and cashless payments for foreigners</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Greenlights new credit card helps teens, their parents build credit together | TechCrunch",
+            "description": "Greenlight gets into the credit card game, offering families up to 3% cash back on all purchases with the Greenlight Family Cash Card.",
+            "url": "/2023-08-08-greenlight-credit-card-teens-fintech",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Teen-Credit-Lifestyle-2.png?resize=1200,675",
+            "publishedAt": "2023-08-08T13:02:20Z",
+            "content": "Greenlight Financial Technology has long provided financial education and debit cards to its child and teen customers since 2014; however, today the company launched the Greenlight Family Cash Master [+2775 chars]",
+            "summary": "Greenlight Financial Technology has long provided financial education and debit cards to its child and teen customers. Today the company launched the Greenlight Family Cash Mastercard to help those same customers build their credit before they reach adulthood. The card is available with all Greenlight subscription plans starting at per month families can then earn up to cash back on all purchases. Teens can track their credit card balances on the Greenlights app while parents can set up flexible spending limits and get real time purchase alerts. In addition the company s in app financial literacy game Level Up now includes credit lessons to aid teens as they use the card.",
+            "html_summary": "<ul><li>Greenlight Financial Technology has long provided financial education and debit cards to its child and teen customers</li><li> Today the company launched the Greenlight Family Cash Mastercard to help those same customers build their credit before they reach adulthood</li><li> The card is available with all Greenlight subscription plans starting at per month families can then earn up to cash back on all purchases</li><li> Teens can track their credit card balances on the Greenlights app while parents can set up flexible spending limits and get real time purchase alerts</li><li> In addition the company s in app financial literacy game Level Up now includes credit lessons to aid teens as they use the card</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/08/greenlight-credit-card-teens-fintech/"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Seoulbased proptech Dongnae acquires coliving platform Dears | TechCrunch",
+            "description": "South Korean proptech company Dongnae is acquiring Stevens, a company that operates coliving business Dears.",
+            "url": "/2023-08-08-seoul-based-proptech-dongnae-acquires-co-living-platform-dears",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/S6B_0742.jpg?resize=1200,798",
+            "publishedAt": "2023-08-08T06:14:00Z",
+            "content": "Proptech startupDongnae said Tuesday it plans to acquire Stevens, a South Korean company that operates coliving business Dears.The two companies did not disclose the acquisition price, but Dongna [+3453 chars]",
+            "summary": "Proptech startup Dongnae said Tuesday it plans to acquire Stevens a South Korean company that operates co living business Dears The two companies did not disclose the acquisition price but Dongnaa said it will purchase Stevens with a mix of cash and equity. DongnaE expects to close the transaction by the end of September. The addition of Dears will allow the company to upgrade the Dongnai FLEX service manage properties with a collective AUM of over million and span apartment complexes across Seoul and Pangyo.",
+            "html_summary": "<ul><li>Proptech startup Dongnae said Tuesday it plans to acquire Stevens a South Korean company that operates co living business Dears The two companies did not disclose the acquisition price but Dongnaa said it will purchase Stevens with a mix of cash and equity</li><li> DongnaE expects to close the transaction by the end of September</li><li> The addition of Dears will allow the company to upgrade the Dongnai FLEX service manage properties with a collective AUM of over million and span apartment complexes across Seoul and Pangyo</li></ul>",
+            "website_url": "https://techcrunch.com/2023/08/07/seoul-based-proptech-dongnae-acquires-co-living-platform-dears/"
+        }
+    ],
+    "page_description": "Latest news for today in 10 minutes. Efficient motors and LFP batteries will power this new mediumduty truck. General Motors will add bidirectional charging to its Ultiumbased EVs. Chinas draft measures demand individual consent for facial recognition use | TechCrunch. Greenlights new credit card helps teens, their parents build credit together | TechCrunch. Seoulbased proptech Dongnae acquires coliving platform Dears | TechCrunch"
+}
