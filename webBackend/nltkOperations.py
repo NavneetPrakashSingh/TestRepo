@@ -1,12 +1,13 @@
-import os
-import traceback
+import heapq
+import re
+import urllib.request
 
 import bs4 as bs
-import urllib.request
-import re
-import heapq
 import nltk
+
+
 # from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+from transformers import BartForConditionalGeneration, BartTokenizer
 
 
 def singleton(cls):
@@ -32,6 +33,9 @@ class NltkOperations:
         #     # https://huggingface.co/facebook/bart-large-cnn
         #     self.ml_tokenizer = AutoTokenizer.from_pretrained(model_dir)
         #     self.model = AutoModelForSeq2SeqLM.from_pretrained(model_dir)
+        if summarize_type == 'ml':
+            self.tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
+            self.model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
         nltk.download('punkt')
         nltk.download('stopwords')
 
@@ -39,7 +43,8 @@ class NltkOperations:
         try:
             article_text, formatted_article_text = self.scrap_url(url)
             if algo_type == "ml":
-                return self.summarize_using_ml(formatted_article_text, article_text)
+                return self.summarize_using_bart(article_text)
+                # return self.summarize_using_ml(formatted_article_text, article_text)
             else:
                 return self.summarize_using_word_frequency(formatted_article_text, article_text)
         except Exception as e:
@@ -168,3 +173,16 @@ class NltkOperations:
         if clean_url.count('.') > 0:
             clean_url = clean_url.split('.')[0]
         return clean_url
+
+    def summarize_using_bart(self, input_text):
+        # Tokenize input text
+        inputs = self.tokenizer.encode("summarize: " + input_text, return_tensors="pt", max_length=1024, truncation=True)
+
+        # Generate summary
+        summary_ids = self.model.generate(inputs, max_length=400, num_beams=6, length_penalty=2.0, early_stopping=True)
+        generated_sentence = self.tokenizer.decode(summary_ids[0], skip_special_tokens=True)
+
+        summary_with_key_split = generated_sentence.replace('.', '--key-navneet--')
+        # clean_summary = summary.encode("ascii", "ignore").decode()
+        html_summary = self.convert_to_li(summary_with_key_split)
+        return [generated_sentence, html_summary]

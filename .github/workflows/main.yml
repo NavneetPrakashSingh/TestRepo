@@ -1,10 +1,10 @@
 name: Cron
 on:
-#  push:
-#    branches:
-#      - 'main'
-  schedule:
-    - cron: "56 10 * * *"
+ push:
+   branches:
+     - 'main'
+  # schedule:
+  #   - cron: "56 10 * * *"
 jobs:
   news-generation-tool:
     runs-on: ubuntu-latest

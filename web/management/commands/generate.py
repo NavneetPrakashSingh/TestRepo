@@ -10,7 +10,7 @@ class Command(BaseCommand):
 
     def handle(self, **options):
         try:
-            NltkOperations.pre_build()
+            NltkOperations.pre_build("ml")
             genObj = GenerateAndStore()
             genObj.generate()
 

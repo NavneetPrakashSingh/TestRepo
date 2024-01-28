@@ -49,7 +49,7 @@ class GenerateAndStore:
                     article['url'] = NltkOperations.remove_non_ascii(article['url'])
                     article['content'] = NltkOperations.clean(article['content'])
                     article_url = NltkOperations.remove_non_ascii(article['url'])
-                    summary = NltkOperations.get_summary(article_url, "none")
+                    summary = NltkOperations.get_summary(article_url, "ml")
                     if summary is None or summary[0] is '':
                         index = index + 1
                         include_in_ouput = False
